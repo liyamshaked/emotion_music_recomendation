@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_64,Mike Jordan,mike. fka mike stud,anger,joy,1,2025-04-22 02:58:58
+user_64,March Of The Pigs,Nine Inch Nails,love,love,0,2025-04-20 20:42:58
+user_64,Bridge Burning,Foo Fighters,love,love,0,2025-04-26 07:29:58
+user_64,Little Star,Madonna,joy,joy,0,2025-04-15 15:36:58
+user_64,The Lighthouse,Interpol,sadness,joy,1,2025-04-15 21:14:58
+user_64,"Go, Move, Shift",Christy Moore,joy,joy,0,2025-04-21 14:19:58
+user_64,Let's Fall In Love,Rod Stewart,joy,joy,0,2025-05-09 12:30:58
+user_64,The Time Of The Turning,Peter Gabriel,joy,joy,0,2025-05-03 09:22:58
+user_64,Total Eclipse Of The Heart,Westlife,joy,joy,0,2025-04-27 12:51:58
+user_64,Computers,Lil Mouse,sadness,sadness,0,2025-04-19 11:28:58
+user_64,Light Headed,David Guetta & Sia,fear,fear,0,2025-04-10 11:03:58
+user_64,Girls Like You,Starship,joy,joy,0,2025-04-22 07:07:58
+user_64,I Dont Miss You at All,FINNEAS,sadness,joy,1,2025-05-09 07:49:58
+user_64,Do You?,TroyBoi,surprise,surprise,0,2025-04-12 13:15:58
+user_64,Shoot All Your Problems Away,TomSka,love,love,0,2025-05-03 06:43:58
+user_64,Juju - Vermissen English Translation,Genius English Translations,joy,joy,0,2025-04-30 15:36:58
+user_64,Iron Mic: Eli Porter vs. Envy,Eli Porter,fear,fear,0,2025-04-27 01:26:58
+user_64,Why Would I,Joe Budden,joy,joy,0,2025-04-30 18:39:58
+user_64,Seven Chakras,Ces Cru,fear,fear,0,2025-05-05 05:03:58
+user_64,The Bay to LA,The Grouch,sadness,sadness,0,2025-04-18 18:34:58
+user_64,Loaded Lux vs. Murda Mook Round 1 2014,Total Slaughter,anger,joy,1,2025-05-09 13:18:58
+user_64,Darkest Ocean,All Tvvins,fear,fear,0,2025-04-22 21:20:58
+user_64,As Bad as I Am,Hollywood Vampires,fear,fear,0,2025-04-11 10:55:58
+user_64,Kings,Berner & B-Real,sadness,joy,1,2025-04-23 17:22:58
+user_64,Ill Be Around,Rappin' 4-Tay,sadness,sadness,0,2025-05-06 10:00:58
+user_64,Changes,Johnny Orlando,love,love,0,2025-05-05 12:39:58
+user_64,Champagne,KSI & Randolph,sadness,joy,1,2025-04-28 11:50:58
+user_64,Stargazing,Lil Yung Pharaoh,anger,anger,0,2025-04-22 16:07:58
+user_64,Written In The Stars,Westlife,anger,anger,0,2025-04-27 08:15:58
+user_64,Mad Sounds,Arctic Monkeys,love,love,0,2025-04-13 02:45:58
+user_64,Runeii,Talk Talk,fear,fear,0,2025-04-15 13:42:58
+user_64,Warpath,Ingrid Michaelson,surprise,surprise,0,2025-04-15 16:02:58
+user_64,Dance Slow Decades,Angel Olsen,sadness,sadness,0,2025-04-10 09:36:58
+user_64,Subliminal,Suicidal Tendencies,joy,joy,0,2025-04-23 10:55:58
+user_64,Little Dreams,Ellie Goulding,love,love,0,2025-04-19 07:29:58
+user_64,Super Mario World,Logic,surprise,surprise,0,2025-05-09 17:35:58
+user_64,Like I Used To,Cyndi Lauper,joy,joy,0,2025-05-04 06:10:58
+user_64,BIG TYMA,Alkaline,joy,joy,0,2025-05-01 04:55:58
+user_64,Petty Lover,Jaz Karis,fear,fear,0,2025-04-27 09:26:58
+user_64,Boarding School,Lana Del Rey,joy,joy,0,2025-04-24 04:25:58
+user_64,ICanSeeMyHouseFromHere,BONES,fear,fear,0,2025-04-21 08:33:58
+user_64,Diamond Heart,Lady Gaga,love,love,0,2025-05-03 17:09:58
+user_64,City Lights,Motionless in White,love,love,0,2025-05-01 13:23:58
+user_64,Bathtub Gin,Phish,surprise,surprise,0,2025-04-27 10:40:58
+user_64,Down South,Iggy Azalea,joy,joy,0,2025-04-22 16:47:58
+user_64,Dance Off,Macklemore & Ryan Lewis,joy,joy,0,2025-04-26 14:11:58
+user_64,One Call Away Remix,Charlie Puth,love,love,0,2025-04-22 13:17:58
+user_64,I Saw Three Ships,Chicago,joy,joy,0,2025-05-03 13:44:58
+user_64,Rusted Wheel,Silversun Pickups,joy,joy,0,2025-05-09 08:00:58
+user_64,Ho Suck My Dick Based Freestyle,Lil B,anger,joy,1,2025-04-14 04:21:58
+user_64,Jigsaw,Chaka Khan,surprise,surprise,0,2025-04-18 07:48:58
+user_64,Have You Ever Been In Love?,Peter Cetera,love,love,0,2025-04-23 05:01:58
+user_64,Boo,Azizi Gibson,anger,joy,1,2025-04-18 07:33:58
+user_64,Drowning in the Sound,Trivium,fear,fear,0,2025-04-15 10:38:58
+user_64,Everyone I Love Is Dead,Type O Negative,anger,anger,0,2025-05-05 16:51:58
+user_64,Erica Part 2,DOM KENNEDY,fear,fear,0,2025-04-10 21:25:58
+user_64,The Woodpile,Frightened Rabbit,sadness,sadness,0,2025-04-29 19:37:58
+user_64,Call Me Back Again,Paul McCartney,anger,joy,1,2025-05-07 12:27:58
+user_64,Put Your Quarter Up,Molemen,fear,fear,0,2025-04-19 19:31:58
+user_64,Mind on a Milli,Gunna,fear,fear,0,2025-05-01 19:03:58
+user_64,Overthinker,INZO,fear,fear,0,2025-05-06 13:30:58
+user_64,Want The World,Bazanji,sadness,joy,1,2025-04-17 22:29:58
+user_64,Love Without Sleep,The 1975,anger,anger,0,2025-04-20 16:53:58
+user_64,Mutual Butterflies,Ryan Trey,sadness,joy,1,2025-04-16 21:15:58
+user_64,Studio Ambience at Night: Malibu,Logic,surprise,surprise,0,2025-05-08 00:12:58
+user_64,Dance with Darkness,Skrizzly Adams,anger,anger,0,2025-04-21 09:04:58
+user_64,Filthy Rich,Evalyn,joy,joy,0,2025-04-12 06:15:58
+user_64,Seven Hells,Brown Bird,sadness,sadness,0,2025-04-22 10:30:58
+user_64,Mexican Wine,Fountains of Wayne,joy,joy,0,2025-04-28 22:51:58
+user_64,Believe,Elton John,fear,fear,0,2025-05-08 20:40:58
+user_64,Yippee Ki Yay,Chris Webby,surprise,surprise,0,2025-05-07 12:32:58
+user_64,Colossal,TR/ST,love,love,0,2025-04-09 21:52:58
+user_64,No Weed,DC Young Fly,sadness,joy,1,2025-04-22 05:01:58
+user_64,House,Elton John,fear,fear,0,2025-04-27 00:36:58
+user_64,Youngblood,Angus & Julia Stone,surprise,surprise,0,2025-04-22 20:43:58
+user_64,Doubt,twenty one pilots,joy,joy,0,2025-04-30 20:33:58
+user_64,Autumn Gloom,iamjakehill,anger,anger,0,2025-04-18 04:53:58
+user_64,Let Me See It,UGK,joy,joy,0,2025-04-21 20:27:58
+user_64,Its Hard Out Here for a Pimp,Three 6 Mafia,fear,fear,0,2025-04-21 14:13:58
+user_64,Pierre Anatole,Dave Malloy,anger,anger,0,2025-05-04 09:16:58
+user_64,Go Home,Julien Baker,anger,anger,0,2025-04-14 09:41:58
+user_64,Red Bandana Santana,Playboi Carti,love,love,0,2025-04-18 20:32:58
+user_64,7 Mac 11s,A Boogie wit da Hoodie,love,love,0,2025-05-03 13:04:58
+user_64,Swimming Pool,Marie Madeleine,love,love,0,2025-04-19 13:24:58
+user_64,Boiler,Limp Bizkit,anger,anger,0,2025-05-08 00:54:58
+user_64,Problem,Ariana Grande,sadness,joy,1,2025-04-18 22:44:58
+user_64,Twisted By Design,Sum 41,joy,joy,0,2025-04-29 22:24:58
+user_64,500 Degreez,Lil Wayne,anger,joy,1,2025-04-15 22:32:58
+user_64,Strange Boat,Waterboys,fear,fear,0,2025-04-10 15:37:58
+user_64,I Dont Care,Apocalyptica,joy,joy,0,2025-04-24 20:14:58
+user_64,Feelings Remix,Zonke,joy,joy,0,2025-05-05 22:25:58
+user_64,Dont Ask My Neighbors,The Emotions,anger,anger,0,2025-04-22 10:40:58
+user_64,Cruel World,Active Child,joy,joy,0,2025-04-24 04:10:58
+user_64,Hate You More,Lloyd Banks,surprise,surprise,0,2025-04-27 20:29:58
+user_64,Who Got The Camera?,Ice Cube,surprise,surprise,0,2025-04-24 08:47:58
+user_64,Peace Sign,wifisfuneral,sadness,sadness,0,2025-04-30 18:26:58
+user_64,Sticks Stones,1K Phew,anger,anger,0,2025-04-15 03:10:58
+user_64,Sexyback,EGOVERT & 1nonly,sadness,sadness,0,2025-04-25 04:41:58
+user_64,Rusalka Rusalka / Wild Rushes,The Decemberists,love,love,0,2025-05-07 14:41:58
+user_64,I Cant Stop,Flux Pavilion,joy,joy,0,2025-04-30 06:33:58

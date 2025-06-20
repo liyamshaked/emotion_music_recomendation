@@ -1,0 +1,4 @@
+user_id,username,password,first_name,last_name,age,gender,favorite_artists,recommended_artists
+1,tahelibarak,tb12,,,0,M,Ariana Grande,"ariana grande, camila cabello, dua lipa, katy perry, lady gaga, madison beer, miley cyrus, olivia rodrigo, sabrina carpenter, selena gomez, taylor swift"
+2,nogabarak,nb12,Noga,Barak,18,F,,
+3,amiritbarak,ab12,Amirit,Barak,40,F,Ariana Grande,"ariana grande, camila cabello, dua lipa, katy perry, lady gaga, madison beer, miley cyrus, olivia rodrigo, sabrina carpenter, selena gomez, taylor swift"

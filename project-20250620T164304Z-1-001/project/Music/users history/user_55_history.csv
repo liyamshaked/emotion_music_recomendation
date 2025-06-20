@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_55,I Dont Think About You,Kelly Clarkson,joy,joy,0,2025-05-01 18:14:53
+user_55,Miami,Manuel Riva,surprise,surprise,0,2025-05-04 02:56:53
+user_55,Death Hole,Precious Jewel Amor,joy,joy,0,2025-04-09 21:37:53
+user_55,My Cat,Jack Off Jill,anger,joy,1,2025-04-18 20:18:53
+user_55,"Ahh, Let's Get Ill",LL Cool J,love,love,0,2025-05-01 12:06:53
+user_55,Faded,Cierra Ramirez,anger,anger,0,2025-04-25 16:27:53
+user_55,Traveling Alone,Tom The Mail Man,fear,fear,0,2025-04-24 23:22:53
+user_55,Habit,Ought,love,love,0,2025-04-21 03:12:53
+user_55,One for the Money,Escape The Fate,surprise,surprise,0,2025-04-30 16:17:53
+user_55,Looking For Love,Kelly Family,love,love,0,2025-04-24 15:35:53
+user_55,Untitled,Poison,fear,fear,0,2025-04-21 20:42:53
+user_55,Run Away,Sunstroke Project,joy,joy,0,2025-04-18 20:22:53
+user_55,Inner City Blues,Rodriguez,sadness,sadness,0,2025-04-27 23:08:53
+user_55,Tougher Than It Is,Cake,sadness,joy,1,2025-04-30 12:20:53
+user_55,Tap Dancer,Local Natives,love,love,0,2025-04-17 14:12:53
+user_55,How Can I Be Sure,Durand Jones & The Indications,surprise,surprise,0,2025-05-04 12:24:53
+user_55,Realest Livin,Ace Hood,anger,joy,1,2025-04-17 08:47:53
+user_55,DONT PLAY AROUND,Gunna,sadness,sadness,0,2025-04-14 13:30:53
+user_55,Raincoat,Timeflies,surprise,surprise,0,2025-04-16 01:37:53
+user_55,Dont Leave Me Alone,David Guetta,love,love,0,2025-04-17 22:34:53
+user_55,Sing for the Day,Styx,joy,joy,0,2025-05-08 15:36:53
+user_55,Toast,Koffee,anger,joy,1,2025-04-15 20:48:53
+user_55,Scrubs,Pouya,fear,fear,0,2025-04-20 15:13:53
+user_55,Drink It Up,Kenny Chesney,anger,joy,1,2025-05-08 18:26:53
+user_55,Body So Good,Popcaan,love,love,0,2025-04-14 13:06:53
+user_55,Listen To Your Heart,Roxette,surprise,surprise,0,2025-04-30 17:15:53
+user_55,Old Age,Nirvana,sadness,sadness,0,2025-04-27 09:23:53
+user_55,Bim Bam,Lotto Boyzz,surprise,surprise,0,2025-04-17 00:03:53
+user_55,Sleigh Ride,Fun.,sadness,joy,1,2025-04-25 02:15:53
+user_55,Boom,"Royce da 5'9""",sadness,sadness,0,2025-05-07 16:51:53
+user_55,Turn Up The Track,MattyBRaps,joy,joy,0,2025-05-06 18:36:53
+user_55,Sierra Leone,Mt Eden,sadness,joy,1,2025-04-15 05:42:53
+user_55,Flesh Electricity,Camp Cope,love,love,0,2025-04-12 06:17:53
+user_55,Fire In The Booth Part 2,Bugzy Malone,anger,anger,0,2025-05-04 14:51:53
+user_55,A Piece Of The Action,John Waite,anger,anger,0,2025-04-29 14:43:53
+user_55,Running to the Edge of the World,Marilyn Manson,fear,fear,0,2025-05-01 06:48:53
+user_55,Malibu,Migos,joy,joy,0,2025-05-06 10:39:53
+user_55,I Dont Sell Molly No More Remix,iLoveMakonnen,sadness,sadness,0,2025-05-05 11:46:53
+user_55,Bad Company,Five Finger Death Punch,anger,anger,0,2025-05-01 21:04:53
+user_55,High Price Of Hate,Toto,joy,joy,0,2025-04-17 10:20:53
+user_55,1134,GASHI,love,love,0,2025-05-03 09:33:53
+user_55,Feels Like Summer,Childish Gambino,fear,fear,0,2025-05-05 01:46:53
+user_55,Even Though,Norah Jones,sadness,sadness,0,2025-05-07 19:57:53
+user_55,Only If,Steve Lacy,love,love,0,2025-04-23 01:27:53
+user_55,Pop It,Juice WRLD,surprise,surprise,0,2025-05-08 16:12:53
+user_55,Go Now,Adam Levine,joy,joy,0,2025-04-22 23:02:53
+user_55,Spotlights,Teejayx6,surprise,surprise,0,2025-04-29 08:09:53
+user_55,Gloryhole,Borgore,love,love,0,2025-04-18 02:32:53
+user_55,I Changed My Mind,Lyrics Born,love,love,0,2025-04-10 00:42:53
+user_55,Support You,Lil Durk,sadness,joy,1,2025-04-13 09:47:53
+user_55,Bad Karma,Aesop Rock,sadness,joy,1,2025-04-10 08:40:53
+user_55,Name Callin,Queen Latifah,love,love,0,2025-04-23 00:23:53
+user_55,Not Okay,SOPHIE,joy,joy,0,2025-04-14 13:42:53
+user_55,If Thats OK,Bo Napoleon,joy,joy,0,2025-05-02 16:58:53
+user_55,Till the Morning,Lil Yachty,surprise,surprise,0,2025-04-10 04:32:53
+user_55,Mosh Pit,Flosstradamus,sadness,sadness,0,2025-04-25 12:09:53
+user_55,Tv Weather Guy,Arrogant Worms,sadness,joy,1,2025-05-07 23:54:53
+user_55,Squid Game / Do It To It Zedd Edit,Zedd,sadness,joy,1,2025-04-20 01:23:53
+user_55,"Baby, Can I Hold You",Neil Diamond,anger,anger,0,2025-05-06 17:58:53
+user_55,Walk the Dinosaur,Was (Not Was),joy,joy,0,2025-04-15 12:57:53
+user_55,Arca - Incendio English Translation,Genius English Translations,joy,joy,0,2025-04-26 19:00:53
+user_55,Pretty,August Alsina,love,love,0,2025-04-13 02:23:53
+user_55,Harlem Shuffle,Rolling Stones,joy,joy,0,2025-04-18 23:56:53
+user_55,Capillary,Human Bloom,fear,fear,0,2025-04-20 18:25:53
+user_55,Uprising,Sabaton,anger,anger,0,2025-04-26 04:54:53
+user_55,Things Done Changed,The Notorious B.I.G.,joy,joy,0,2025-04-27 20:41:53
+user_55,Its Goin Down,Celly Cel,anger,joy,1,2025-04-21 14:16:53
+user_55,Heir Apparent,Morrissey,fear,fear,0,2025-04-30 15:56:53
+user_55,Why,Andrew Garfield,joy,joy,0,2025-05-02 12:29:53
+user_55,Donnas Tale,Jazmine Sullivan,anger,anger,0,2025-04-23 11:48:53
+user_55,I Just Wanna,Chief Keef,joy,joy,0,2025-04-13 12:57:53
+user_55,Because I Love You,Shakin' Stevens,love,love,0,2025-04-09 18:08:53
+user_55,Beautiful Pain,Eminem,surprise,surprise,0,2025-04-29 15:59:53
+user_55,Worth It,Danny Brown,love,love,0,2025-04-30 02:39:53
+user_55,Winter Of A Broken Heart,Alison Krauss,surprise,surprise,0,2025-04-18 10:58:53
+user_55,Only Reminds Me Of You,Richard Marx,surprise,surprise,0,2025-04-24 23:50:53
+user_55,Spiralling,Erasure,surprise,surprise,0,2025-04-13 02:23:53
+user_55,The Tempter and the Bible Black,Army of the Pharaohs,joy,joy,0,2025-05-02 09:40:53
+user_55,Campaigner,Neil Young,anger,anger,0,2025-05-03 00:14:53
+user_55,Lighting Up The Candles,Stevie Wonder,joy,joy,0,2025-05-07 07:55:53
+user_55,In The Crowd,The Jam,love,love,0,2025-04-21 02:41:53
+user_55,E.B.A.H.,Tech N9ne,love,love,0,2025-04-09 21:59:53
+user_55,SymphonicSuiteAoTPart2-5th: Apple Seed,(Hiroyuki Sawano),love,love,0,2025-04-29 00:10:53
+user_55,Kiss My Ass,NewAra,sadness,joy,1,2025-05-07 13:56:53
+user_55,Dont Sell Out,Tinie Tempah,surprise,surprise,0,2025-04-28 22:40:53
+user_55,London Tour Freestyle,Drake,love,love,0,2025-04-19 16:54:53
+user_55,Cain,EXES,sadness,joy,1,2025-04-30 12:01:53
+user_55,Let It Reign,KB,sadness,joy,1,2025-04-23 16:29:53
+user_55,Mothers Talk,Tears For Fears,anger,anger,0,2025-04-16 11:35:53
+user_55,Nowhere,Chris Brown,joy,joy,0,2025-05-06 04:36:53
+user_55,I Like The Way You Move,Bodyrockers,anger,anger,0,2025-04-25 11:36:53
+user_55,Space Jam,Young Dolph,sadness,sadness,0,2025-04-21 20:24:53
+user_55,Smoke,Brian Fallon,joy,joy,0,2025-04-15 21:41:53
+user_55,The One,Slaughterhouse,anger,anger,0,2025-04-27 16:38:53
+user_55,Balaclava,Ghostemane,love,love,0,2025-04-26 20:56:53
+user_55,Cotton Candy,Insane Clown Posse,love,love,0,2025-05-07 22:44:53
+user_55,Farewell,Raymond Lauchengco,sadness,sadness,0,2025-04-26 13:39:53
+user_55,I Will,Citizen Way,sadness,sadness,0,2025-04-24 23:41:53
+user_55,April Sun in Cuba,Dragon (NZ),anger,anger,0,2025-04-29 23:58:53
+user_55,All Right Now,Free,love,love,0,2025-04-29 22:22:53

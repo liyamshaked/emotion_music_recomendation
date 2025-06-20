@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_31,Johnny Test Theme Song,Kevin Manthei,love,love,0,2025-04-25 02:05:42
+user_31,Love Is Blind,Fergie,love,love,0,2025-04-29 12:08:42
+user_31,When Im Cleaning Windows,George Formby,joy,joy,0,2025-05-07 20:34:42
+user_31,In My Foreign,The Americanos,fear,fear,0,2025-04-19 11:03:42
+user_31,Angel of Music Film Version,Andrew Lloyd Webber,sadness,sadness,0,2025-05-06 00:55:42
+user_31,Pig,Weezer,sadness,joy,1,2025-04-29 22:53:42
+user_31,Crazy In Love - BBC Session,Oh Wonder,fear,fear,0,2025-05-01 01:19:42
+user_31,Advert,Blur,anger,anger,0,2025-04-21 21:51:42
+user_31,Pretty Paper,Roy Orbison,sadness,joy,1,2025-05-05 17:32:42
+user_31,Z-House Diss Track,Jack / LonelyMailbox,love,love,0,2025-04-16 11:25:42
+user_31,Life Loves A Tragedy,Poison,love,love,0,2025-04-23 19:29:42
+user_31,Taste,Braids,surprise,surprise,0,2025-04-19 14:37:42
+user_31,Black Challenger,Booggz & Buck,anger,anger,0,2025-04-10 15:46:42
+user_31,Get Educated,Akala,sadness,sadness,0,2025-05-08 03:46:42
+user_31,Grease,Frankie Valli,fear,fear,0,2025-04-24 10:16:42
+user_31,Turn Me Down,GASHI,surprise,surprise,0,2025-05-08 08:04:42
+user_31,Without You,Low Roar,joy,joy,0,2025-04-30 19:28:42
+user_31,Low,Sleeping With Sirens,sadness,sadness,0,2025-05-08 07:44:42
+user_31,Fish n Grits,Wale,fear,fear,0,2025-04-23 23:03:42
+user_31,Sarah In The Summer,Nitty Gritty Dirt Band,joy,joy,0,2025-05-09 14:45:42
+user_31,Braveheart,Yngwie Malmsteen,joy,joy,0,2025-04-20 07:40:42
+user_31,Did You Miss Me,Olly Murs,joy,joy,0,2025-04-22 05:51:42
+user_31,On and On,Kevin Flum,joy,joy,0,2025-05-02 20:33:42
+user_31,Kirby,Aesop Rock,joy,joy,0,2025-04-14 18:23:42
+user_31,Did It,Two-9,joy,joy,0,2025-05-01 19:21:42
+user_31,Eve of Destruction,The Chemical Brothers,surprise,surprise,0,2025-04-15 03:06:42
+user_31,If You Don't Like Hank Williams,Hank Williams Jr.,surprise,surprise,0,2025-04-10 17:13:42
+user_31,MAKING A KILLING.,Scarlxrd,sadness,sadness,0,2025-05-01 06:37:42
+user_31,Save That Shit,Chief Keef,sadness,joy,1,2025-04-24 07:19:42
+user_31,Low Life,Sting,joy,joy,0,2025-04-27 02:03:42
+user_31,Heat Seeking Ghost of Sex,Dance Gavin Dance,anger,anger,0,2025-04-20 07:27:42
+user_31,Oh Yeah 2012,T.I.,love,love,0,2025-04-28 12:55:42
+user_31,I Hate That Youre Happy,Tiny Little Houses,surprise,surprise,0,2025-04-29 06:26:42
+user_31,Darkness Fell,WolfGang (producer),fear,fear,0,2025-05-03 08:56:42
+user_31,Surrender,Suicide,anger,joy,1,2025-05-09 03:01:42
+user_31,Unchained Melody,Leann Rimes,fear,fear,0,2025-04-21 06:28:42
+user_31,MC Moana - Rainha dos Faixa Preta Vai Luan English Translation,Genius English Translations,anger,anger,0,2025-04-18 13:50:42
+user_31,Lets Get This Bread,Yung Nugget,joy,joy,0,2025-04-26 18:57:42
+user_31,Dementia,Owl City,sadness,sadness,0,2025-04-26 15:33:42
+user_31,Come Let Go,Xavier Rudd,anger,joy,1,2025-04-10 12:56:42
+user_31,Dunwich,Electric Wizard,joy,joy,0,2025-04-28 07:37:42
+user_31,Red Death,Brann Dailor,sadness,sadness,0,2025-04-15 01:08:42
+user_31,Alex English,Dance Gavin Dance,love,love,0,2025-04-14 07:48:42
+user_31,Get Bigger / Do U Luv,NxWorries,love,love,0,2025-04-19 08:51:42
+user_31,Mosquito,Yeah Yeah Yeahs,fear,fear,0,2025-04-30 08:20:42
+user_31,Sandy,Allah-Las,love,love,0,2025-05-02 04:44:42
+user_31,Saginaw Michigan,Lefty Frizzell,anger,joy,1,2025-04-26 00:11:42
+user_31,Red Planet,Little Mix,fear,fear,0,2025-04-10 22:07:42
+user_31,Heart of the Country,Paul McCartney,fear,fear,0,2025-04-24 12:48:42
+user_31,That's What It's Made For,Usher,surprise,surprise,0,2025-04-11 05:05:42
+user_31,Dum Dee Dum,Zack Knight & Jasmin Walia,anger,anger,0,2025-05-03 08:33:42
+user_31,Let The Wind Carry Me,Joni Mitchell,surprise,surprise,0,2025-04-23 07:24:42
+user_31,Cold Hearted ll,Meek Mill,sadness,joy,1,2025-05-05 07:10:42
+user_31,Will I?,Original Broadway Cast of Rent,sadness,sadness,0,2025-04-26 07:26:42
+user_31,Dubai Shit,HUNCHO JACK,fear,fear,0,2025-04-27 07:31:42
+user_31,Walk It Back,The National,love,love,0,2025-04-16 21:00:42
+user_31,Friday,FMB DZ,anger,anger,0,2025-04-20 15:17:42
+user_31,Mother Knows Best Reprise,Donna Murphy,fear,fear,0,2025-05-01 06:46:42
+user_31,Live Life,Kinks,surprise,surprise,0,2025-04-29 21:59:42
+user_31,Get The Party Started,P!nk,fear,fear,0,2025-05-09 12:02:42
+user_31,Lord Most High,Hillsong United,joy,joy,0,2025-04-16 12:02:42
+user_31,SICK YOUTH,Lil Tracy,joy,joy,0,2025-04-28 20:36:42
+user_31,Magnificent,Rick Ross,joy,joy,0,2025-04-25 02:14:42
+user_31,Picture Cards Cant Picture You,Blaze Foley,anger,anger,0,2025-04-19 13:24:42
+user_31,Hold My Hand,Jess Glynne,fear,fear,0,2025-04-28 11:37:42
+user_31,For My Brothers,Polo G,love,love,0,2025-05-03 16:36:42
+user_31,Aubrey,Bread,anger,joy,1,2025-05-02 16:24:42
+user_31,I Like Him,Barbra Streisand,love,love,0,2025-04-19 18:35:42
+user_31,This Song is a Mess But So Am I,Joyce Manor,love,love,0,2025-04-15 10:21:42
+user_31,Invincible,Pat Benatar,fear,fear,0,2025-04-22 14:19:42
+user_31,Money,D/R Period,joy,joy,0,2025-04-14 16:21:42
+user_31,February Song,Josh Groban,surprise,surprise,0,2025-04-15 15:40:42
+user_31,Let Her Go,Passenger,joy,joy,0,2025-04-17 03:53:42
+user_31,So What Too In Love,Juice WRLD,surprise,surprise,0,2025-04-23 13:22:42
+user_31,ReturnOfThePimp,BONES,surprise,surprise,0,2025-04-18 06:11:42
+user_31,The Dayz Of Wayback,N.W.A,anger,joy,1,2025-05-07 15:06:42
+user_31,Daydream,Johnny Orlando,joy,joy,0,2025-04-14 16:08:42
+user_31,What Have They Done to My Song Ma,Melanie,fear,fear,0,2025-05-05 01:52:42
+user_31,Anyone Can Whistle,Original Broadway Cast of Anyone Can Whistle,sadness,joy,1,2025-05-02 12:48:42
+user_31,Human Torch,Fastball,anger,joy,1,2025-04-12 21:11:42
+user_31,Nobody,Tom Waits,fear,fear,0,2025-04-17 21:22:42
+user_31,Nice Things,Tank and the Bangas,sadness,joy,1,2025-05-01 14:02:42
+user_31,Come On Over To The Country,Hank Williams Jr.,surprise,surprise,0,2025-04-17 22:38:42
+user_31,Keeping The Faith,Billy Joel,sadness,sadness,0,2025-04-26 05:32:42
+user_31,Stillness Of Heart,Lenny Kravitz,surprise,surprise,0,2025-05-01 09:41:42
+user_31,Ac-Cent-Tchu-Ate the Positive,Johnny Mercer,love,love,0,2025-04-15 10:33:42
+user_31,KAROL G Nicki Minaj - Tusa English Translation,Genius English Translations,anger,anger,0,2025-04-14 12:05:42
+user_31,Heartbreaker,MSTRKRFT,love,love,0,2025-04-18 02:18:42
+user_31,Im in a Mood,Mykki Blanco,sadness,joy,1,2025-05-01 09:59:42
+user_31,Joke,Chastity Belt,joy,joy,0,2025-04-22 06:47:42
+user_31,Higgs,Frank Ocean,surprise,surprise,0,2025-05-06 02:08:42
+user_31,Me and My Kind,Cody Johnson,sadness,sadness,0,2025-04-12 14:15:42
+user_31,My Soul Remix,Young Moe,love,love,0,2025-05-02 18:37:42
+user_31,Careless,City Girls,anger,anger,0,2025-04-22 07:13:42
+user_31,Fiddle About,The Who,anger,anger,0,2025-04-30 23:25:42
+user_31,"Hey Hey, My My",Neil Young,surprise,surprise,0,2025-04-12 07:23:42
+user_31,Satisfaction Guaranteed,JUNGLEPUSSY,anger,joy,1,2025-04-18 08:12:42
+user_31,On The Sunny Side Of The Street,Cyndi Lauper,anger,joy,1,2025-04-20 01:44:42
+user_31,Flaming Pie,Paul McCartney,surprise,surprise,0,2025-05-01 17:26:42
+user_31,Pump Up the Jam,Technotronic,fear,fear,0,2025-05-04 13:06:42

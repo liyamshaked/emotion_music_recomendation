@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_62,Year Of The Knife,Tears For Fears,love,love,0,2025-05-03 12:12:57
+user_62,Do,The White Stripes,surprise,surprise,0,2025-05-02 17:59:57
+user_62,Time Bomb,Prof,fear,fear,0,2025-04-17 10:42:57
+user_62,The Noose,A Perfect Circle,surprise,surprise,0,2025-04-16 09:42:57
+user_62,All Of God's Children Ain't Free,Johnny Cash,love,love,0,2025-04-19 12:45:57
+user_62,Uplift,Rakim,joy,joy,0,2025-04-23 22:15:57
+user_62,Slither,Tech N9ne,anger,joy,1,2025-04-24 00:44:57
+user_62,Empire Ants,Gorillaz,love,love,0,2025-05-06 03:42:57
+user_62,Middle of a Moment,Skylar Astin,anger,anger,0,2025-04-15 20:03:57
+user_62,You Already Knew,Black Star,joy,joy,0,2025-04-16 05:39:57
+user_62,G.L.O.N.L.,Capo (GBE),joy,joy,0,2025-05-05 02:21:57
+user_62,Be The One,Yelawolf,fear,fear,0,2025-04-11 18:46:57
+user_62,Business Man,Dizzee Rascal,anger,anger,0,2025-04-14 05:27:57
+user_62,Dr. Stein,Helloween,fear,fear,0,2025-04-24 15:30:57
+user_62,Freakshow,Britney Spears,anger,anger,0,2025-04-16 03:08:57
+user_62,Kadosh,Paul Wilbur,surprise,surprise,0,2025-04-15 15:08:57
+user_62,No Freedom,Dido,joy,joy,0,2025-04-21 00:48:57
+user_62,Little Pills,K.A.B.O.S.H.,joy,joy,0,2025-04-23 05:13:57
+user_62,So Am I,Ty Dolla $ign,surprise,surprise,0,2025-05-06 22:13:57
+user_62,Jumping Like Jordan Remix,Rich The Kid,anger,anger,0,2025-05-09 06:46:57
+user_62,Relaxed Lizard,Soft Hair,joy,joy,0,2025-04-18 17:02:57
+user_62,This Is a Call,Foo Fighters,fear,fear,0,2025-04-19 23:54:57
+user_62,The Moon/Awake,The Dear Hunter,surprise,surprise,0,2025-04-22 10:51:57
+user_62,Cant Find My Way Home,Eric Clapton & Steve Winwood,surprise,surprise,0,2025-04-27 04:39:57
+user_62,Vanilla Sky,Bladee,surprise,surprise,0,2025-05-03 02:31:57
+user_62,Count Up,Key Glock,joy,joy,0,2025-05-01 03:10:57
+user_62,Let It Be,Religious Music,fear,fear,0,2025-05-06 04:23:57
+user_62,Pyramid,Lupe Fiasco,anger,joy,1,2025-04-20 23:46:57
+user_62,Dark Room Demo,Choir Boy (SLC),surprise,surprise,0,2025-04-23 07:16:57
+user_62,BB Talk,Miley Cyrus,love,love,0,2025-04-30 09:00:57
+user_62,I Beg Of You,Allman Brothers Band,anger,anger,0,2025-04-15 03:18:57
+user_62,A Guy That Id Kinda Be Into,Original Broadway Cast of Be More Chill,joy,joy,0,2025-04-18 06:20:57
+user_62,Psychological,Pet Shop Boys,surprise,surprise,0,2025-05-05 00:42:57
+user_62,Straight from the Heart,Bryan Adams,sadness,joy,1,2025-04-26 18:14:57
+user_62,Old Soul Song For the New World Order,Bright Eyes,fear,fear,0,2025-05-07 20:33:57
+user_62,Jackrabbit,San Fermin,anger,anger,0,2025-05-02 10:05:57
+user_62,Gang,Trill Sammy & Dice SoHo,anger,anger,0,2025-04-16 11:50:57
+user_62,Peloton,IDK,sadness,joy,1,2025-05-08 08:35:57
+user_62,Modern Eyes,Toto,sadness,sadness,0,2025-04-12 17:30:57
+user_62,Last Whip,K-Trap,surprise,surprise,0,2025-05-02 18:43:57
+user_62,Ration Blues,Louis Jordan,surprise,surprise,0,2025-05-01 07:58:57
+user_62,Thou Shall Not Fall,Joe Budden,joy,joy,0,2025-04-19 14:36:57
+user_62,Never See The Sun Rise,Dayseeker,surprise,surprise,0,2025-05-05 14:51:57
+user_62,Sunflower,Low,sadness,joy,1,2025-05-01 00:40:57
+user_62,Magic Man G,Keegan-Michael Key,anger,joy,1,2025-05-06 02:16:57
+user_62,Memory Lane,9lokkNine,sadness,sadness,0,2025-04-20 16:12:57
+user_62,Dogwood Blossom,Fionn Regan,fear,fear,0,2025-04-27 06:48:57
+user_62,These Brown Eyes,America,love,love,0,2025-04-23 05:10:57
+user_62,17,Julia Michaels,anger,anger,0,2025-04-10 06:15:57
+user_62,Hard to Digest,Juice WRLD,love,love,0,2025-04-11 19:48:57
+user_62,Any Old Iron,Harry Champion,surprise,surprise,0,2025-04-17 09:46:57
+user_62,Little Girl,Enrique Iglesias,sadness,sadness,0,2025-05-01 12:29:57
+user_62,Born to Lose,American Football,surprise,surprise,0,2025-04-19 16:27:57
+user_62,The Running Free,Coheed and Cambria,love,love,0,2025-04-20 19:07:57
+user_62,Waiting For The Miracle,Leonard Cohen,sadness,sadness,0,2025-04-24 22:51:57
+user_62,He Hit Me It Felt Like a Kiss,The Crystals,fear,fear,0,2025-05-04 10:13:57
+user_62,Crash,Witt Lowry,love,love,0,2025-04-13 12:09:57
+user_62,Angel,The Game,sadness,joy,1,2025-05-04 09:51:57
+user_62,God Bless the Internet,SAINt JHN,anger,joy,1,2025-04-27 02:04:57
+user_62,Squeeze Box,The Who,love,love,0,2025-05-09 10:15:57
+user_62,Hey God,Vince Gill,surprise,surprise,0,2025-04-30 19:44:57
+user_62,Fucking Kissing,A Boogie wit da Hoodie,sadness,sadness,0,2025-04-16 16:10:57
+user_62,She,Kota the Friend,sadness,joy,1,2025-04-12 00:42:57
+user_62,Get Something (feat. Mannie Fresh),Lil Wayne,anger,joy,1,2025-04-24 09:36:57
+user_62,Ribbons Down My Back,Jerry Herman,joy,joy,0,2025-04-18 13:52:57
+user_62,Break,Kero Kero Bonito,anger,joy,1,2025-04-13 11:17:57
+user_62,Hello Goodbye,The Beatles,sadness,joy,1,2025-04-15 12:34:57
+user_62,The Party,Marillion,love,love,0,2025-04-13 02:53:57
+user_62,We Did It,1K Phew,anger,joy,1,2025-04-14 06:46:57
+user_62,Together,Sia,joy,joy,0,2025-05-06 10:53:57
+user_62,Shining,DJ Khaled,anger,joy,1,2025-05-04 19:53:57
+user_62,Cavalier,Fox Stevenson,sadness,sadness,0,2025-04-17 22:46:57
+user_62,Bring Her Along,Joe Hawley,joy,joy,0,2025-04-28 14:07:57
+user_62,Alive,X Japan,sadness,sadness,0,2025-04-20 22:35:57
+user_62,Jambi Cafe,The Uncluded,joy,joy,0,2025-04-21 02:02:57
+user_62,Plaisir D'amour,Marianne Faithfull,sadness,joy,1,2025-04-30 04:49:57
+user_62,Racks On Me,Lil' Chris (MDC),sadness,sadness,0,2025-04-21 12:07:57
+user_62,Language Or The Kiss,Indigo Girls,surprise,surprise,0,2025-05-02 22:50:57
+user_62,Staring At The Sun,U2,joy,joy,0,2025-05-04 18:08:57
+user_62,20.000 Lieues Sous Les Mers,Alphaville,surprise,surprise,0,2025-04-27 09:16:57
+user_62,Laura,Ween,fear,fear,0,2025-04-11 11:43:57
+user_62,Someone,The Rembrandts,fear,fear,0,2025-05-06 15:55:57
+user_62,Oh Yeah You Gonna Cry?,Lovejoy,joy,joy,0,2025-05-03 08:55:57
+user_62,Recognition,23 Unofficial,surprise,surprise,0,2025-04-29 08:50:57
+user_62,Then You Can Tell Me Goodbye,Frankie Valli,anger,joy,1,2025-04-27 06:35:57
+user_62,BESTIE/HIT,DaBaby & YoungBoy Never Broke Again,love,love,0,2025-04-13 05:58:57
+user_62,In Lonesome Dove,Garth Brooks,surprise,surprise,0,2025-04-16 07:04:57
+user_62,From the Morning,Nick Drake,fear,fear,0,2025-05-07 06:51:57
+user_62,What’s Life,Cordae & Common,sadness,joy,1,2025-04-14 01:38:57
+user_62,Every Ghetto Every City,Lauryn Hill,fear,fear,0,2025-05-07 19:56:57
+user_62,Nightmare,Set It Off,surprise,surprise,0,2025-04-18 23:16:57
+user_62,Wrecking Ball,Mother Mother,fear,fear,0,2025-04-13 06:13:57
+user_62,Everybody Needs Somebody To Love,Wilson Pickett,sadness,joy,1,2025-04-27 18:28:57
+user_62,Scream,Michael Jackson,anger,anger,0,2025-04-18 05:28:57
+user_62,In A World Possessed By The Human Mind,The Tragically Hip,love,love,0,2025-05-09 02:03:57
+user_62,Mess Weve Made,AJ Rafael,fear,fear,0,2025-04-27 00:54:57
+user_62,Shot At The Night,The Killers,anger,anger,0,2025-04-11 11:57:57
+user_62,Never Alone,Tori Kelly,fear,fear,0,2025-05-06 04:43:57
+user_62,Santa Claus Is Comin to Town,Frank Sinatra,love,love,0,2025-05-03 13:53:57
+user_62,Team,Iggy Azalea,love,love,0,2025-04-21 06:21:57

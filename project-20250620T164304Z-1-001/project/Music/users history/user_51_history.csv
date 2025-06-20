@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_51,Hello Operator,The White Stripes,fear,fear,0,2025-05-07 02:28:51
+user_51,Final Fantasy,Drake,sadness,sadness,0,2025-05-05 19:03:51
+user_51,Mission to the Loot,Lil Uzi Vert,joy,joy,0,2025-04-23 21:08:51
+user_51,My Homies Still,Lil Wayne,sadness,sadness,0,2025-05-02 08:45:51
+user_51,Higher,Ryan Leslie,anger,joy,1,2025-04-22 18:07:51
+user_51,Dareh Meyod,O.A.R.,sadness,sadness,0,2025-05-05 09:33:51
+user_51,Marriage Made In Hollywood,Bonnie Raitt,fear,fear,0,2025-04-24 20:49:51
+user_51,Nothing to Lose,K'naan,joy,joy,0,2025-04-26 02:51:51
+user_51,Tell Me Why,Brennan Savage,surprise,surprise,0,2025-04-27 10:42:51
+user_51,Wake Up,Hilary Duff,anger,anger,0,2025-04-18 16:46:51
+user_51,Pity The Fool,Cyndi Lauper,joy,joy,0,2025-05-02 19:05:51
+user_51,Thats Whats Up,Edward Sharpe & The Magnetic Zeros,joy,joy,0,2025-04-29 19:30:51
+user_51,Captain Jim's Drunken Dream,James Taylor,surprise,surprise,0,2025-05-02 02:06:51
+user_51,Sunrise,Who,sadness,sadness,0,2025-05-08 06:08:51
+user_51,Roggae,Phish,sadness,joy,1,2025-05-09 06:49:51
+user_51,Time is,Solange,anger,joy,1,2025-04-28 11:37:51
+user_51,Beautiful Madness,Michael Patrick Kelly,love,love,0,2025-05-03 15:55:51
+user_51,Whole Heart,Brandon Heath,anger,joy,1,2025-04-14 02:40:51
+user_51,Falls Back On,Nickelback,anger,joy,1,2025-04-16 20:31:51
+user_51,Badge A Bullet Part II,Stray from the Path,fear,fear,0,2025-05-01 18:56:51
+user_51,My Momma,Z-Ro & Trae Tha Truth,joy,joy,0,2025-04-22 00:39:51
+user_51,Hes the Wizard,Wiz,sadness,joy,1,2025-04-24 07:35:51
+user_51,Living Room Floor,Sammy Rae,fear,fear,0,2025-04-12 08:48:51
+user_51,Head Up,Don Diablo,joy,joy,0,2025-05-07 13:55:51
+user_51,Deliverance,Prince,fear,fear,0,2025-04-20 10:49:51
+user_51,Healing,SonReal,fear,fear,0,2025-04-15 20:18:51
+user_51,Vanishing,Mariah Carey,anger,anger,0,2025-04-25 03:25:51
+user_51,So Gone Freestyle,Curly Savv,anger,anger,0,2025-05-02 19:13:51
+user_51,Still A G Thang,Snoop Dogg,love,love,0,2025-04-24 16:32:51
+user_51,Free Animal,Foreign Air,joy,joy,0,2025-05-05 05:29:51
+user_51,Shotta Flow Remix,NLE Choppa,sadness,sadness,0,2025-04-25 00:59:51
+user_51,Til I Collapse,Jon Connor,anger,joy,1,2025-04-14 16:56:51
+user_51,This Is What Makes Us Girls,Lana Del Rey,sadness,joy,1,2025-04-15 13:26:51
+user_51,Go Hard,Wayne Marshall,joy,joy,0,2025-05-04 19:34:51
+user_51,Steady Heart,Steffany Gretzinger,joy,joy,0,2025-05-07 02:42:51
+user_51,Never Tear Us Apart,Natalie Imbruglia,joy,joy,0,2025-05-04 18:15:51
+user_51,Rockstar,30 Deep Grimeyy,sadness,sadness,0,2025-04-26 22:59:51
+user_51,Lay Me Down Remix,Sam Smith,surprise,surprise,0,2025-04-12 05:31:51
+user_51,Mean It,Jordan Solomon,sadness,joy,1,2025-04-21 07:14:51
+user_51,Alone,Judy Garland,fear,fear,0,2025-05-04 05:01:51
+user_51,Grand Verbalizer What Time is It?,X Clan,fear,fear,0,2025-04-14 11:08:51
+user_51,Gun Shot a Fire,Konshens,sadness,sadness,0,2025-04-23 13:05:51
+user_51,So,Alex G,fear,fear,0,2025-04-19 08:12:51
+user_51,Rushing Back,Flume,love,love,0,2025-05-01 16:12:51
+user_51,Serial Killer,Lana Del Rey,fear,fear,0,2025-04-30 22:05:51
+user_51,The River Driver,Great Big Sea,joy,joy,0,2025-04-11 01:13:51
+user_51,Pearl Necklace,ZZ Top,love,love,0,2025-04-25 08:13:51
+user_51,Happy Birthday,Flipsyde,sadness,joy,1,2025-05-02 08:13:51
+user_51,This Is My Life,Kim Larsen,surprise,surprise,0,2025-04-16 16:31:51
+user_51,Best Years,5 Seconds of Summer,anger,anger,0,2025-04-29 06:18:51
+user_51,Lost,Cali Life Style,fear,fear,0,2025-04-10 08:53:51
+user_51,Freedom Reigns,Jesus Culture,love,love,0,2025-04-17 02:58:51
+user_51,One Year of Love,Queen,fear,fear,0,2025-04-19 02:23:51
+user_51,Another Hole In The Head,Nickelback,fear,fear,0,2025-04-25 05:30:51
+user_51,We Can Always Come Back To This,Brian Tyree Henry,love,love,0,2025-04-25 14:32:51
+user_51,Feel It Still Flatbush Zombies Remix,Portugal. The Man,joy,joy,0,2025-04-14 12:32:51
+user_51,Piece of Me,Britney Spears,anger,joy,1,2025-04-14 12:31:51
+user_51,Till Things Get Right,Starstruk,fear,fear,0,2025-04-29 12:46:51
+user_51,Apple Cider I Dont Mind,Modern Baseball,surprise,surprise,0,2025-05-08 22:24:51
+user_51,Commission My Soul,Citipointe Worship,love,love,0,2025-05-04 11:54:51
+user_51,You and I,Omar LinX,sadness,joy,1,2025-04-13 00:01:51
+user_51,Fuck Wit Me,Rich Homie Quan,love,love,0,2025-04-19 17:06:51
+user_51,Speed Dial,Pi'erre Bourne,sadness,joy,1,2025-04-26 16:43:51
+user_51,The Canadian Crisis Song,Arrogant Worms,love,love,0,2025-04-10 09:30:51
+user_51,Lingo,Yung Pinch,anger,anger,0,2025-04-20 00:24:51
+user_51,All Your Yeahs,Beach House,joy,joy,0,2025-05-08 23:55:51
+user_51,Saturday Clothes,Gordon Lightfoot,fear,fear,0,2025-04-24 15:47:51
+user_51,Angelina,Marillion,fear,fear,0,2025-04-30 08:12:51
+user_51,Only God Can Judge Me,NSG,love,love,0,2025-04-11 15:26:51
+user_51,Homage,Mild High Club,joy,joy,0,2025-04-16 10:01:51
+user_51,Demons,Sleigh Bells,love,love,0,2025-04-24 17:39:51
+user_51,Sweet Home Alabama,Counting Crows,fear,fear,0,2025-05-07 05:19:51
+user_51,Super Mario Bros. Theme,Super Mario Bros,sadness,joy,1,2025-04-24 07:57:51
+user_51,Touch It Remix Part 4 Extended Video Remix,Busta Rhymes,love,love,0,2025-04-21 17:11:51
+user_51,Get Em Daddy,Cam'ron,anger,joy,1,2025-04-12 13:14:51
+user_51,Bubble Butt,Major Lazer,love,love,0,2025-05-09 14:19:51
+user_51,Jungle,Tash Sultana,sadness,joy,1,2025-04-24 16:03:51
+user_51,Sing Along 4 U,WAIIAN,fear,fear,0,2025-05-04 15:11:51
+user_51,Misunderstood,Dream Theater,love,love,0,2025-04-16 08:03:51
+user_51,Not Like The Movies,Katy Perry,fear,fear,0,2025-04-15 13:57:51
+user_51,The K-Wang,Khia,love,love,0,2025-05-01 20:47:51
+user_51,The Season,Marc E. Bassy,fear,fear,0,2025-04-19 12:18:51
+user_51,Set It Free,"Now, Now",anger,joy,1,2025-04-25 19:23:51
+user_51,You Dont Have to Worry,Doris & Kelley,love,love,0,2025-04-27 17:33:51
+user_51,"Oh Lord, You're Beautiful",Keith Green,fear,fear,0,2025-04-26 03:35:51
+user_51,Prototype,Rihanna,anger,joy,1,2025-05-01 01:17:51
+user_51,Hellboy,Trippie Redd,fear,fear,0,2025-04-16 06:33:51
+user_51,Milk Cow Blues,Kinks,sadness,sadness,0,2025-04-29 14:22:51
+user_51,Real Women Vote Trump,The Deplorable Choir,sadness,joy,1,2025-04-29 19:01:51
+user_51,Take It Like A Man,Christian Borle & Laura Bell Bundy,anger,joy,1,2025-04-19 07:15:51
+user_51,Riphunter,Feast,love,love,0,2025-04-16 05:31:51
+user_51,Coyote,DOPE LEMON,anger,anger,0,2025-04-24 03:18:51
+user_51,Grab the Wheel,Timbaland & 6LACK,anger,anger,0,2025-04-18 17:56:51
+user_51,God,Scarface,fear,fear,0,2025-04-23 14:18:51
+user_51,Lonely If You Are,Chase Rice,surprise,surprise,0,2025-05-05 06:27:51
+user_51,Star,Man on the Internet,joy,joy,0,2025-04-13 15:12:51
+user_51,Whatchu Doin,Trouble,joy,joy,0,2025-04-17 03:24:51
+user_51,Seventh Heaven,Beck,surprise,surprise,0,2025-05-03 12:19:51
+user_51,Under Ice,Kate Bush,surprise,surprise,0,2025-05-04 15:48:51
+user_51,Supersonic,Detox Icunt,sadness,joy,1,2025-04-27 08:20:51

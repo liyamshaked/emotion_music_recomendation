@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_15,State of Grace Acoustic Version,Taylor Swift,surprise,surprise,0,2025-04-22 16:06:34
+user_15,Pray for Me,Anthony Hamilton,love,love,0,2025-04-30 04:17:34
+user_15,I. The Party,Childish Gambino,anger,joy,1,2025-05-08 09:31:34
+user_15,Fear of Dying,Poppy,fear,fear,0,2025-04-19 02:56:34
+user_15,Here Comes The Night,Europe,joy,joy,0,2025-04-10 06:46:34
+user_15,Heathens,Offset,anger,anger,0,2025-04-20 12:44:34
+user_15,Gods Of War,Manowar,love,love,0,2025-04-29 01:56:34
+user_15,Never Too Late,Status Quo,sadness,sadness,0,2025-04-30 20:31:34
+user_15,Final Six,Slayer,surprise,surprise,0,2025-04-29 16:59:34
+user_15,Love Is In Control,Donna Summer,love,love,0,2025-05-05 23:37:34
+user_15,Hey Selena Gomez,Tim Chantarangsu,fear,fear,0,2025-04-10 08:47:34
+user_15,Raindrops,Jeremih,joy,joy,0,2025-04-12 21:52:34
+user_15,You,Petit Biscuit,anger,anger,0,2025-04-20 10:48:34
+user_15,Im Sorry,Aventura,sadness,joy,1,2025-05-01 01:48:34
+user_15,We Rare BASED FREESTYLE,Lil B & Chance The Rapper,anger,joy,1,2025-04-23 17:14:34
+user_15,Make Me Move,Culture Code,joy,joy,0,2025-04-16 11:03:34
+user_15,Come In From The Rain,Diana Ross,love,love,0,2025-05-06 15:26:34
+user_15,Thats My Name,Akcent,anger,joy,1,2025-04-26 06:44:34
+user_15,If We Could Start Over,Celine Dion,surprise,surprise,0,2025-04-10 23:45:34
+user_15,2014 4th Quarter Releases,Rap Genius,fear,fear,0,2025-04-21 12:40:34
+user_15,I Want You Back / Lady Lady,BJ the Chicago Kid,sadness,joy,1,2025-05-01 23:45:34
+user_15,NOLA,Kodie Shane,surprise,surprise,0,2025-04-18 14:06:34
+user_15,She Said,FLETCHER,love,love,0,2025-04-13 20:45:34
+user_15,Alone,King Iso,surprise,surprise,0,2025-04-18 00:55:34
+user_15,Something Strange,Sticky Fingers,anger,anger,0,2025-04-22 04:35:34
+user_15,Hustle and Flow It Aint Over,Djay,fear,fear,0,2025-05-07 20:19:34
+user_15,Gold,Dash Berlin & DBSTF,surprise,surprise,0,2025-04-20 03:47:34
+user_15,Bitches Like You,Spades Saratoga,fear,fear,0,2025-05-07 21:13:34
+user_15,Giuseppe,Trash Panda,surprise,surprise,0,2025-05-05 14:53:34
+user_15,Its Alive,Tech N9ne,sadness,joy,1,2025-04-17 11:50:34
+user_15,Re-Gaining Unconsciousness,NOFX,anger,anger,0,2025-05-09 01:58:34
+user_15,Twisted Metal,Ramirez,fear,fear,0,2025-04-25 16:20:34
+user_15,Johnny Was Remix,Bob Marley & The Wailers,joy,joy,0,2025-04-24 09:28:34
+user_15,Speak of Devil,DEMONDICE,anger,anger,0,2025-04-17 22:38:34
+user_15,Dust,Frank Ocean,joy,joy,0,2025-04-20 09:24:34
+user_15,Can You See,Jennifer Lopez,joy,joy,0,2025-04-19 19:06:34
+user_15,One Mo Time,Ann Marie,anger,joy,1,2025-05-06 03:20:34
+user_15,Rapper 101,M.anifest,surprise,surprise,0,2025-04-18 18:59:34
+user_15,Vienna,The Fray,surprise,surprise,0,2025-04-22 12:12:34
+user_15,You Dont Know Me,Victorious Cast,love,love,0,2025-05-05 00:48:34
+user_15,Get It Together,Dizzy Wright,surprise,surprise,0,2025-04-22 13:06:34
+user_15,Gasoline,Seether,fear,fear,0,2025-04-12 11:12:34
+user_15,Mission Control,Knox Hamilton,joy,joy,0,2025-05-09 15:08:34
+user_15,Speak On It,Guerilla Maab,sadness,sadness,0,2025-05-04 03:07:34
+user_15,Sweet Chick,Anderson .Paak,fear,fear,0,2025-04-11 04:21:34
+user_15,If You Want To,Lil Baby & Lil Durk,love,love,0,2025-05-09 06:07:34
+user_15,Blown By The Wind,Alan Parsons Project,fear,fear,0,2025-05-06 20:18:34
+user_15,Black Mountain Blues,Janis Joplin,sadness,sadness,0,2025-04-26 23:57:34
+user_15,3 the Hard Way,Beastie Boys,fear,fear,0,2025-04-26 13:48:34
+user_15,Holding Out The Pressure,Tommy Lee Sparta,sadness,joy,1,2025-04-18 15:03:34
+user_15,Silence,Xavier Rudd,sadness,joy,1,2025-04-15 13:09:34
+user_15,Somewhere Down The Road,Nina,surprise,surprise,0,2025-04-17 02:19:34
+user_15,I Call Your Name,Free Chapel Music,anger,joy,1,2025-04-14 22:47:34
+user_15,OMW,Lady Leshurr,joy,joy,0,2025-04-22 18:29:34
+user_15,Choke,Royal & the Serpent,anger,anger,0,2025-04-11 16:38:34
+user_15,King of Wishful Thinking,Go West,joy,joy,0,2025-05-09 14:22:34
+user_15,Temporary View,SBTRKT,joy,joy,0,2025-04-18 05:03:34
+user_15,Good Day,Kinks,surprise,surprise,0,2025-05-03 20:16:34
+user_15,On My Own,Lea Salonga,surprise,surprise,0,2025-05-03 03:35:34
+user_15,John John Da Don vs. Mr. Wavy,URLtv,love,love,0,2025-04-28 14:37:34
+user_15,Outside,Mac Miller,love,love,0,2025-05-03 06:34:34
+user_15,We Could Be Beautiful,Wrabel,sadness,joy,1,2025-05-03 00:42:34
+user_15,Starcrossed Losers,The Fratellis,joy,joy,0,2025-04-16 09:44:34
+user_15,The End Of A Perfect Day,Kirsty Maccoll,surprise,surprise,0,2025-05-07 23:47:34
+user_15,Sister Europe,The Psychedelic Furs,fear,fear,0,2025-05-09 04:29:34
+user_15,Play,Rascal Flatts,sadness,joy,1,2025-04-26 04:02:34
+user_15,Ride,Doja Cat,sadness,sadness,0,2025-04-22 17:49:34
+user_15,The Fire God,Virgin Steele,fear,fear,0,2025-05-08 16:38:34
+user_15,Daisy,Choker,love,love,0,2025-05-07 16:37:34
+user_15,Interlude,Mozzy,sadness,joy,1,2025-04-23 07:03:34
+user_15,So long and thanks for all the fish - reprise,Neil Hannon,love,love,0,2025-05-04 21:40:34
+user_15,You Are Mine Live,Mosaic MSC,surprise,surprise,0,2025-05-01 16:50:34
+user_15,Ninety-Nine And A Half (Won't Do),Wilson Pickett,fear,fear,0,2025-04-13 19:59:34
+user_15,OG Bobby Johnson,QUE.,anger,joy,1,2025-05-08 12:01:34
+user_15,Okay,Chief Keef,anger,joy,1,2025-04-14 10:00:34
+user_15,Get Off Me,Tech N9ne,fear,fear,0,2025-04-26 04:50:34
+user_15,Love Again,Dexta Daps,fear,fear,0,2025-04-21 18:23:34
+user_15,BPT,YG,love,love,0,2025-04-29 23:38:34
+user_15,Only Us,Miracle of Sound,surprise,surprise,0,2025-04-09 21:36:34
+user_15,Get Me Some of That,Thomas Rhett,fear,fear,0,2025-04-17 07:58:34
+user_15,How Can It Be,Lauren Daigle,joy,joy,0,2025-05-01 21:06:34
+user_15,Albatross,Foals,sadness,sadness,0,2025-05-08 13:19:34
+user_15,Calling All Angels,Train,surprise,surprise,0,2025-04-29 20:43:34
+user_15,Mariners Way - It's A Beautiful Thing B - Side,Ocean Colour Scene,anger,anger,0,2025-04-11 00:33:34
+user_15,Centurion,Earl Sweatshirt,love,love,0,2025-04-16 11:53:34
+user_15,Worry Bout U,Lil Keke,love,love,0,2025-04-18 12:48:34
+user_15,Need Hammy,Bris,fear,fear,0,2025-05-02 05:16:34
+user_15,Monsters In My Head,The Game,fear,fear,0,2025-05-07 09:35:34
+user_15,Still Blazing,Alborosie,fear,fear,0,2025-04-23 01:27:34
+user_15,Village Green,The Kinks,fear,fear,0,2025-04-16 02:56:34
+user_15,Leave Me Alone,Flipp Dinero,joy,joy,0,2025-05-03 13:12:34
+user_15,Pedigree,Ari Lennox,surprise,surprise,0,2025-04-27 17:04:34
+user_15,Politicalamity,Extreme,surprise,surprise,0,2025-04-20 13:36:34
+user_15,Goofy Goobers,Pouya,love,love,0,2025-04-25 10:20:34
+user_15,Feel Something,Anevo,love,love,0,2025-04-28 21:14:34
+user_15,Lazarus,Lazarus Lyrics - David Bowie,surprise,surprise,0,2025-05-01 22:11:34
+user_15,Love Cycle,Toosii,anger,anger,0,2025-05-02 05:04:34
+user_15,The 1,Lil Uzi Vert,love,love,0,2025-04-30 14:26:34
+user_15,The Story of my Life,Astronautalis,love,love,0,2025-04-17 09:26:34
+user_15,Diss Track,Oli London,fear,fear,0,2025-04-22 02:29:34

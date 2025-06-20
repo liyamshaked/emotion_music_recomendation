@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_4,Childrens Story,The Game,surprise,surprise,0,2025-04-21 16:48:28
+user_4,We Still Love,Olly Murs,fear,fear,0,2025-04-18 08:30:28
+user_4,88,PnB Rock,fear,fear,0,2025-04-11 11:17:28
+user_4,Bust It Baby Pt. 1 Original Version,Plies,anger,joy,1,2025-04-23 11:34:28
+user_4,Free From It All,Lecrae,love,love,0,2025-04-10 18:59:28
+user_4,Murders Demo,Miracle Musical,anger,anger,0,2025-04-13 08:35:28
+user_4,Coffee Shop,Red Hot Chili Peppers,anger,anger,0,2025-04-20 10:49:28
+user_4,I Hit It First,Ray J,love,love,0,2025-04-23 20:53:28
+user_4,I Feel For You,Kylie Minogue,joy,joy,0,2025-04-19 08:04:28
+user_4,Black Dahlia,Angel Haze,sadness,sadness,0,2025-05-07 02:58:28
+user_4,Wheres Ice Kid At?,Ice Kid,anger,joy,1,2025-04-29 10:42:28
+user_4,Die From $uicide,stereoRYZE,joy,joy,0,2025-04-20 18:25:28
+user_4,Toxic,DDG,anger,joy,1,2025-04-26 04:31:28
+user_4,Shivers,Netrum & Halvorsen,joy,joy,0,2025-04-09 19:41:28
+user_4,Whenever You Need Somebody,Natalie Grant,surprise,surprise,0,2025-04-16 19:16:28
+user_4,Mungojerrie and Rumpelteazer,Original London Cast of Cats,joy,joy,0,2025-04-13 08:48:28
+user_4,Playing Catch With .22,I the Mighty,fear,fear,0,2025-05-09 12:28:28
+user_4,Regal,Noname,sadness,joy,1,2025-04-18 09:30:28
+user_4,I Can't Hold It,Indiana Bible College,fear,fear,0,2025-04-11 01:57:28
+user_4,Icon Reggaeton Remix,Jaden,sadness,sadness,0,2025-04-30 06:50:28
+user_4,Crazy Play Me,Kodak Black,love,love,0,2025-04-16 21:11:28
+user_4,Strapped,FOOL (DNK),love,love,0,2025-04-19 00:21:28
+user_4,We Praise Your Name,Trent Cory,anger,joy,1,2025-05-03 04:07:28
+user_4,Young And Lovely,Blur,fear,fear,0,2025-05-04 15:55:28
+user_4,Tired,CJ SO COOL,joy,joy,0,2025-04-29 03:00:28
+user_4,Goth Babe,Surf Curse,anger,anger,0,2025-04-18 16:35:28
+user_4,Never in A Million Years,Original West End Cast of The Prince of Egypt,joy,joy,0,2025-05-05 01:48:28
+user_4,Dummy Cute,atlas,surprise,surprise,0,2025-05-07 10:01:28
+user_4,Crocodile Teeth Remix,Nicki Minaj & Skillibeng,love,love,0,2025-04-25 15:07:28
+user_4,Give Up,Swerzie,love,love,0,2025-04-10 07:44:28
+user_4,The Comedown,Rainbow Kitten Surprise,fear,fear,0,2025-04-20 10:29:28
+user_4,Ketchup vs. Mustard,Illmac,joy,joy,0,2025-05-04 01:55:28
+user_4,Clean,Natalie Grant,love,love,0,2025-05-08 22:20:28
+user_4,Loaded Lux vs. Hollow Da Don,UDubb Network,anger,joy,1,2025-05-03 04:36:28
+user_4,Nights In Harlem,Max Valentine,surprise,surprise,0,2025-04-22 07:56:28
+user_4,Booyaka 619,Jim Johnston,anger,anger,0,2025-04-24 05:09:28
+user_4,SunnyDay,BONES,fear,fear,0,2025-04-20 00:05:28
+user_4,​i will make you bleed,Bladee & Thaiboy Digital,fear,fear,0,2025-04-28 07:45:28
+user_4,Take It Slow,Logic,joy,joy,0,2025-04-18 20:43:28
+user_4,REDHEART,(Akai Haato),anger,joy,1,2025-04-12 09:44:28
+user_4,Feels,Kiiara,fear,fear,0,2025-04-20 23:00:28
+user_4,Indian Hair,bbymutha,joy,joy,0,2025-04-11 16:25:28
+user_4,Flex City,Robb Bank$,joy,joy,0,2025-04-27 17:00:28
+user_4,Love Fade,Tamaryn,love,love,0,2025-04-11 14:07:28
+user_4,She Cant Love You,Destiny's Child,joy,joy,0,2025-04-14 03:41:28
+user_4,Evilangelist,Extreme,love,love,0,2025-04-29 20:47:28
+user_4,Sunshine,Eric Bent,joy,joy,0,2025-04-14 08:33:28
+user_4,Snow White Queen,Evanescence,joy,joy,0,2025-05-05 04:36:28
+user_4,Harley Fvcking Quinn,Sarah de Warren & Biometrix,fear,fear,0,2025-04-12 11:25:28
+user_4,ATTENTION,The Kid LAROI,anger,anger,0,2025-04-25 12:52:28
+user_4,Traffic Jam,Weird Al Yankovic,anger,anger,0,2025-04-20 19:33:28
+user_4,Burning Down the House,Talking Heads,fear,fear,0,2025-04-15 22:22:28
+user_4,Peacoat,Future,joy,joy,0,2025-05-07 01:47:28
+user_4,Taken Care Of,Suzi Wu,fear,fear,0,2025-04-11 00:57:28
+user_4,Turn Down for What,Upon a Burning Body,anger,anger,0,2025-05-05 11:33:28
+user_4,Moon Is Blue,Rihanna,anger,anger,0,2025-04-14 16:56:28
+user_4,IU - Into the I-LAND English Translation,Genius English Translations,anger,anger,0,2025-04-21 02:37:28
+user_4,It's Gonna Be A Good Day,Jason Mraz,anger,anger,0,2025-05-04 02:43:28
+user_4,My Style,Black Eyed Peas,anger,joy,1,2025-04-22 01:06:28
+user_4,Hey Hey,Eric Clapton,joy,joy,0,2025-04-22 09:32:28
+user_4,U-Way (How We Do It),Youngbloodz,sadness,sadness,0,2025-05-04 19:29:28
+user_4,Side by Side,Lukas Rieger,anger,joy,1,2025-04-12 01:58:28
+user_4,Chrome Cardi B Chopper,Juice WRLD,sadness,joy,1,2025-04-17 15:03:28
+user_4,The Hand That Rocks The Cradle,Black Sabbath,sadness,joy,1,2025-04-22 04:47:28
+user_4,You're Never Fully Dressed Without A Smile,Annie,joy,joy,0,2025-04-28 10:28:28
+user_4,Thy Faith Thy Oblivion,Infant Annihilator,joy,joy,0,2025-05-08 20:20:28
+user_4,Stuck in My Ways,Juice WRLD,surprise,surprise,0,2025-04-13 11:03:28
+user_4,No Warning,WESTSIDE BOOGIE,love,love,0,2025-04-29 20:49:28
+user_4,Khali Cartel II,Khaligraph Jones,fear,fear,0,2025-04-13 19:45:28
+user_4,My Lover Cindy,Marika Hackman,anger,anger,0,2025-05-04 10:54:28
+user_4,Dead Locs,Blueface,joy,joy,0,2025-05-03 19:47:28
+user_4,Stronger,Jennifer Lopez,love,love,0,2025-05-01 02:29:28
+user_4,DARKSIDE,Neoni,anger,anger,0,2025-04-11 07:08:28
+user_4,​west side story,lilbubblegum & Ciscaux,joy,joy,0,2025-05-09 15:50:28
+user_4,Got the Guap,Lil Uzi Vert,surprise,surprise,0,2025-05-08 04:12:28
+user_4,I Hear A Call,Emmylou Harris,joy,joy,0,2025-04-27 21:47:28
+user_4,Chance,Lil Baby & Marlo,sadness,joy,1,2025-04-12 22:27:28
+user_4,How Selfish I Seem,Trash Boat,joy,joy,0,2025-05-05 11:58:28
+user_4,Love Made Me Do It,Cheryl,joy,joy,0,2025-05-03 12:07:28
+user_4,Ultra Love,Marlon Roudette,love,love,0,2025-04-10 03:50:28
+user_4,Fake Empire,Ryan Lewis,anger,anger,0,2025-05-06 15:30:28
+user_4,Best Friend,5 Seconds of Summer,love,love,0,2025-04-15 09:14:28
+user_4,Tired of Loving You,Corey Hommel,anger,anger,0,2025-05-02 14:18:28
+user_4,Nails Hair Hips Heels Remix,Todrick Hall,anger,joy,1,2025-04-28 12:47:28
+user_4,Sunday Morning,Noname,surprise,surprise,0,2025-05-08 05:09:28
+user_4,Maries Wedding,The High Kings,surprise,surprise,0,2025-04-20 07:09:28
+user_4,DNOU2,KB,joy,joy,0,2025-04-14 12:18:28
+user_4,One Day In Your Life,Kyla,sadness,sadness,0,2025-04-12 19:50:28
+user_4,Nitty Gritty,Hollies,joy,joy,0,2025-04-29 19:19:28
+user_4,Whvts the Word,Lucki,anger,joy,1,2025-04-11 09:45:28
+user_4,Fuck That,Death Grips,fear,fear,0,2025-05-01 00:13:28
+user_4,Kids Kuisine,City Morgue,fear,fear,0,2025-04-30 08:22:28
+user_4,Real,Frank Ocean,anger,joy,1,2025-04-27 22:00:28
+user_4,The Black Crow,Songs: Ohia,sadness,sadness,0,2025-05-05 11:05:28
+user_4,My Heart Is Broken,Evanescence,surprise,surprise,0,2025-04-23 13:00:28
+user_4,Rebel Soul,Kid Rock,surprise,surprise,0,2025-04-12 02:13:28
+user_4,The Bloodiest,Jay Rock,love,love,0,2025-04-21 17:14:28
+user_4,Warframe | Sleeping In The Cold Below,Keith Power,anger,anger,0,2025-04-10 06:28:28
+user_4,Heartbreak Collision,Dolla,surprise,surprise,0,2025-04-27 01:15:28
+user_4,He Say She Say,Lil Durk,fear,fear,0,2025-05-06 03:57:28

@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_85,Longway,Peewee Longway,sadness,joy,1,2025-04-12 18:00:09
+user_85,Forget,Joe Budden,joy,joy,0,2025-04-10 08:44:09
+user_85,Wild Side,Normani,joy,joy,0,2025-04-26 14:18:09
+user_85,Lana,Roy Orbison,surprise,surprise,0,2025-05-05 18:35:09
+user_85,Strangers,Car Seat Headrest,anger,anger,0,2025-04-23 09:00:09
+user_85,Someone Else's Dream,Faith Hill,love,love,0,2025-04-16 14:26:09
+user_85,Foundation,Spandau Ballet,joy,joy,0,2025-04-26 03:17:09
+user_85,Seasons of Love B,Original Broadway Cast of Rent,joy,joy,0,2025-04-16 00:08:09
+user_85,I've Changed,Chuck Berry,surprise,surprise,0,2025-04-24 00:33:09
+user_85,Social Jungle,Herizen,love,love,0,2025-04-29 05:10:09
+user_85,Toothache,Topaz Jones,surprise,surprise,0,2025-04-10 04:42:09
+user_85,Tattoo Tears,iyla,fear,fear,0,2025-04-27 13:20:09
+user_85,Free Drakeo Free Greedo,Shoreline Mafia,anger,joy,1,2025-04-24 01:09:09
+user_85,Junco Partner,Clash,love,love,0,2025-04-30 14:49:09
+user_85,Moria,Bloodbound,love,love,0,2025-04-29 23:13:09
+user_85,Until I Die,NF,joy,joy,0,2025-04-21 03:44:09
+user_85,Annie Christian,Prince,surprise,surprise,0,2025-04-25 18:24:09
+user_85,Let Me See It,UGK,love,love,0,2025-04-10 06:48:09
+user_85,Pressure,Billy Joel,love,love,0,2025-05-01 02:54:09
+user_85,You Do Something To Me,Doris Day,anger,joy,1,2025-05-01 17:07:09
+user_85,I Disappear,Metallica,anger,anger,0,2025-04-25 19:03:09
+user_85,Maggie May,Rod Stewart,surprise,surprise,0,2025-04-15 16:52:09
+user_85,Thats A NoNo,ZaZa,sadness,joy,1,2025-05-03 09:52:09
+user_85,Follow Me,David Allan Coe,joy,joy,0,2025-04-20 20:46:09
+user_85,Meet Me At Our Spot,THE ANXIETY,joy,joy,0,2025-04-15 09:41:09
+user_85,Make It Out,Lil Durk,sadness,sadness,0,2025-05-05 09:55:09
+user_85,The Nile Song,Pink Floyd,fear,fear,0,2025-05-06 10:25:09
+user_85,WE KNOW WHERE YOU FUCKING LIVE,Marilyn Manson,love,love,0,2025-04-21 16:24:09
+user_85,Completely,Michael Bolton,joy,joy,0,2025-04-14 05:10:09
+user_85,Certified North West G,Nines,joy,joy,0,2025-04-15 07:26:09
+user_85,Silver Threads And Golden Needles,Wanda Jackson,love,love,0,2025-04-14 07:18:09
+user_85,Forest Fires,Axel Flvent,love,love,0,2025-04-19 19:57:09
+user_85,Aint I,Lizzo,surprise,surprise,0,2025-04-11 11:43:09
+user_85,Hardcore 84,NOFX,surprise,surprise,0,2025-04-13 02:59:09
+user_85,My Personal Revenge,Jackson Browne,anger,anger,0,2025-04-10 04:58:09
+user_85,- Human,Metallica,love,love,0,2025-04-27 09:08:09
+user_85,Someone,Air Supply,sadness,joy,1,2025-05-06 07:46:09
+user_85,Where Did All the People Go?,FUR,fear,fear,0,2025-04-20 17:47:09
+user_85,Girls Girls Girls Part 2,JAY-Z,love,love,0,2025-04-19 21:02:09
+user_85,Meet Me On The Mountain,Reo Speedwagon,fear,fear,0,2025-04-29 13:42:09
+user_85,Hell Breaks Loose,Eminem,anger,anger,0,2025-05-05 18:26:09
+user_85,3435 Remix Clean,Ariana Grande,sadness,joy,1,2025-04-24 18:40:09
+user_85,Pretty Head,Transviolet,joy,joy,0,2025-04-10 22:44:09
+user_85,Politician,Grand Funk Railroad,anger,joy,1,2025-04-29 19:36:09
+user_85,Already Dead,The Pretty Reckless,joy,joy,0,2025-05-03 07:29:09
+user_85,Rivals,No Jumper,surprise,surprise,0,2025-04-15 14:02:09
+user_85,Sign of the Times,The Belle Stars,fear,fear,0,2025-04-13 22:49:09
+user_85,"Go, Move, Shift",Christy Moore,anger,joy,1,2025-04-18 08:29:09
+user_85,Hurt for Me,SYML,sadness,sadness,0,2025-04-28 22:42:09
+user_85,Weight On Me,Sheff G,anger,anger,0,2025-05-06 23:59:09
+user_85,The Recession Intro,Jeezy,love,love,0,2025-04-28 09:39:09
+user_85,Burritos,Sublime,joy,joy,0,2025-04-13 07:01:09
+user_85,L-O-V-E,"Nat ""King"" Cole",surprise,surprise,0,2025-04-30 21:17:09
+user_85,Hollywood,Tobias Jesso Jr.,joy,joy,0,2025-04-26 12:20:09
+user_85,In the Stream,S. Carey,anger,anger,0,2025-04-25 17:19:09
+user_85,You Belong Here,JT Music,love,love,0,2025-04-26 14:35:09
+user_85,Broken Pieces,Andy Black,fear,fear,0,2025-05-03 14:03:09
+user_85,Spaceships,Adam Joseph,fear,fear,0,2025-05-01 08:41:09
+user_85,Torn to Pieces,Death,joy,joy,0,2025-04-17 18:40:09
+user_85,William Taylor,Sean Dagher,joy,joy,0,2025-04-17 01:41:09
+user_85,Money Make the World Go Round,G-Unit,anger,joy,1,2025-04-13 23:02:09
+user_85,I Dont Wanna Go,Alan Walker & Julie Bergan,surprise,surprise,0,2025-04-19 14:02:09
+user_85,Coffin Car,Yoko Ono,joy,joy,0,2025-05-01 21:20:09
+user_85,Harper Valley P.T.A.,Tom T. Hall,fear,fear,0,2025-04-10 20:59:09
+user_85,Would I,Maggie Lindemann,surprise,surprise,0,2025-04-12 04:40:09
+user_85,Die Another Day,Madonna,surprise,surprise,0,2025-04-24 13:06:09
+user_85,If Love Is Good To Me,Dean Martin,joy,joy,0,2025-04-12 03:33:09
+user_85,Tip Toe Thru the Tulips with Me,Tiny Tim,surprise,surprise,0,2025-04-16 06:59:09
+user_85,(If Loving You Is Wrong) I Don't Want To Be Right,Rod Stewart,surprise,surprise,0,2025-04-25 14:00:09
+user_85,Ur Life One Night,Unknown Mortal Orchestra,joy,joy,0,2025-04-30 14:07:09
+user_85,Fine China,Chris Brown,sadness,joy,1,2025-04-23 20:53:09
+user_85,Postmortem,Slayer,joy,joy,0,2025-04-23 11:13:09
+user_85,Frosty The Snowman,Christmas Songs,love,love,0,2025-04-29 01:25:09
+user_85,Take You Down,ILLENIUM,surprise,surprise,0,2025-04-16 17:49:09
+user_85,Hustle Harder,Common,sadness,joy,1,2025-05-08 21:03:09
+user_85,Bounce,Iggy Azalea,joy,joy,0,2025-04-27 10:49:09
+user_85,Meadowlark The Bakers Wife,Susan Egan,joy,joy,0,2025-04-19 07:35:09
+user_85,Dont Stop,2Pac,anger,anger,0,2025-05-03 04:58:09
+user_85,Australia,Kinks,anger,joy,1,2025-04-09 21:25:09
+user_85,Oceans Where Feet May Fail,Hillsong UNITED,anger,joy,1,2025-04-13 01:07:09
+user_85,Who the fuq is Stevie J,DJ Stevie J,joy,joy,0,2025-04-16 14:43:09
+user_85,Darkness and Light,John Legend,joy,joy,0,2025-04-11 17:02:09
+user_85,Snakes,Joey Bada$$,fear,fear,0,2025-04-16 12:05:09
+user_85,Early Grave,The Contortionist,surprise,surprise,0,2025-04-25 23:01:09
+user_85,Force of Nature,Kam Michael,anger,joy,1,2025-04-26 14:25:09
+user_85,Metal Ripper,Sabaton,anger,anger,0,2025-04-24 23:16:09
+user_85,Deuteronomy 2:10,The Mountain Goats,surprise,surprise,0,2025-04-24 03:25:09
+user_85,Lie to Me,Queen Naija,joy,joy,0,2025-05-07 21:48:09
+user_85,Slum Chemist,Vinnie Paz,love,love,0,2025-04-12 16:27:09
+user_85,Luci In The Sky With Demons,Marilyn Manson,anger,anger,0,2025-04-20 03:58:09
+user_85,How My Eyes Adore You,Erasure,fear,fear,0,2025-04-27 06:19:09
+user_85,When I Am King,Great Big Sea,joy,joy,0,2025-04-12 03:09:09
+user_85,Is That The Thanks I Get,Rod Stewart,joy,joy,0,2025-04-20 14:07:09
+user_85,Billie Holiday,Warpaint,surprise,surprise,0,2025-04-21 11:33:09
+user_85,Awful Lot,Every Time I Die,joy,joy,0,2025-04-09 18:00:09
+user_85,Tomorrow Tomorrow,Elliott Smith,joy,joy,0,2025-04-11 05:29:09
+user_85,Louise,Bonnie Raitt,joy,joy,0,2025-04-16 17:06:09
+user_85,Tom Jerry,Ocean Wisdom,love,love,0,2025-04-22 08:37:09
+user_85,Walk,Saucy Santana,surprise,surprise,0,2025-04-18 00:09:09
+user_85,sky,Human League,anger,anger,0,2025-04-16 15:41:09

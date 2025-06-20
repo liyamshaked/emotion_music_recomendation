@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_40,Love Not Lovers,The Script,sadness,joy,1,2025-04-16 14:26:46
+user_40,Satin Sheets,Loretta Lynn,sadness,joy,1,2025-04-18 09:00:46
+user_40,Haunt You,Social House,sadness,joy,1,2025-04-19 03:57:46
+user_40,Without you,One Two,anger,anger,0,2025-04-14 19:03:46
+user_40,Heartbeat,Christopher,surprise,surprise,0,2025-04-20 07:05:46
+user_40,Throw The 'r' Away,Proclaimers,love,love,0,2025-04-30 20:42:46
+user_40,Inside Out,Andrew Austin,fear,fear,0,2025-04-17 01:14:46
+user_40,Rappin,Rich Homie Quan,anger,anger,0,2025-04-30 20:03:46
+user_40,New York Gangstas,LL Cool J,anger,anger,0,2025-04-18 21:15:46
+user_40,What Lies Ahead,Kensington,fear,fear,0,2025-05-09 03:29:46
+user_40,Flakes,Frank Zappa,sadness,joy,1,2025-04-18 06:30:46
+user_40,Back In The Day,Mac Miller,joy,joy,0,2025-05-04 06:33:46
+user_40,Evil Twins Freestyle,Ski Mask the Slump God & Juice WRLD,fear,fear,0,2025-05-09 01:17:46
+user_40,People's Parties,Joni Mitchell,surprise,surprise,0,2025-04-10 18:48:46
+user_40,A Song for Ernest Hemingway,The Wonder Years,anger,anger,0,2025-05-01 07:27:46
+user_40,Mexico,Stitches,fear,fear,0,2025-04-24 22:41:46
+user_40,Rain,Mac Miller,sadness,sadness,0,2025-04-28 15:01:46
+user_40,Ramirez,The Acacia Strain,anger,anger,0,2025-04-24 03:31:46
+user_40,The Unknown Soldier,The Doors,sadness,sadness,0,2025-05-02 05:00:46
+user_40,Free Money,Patti Smith,fear,fear,0,2025-05-09 09:05:46
+user_40,Something to Love,Jason Isbell and the 400 Unit,love,love,0,2025-04-13 23:32:46
+user_40,.38 AIRWEIGHT,Doomtree,love,love,0,2025-04-14 03:27:46
+user_40,The Earth Is Broken,Tim Buckley,anger,anger,0,2025-04-10 10:50:46
+user_40,Scandalous,Prince,love,love,0,2025-04-29 01:15:46
+user_40,Locked Inside Your Prison,Cliff Richard,fear,fear,0,2025-04-18 07:54:46
+user_40,Jimmy,Boogie Down Productions,anger,joy,1,2025-04-30 12:30:46
+user_40,Is Anybody Out There ?,Frankie Goes To Hollywood,love,love,0,2025-04-12 12:08:46
+user_40,Hands on You,Ashley Monroe,anger,anger,0,2025-04-22 14:38:46
+user_40,Wcw,Joe Moses,surprise,surprise,0,2025-05-07 02:38:46
+user_40,La Vie En Rose,Louis Armstrong,fear,fear,0,2025-04-29 00:06:46
+user_40,Hello Kitty,Avril Lavigne,surprise,surprise,0,2025-05-09 15:15:46
+user_40,Elvis Messy Freestyle,Yelawolf,sadness,sadness,0,2025-04-11 11:54:46
+user_40,Wop,Lil Keed,love,love,0,2025-04-30 05:44:46
+user_40,Dont Need U,Astronomyy,fear,fear,0,2025-04-24 10:43:46
+user_40,Wu-Tang Clan Aint Nuthing ta Fuck Wit,Wu-Tang Clan,surprise,surprise,0,2025-05-02 08:15:46
+user_40,This Train I'm On,Doobie Brothers,joy,joy,0,2025-04-20 09:48:46
+user_40,Class Clown,E-Dubble,surprise,surprise,0,2025-04-30 14:54:46
+user_40,Magic Mountain,Firekid,joy,joy,0,2025-04-14 19:00:46
+user_40,Skin,Rihanna,love,love,0,2025-05-03 12:49:46
+user_40,Hideaway,Queens of the Stone Age,surprise,surprise,0,2025-04-11 23:06:46
+user_40,Pouches of Tuna,Action Bronson,sadness,joy,1,2025-04-27 18:15:46
+user_40,Prepared,Jill Scott,anger,joy,1,2025-04-29 03:53:46
+user_40,The Year 2000 Minus 25,Kris Kristofferson,surprise,surprise,0,2025-04-19 03:42:46
+user_40,Tic Toc,Tory Lanez & Rich The Kid,joy,joy,0,2025-04-23 23:11:46
+user_40,Float,Aesop Rock,fear,fear,0,2025-05-05 16:51:46
+user_40,When It Comes to Loving You,Jon Langston,joy,joy,0,2025-04-20 10:42:46
+user_40,Dancing In My Dreams,Tina Turner,love,love,0,2025-04-20 03:36:46
+user_40,Sanctified with Dynamite,Powerwolf,fear,fear,0,2025-04-22 03:03:46
+user_40,We Are Here to Change the World,Michael Jackson,love,love,0,2025-04-16 13:10:46
+user_40,Blackout Official,CHVSE,fear,fear,0,2025-05-07 02:59:46
+user_40,Let It Be Me,Ray LaMontagne,surprise,surprise,0,2025-04-16 06:19:46
+user_40,Everybodys Lonely,Jukebox the Ghost,fear,fear,0,2025-04-15 13:11:46
+user_40,Going to the Country,Caamp,joy,joy,0,2025-04-09 19:47:46
+user_40,Prismatic Abyss,Aversions Crown,anger,anger,0,2025-04-18 06:27:46
+user_40,No Surprize,Aerosmith,love,love,0,2025-04-11 14:21:46
+user_40,Im Ready,Jaden,fear,fear,0,2025-04-14 14:37:46
+user_40,When You Dance I Can Really Love,Neil Young,joy,joy,0,2025-04-13 06:30:46
+user_40,About You,Caravan Palace,surprise,surprise,0,2025-04-29 14:29:46
+user_40,Dizzy,Vic Reeves,love,love,0,2025-04-17 03:23:46
+user_40,Sanctuary,(Hikaru Utada),sadness,joy,1,2025-04-20 09:41:46
+user_40,Noorie,Bally Sagoo,joy,joy,0,2025-04-24 14:37:46
+user_40,Foreign Remix,Justin Bieber,joy,joy,0,2025-04-29 16:04:46
+user_40,The Many Faces of Dr. Hubert Malbec,Nekrogoblikon,sadness,joy,1,2025-05-09 17:27:46
+user_40,1922 Blues,Charlie Parr,love,love,0,2025-04-16 04:05:46
+user_40,Coin-Operated Boy,The Dresden Dolls,love,love,0,2025-04-17 14:57:46
+user_40,In the Moment,Brennan Savage,love,love,0,2025-04-16 04:22:46
+user_40,Girls Ain’t Nothing But Trouble,DJ Jazzy Jeff & The Fresh Prince,sadness,joy,1,2025-04-23 15:55:46
+user_40,Scourge of Iron,Cannibal Corpse,anger,anger,0,2025-04-13 02:16:46
+user_40,Smoke Mirrors,No Malice,anger,joy,1,2025-05-06 21:02:46
+user_40,Mans Not Hot Christmas Edition,Big Shaq,surprise,surprise,0,2025-05-09 14:51:46
+user_40,P.C.P.,Manic Street Preachers,joy,joy,0,2025-04-20 20:50:46
+user_40,Love in a Time of Surveillance,Incubus,fear,fear,0,2025-05-08 19:03:46
+user_40,The Cinema Show,Genesis,joy,joy,0,2025-04-26 10:57:46
+user_40,The Upswing,Bell X1,fear,fear,0,2025-04-10 13:00:46
+user_40,Summer Wages,Ian Tyson,love,love,0,2025-04-26 03:47:46
+user_40,Symphony,Switch (Band),surprise,surprise,0,2025-04-16 20:09:46
+user_40,Queen of Me,LIZ,sadness,joy,1,2025-04-18 06:43:46
+user_40,Poor Little Allison,Gordon Lightfoot,fear,fear,0,2025-04-11 12:01:46
+user_40,Shake,Mando Diao,anger,joy,1,2025-04-15 02:27:46
+user_40,Mind of a Real Remix,T9ine,anger,anger,0,2025-04-22 21:00:46
+user_40,Matilda Mother,Pink Floyd,joy,joy,0,2025-04-22 22:30:46
+user_40,Ten Four,Lil Durk,anger,anger,0,2025-04-14 07:34:46
+user_40,Death Wish,Terror Jr,surprise,surprise,0,2025-04-17 12:43:46
+user_40,I've Got You Under My Skin,Michael Bolton,surprise,surprise,0,2025-04-20 01:11:46
+user_40,The Park,Feist,surprise,surprise,0,2025-04-21 07:07:46
+user_40,Exhausted,Philthy Rich,love,love,0,2025-04-25 15:14:46
+user_40,Stop That Train,Peter Tosh,sadness,sadness,0,2025-04-18 05:24:46
+user_40,Rolling In The Deep From Singer 2018,KZ Tandingan,surprise,surprise,0,2025-04-10 14:38:46
+user_40,Darklands,The Jesus and Mary Chain,joy,joy,0,2025-04-12 16:29:46
+user_40,I Got That Dope,Kevin Gates,joy,joy,0,2025-04-17 03:19:46
+user_40,Thick Niggas And Anime Tiddies REMIX,B In$ta G,anger,anger,0,2025-04-14 01:33:46
+user_40,Solar Winds,Devin Townsend,anger,joy,1,2025-04-22 18:04:46
+user_40,Going To A Town,George Michael,anger,anger,0,2025-05-02 07:33:46
+user_40,The Woman I Love,Jason Mraz,sadness,joy,1,2025-05-07 12:16:46
+user_40,Umbilical,Mazzy Star,love,love,0,2025-04-22 05:11:46
+user_40,I Am,Christina Aguilera,love,love,0,2025-04-22 14:15:46
+user_40,Talk About,Rain Radio & DJ Craig Gorman,sadness,sadness,0,2025-04-10 08:19:46
+user_40,Honey Bun,Kodak Black,anger,anger,0,2025-04-15 16:27:46
+user_40,Turnin Me Up,BJ the Chicago Kid,sadness,joy,1,2025-04-26 00:23:46
+user_40,National Express,The Divine Comedy,surprise,surprise,0,2025-04-27 06:27:46

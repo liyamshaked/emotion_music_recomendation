@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_9,Weight,redveil,love,love,0,2025-04-13 20:59:32
+user_9,Two of a Kind Workin on a Full House,Garth Brooks,joy,joy,0,2025-05-01 10:52:32
+user_9,No One Will Ever Know,Roy Orbison,surprise,surprise,0,2025-04-30 07:15:32
+user_9,Feeling You,2 Chainz,sadness,sadness,0,2025-04-22 04:06:32
+user_9,I Wanna Meet Dave Grohl,Wavves,love,love,0,2025-04-22 00:24:32
+user_9,"Year 3,000 Blues",Ten Years After,love,love,0,2025-04-29 21:39:32
+user_9,If You Can Touch Her At All,Waylon Jennings,love,love,0,2025-04-25 23:52:32
+user_9,You Could Meet Somebody,UB40,surprise,surprise,0,2025-05-03 02:19:32
+user_9,Superstar / Until You Come Back to Me Thats What Im Gonna Do,Luther Vandross,surprise,surprise,0,2025-04-15 09:09:32
+user_9,Wop,Lil Keed,fear,fear,0,2025-04-17 08:39:32
+user_9,Murakami,MADE IN HEIGHTS,love,love,0,2025-04-25 09:58:32
+user_9,I Should Go,Levi Kreis,sadness,sadness,0,2025-04-19 19:22:32
+user_9,Extra,Rod Wave,surprise,surprise,0,2025-04-21 14:36:32
+user_9,NX ICE,Scarlxrd,surprise,surprise,0,2025-05-09 00:17:32
+user_9,We Made It Freestyle,Jay Electronica & JAY-Z,anger,anger,0,2025-04-19 00:40:32
+user_9,In the Stu,Chief Keef,joy,joy,0,2025-04-14 18:23:32
+user_9,To Love You More,Cline Dion,fear,fear,0,2025-04-15 07:11:32
+user_9,Falling Down Juice WRLD Remix,Lil Peep & XXXTENTACION,surprise,surprise,0,2025-04-20 19:54:32
+user_9,Fallin,Lea Salonga,surprise,surprise,0,2025-04-26 15:37:32
+user_9,Broken Cowboy,The Dead South,joy,joy,0,2025-04-19 05:48:32
+user_9,Book Of Love,Air Supply,love,love,0,2025-04-29 02:26:32
+user_9,Georgia And Her Rival,Elvis Costello,sadness,joy,1,2025-04-15 02:09:32
+user_9,Bye Bye Beautiful,Nightwish,surprise,surprise,0,2025-05-04 08:14:32
+user_9,What Did You Expect?,Neck Deep,joy,joy,0,2025-04-16 22:43:32
+user_9,Unsuspecting Hearts,Carrie: The Musical Ensemble,sadness,joy,1,2025-05-06 06:42:32
+user_9,Girl,Phora,sadness,joy,1,2025-04-20 06:18:32
+user_9,Macaroni Time,Chief Keef,anger,anger,0,2025-05-07 04:25:32
+user_9,Deadman,Glasslands,fear,fear,0,2025-04-10 01:42:32
+user_9,40 Days And 40 Nights,Tim McGraw,love,love,0,2025-04-21 22:18:32
+user_9,Show Out,Lud Foe,fear,fear,0,2025-04-14 12:25:32
+user_9,Is Anybody Here?,King Diamond,love,love,0,2025-04-11 01:57:32
+user_9,Cunk,Jack Stauber,fear,fear,0,2025-04-09 19:38:32
+user_9,Awesome,XV,sadness,joy,1,2025-04-12 02:08:32
+user_9,9er Ting,KO,sadness,joy,1,2025-05-06 16:48:32
+user_9,Who,Lauv,surprise,surprise,0,2025-04-22 06:40:32
+user_9,Whistle,D-Block Europe,joy,joy,0,2025-04-18 09:59:32
+user_9,Let True Love Begin,Nat King Cole,love,love,0,2025-04-16 01:30:32
+user_9,Gimme Some Water,Eddie Money,sadness,sadness,0,2025-05-05 05:13:32
+user_9,Death Wish,Terror Jr,love,love,0,2025-04-10 12:35:32
+user_9,All We Really Have Is Now,Antonique Smith,surprise,surprise,0,2025-05-06 09:06:32
+user_9,Fuck It Up,Kamaiyah,love,love,0,2025-05-04 19:56:32
+user_9,Jerusalem New York Berlin,Vampire Weekend,surprise,surprise,0,2025-04-10 14:43:32
+user_9,Yeh Yeh,Georgie Fame,love,love,0,2025-04-20 15:50:32
+user_9,Come Over,Mabel,sadness,joy,1,2025-05-07 05:01:32
+user_9,One More Hour,Tame Impala,joy,joy,0,2025-05-04 01:20:32
+user_9,Be Easy,Wiz Khalifa,joy,joy,0,2025-04-18 15:29:32
+user_9,Paper Trails,DARKSIDE,fear,fear,0,2025-05-03 01:30:32
+user_9,Nobodys Fool,Avril Lavigne,love,love,0,2025-05-05 15:37:32
+user_9,Alabaster Jar,Gateway Worship,anger,joy,1,2025-05-04 10:49:32
+user_9,Think of Me Film Version,Andrew Lloyd Webber,joy,joy,0,2025-04-12 22:22:32
+user_9,Blooming 18,Ace Of Base,fear,fear,0,2025-05-08 21:48:32
+user_9,Blood in the Water,Shaman's Harvest,joy,joy,0,2025-05-02 20:47:32
+user_9,Black Betty,Ram Jam,love,love,0,2025-05-07 09:50:32
+user_9,Dirty Wine,Wizkid,love,love,0,2025-04-17 11:28:32
+user_9,Mystic Rhythms,Rush,sadness,sadness,0,2025-05-07 17:40:32
+user_9,Go Tell It On The Mountain,Simon & Garfunkel,anger,joy,1,2025-04-29 16:44:32
+user_9,Troubled Land,John Mellencamp,anger,anger,0,2025-04-18 00:38:32
+user_9,Good Luvn,BJ the Chicago Kid,fear,fear,0,2025-04-19 13:42:32
+user_9,My Dawg,OMB Peezy,surprise,surprise,0,2025-04-30 22:02:32
+user_9,Unconditional,Freya Ridings,joy,joy,0,2025-05-04 16:54:32
+user_9,If I Didnt Believe in You,Jason Robert Brown,fear,fear,0,2025-05-04 07:43:32
+user_9,Not Enough Time,INXS,fear,fear,0,2025-04-24 15:05:32
+user_9,Long Road Home,Oneohtrix Point Never,joy,joy,0,2025-05-08 21:31:32
+user_9,Sunrise,ARTY,sadness,joy,1,2025-05-04 05:56:32
+user_9,Isabelle Fly,The Lumineers,sadness,sadness,0,2025-04-30 10:48:32
+user_9,You Ain't Foolin' Nobody,Vince Gill,surprise,surprise,0,2025-04-20 19:47:32
+user_9,Renegade,Paramore,fear,fear,0,2025-04-20 22:02:32
+user_9,1612,Vulfpeck,anger,joy,1,2025-04-28 07:17:32
+user_9,Bop' Til You Drop,Ramones,joy,joy,0,2025-04-21 13:32:32
+user_9,I'm In Love Again,Michael Jackson,love,love,0,2025-04-30 08:16:32
+user_9,I Dont Mind,Sturgill Simpson,joy,joy,0,2025-04-21 03:29:32
+user_9,Foolish Pride,Eminem,anger,anger,0,2025-04-19 13:03:32
+user_9,"Gorilla, You're A Desperado",Warren Zevon,sadness,sadness,0,2025-04-20 12:03:32
+user_9,Drum Dummy,Sheff G,anger,joy,1,2025-04-26 10:50:32
+user_9,TLC,DaBaby,joy,joy,0,2025-04-26 12:42:32
+user_9,Blind Love,Freestyle,love,love,0,2025-04-22 20:09:32
+user_9,Building Bridges,INXS,surprise,surprise,0,2025-05-08 19:12:32
+user_9,Bye Bye Konvict Remix,Mariah Carey,sadness,sadness,0,2025-04-28 20:42:32
+user_9,Wash All Over Me,Madonna,anger,anger,0,2025-04-29 07:27:32
+user_9,One And Only,Adele,fear,fear,0,2025-04-22 12:46:32
+user_9,OLIVIA,Softwilly,sadness,joy,1,2025-04-19 18:08:32
+user_9,Another Bitch Street Version,U.N.L.V.,sadness,sadness,0,2025-04-15 09:04:32
+user_9,Holy Mountain,AKA & Anatii,surprise,surprise,0,2025-04-23 07:38:32
+user_9,I Dreamed A Dream,Glee,love,love,0,2025-04-22 10:56:32
+user_9,Favorite Nigga,REASON,sadness,sadness,0,2025-04-14 17:36:32
+user_9,Dribble2Much,Dribble2Much,sadness,sadness,0,2025-05-05 07:56:32
+user_9,Soar Loser,Prada Mane,surprise,surprise,0,2025-05-07 02:44:32
+user_9,Junk The Magic Dragon,Marilyn Manson,anger,joy,1,2025-04-28 21:54:32
+user_9,Younger,The Hails,joy,joy,0,2025-04-23 14:23:32
+user_9,Clear da Air,Moneybagg Yo,fear,fear,0,2025-05-03 07:52:32
+user_9,Modern Girls Old Fashion Men,Regina Spektor & The Strokes,surprise,surprise,0,2025-04-16 12:02:32
+user_9,City Song,Howard Jones,surprise,surprise,0,2025-04-18 01:56:32
+user_9,Song of a Sinner,Top Drawer,anger,anger,0,2025-04-16 11:56:32
+user_9,Hold On,SBTRKT,surprise,surprise,0,2025-05-02 10:56:32
+user_9,Carly Rose,Ka'au Crater Boys,love,love,0,2025-04-16 05:30:32
+user_9,River,Ochman,love,love,0,2025-04-30 03:41:32
+user_9,DPR LIVE - Jam Butterfly Ft. EaJ Crush English Translation,Genius English Translations,fear,fear,0,2025-04-25 13:46:32
+user_9,If Love Ain't There,Nat King Cole,love,love,0,2025-04-11 19:10:32
+user_9,Worrywort,Radiohead,surprise,surprise,0,2025-05-07 11:01:32
+user_9,Women Is Losers,Janis Joplin,love,love,0,2025-04-16 07:44:32

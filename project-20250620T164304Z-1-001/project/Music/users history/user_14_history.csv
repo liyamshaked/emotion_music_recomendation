@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_14,Dialogue (Part 2),Chicago,anger,joy,1,2025-05-08 00:14:34
+user_14,Sexy Grinder,Archagathus,joy,joy,0,2025-04-27 18:50:34
+user_14,Boomslang,Kublai Khan TX,love,love,0,2025-04-15 19:05:34
+user_14,Healing Love,Cliff Richard,sadness,sadness,0,2025-04-24 22:04:34
+user_14,Erics Trip,Sonic Youth,love,love,0,2025-04-28 04:24:34
+user_14,I'll Be Around,Michael W. Smith,anger,anger,0,2025-04-18 00:17:34
+user_14,Work Hard,Migos,love,love,0,2025-04-20 14:50:34
+user_14,Blossom,James Taylor,fear,fear,0,2025-04-28 05:30:34
+user_14,Dancin KRONO Remix,Aaron Smith,love,love,0,2025-04-15 08:17:34
+user_14,In the A,Big Boi,surprise,surprise,0,2025-05-08 17:57:34
+user_14,Takin' The Easy Way Out,Leo Sayer,love,love,0,2025-04-19 01:27:34
+user_14,Quarter Past Four,Avriel & the Sequoias,anger,joy,1,2025-04-26 18:05:34
+user_14,Like A California King,Everclear,fear,fear,0,2025-04-11 12:29:34
+user_14,Baby You're Dynamite,Cliff Richard,sadness,sadness,0,2025-04-21 21:38:34
+user_14,FIJI,Lil Pump,joy,joy,0,2025-05-01 10:38:34
+user_14,Stand Up,T.I.,sadness,sadness,0,2025-05-06 12:07:34
+user_14,Little Girl Blue,Janis Joplin,surprise,surprise,0,2025-05-01 15:25:34
+user_14,Felix Brothers,Gucci Mane & Peewee Longway,sadness,sadness,0,2025-04-19 18:58:34
+user_14,Stoned,Old 97's,fear,fear,0,2025-04-28 18:59:34
+user_14,Ready For The Victory,Modern Talking,joy,joy,0,2025-04-13 21:43:34
+user_14,Freedom of Speech,Wale,joy,joy,0,2025-04-26 06:35:34
+user_14,Change,RM & Wale,sadness,sadness,0,2025-04-17 10:09:34
+user_14,Love Song,Bad Luck.,joy,joy,0,2025-04-18 03:17:34
+user_14,Time of Your Life Remix,Kid Ink,joy,joy,0,2025-05-03 10:01:34
+user_14,Electric,StarBoy (Pop),fear,fear,0,2025-05-01 05:30:34
+user_14,Days Of The Week,Stone Temple Pilots,sadness,sadness,0,2025-04-14 13:18:34
+user_14,Moon Boots,The Script,sadness,sadness,0,2025-04-15 12:20:34
+user_14,Spider Dance,Man on the Internet,anger,joy,1,2025-05-05 04:07:34
+user_14,Frozen,Sabrina Claudio,love,love,0,2025-04-17 09:25:34
+user_14,Prom Night,Chance the Rapper,fear,fear,0,2025-04-13 19:53:34
+user_14,Dwelling Places,Hillsong United,sadness,joy,1,2025-04-14 22:40:34
+user_14,One More Shot,Stalley,sadness,joy,1,2025-04-19 21:53:34
+user_14,Let Me In,Code Orange,joy,joy,0,2025-04-26 13:18:34
+user_14,Loner,YUNGBLUD,fear,fear,0,2025-04-10 02:26:34
+user_14,Deadly Sting Suite,Scorpions,love,love,0,2025-04-30 01:32:34
+user_14,Mythological Beauty,Big Thief,sadness,joy,1,2025-05-04 23:08:34
+user_14,Child Come Away,Kim Wilde,sadness,joy,1,2025-04-22 02:06:34
+user_14,Anna-Molly,Incubus,surprise,surprise,0,2025-05-05 17:20:34
+user_14,Lebron James,Yo Gotti,surprise,surprise,0,2025-04-17 02:57:34
+user_14,Colour Of The Sun,Jimmy Buffett,surprise,surprise,0,2025-04-25 12:34:34
+user_14,Love For Sale,Cole Porter,love,love,0,2025-04-22 11:00:34
+user_14,Umma Do Me Remix,Rocko,anger,anger,0,2025-04-22 01:14:34
+user_14,Tell It Like It is,Aaron Neville,joy,joy,0,2025-05-08 17:02:34
+user_14,Aint No Us,Niykee Heaton,love,love,0,2025-04-25 00:54:34
+user_14,A Praise Chorus,Jimmy Eat World,love,love,0,2025-04-13 15:30:34
+user_14,DARE,Gorillaz,love,love,0,2025-04-29 06:16:34
+user_14,Everything Youve Ever Dreamed,Arianne Schreiber,fear,fear,0,2025-04-17 06:24:34
+user_14,One Day at a Time,Eagles,fear,fear,0,2025-04-11 06:53:34
+user_14,We Dont Need Another Song About California,My Chemical Romance,sadness,sadness,0,2025-04-25 00:41:34
+user_14,Miracle,Celine Dion,surprise,surprise,0,2025-04-24 14:10:34
+user_14,Gave Me Something,Jess Glynne,sadness,joy,1,2025-04-20 19:29:34
+user_14,Seven Faces,Slayer,sadness,sadness,0,2025-04-14 05:54:34
+user_14,Gumboots,Paul Simon,surprise,surprise,0,2025-04-26 06:50:34
+user_14,Hole in the Sun,Raney Shockne,love,love,0,2025-04-19 03:07:34
+user_14,God Made Me,The Mississippi Mass Choir,love,love,0,2025-04-20 08:16:34
+user_14,Pull Up N Wreck,Big Sean & Metro Boomin,love,love,0,2025-04-28 03:13:34
+user_14,Dope Boy Magic,Yung Joc,sadness,joy,1,2025-04-25 23:47:34
+user_14,Cold Gin,Kiss,fear,fear,0,2025-04-30 19:16:34
+user_14,Jingle Bells,Christmas Songs,fear,fear,0,2025-04-16 06:37:34
+user_14,Miracle Goodnight,David Bowie,fear,fear,0,2025-04-14 05:40:34
+user_14,Open Letter,Kool A.D.,joy,joy,0,2025-04-29 19:18:34
+user_14,The Light,Headie One,love,love,0,2025-05-02 16:35:34
+user_14,Keep Your Hands To Yourself,Hank Williams Jr.,love,love,0,2025-05-06 19:06:34
+user_14,Where Did All the People Go?,FUR,fear,fear,0,2025-04-11 20:30:34
+user_14,UNDERTALE RAP GENOCIDE/PACIFIST,Rustage,surprise,surprise,0,2025-05-07 01:39:34
+user_14,Lookout,Cheap Trick,love,love,0,2025-04-17 23:53:34
+user_14,Traffic Lights,Lena,fear,fear,0,2025-04-17 21:43:34
+user_14,Sign of the Times,The Belle Stars,fear,fear,0,2025-04-19 11:23:34
+user_14,Be Happy,R. Kelly,surprise,surprise,0,2025-05-05 23:13:34
+user_14,She Belongs To Me,Ramones,joy,joy,0,2025-04-24 09:22:34
+user_14,Heavy Day,Daisuke Ishiwatari,surprise,surprise,0,2025-04-13 04:22:34
+user_14,Heart On My Sleeve,Merkules,fear,fear,0,2025-04-30 23:13:34
+user_14,Apathy Is A Cold Body,Poison the Well,joy,joy,0,2025-04-25 06:03:34
+user_14,No Friends,Lil Baby,fear,fear,0,2025-04-20 17:04:34
+user_14,My Song,Jerry Cantrell,anger,anger,0,2025-04-16 18:31:34
+user_14,Hiding,Chief Keef,anger,joy,1,2025-04-30 23:57:34
+user_14,The Chrome Shoppe - Interlude,Janelle Mone,anger,joy,1,2025-04-28 22:15:34
+user_14,La Vie En Rose,Louis Armstrong,sadness,joy,1,2025-04-26 11:32:34
+user_14,Waiting for the World to End,Rakim,surprise,surprise,0,2025-05-07 04:54:34
+user_14,Problems,AZ,anger,joy,1,2025-04-29 23:05:34
+user_14,Evil Woman,Quiet Riot,surprise,surprise,0,2025-04-21 19:46:34
+user_14,Heaven Is,Omd,fear,fear,0,2025-04-16 18:31:34
+user_14,Anti,H.E.R.,surprise,surprise,0,2025-04-22 23:50:34
+user_14,Fashion Bomb,Eurythmics,love,love,0,2025-04-21 02:38:34
+user_14,Elvis Song,Maisie Peters,surprise,surprise,0,2025-04-29 16:26:34
+user_14,The Castle Builders,La Dispute,fear,fear,0,2025-04-26 19:01:34
+user_14,Scott Green,Dune Rats,sadness,joy,1,2025-04-21 15:30:34
+user_14,88,The Cool Kids,fear,fear,0,2025-05-07 01:59:34
+user_14,I See You,Dirty Projectors,fear,fear,0,2025-04-14 17:56:34
+user_14,So Fine,Sean Paul,sadness,joy,1,2025-04-23 15:34:34
+user_14,I Could Be the One,Avicii vs Nicky Romero,fear,fear,0,2025-05-05 16:03:34
+user_14,Someone Tonight,Reo Speedwagon,surprise,surprise,0,2025-04-20 06:50:34
+user_14,Avalanche,Nick Cave,surprise,surprise,0,2025-05-07 18:57:34
+user_14,Edward Scissorhands,Pivot Gang,sadness,sadness,0,2025-04-09 20:58:34
+user_14,The Only Living Boy In New York,Paul Simon,joy,joy,0,2025-04-10 01:14:34
+user_14,All Or Nothing,State Champs,anger,anger,0,2025-04-10 08:09:34
+user_14,Bummin Cigarettes,Maren Morris,joy,joy,0,2025-05-07 12:25:34
+user_14,Escape,Metallica,anger,joy,1,2025-04-16 15:10:34
+user_14,"Oh, What A Silent Night",Randy Travis,sadness,joy,1,2025-05-05 08:19:34
+user_14,Waking Up with You,Armin van Buuren,fear,fear,0,2025-05-09 11:00:34

@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_22,Soho,WESTSIDE BOOGIE,joy,joy,0,2025-05-03 04:49:38
+user_22,Back It Up,Trap Beckham,surprise,surprise,0,2025-04-11 12:15:38
+user_22,Serpentine Fire,"Earth, Wind & Fire",sadness,joy,1,2025-04-09 21:55:38
+user_22,All White Nikes,Internet Money,anger,anger,0,2025-04-25 07:52:38
+user_22,Because Ti Amo (Sung At Her Concert),Christina Aguilera,surprise,surprise,0,2025-04-22 14:30:38
+user_22,Now Its On,Tech N9ne,joy,joy,0,2025-05-04 20:19:38
+user_22,Love Made Me Do It,Eric Bellinger,love,love,0,2025-04-26 01:36:38
+user_22,Nobody Else,Backstreet Boys,sadness,sadness,0,2025-04-12 08:44:38
+user_22,What Kind of Love,Childish Gambino,surprise,surprise,0,2025-05-06 00:50:38
+user_22,5 on the Dot,Idontknowjeffery,anger,joy,1,2025-05-07 22:22:38
+user_22,Paper,Queen Latifah,fear,fear,0,2025-04-11 06:42:38
+user_22,Never Get Around To It,Bryan White,fear,fear,0,2025-04-16 19:24:38
+user_22,I Dont Mind,Usher,anger,joy,1,2025-04-18 18:52:38
+user_22,Save Your Tears Demo,The Weeknd,surprise,surprise,0,2025-04-14 13:45:38
+user_22,Dog In a Cage,convolk,surprise,surprise,0,2025-04-13 09:45:38
+user_22,Strawberries,Caamp,anger,joy,1,2025-04-26 15:50:38
+user_22,Detangler,Nickelback,fear,fear,0,2025-04-28 09:05:38
+user_22,Rockin' Chair Money,Hank Williams,anger,anger,0,2025-05-07 05:56:38
+user_22,The Routine,Ces Cru,fear,fear,0,2025-04-17 20:17:38
+user_22,Electricity,Pet Shop Boys,fear,fear,0,2025-04-13 22:23:38
+user_22,Sick Joke,Neck Deep,sadness,joy,1,2025-04-19 20:19:38
+user_22,Me,Beauty And The Beast,sadness,joy,1,2025-04-21 07:31:38
+user_22,Mission,Qveen Herby,fear,fear,0,2025-04-28 01:10:38
+user_22,WhatChu Know Bout Me,Nicki Minaj,surprise,surprise,0,2025-04-16 00:33:38
+user_22,Emerencia,King Diamond,joy,joy,0,2025-05-02 23:38:38
+user_22,Master of the Seas,Peter Dinklage,sadness,joy,1,2025-04-14 09:32:38
+user_22,My Microphone,Iseo & Dodosound,sadness,sadness,0,2025-04-28 06:39:38
+user_22,Coastin,Nebu Kiniza,surprise,surprise,0,2025-04-13 13:33:38
+user_22,Nobodys Business,Rihanna,joy,joy,0,2025-05-03 05:58:38
+user_22,O Kiddi K,Ocean Wisdom,fear,fear,0,2025-04-23 05:55:38
+user_22,Never Know,NAV,sadness,joy,1,2025-04-17 07:07:38
+user_22,From Hank to Hendrix,Neil Young,love,love,0,2025-05-09 08:58:38
+user_22,Endless Highway,Bob Dylan,love,love,0,2025-04-15 17:22:38
+user_22,Hang On,Lecrae,joy,joy,0,2025-05-07 02:49:38
+user_22,Hoodrich,Young Smokes,love,love,0,2025-04-27 08:55:38
+user_22,All That Love Is,Halfnoise,surprise,surprise,0,2025-05-03 07:41:38
+user_22,The Glory,Kanye West,love,love,0,2025-05-04 17:49:38
+user_22,Deserve It All,Popcaan,love,love,0,2025-04-23 07:09:38
+user_22,Reminiscing,VEDO,love,love,0,2025-04-15 13:55:38
+user_22,Angel Of The Morning,Nina Simone,sadness,sadness,0,2025-04-19 10:48:38
+user_22,Crazy,Kelly Rowland,fear,fear,0,2025-04-12 05:34:38
+user_22,You Got To Know How,Bonnie Raitt,surprise,surprise,0,2025-04-10 11:42:38
+user_22,Nobody Knows Me,Madonna,sadness,sadness,0,2025-04-25 23:07:38
+user_22,Blink,Blue Scholars,love,love,0,2025-04-29 04:37:38
+user_22,Far Cry,Jack Garratt,fear,fear,0,2025-04-22 20:47:38
+user_22,Officer Down,Hannah Ellis,anger,anger,0,2025-04-20 01:44:38
+user_22,Entangled,Genesis,joy,joy,0,2025-05-09 14:42:38
+user_22,Right Now,Evander Griiim,anger,anger,0,2025-04-24 13:16:38
+user_22,Marry The Man Today,Frank Loesser,fear,fear,0,2025-04-23 18:57:38
+user_22,Wild Child,Heart,anger,joy,1,2025-04-25 17:57:38
+user_22,Never Slow Down,Caskey,surprise,surprise,0,2025-04-28 19:46:38
+user_22,Fabulous,High School Musical,joy,joy,0,2025-04-29 12:55:38
+user_22,Amazing Story,Kevin Gates,love,love,0,2025-04-23 19:10:38
+user_22,What Do You Want,Culture Club,love,love,0,2025-04-27 22:37:38
+user_22,I Live For You,Hillsong United,love,love,0,2025-04-19 22:53:38
+user_22,Choices,Asher Roth,anger,anger,0,2025-05-04 04:23:38
+user_22,Something to Talk About,Bonnie Raitt,anger,anger,0,2025-05-05 08:19:38
+user_22,Don't Hold The Wall,Justin Timberlake,joy,joy,0,2025-04-28 15:03:38
+user_22,Back Baby,Jessica Pratt,love,love,0,2025-05-02 18:20:38
+user_22,God Particle,Army of the Pharaohs,sadness,joy,1,2025-04-20 02:34:38
+user_22,Never,"The Earls, Larry Chance",surprise,surprise,0,2025-04-21 00:10:38
+user_22,Holding Out for a Hero,Bonnie Tyler,anger,joy,1,2025-04-12 22:21:38
+user_22,Ride with Me,Pink Sweat$,joy,joy,0,2025-05-08 21:55:38
+user_22,Billy,Lauv,sadness,joy,1,2025-04-30 03:54:38
+user_22,Fuck That Check Up,Meek Mill,love,love,0,2025-05-04 04:03:38
+user_22,Sweet Lady Jane,Engelbert Humperdinck,anger,joy,1,2025-04-25 05:05:38
+user_22,Little Bit Of Soul,Bon Jovi,anger,anger,0,2025-04-20 16:37:38
+user_22,Stewie Griffin,Logic,surprise,surprise,0,2025-05-07 03:36:38
+user_22,Some Bridges,Jackson Browne,sadness,sadness,0,2025-04-23 12:19:38
+user_22,New Day,JAY-Z & Kanye West,anger,joy,1,2025-04-22 05:25:38
+user_22,The Diary,Hollywood Undead,anger,anger,0,2025-05-03 21:50:38
+user_22,I Dream in Southern,Kaleb Lee,love,love,0,2025-05-02 13:34:38
+user_22,Playing God,Bullet for My Valentine,love,love,0,2025-04-19 00:16:38
+user_22,Know Yourself,Drake,surprise,surprise,0,2025-04-27 03:39:38
+user_22,Ding-A-Ling,Stefflon Don,joy,joy,0,2025-04-10 17:04:38
+user_22,Always On the Run,Lenny Kravitz,sadness,joy,1,2025-05-01 19:07:38
+user_22,Expectation,Tame Impala,joy,joy,0,2025-04-16 00:34:38
+user_22,Jean-Michel,Cordae,joy,joy,0,2025-04-24 07:54:38
+user_22,Sun Kissed,Lxst,joy,joy,0,2025-05-07 23:17:38
+user_22,Delilah,Queen,joy,joy,0,2025-04-30 13:31:38
+user_22,Mehndi Hai Rachnewali,A.R. Rahman,fear,fear,0,2025-04-29 22:15:38
+user_22,Lead Me Home,Jamie N Commons,joy,joy,0,2025-05-06 04:21:38
+user_22,Mankind,Helloween,fear,fear,0,2025-04-20 05:20:38
+user_22,Summer,Real Friends,fear,fear,0,2025-04-17 03:45:38
+user_22,New Shit,Young Money,surprise,surprise,0,2025-05-04 16:54:38
+user_22,Intro (Forgotten Freshness Vol. 4),Insane Clown Posse,joy,joy,0,2025-04-14 10:34:38
+user_22,An Evening Prayer,Jim Reeves,love,love,0,2025-04-12 22:30:38
+user_22,She Was Mine,AJ Rafael,anger,anger,0,2025-04-24 17:04:38
+user_22,Hurt,Christina Aguilera,sadness,sadness,0,2025-04-14 17:25:38
+user_22,Food Around The Corner,Green Day,fear,fear,0,2025-04-26 02:12:38
+user_22,He Lives,Israel Houghton,fear,fear,0,2025-04-30 15:53:38
+user_22,Blood Walk,Jay Rock,anger,anger,0,2025-05-02 01:54:38
+user_22,Be Mine,Amandla Stenberg,sadness,sadness,0,2025-04-26 19:41:38
+user_22,Richard Simmons,Yung Gravy,anger,joy,1,2025-05-06 03:15:38
+user_22,Fool,Nadine Shah,anger,joy,1,2025-04-10 07:32:38
+user_22,Do It Again,Tori Amos,love,love,0,2025-04-12 07:45:38
+user_22,I wrote a song using only your instagram comments,Elise Ecklund,anger,anger,0,2025-05-02 01:46:38
+user_22,Simple Man,The Grouch,joy,joy,0,2025-04-12 08:55:38
+user_22,Underwater Malibu,$UICIDEBOY$,joy,joy,0,2025-04-19 19:41:38
+user_22,When I Was Done Dying,Dan Deacon,fear,fear,0,2025-05-08 07:24:38

@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_3,The Song of the Summer,Seven Bucks,surprise,surprise,0,2025-04-16 12:06:28
+user_3,Keep on Singin My Song,Christina Aguilera,surprise,surprise,0,2025-05-03 12:41:28
+user_3,ENHYPEN - Tamed-Dashed English Translation,Genius English Translations,anger,anger,0,2025-04-13 06:02:28
+user_3,Up-Top Baby,YBN Nahmir,anger,anger,0,2025-05-07 09:24:28
+user_3,Juicy,Juice WRLD,anger,anger,0,2025-04-23 23:20:28
+user_3,Beautiful Goodbye,Maroon 5,love,love,0,2025-04-12 13:54:28
+user_3,Better for You,Tank,surprise,surprise,0,2025-04-11 17:33:28
+user_3,Time,Pretenders,fear,fear,0,2025-04-20 17:04:28
+user_3,Big Fish,Vince Staples,anger,joy,1,2025-05-02 09:17:28
+user_3,Suicide,AYLEK$,surprise,surprise,0,2025-04-30 19:45:28
+user_3,We Both Reached For The Gun,Christine Baranski,joy,joy,0,2025-04-20 09:28:28
+user_3,That's When He Told Her,Proclaimers,fear,fear,0,2025-05-07 22:08:28
+user_3,Pep Rally,Cast - ZOMBIES,surprise,surprise,0,2025-04-17 20:15:28
+user_3,Standing Outside The Fire,Garth Brooks,sadness,joy,1,2025-04-20 11:49:28
+user_3,Antifa,Ministry,anger,anger,0,2025-05-06 11:01:28
+user_3,Gold,Bondax,surprise,surprise,0,2025-04-14 02:04:28
+user_3,Just Begun,Reflection Eternal,sadness,joy,1,2025-04-15 11:55:28
+user_3,SEMICOLON,The Lonely Island,sadness,sadness,0,2025-05-06 13:45:28
+user_3,Demon Lover,DEVILISH TRIO,sadness,sadness,0,2025-05-02 05:04:28
+user_3,Forever In Blue Jeans,Neil Diamond,sadness,joy,1,2025-04-19 15:08:28
+user_3,Never Gonna Give You Up,Rick Astley,love,love,0,2025-05-06 22:43:28
+user_3,TRAP METAL,Lil Darkie,joy,joy,0,2025-04-15 09:34:28
+user_3,Sic 'Em On A Chicken,Zac Brown Band,joy,joy,0,2025-05-09 17:35:28
+user_3,The Dirty Jobs,The Who,fear,fear,0,2025-05-04 20:23:28
+user_3,You Miss Me,Katy Perry,anger,anger,0,2025-04-11 18:12:28
+user_3,Love Sex Magic,Ciara,fear,fear,0,2025-04-18 12:45:28
+user_3,Sacrifice,Zella Day,joy,joy,0,2025-04-24 14:37:28
+user_3,Kiss Kiss,Chris Brown,joy,joy,0,2025-05-03 03:00:28
+user_3,Huckleberry,Upchurch,love,love,0,2025-04-28 04:17:28
+user_3,Worry,Widespread Panic,joy,joy,0,2025-05-05 21:18:28
+user_3,Panacea,Rush,love,love,0,2025-04-26 16:31:28
+user_3,Thugger,Two tyme,surprise,surprise,0,2025-05-05 10:26:28
+user_3,Ambition For Cash,Key Glock,fear,fear,0,2025-04-23 16:13:28
+user_3,Paradise,Bazzi,joy,joy,0,2025-04-16 07:43:28
+user_3,Graduation Day,Kanye West,love,love,0,2025-04-17 07:58:28
+user_3,For A Rocker,Jackson Browne,surprise,surprise,0,2025-05-06 13:20:28
+user_3,I Feel Best When Im Alone,Michael Seyer,sadness,sadness,0,2025-04-18 13:03:28
+user_3,Shimmer,Fuel,joy,joy,0,2025-04-22 04:13:28
+user_3,Fleece,Crystal Castles,joy,joy,0,2025-04-25 01:49:28
+user_3,Boomerang,Kiss,joy,joy,0,2025-05-04 00:23:28
+user_3,She Fades Away,Alphaville,joy,joy,0,2025-04-17 07:31:28
+user_3,Last One Left,Tom P,surprise,surprise,0,2025-05-02 16:11:28
+user_3,Thoughts,Moneybagg Yo,anger,joy,1,2025-05-04 00:51:28
+user_3,This Is the House That Doubt Built,A Day To Remember,fear,fear,0,2025-05-06 17:05:28
+user_3,Cabin Fever,Nick Cave & The Bad Seeds,joy,joy,0,2025-05-04 09:05:28
+user_3,Eve Of Destruction,Bob Dylan,fear,fear,0,2025-05-08 05:06:28
+user_3,Death Hole,Precious Jewel Amor,fear,fear,0,2025-04-20 16:12:28
+user_3,Caroline,Status Quo,joy,joy,0,2025-04-29 06:23:28
+user_3,LOVE IN THE DARK,Jessie Reyez,joy,joy,0,2025-04-19 15:30:28
+user_3,Pick U Up,Foster the People,joy,joy,0,2025-04-13 23:09:28
+user_3,Ice Water,Raekwon,sadness,joy,1,2025-05-09 05:52:28
+user_3,Sick,SALEM,surprise,surprise,0,2025-04-14 13:07:28
+user_3,Foreign Whip,Lil Skies,fear,fear,0,2025-04-30 17:04:28
+user_3,Temporary Secretary,Paul McCartney,love,love,0,2025-05-06 10:16:28
+user_3,If I Didnt Have You,Vista Kicks,surprise,surprise,0,2025-04-16 07:04:28
+user_3,Lift You High Live,Housefires,joy,joy,0,2025-05-03 08:47:28
+user_3,Change,Rich The Kid,joy,joy,0,2025-05-01 08:34:28
+user_3,I Love You All The Time,Imagine Dragons,anger,anger,0,2025-04-23 03:27:28
+user_3,My Gang,Cheap Trick,love,love,0,2025-05-04 12:36:28
+user_3,Never Late,Stealth HB,sadness,joy,1,2025-04-22 13:03:28
+user_3,Better,SG Lewis & Clairo,surprise,surprise,0,2025-04-22 12:22:28
+user_3,Please Don't Hurt My Baby,Stevie Wonder,love,love,0,2025-04-22 23:44:28
+user_3,I Wanna Rock,Snoop Dogg,sadness,joy,1,2025-04-11 05:56:28
+user_3,Be Careful It's My Heart,Bing Crosby,love,love,0,2025-04-29 05:37:28
+user_3,FEBRUARY,Moneybagg Yo,sadness,sadness,0,2025-05-01 10:46:28
+user_3,How Long (Betcha' Got A Chick On The Side),Queen Latifah,joy,joy,0,2025-05-08 21:12:28
+user_3,Amarillo Sky,Jason Aldean,joy,joy,0,2025-04-22 07:56:28
+user_3,Mimpi Yang Terbeli,Iwan Fals,love,love,0,2025-04-10 17:53:28
+user_3,Tribe,J. Cole & Bas,anger,joy,1,2025-04-19 20:53:28
+user_3,Friend Is a Four Letter Word,CAKE,fear,fear,0,2025-04-16 10:48:28
+user_3,Where the Slime Live,Morbid Angel,love,love,0,2025-04-28 03:46:28
+user_3,Life Is Golden,Suede,sadness,joy,1,2025-04-11 00:42:28
+user_3,Cruise,Florida Georgia Line,surprise,surprise,0,2025-04-11 22:10:28
+user_3,Invisible,Taylor Swift,fear,fear,0,2025-04-25 16:09:28
+user_3,Beast Of Burden,Rolling Stones,love,love,0,2025-04-14 10:35:28
+user_3,Fuel to the Fire,Rationale,joy,joy,0,2025-05-01 18:49:28
+user_3,Bird Flew By,Nick Drake,anger,anger,0,2025-04-19 12:20:28
+user_3,Mess on a Mission,Liars,fear,fear,0,2025-04-29 16:48:28
+user_3,DoZo,Puscifer,love,love,0,2025-04-18 06:59:28
+user_3,Youre Not My Kind,Five Finger Death Punch,anger,anger,0,2025-04-12 14:39:28
+user_3,I Can Feel It Calling,Trophy Eyes,love,love,0,2025-04-25 06:43:28
+user_3,Steal,Maribou State,fear,fear,0,2025-04-17 17:40:28
+user_3,Hydra,Toto,anger,anger,0,2025-04-21 17:15:28
+user_3,Still Standing,Monica,anger,anger,0,2025-05-04 18:31:28
+user_3,Baller,Lil Durk,sadness,sadness,0,2025-05-03 00:44:28
+user_3,Love to See Me Fail,Bars and Melody,joy,joy,0,2025-04-13 22:56:28
+user_3,Innocence,Inside Out,fear,fear,0,2025-05-01 13:41:28
+user_3,M.I.A.,Capital STEEZ,fear,fear,0,2025-04-25 20:50:28
+user_3,No Angel,Oliver Francis,joy,joy,0,2025-04-26 02:13:28
+user_3,Cashin Out,Ca$h Out,anger,joy,1,2025-04-11 23:21:28
+user_3,Kid Goku,Mishaal,love,love,0,2025-04-22 20:45:28
+user_3,When the Worlds on Fire,The Carter Family,surprise,surprise,0,2025-05-06 01:46:28
+user_3,Stevie Nix,The Hold Steady,anger,joy,1,2025-04-29 00:06:28
+user_3,Wild Child,The Doors,fear,fear,0,2025-04-26 15:24:28
+user_3,Be Still,Travis Greene,sadness,joy,1,2025-04-12 23:28:28
+user_3,Dead Roses Never Wanted You,Kid Buu,sadness,sadness,0,2025-04-17 20:46:28
+user_3,Jesse,James Taylor,joy,joy,0,2025-05-08 13:46:28
+user_3,FIELDHOUSE FREESTYLE,nobigdyl.,anger,joy,1,2025-04-29 10:36:28
+user_3,All Of Them,Rich The Kid & Playboi Carti,fear,fear,0,2025-04-29 01:14:28
+user_3,PTSD,Dreamville & Omen,surprise,surprise,0,2025-04-10 02:05:28

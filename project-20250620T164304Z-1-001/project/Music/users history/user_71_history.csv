@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_71,Bruises,Lewis Capaldi,surprise,surprise,0,2025-04-17 11:21:01
+user_71,Lovely,Twenty One Pilots,love,love,0,2025-04-17 13:36:01
+user_71,No More / No Way At All Interlude,YFN Lucci,love,love,0,2025-04-20 13:16:01
+user_71,Clear My Mind Remix,Jhen Aiko,anger,joy,1,2025-05-05 12:28:01
+user_71,Without Love,Alice Glass,anger,anger,0,2025-04-13 09:03:01
+user_71,The Sound Of North America,Beautiful South,anger,anger,0,2025-05-04 13:13:01
+user_71,When She Loved Me,Sarah McLachlan,anger,anger,0,2025-04-16 11:33:01
+user_71,Best Be Believing,AlunaGeorge,joy,joy,0,2025-04-20 23:23:01
+user_71,"Here, There And Everywhere",Paul McCartney,fear,fear,0,2025-04-14 23:29:01
+user_71,Farewell,Eminem,anger,anger,0,2025-04-24 03:26:01
+user_71,Semi-Charmed Life,Dance Gavin Dance,fear,fear,0,2025-04-09 22:05:01
+user_71,Woke Up Late,Drax Project,surprise,surprise,0,2025-04-24 17:23:01
+user_71,St. Stephen,The Grateful Dead,sadness,joy,1,2025-04-28 03:29:01
+user_71,Too Lost in You,Sugababes,joy,joy,0,2025-05-04 16:52:01
+user_71,Back to Me,Daya,sadness,joy,1,2025-05-05 18:39:01
+user_71,Pretty Real,Mardial,joy,joy,0,2025-04-15 17:48:01
+user_71,Renegades,Five Iron Frenzy,anger,anger,0,2025-04-17 10:00:01
+user_71,Anything But Sober,Allday,surprise,surprise,0,2025-04-15 19:02:01
+user_71,Beers and Sunshine,Darius Rucker,anger,joy,1,2025-04-21 16:12:01
+user_71,Jump Around,"Fear, and Loathing in Las Vegas",anger,anger,0,2025-04-12 04:39:01
+user_71,Relapse,Marc E. Bassy,sadness,joy,1,2025-04-19 18:41:01
+user_71,Worth It,Ann Marie,love,love,0,2025-04-30 03:53:01
+user_71,Antifa,Ministry,joy,joy,0,2025-04-20 08:34:01
+user_71,Naked,Avril Lavigne,joy,joy,0,2025-04-16 10:37:01
+user_71,Hurts Sometimes,SLANDER & Fairlane,love,love,0,2025-04-22 02:18:01
+user_71,Set Me Free,Eden (ISR) -,sadness,joy,1,2025-05-08 20:59:01
+user_71,Stretch Out And Wait,Smiths,joy,joy,0,2025-04-19 15:40:01
+user_71,If You Can Dream,"Christie Houser, Susie Stevens, Lea Salonga, Judy Kuhn, Paige O'Hara, & Jodi Benson",anger,joy,1,2025-05-06 15:14:01
+user_71,Clear Eyes,Domo Genesis,love,love,0,2025-04-19 11:08:01
+user_71,Nah Fi Like,Alkaline,anger,anger,0,2025-04-13 08:06:01
+user_71,Kidding Me,Migos,sadness,sadness,0,2025-04-20 03:30:01
+user_71,NECROMANCER,Jadeci,love,love,0,2025-04-27 17:45:01
+user_71,Essence,Zee Stack,love,love,0,2025-05-02 08:40:01
+user_71,What If?,The Murlocs,joy,joy,0,2025-05-06 12:24:01
+user_71,Past My Prime,Greensky Bluegrass,anger,anger,0,2025-05-03 16:43:01
+user_71,Neighborhood,Vonda Shepard,fear,fear,0,2025-04-10 11:45:01
+user_71,Im Straight,Fetty Wap,anger,anger,0,2025-04-12 03:30:01
+user_71,Under The Water {fg. IV},AllttA,surprise,surprise,0,2025-04-14 11:30:01
+user_71,Like a Child Hiding Behind Your Tombstone,Slothrust,sadness,sadness,0,2025-04-14 03:40:01
+user_71,It Took the Night to Believe,Sunn O))),fear,fear,0,2025-05-06 08:07:01
+user_71,Crazy,Simple Plan,surprise,surprise,0,2025-04-20 01:47:01
+user_71,All We Got,DeM atlaS,fear,fear,0,2025-04-30 02:07:01
+user_71,No Understand,YoungBoy Never Broke Again,sadness,joy,1,2025-04-18 13:33:01
+user_71,Take Off All Your Cool,Sabrina Carpenter,love,love,0,2025-05-06 06:50:01
+user_71,Pennies from Heaven,Louis Prima,fear,fear,0,2025-04-27 03:49:01
+user_71,Love It Mane,Travis Scott,fear,fear,0,2025-05-05 16:08:01
+user_71,What a Feeling,One Direction,fear,fear,0,2025-04-17 16:43:01
+user_71,Shop Talk,John Prine,surprise,surprise,0,2025-04-17 07:28:01
+user_71,Out of Love,Peter Manos,sadness,sadness,0,2025-04-30 15:23:01
+user_71,Pimpin Aint Easy,Big Daddy Kane,anger,joy,1,2025-04-28 08:37:01
+user_71,Python,AKA,surprise,surprise,0,2025-04-25 10:41:01
+user_71,In Gaol,milo,joy,joy,0,2025-04-10 05:24:01
+user_71,Hard To Move,Triathalon,anger,joy,1,2025-04-30 22:49:01
+user_71,Heavy Metal,Sammy Hagar,fear,fear,0,2025-04-27 10:04:01
+user_71,Intro Perfect Ten,Mustard,sadness,sadness,0,2025-05-03 19:23:01
+user_71,Search Me Up Remix,Lil Toe,joy,joy,0,2025-05-05 22:58:01
+user_71,4 3 2 1 Original Verse,Canibus,joy,joy,0,2025-04-30 18:28:01
+user_71,Unlistenable,The Palmer Squares,surprise,surprise,0,2025-04-20 05:36:01
+user_71,My Drink N My 2 Step Remix,Cassidy,surprise,surprise,0,2025-04-12 10:18:01
+user_71,House Party,Eric Bellinger,joy,joy,0,2025-04-15 20:09:01
+user_71,Car Crash,IDLES,love,love,0,2025-05-04 11:48:01
+user_71,Rainy Days,Lucky3rd,love,love,0,2025-04-11 05:17:01
+user_71,Point of No Return,Expos,fear,fear,0,2025-04-26 16:45:01
+user_71,Alma Matters,Morrissey,surprise,surprise,0,2025-04-15 05:04:01
+user_71,Idol,Hollywood Undead,anger,anger,0,2025-05-03 10:32:01
+user_71,When We Do It,Devo,joy,joy,0,2025-04-14 20:12:01
+user_71,Stick to Your Vision,Maestro Fresh Wes,anger,anger,0,2025-04-16 07:30:01
+user_71,TI.PO.TA - Moonlight Avenue,Manu Chao,sadness,joy,1,2025-04-17 05:24:01
+user_71,City Games,Kylie Minogue,surprise,surprise,0,2025-04-19 23:33:01
+user_71,Here Comes Santa Claus,Bob Dylan,love,love,0,2025-04-11 15:44:01
+user_71,Burn The Obedient,Korn,fear,fear,0,2025-05-08 04:35:01
+user_71,America Will Always Stand,Randy Travis,joy,joy,0,2025-05-03 10:57:01
+user_71,World So Cold,Three Days Grace,joy,joy,0,2025-05-05 21:58:01
+user_71,The Ocean,Against Me!,love,love,0,2025-05-01 21:16:01
+user_71,I Remember Everything,John Prine,anger,joy,1,2025-04-10 15:15:01
+user_71,And Your Blood Will Blot Out The Sun,Vinnie Paz,sadness,sadness,0,2025-05-09 16:42:01
+user_71,Da B Side Clean Version,Da Brat,love,love,0,2025-05-05 00:05:01
+user_71,South,Galimatias,love,love,0,2025-04-29 14:52:01
+user_71,Pretty,Col3trane,love,love,0,2025-04-17 00:42:01
+user_71,Love You Too Much,Lucky Daye,love,love,0,2025-04-18 00:05:01
+user_71,Setting Sail,Gary Clark & John Carney,anger,anger,0,2025-05-02 02:25:01
+user_71,Pomegranate,Kota the Friend,joy,joy,0,2025-04-28 08:43:01
+user_71,Yummy Jalebi,Tesher,love,love,0,2025-04-19 11:53:01
+user_71,Just To Know Him,Charles Jenkins & Fellowship Chicago,joy,joy,0,2025-04-26 14:42:01
+user_71,Keep On Movin,5ive,joy,joy,0,2025-05-02 00:07:01
+user_71,Paranoid Eyes,Pink Floyd,sadness,sadness,0,2025-04-19 14:30:01
+user_71,Save Me Some Sugar This Wont Take Long,Midnight Riders,sadness,joy,1,2025-05-06 14:27:01
+user_71,Listen,Nico & Vinz,joy,joy,0,2025-05-03 19:57:01
+user_71,Prostitute,Guns N' Roses,love,love,0,2025-04-26 02:19:01
+user_71,You And Me But Mostly Me,Original Broadway Cast of The Book of Mormon,love,love,0,2025-04-28 01:31:01
+user_71,Till You Lose It All,Lucky Dube,sadness,joy,1,2025-04-13 15:14:01
+user_71,I Can Make It Thru The Days (But Oh Those Lonely Nights),Ray Charles,anger,anger,0,2025-04-16 20:59:01
+user_71,Ooh Na Na Naa Naa,Lil Jon & The East Side Boyz,surprise,surprise,0,2025-05-03 02:07:01
+user_71,Something Happened on the Way to Heaven,Phil Collins,surprise,surprise,0,2025-05-07 20:41:01
+user_71,Bow Wow Wow,FunkDoobiest,anger,anger,0,2025-05-01 23:22:01
+user_71,Awakening,Hillsong United,surprise,surprise,0,2025-04-14 04:15:01
+user_71,Yea Yea,21 Savage,fear,fear,0,2025-04-27 11:51:01
+user_71,Soul With A Capital S,Tower of Power,fear,fear,0,2025-04-22 08:56:01
+user_71,JC,Sonic Youth,anger,joy,1,2025-05-07 01:14:01
+user_71,Pass Me By,Insane Clown Posse,fear,fear,0,2025-05-07 21:02:01

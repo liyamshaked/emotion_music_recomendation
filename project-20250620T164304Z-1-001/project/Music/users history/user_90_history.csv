@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_90,Let the Redeemed,Josh Baldwin,fear,fear,0,2025-04-16 20:45:11
+user_90,Monarchy Of Roses,Red Hot Chili Peppers,fear,fear,0,2025-05-03 15:31:11
+user_90,Houses In Motion,Talking Heads,joy,joy,0,2025-05-07 18:08:11
+user_90,Stinking Rich,MoStack,surprise,surprise,0,2025-04-18 16:09:11
+user_90,Humans Being,Van Halen,surprise,surprise,0,2025-05-02 08:36:11
+user_90,I Believe In You,Kylie Minogue,surprise,surprise,0,2025-04-23 00:42:11
+user_90,Revisionism Street,Bob Seger,fear,fear,0,2025-05-03 05:57:11
+user_90,How Great Medley,Israel & New Breed,anger,joy,1,2025-04-21 07:41:11
+user_90,Catch Release,Jadakiss,love,love,0,2025-04-29 20:12:11
+user_90,GO CRAZY,6ix9ine,love,love,0,2025-05-07 20:07:11
+user_90,Rockstar Shit,BLIND.SEE,surprise,surprise,0,2025-04-27 06:37:11
+user_90,Break the Glass,clipping.,love,love,0,2025-04-27 02:11:11
+user_90,Pretty Little Birds,SZA,sadness,joy,1,2025-04-21 23:04:11
+user_90,Dyed 2WICE,Lancey Foux,fear,fear,0,2025-04-19 12:24:11
+user_90,That Feel,Tom Waits,anger,joy,1,2025-04-10 08:10:11
+user_90,Runaway,Spirix,joy,joy,0,2025-04-21 10:25:11
+user_90,Purgatory,Pat Benatar,sadness,sadness,0,2025-04-27 00:54:11
+user_90,Carvel,John Frusciante,love,love,0,2025-05-07 02:35:11
+user_90,Because You Are,Point Of Grace,anger,joy,1,2025-04-11 12:48:11
+user_90,Shooters,L'A Capone,anger,anger,0,2025-05-02 06:47:11
+user_90,Somebody That I Used To Know,Three Days Grace,joy,joy,0,2025-05-03 14:07:11
+user_90,Hey,Matthew Young,sadness,joy,1,2025-04-21 19:07:11
+user_90,The Letter,Tyga,sadness,sadness,0,2025-05-04 01:41:11
+user_90,Lunacy Fringe,The Used,anger,anger,0,2025-04-19 09:24:11
+user_90,Warning Shot,Kendrick Lamar,joy,joy,0,2025-04-19 03:15:11
+user_90,5 Grand at 8 to 1,$UICIDEBOY$,love,love,0,2025-04-24 06:45:11
+user_90,Offended,Juice Armani,fear,fear,0,2025-05-04 10:35:11
+user_90,Tip Of My Tongue,Kelly Clarkson,joy,joy,0,2025-04-10 12:49:11
+user_90,When Will My Life Begin Reprise 1,Mandy Moore,anger,joy,1,2025-04-11 13:22:11
+user_90,McNasty Filth,Jaylib,sadness,joy,1,2025-04-25 02:34:11
+user_90,Nobody But Me,Human Beinz,joy,joy,0,2025-04-13 15:49:11
+user_90,Jump Around,Insane Clown Posse,sadness,sadness,0,2025-04-14 05:43:11
+user_90,It Must Be Nice,Pitbull,sadness,joy,1,2025-04-21 03:29:11
+user_90,Guarding the Gates,Lauryn Hill,anger,joy,1,2025-05-04 13:37:11
+user_90,Youre the Best,Joe Esposito,surprise,surprise,0,2025-05-07 21:37:11
+user_90,Slow Jam,Usher,anger,anger,0,2025-04-28 16:58:11
+user_90,Get in the Ring,Guns N' Roses,surprise,surprise,0,2025-05-01 03:32:11
+user_90,Real For You,James Hersey,love,love,0,2025-05-06 13:22:11
+user_90,I Wont Let You Go,Snow Patrol,anger,joy,1,2025-04-10 22:28:11
+user_90,Tape You,N.E.R.D.,surprise,surprise,0,2025-04-10 10:25:11
+user_90,Dont Doubt ur Vibe,Elon Musk,joy,joy,0,2025-05-01 03:16:11
+user_90,Its carnival,Destra,anger,joy,1,2025-05-08 18:28:11
+user_90,Jet Lag,Simple Plan,love,love,0,2025-05-08 12:45:11
+user_90,Stars And Midnight Blue,Enya,joy,joy,0,2025-04-17 09:07:11
+user_90,There Goes My Miracle,Bruce Springsteen,love,love,0,2025-04-13 18:16:11
+user_90,Til I Die,THEY. & Dillon Francis,sadness,joy,1,2025-05-04 09:27:11
+user_90,IDGAF,YG,surprise,surprise,0,2025-05-02 22:31:11
+user_90,Ooooorr,Young Thug,sadness,sadness,0,2025-04-29 11:31:11
+user_90,FLEM,A$AP Ferg,love,love,0,2025-05-08 03:13:11
+user_90,O Little Town Of Bethlehem,Vince Gill,surprise,surprise,0,2025-04-13 11:09:11
+user_90,Yesterday Is Gone,Lenny Kravitz,joy,joy,0,2025-04-15 16:30:11
+user_90,Head On,YoungBoy Never Broke Again,sadness,sadness,0,2025-04-28 21:22:11
+user_90,You and I,Joe Budden,joy,joy,0,2025-04-30 10:47:11
+user_90,New World Water,Yasiin Bey,fear,fear,0,2025-05-06 17:33:11
+user_90,Play Destroy,Poppy,sadness,joy,1,2025-04-16 01:43:11
+user_90,Ready to Go,Limp Bizkit,anger,joy,1,2025-05-05 11:26:11
+user_90,Wut,LE1F,joy,joy,0,2025-04-17 07:35:11
+user_90,She's Lookin' Good,Wilson Pickett,fear,fear,0,2025-04-27 07:44:11
+user_90,Serpent's Kiss,Virgin Steele,joy,joy,0,2025-04-20 16:52:11
+user_90,Broken,Everlast,fear,fear,0,2025-04-14 14:55:11
+user_90,Let Me Be Your Star Extended Intro SMASH Cast Version,SMASH Cast,sadness,sadness,0,2025-04-28 03:44:11
+user_90,NONCIPHER,R.A.P. Ferreira,anger,joy,1,2025-05-09 15:26:11
+user_90,Strange Days,The Doors,anger,anger,0,2025-04-23 20:59:11
+user_90,Guns Ammunition,July Talk,anger,joy,1,2025-05-07 02:23:11
+user_90,The Pit,Doctor P & Adam F,joy,joy,0,2025-04-29 17:41:11
+user_90,Free K$upreme Freestyle,Lil Yachty,surprise,surprise,0,2025-04-26 08:17:11
+user_90,Margiela,SSG Splurge,anger,anger,0,2025-04-20 06:55:11
+user_90,Im Baby,Lil Mariko,sadness,sadness,0,2025-04-16 15:41:11
+user_90,No Hands,Forever M.C. & it's different,surprise,surprise,0,2025-05-04 19:27:11
+user_90,Mad Man Moon,Genesis,sadness,sadness,0,2025-04-25 17:10:11
+user_90,Brixton Kallin,Bedoes & Lanek,love,love,0,2025-04-16 20:16:11
+user_90,734 Original Version,Juice WRLD,anger,anger,0,2025-05-02 18:20:11
+user_90,But Not For Me,Elton John,surprise,surprise,0,2025-04-19 22:30:11
+user_90,Dumplings,Pink Guy,anger,joy,1,2025-05-01 22:17:11
+user_90,Take Your Time,Vance Joy,fear,fear,0,2025-05-09 15:07:11
+user_90,They Die By Dawn,The Bullitts,joy,joy,0,2025-04-21 20:02:11
+user_90,Much Has Been Said,Bamboo,sadness,sadness,0,2025-04-15 14:49:11
+user_90,Xmas Rap,Treacherous Three,anger,joy,1,2025-05-06 03:22:11
+user_90,23,Shakira,fear,fear,0,2025-04-11 18:05:11
+user_90,I Wanna Be Like You,Robbie Williams,fear,fear,0,2025-05-04 17:09:11
+user_90,Funeral Singers,Califone,sadness,sadness,0,2025-05-01 08:21:11
+user_90,Tainted Love,Kwan,surprise,surprise,0,2025-04-22 07:07:11
+user_90,IZONE - Highlight English Translation,Genius English Translations,fear,fear,0,2025-04-10 10:17:11
+user_90,Exit Does Not Exist,Modest Mouse,anger,anger,0,2025-05-01 10:00:11
+user_90,Wrecking Ball,Interpol,sadness,sadness,0,2025-04-13 12:51:11
+user_90,These Are The Special Times,Christina Aguilera,sadness,joy,1,2025-04-26 12:37:11
+user_90,Write Off The Debt,UB40,anger,anger,0,2025-05-09 14:08:11
+user_90,Voice of Hell,Little Big,joy,joy,0,2025-04-11 16:48:11
+user_90,Face It,NF,sadness,sadness,0,2025-04-29 23:24:11
+user_90,Firestorm,SIAMS,joy,joy,0,2025-04-22 23:42:11
+user_90,Ogre Battle,Queen,anger,anger,0,2025-04-11 18:53:11
+user_90,Sweet,Common,love,love,0,2025-05-02 23:50:11
+user_90,Sullivan Street,Counting Crows,sadness,sadness,0,2025-05-09 04:49:11
+user_90,Shes Gone,Hall & Oates,joy,joy,0,2025-04-24 05:22:11
+user_90,Mothmilk,Bones & Drip-133,sadness,joy,1,2025-04-24 09:03:11
+user_90,Quality Time,Skizzy Mars,love,love,0,2025-05-04 02:59:11
+user_90,Im Not A Saint,Billy Raffoul,sadness,sadness,0,2025-05-05 00:57:11
+user_90,Watch,Bexey & Lil Peep,fear,fear,0,2025-05-07 17:20:11
+user_90,Better Than Feeling Lonely,Olivia O'Brien,joy,joy,0,2025-05-02 23:05:11
+user_90,Someone to Fall Back On,Jason Robert Brown,surprise,surprise,0,2025-04-12 21:19:11

@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_23,A Million Ways To Die,Alan Jackson,sadness,sadness,0,2025-05-08 18:35:38
+user_23,Sweetheart,Mariah Carey,love,love,0,2025-04-11 04:51:38
+user_23,Hound Dog,Big Mama Thornton,joy,joy,0,2025-04-26 21:17:38
+user_23,Meet Your Master,Nine Inch Nails,surprise,surprise,0,2025-04-16 14:09:38
+user_23,Angel On My Shoulder,Natalie Cole,fear,fear,0,2025-04-13 07:27:38
+user_23,Our Love Dont Throw It All Away,Bee Gees,sadness,sadness,0,2025-05-08 11:56:38
+user_23,Are We There Yet,Ingrid Michaelson,love,love,0,2025-05-05 11:21:38
+user_23,Brand New,Ben Rector,sadness,joy,1,2025-05-07 14:44:38
+user_23,4U,T.West,surprise,surprise,0,2025-04-27 19:56:38
+user_23,XXX,The Kings Dead,sadness,joy,1,2025-05-04 13:11:38
+user_23,Fuck You Bitch,Emanny,anger,anger,0,2025-05-06 22:37:38
+user_23,Live It Up,Star Cast,anger,anger,0,2025-04-25 22:58:38
+user_23,Eye,Madvillain,love,love,0,2025-05-09 03:53:38
+user_23,Night Fever,Bee Gees,anger,joy,1,2025-04-09 23:39:38
+user_23,$outh $ide $uicide,$UICIDEBOY$,love,love,0,2025-04-14 10:30:38
+user_23,EMOTIONS,Cashmere Cat,sadness,joy,1,2025-04-28 11:11:38
+user_23,MELATONIN,Jacob (THE BOYZ),joy,joy,0,2025-04-09 22:30:38
+user_23,The Great Divide,Rebecca Black,anger,anger,0,2025-04-28 22:44:38
+user_23,Theres Something About That Name,Bill Gaither,love,love,0,2025-04-25 15:50:38
+user_23,Don't Leave Me,P!nk,anger,anger,0,2025-04-10 01:03:38
+user_23,Fire,Who,surprise,surprise,0,2025-04-17 03:42:38
+user_23,One Drop Of Love,Ray Charles,anger,joy,1,2025-04-10 19:05:38
+user_23,One Day,Tate McRae,fear,fear,0,2025-05-04 17:15:38
+user_23,I Wanna Be Your Man,Rolling Stones,joy,joy,0,2025-05-03 16:47:38
+user_23,If You Were My Woman,George Michael,fear,fear,0,2025-04-26 11:11:38
+user_23,Nothing Without You,The Weeknd,surprise,surprise,0,2025-04-16 23:13:38
+user_23,Real?,Phora,sadness,joy,1,2025-04-14 20:46:38
+user_23,Time Piece,NAV,love,love,0,2025-05-07 20:26:38
+user_23,Dont Let Me Down,Fleurie,fear,fear,0,2025-04-14 16:56:38
+user_23,You Cant Stop the Prophet,Jeru the Damaja,anger,anger,0,2025-04-15 14:37:38
+user_23,Charlie Sheen,Lil B,sadness,sadness,0,2025-04-30 04:45:38
+user_23,Dizzy Miss Lizzy,The Beatles,anger,anger,0,2025-05-02 11:39:38
+user_23,All I Wanted,Daughter,fear,fear,0,2025-04-13 07:19:38
+user_23,Lady Sunday,Sam Lachow,love,love,0,2025-05-01 15:32:38
+user_23,Moments,Bliss n Eso,anger,anger,0,2025-05-07 07:31:38
+user_23,Smoke Dope and Rap,Andre Nickatina,anger,anger,0,2025-05-07 11:30:38
+user_23,Working for the Knife,Mitski,fear,fear,0,2025-04-09 18:35:38
+user_23,Cash Train,GRM Daily,anger,joy,1,2025-04-25 22:50:38
+user_23,Do You Really Want to Hurt Me,Culture Club,surprise,surprise,0,2025-05-07 06:14:38
+user_23,Skrt Off Freestyle,Lil Mosey,surprise,surprise,0,2025-05-06 02:02:38
+user_23,Someone Like You,Vanessa Williams,joy,joy,0,2025-04-28 20:39:38
+user_23,200 My Dash,Lil Uzi Vert,joy,joy,0,2025-04-12 16:33:38
+user_23,Wolf I,Oh Land,anger,anger,0,2025-04-29 14:37:38
+user_23,Wishing Girl,Lola Marsh -,surprise,surprise,0,2025-05-03 08:34:38
+user_23,Planetary GO,My Chemical Romance,fear,fear,0,2025-04-27 11:36:38
+user_23,Put It On,Mac Miller,surprise,surprise,0,2025-05-07 06:48:38
+user_23,Im A Nerd,Yung God,surprise,surprise,0,2025-04-13 12:23:38
+user_23,Invest,Gunna,joy,joy,0,2025-04-14 07:35:38
+user_23,God,Tori Amos,surprise,surprise,0,2025-04-10 10:18:38
+user_23,The Real Thing,Kenny Loggins,anger,anger,0,2025-04-30 20:49:38
+user_23,Stoop So Low,Alextbh,joy,joy,0,2025-04-12 21:37:38
+user_23,A Marshmallow World,Christmas Songs,sadness,joy,1,2025-04-14 03:22:38
+user_23,Blind Youth,Human League,fear,fear,0,2025-04-29 07:39:38
+user_23,The Great Americans,Rick Ross,joy,joy,0,2025-05-09 15:52:38
+user_23,Work Remix,Rick Ross,joy,joy,0,2025-05-04 09:26:38
+user_23,Swank Sinatra,Dyme-A-Duzin,love,love,0,2025-04-30 12:38:38
+user_23,See No Evil,Rem,surprise,surprise,0,2025-04-29 07:59:38
+user_23,Shes So Fucking Cute,Boxter,anger,joy,1,2025-04-29 12:35:38
+user_23,The Boys Of Fall,Kenny Chesney,joy,joy,0,2025-04-30 00:41:38
+user_23,Missing Your Heart,Noa,anger,anger,0,2025-04-22 17:07:38
+user_23,Looking At The Front Door,Main Source,surprise,surprise,0,2025-05-07 01:32:38
+user_23,In Time,The Black Keys,love,love,0,2025-04-22 03:32:38
+user_23,TAEMIN - HOLY WATER English Translation,Genius English Translations,love,love,0,2025-04-13 11:38:38
+user_23,Your Song,Elton John,sadness,sadness,0,2025-05-07 23:03:38
+user_23,When You're In Prison,Offspring,joy,joy,0,2025-04-29 09:05:38
+user_23,Fireball,Deep Purple,love,love,0,2025-04-20 07:08:38
+user_23,Adam Bonus Track,Alex G,sadness,sadness,0,2025-04-18 01:38:38
+user_23,Crying,Whitesnake,surprise,surprise,0,2025-04-26 05:02:38
+user_23,I'll String Along With You,Louis Armstrong,surprise,surprise,0,2025-04-09 19:42:38
+user_23,Crazy,New Hope Club,surprise,surprise,0,2025-05-05 22:56:38
+user_23,Flower In the Rain,Jaci Velasquez,anger,joy,1,2025-04-27 03:20:38
+user_23,If That's What It Takes,Bon Jovi,sadness,sadness,0,2025-04-12 17:01:38
+user_23,Kiss Me,Avril Lavigne,anger,joy,1,2025-04-29 21:12:38
+user_23,Triplbt Theme,Jagger Finn,fear,fear,0,2025-05-02 05:47:38
+user_23,Joining the Dots,Arctic Monkeys,joy,joy,0,2025-05-04 03:26:38
+user_23,Revelations,Audioslave,anger,joy,1,2025-05-03 19:02:38
+user_23,Love Soda,@DUKK2,love,love,0,2025-04-26 12:15:38
+user_23,Hold On Were Going Home Remix,"Miguel ""Angel"" Mendez",love,love,0,2025-05-02 15:25:38
+user_23,Rain Bounce,G Herbo,surprise,surprise,0,2025-04-26 13:24:38
+user_23,Back On The Street Again,James Taylor,fear,fear,0,2025-04-24 04:09:38
+user_23,Run It,WANG$AP,sadness,joy,1,2025-04-30 23:18:38
+user_23,You Can't Win Them All,Ten Years After,fear,fear,0,2025-05-01 23:12:38
+user_23,KICKBACK,Myles Parrish,fear,fear,0,2025-04-24 14:50:38
+user_23,Dana Katherine Scully,Tacocat,anger,joy,1,2025-04-21 05:40:38
+user_23,All I Want Is You,Mac Miller,fear,fear,0,2025-05-04 01:44:38
+user_23,Hooch,Kelis,surprise,surprise,0,2025-04-10 21:44:38
+user_23,Love Is in Bloom,Twilight Sparkle,fear,fear,0,2025-04-26 20:32:38
+user_23,Just Bidin' My Time,Hank Snow,joy,joy,0,2025-04-22 00:02:38
+user_23,Clean My Wounds,Corrosion of Conformity,surprise,surprise,0,2025-05-03 00:49:38
+user_23,Trap Nigga,Shoreline Mafia,love,love,0,2025-04-24 22:05:38
+user_23,You Are God,Indiana Bible College,anger,joy,1,2025-04-18 13:09:38
+user_23,Just Apathy,Tally Hall,love,love,0,2025-04-14 05:58:38
+user_23,Queen Of The Air,Everclear,sadness,sadness,0,2025-04-18 06:32:38
+user_23,Ramblings Of A Lunatic,Bears in Trees,joy,joy,0,2025-04-22 23:22:38
+user_23,Toxic,BoyWithUke,love,love,0,2025-04-23 16:05:38
+user_23,NUMB 2019,Ryan Oakes,love,love,0,2025-05-09 14:33:38
+user_23,Sunny Days,Young Jeezy,love,love,0,2025-04-15 19:30:38
+user_23,Standing On A Corner,The Game,fear,fear,0,2025-04-22 19:52:38
+user_23,What a Feeling,One Direction,fear,fear,0,2025-04-25 17:39:38
+user_23,Doubted,iLoveMakonnen,fear,fear,0,2025-04-14 21:01:38

@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_45,Eazy,G-Eazy,anger,joy,1,2025-04-19 15:25:48
+user_45,The Kids Are Alt-Right,Bad Religion,surprise,surprise,0,2025-04-30 16:04:48
+user_45,Day 1,Lil Reese,anger,anger,0,2025-04-28 13:14:48
+user_45,What a Shame,Shinedown,sadness,sadness,0,2025-05-06 15:39:48
+user_45,Love You Down,INOJ,love,love,0,2025-04-13 19:02:48
+user_45,No Title,Corbin,joy,joy,0,2025-04-24 18:00:48
+user_45,To Cut A Long Story Short,Spandau Ballet,fear,fear,0,2025-05-05 13:35:48
+user_45,Memory Machine,The Dismemberment Plan,surprise,surprise,0,2025-05-08 05:40:48
+user_45,Hold Up,Webbie,fear,fear,0,2025-05-04 08:29:48
+user_45,Jammin Remix,Bob Marley & The Wailers,anger,joy,1,2025-05-05 17:18:48
+user_45,Spin The Wheel,Devo,surprise,surprise,0,2025-04-19 05:26:48
+user_45,Be Proud Of Your Man,Loretta Lynn,joy,joy,0,2025-04-22 15:07:48
+user_45,My Life As A Stud,Jackie Hill Perry,surprise,surprise,0,2025-04-19 15:39:48
+user_45,Elisa Lam,SKYND,love,love,0,2025-04-23 02:58:48
+user_45,X,Poppy,anger,joy,1,2025-04-28 18:41:48
+user_45,Tangled,Maroon 5,fear,fear,0,2025-04-25 14:12:48
+user_45,Soft,410,joy,joy,0,2025-04-15 10:15:48
+user_45,Let It Whip,Lecrae,sadness,joy,1,2025-05-05 21:07:48
+user_45,Be Thou My Vision,Selah,fear,fear,0,2025-05-04 07:38:48
+user_45,Steve Miller's Midnight Tango,Steve Miller Band,sadness,joy,1,2025-04-23 13:48:48
+user_45,Dreams Are Real,Tinashe,sadness,joy,1,2025-04-22 00:49:48
+user_45,Hustlers Dream,The Game,sadness,sadness,0,2025-04-20 03:25:48
+user_45,Welcome to Chilis,Solomonophonic,sadness,sadness,0,2025-04-27 23:00:48
+user_45,Elastic Heart,Sia,anger,joy,1,2025-04-24 13:54:48
+user_45,Fucked Up Kinda,Julia Michaels,love,love,0,2025-05-01 01:33:48
+user_45,Car Confessions,Young M.A,sadness,joy,1,2025-04-26 01:41:48
+user_45,Big Boy,Nazareth,fear,fear,0,2025-05-07 17:36:48
+user_45,Road to Nowhere,Ozzy Osbourne,sadness,sadness,0,2025-05-04 13:18:48
+user_45,Entertnmnt,Oklou,surprise,surprise,0,2025-04-14 02:39:48
+user_45,Haligh Haligh a Lie Haligh,Bright Eyes,joy,joy,0,2025-05-06 00:04:48
+user_45,Pacific Ocean,Young Dolph,anger,joy,1,2025-04-23 23:49:48
+user_45,Eden Is Burning,John Mellencamp,fear,fear,0,2025-05-07 08:02:48
+user_45,TWICE - Be as ONE Korean Ver. English Translation,Genius English Translations,anger,anger,0,2025-04-30 03:42:48
+user_45,Pills N Potions,Nicki Minaj,sadness,joy,1,2025-04-13 12:00:48
+user_45,Paint,The Paper Kites,fear,fear,0,2025-04-11 06:49:48
+user_45,True Colors,The Weeknd,sadness,joy,1,2025-04-17 15:03:48
+user_45,I Keep Forgetting,David Bowie,fear,fear,0,2025-04-27 18:45:48
+user_45,Shoot From The Hip,W.A.S.P.,anger,joy,1,2025-04-14 19:01:48
+user_45,Much Too Soon,Michael Jackson,sadness,joy,1,2025-04-27 19:37:48
+user_45,Hymnal,Open Mike Eagle,anger,joy,1,2025-04-30 07:57:48
+user_45,Early Morning Cold Taxi,Who,surprise,surprise,0,2025-05-06 03:22:48
+user_45,FREEDA9,Don Q,sadness,sadness,0,2025-04-23 03:04:48
+user_45,Shoulderblades,Gilla Band,joy,joy,0,2025-05-09 01:28:48
+user_45,Fun Fun Fun,Pharrell Williams,sadness,joy,1,2025-04-14 07:40:48
+user_45,Time To Sing,Raffi,fear,fear,0,2025-04-18 10:08:48
+user_45,God Bless The Child,Mary Black,sadness,joy,1,2025-04-09 21:20:48
+user_45,It Neva Rains,Tyga,anger,anger,0,2025-04-11 06:43:48
+user_45,The Night Santa Went Crazy,Weird Al Yankovic,surprise,surprise,0,2025-04-21 12:09:48
+user_45,Life is a Rollercoaster,Ronan Keating,fear,fear,0,2025-04-17 06:16:48
+user_45,Coinstar,BONES,surprise,surprise,0,2025-04-16 00:55:48
+user_45,Poems Are Forever,Dan Salvato,joy,joy,0,2025-04-24 20:37:48
+user_45,Domino,Genesis,anger,joy,1,2025-04-11 00:43:48
+user_45,Boomtown Blues,Bob Seger,anger,anger,0,2025-05-04 03:18:48
+user_45,Be The One,Rudimental,fear,fear,0,2025-05-04 02:22:48
+user_45,We Got This,Cast of ZOMBIES 2,surprise,surprise,0,2025-04-10 19:11:48
+user_45,Rosie Oh,Animal Collective,sadness,sadness,0,2025-04-19 05:41:48
+user_45,Pet Sounds,The Beach Boys,sadness,sadness,0,2025-05-08 22:38:48
+user_45,Yes Indeed East Mix,Dave East,surprise,surprise,0,2025-05-09 12:11:48
+user_45,TALK ABOUT IT,DaBaby,surprise,surprise,0,2025-04-20 01:49:48
+user_45,Fab Freestyle,Fabolous,sadness,sadness,0,2025-04-24 02:21:48
+user_45,Im Not Making Out With You,Surf Curse,love,love,0,2025-04-14 18:46:48
+user_45,A Criminal Mind,Styx,fear,fear,0,2025-04-29 21:05:48
+user_45,Two Tales,Passenger,love,love,0,2025-05-03 19:28:48
+user_45,ACID TRIP,Rejjie Snow,sadness,joy,1,2025-04-20 15:38:48
+user_45,Heart Crush,BJ the Chicago Kid,joy,joy,0,2025-04-12 03:29:48
+user_45,The Perfect Crime,Faith No More,sadness,sadness,0,2025-04-10 12:11:48
+user_45,The Ballad of Farquaad,Christopher Sieber,love,love,0,2025-05-04 02:42:48
+user_45,Love Always Remains,MGMT,love,love,0,2025-04-18 23:38:48
+user_45,Think Different,Nujabes,sadness,joy,1,2025-04-27 18:04:48
+user_45,The Ride,David Allan Coe,surprise,surprise,0,2025-04-28 16:34:48
+user_45,Wake It Up,Blxst & Bino Rideaux,anger,anger,0,2025-04-11 15:52:48
+user_45,Little Drummer Boy,Glee,anger,joy,1,2025-05-03 03:26:48
+user_45,Counting Sheep,Trophy Eyes,sadness,joy,1,2025-05-04 15:36:48
+user_45,RARE PANTHER,DUCKWRTH,surprise,surprise,0,2025-04-19 01:49:48
+user_45,After All These Years,Journey,love,love,0,2025-04-19 00:05:48
+user_45,Homeland,Chord Overstreet,joy,joy,0,2025-04-28 11:25:48
+user_45,Someone,Anna of the North,surprise,surprise,0,2025-05-02 04:14:48
+user_45,Naloxone,Scrim,joy,joy,0,2025-04-13 11:44:48
+user_45,5:12 AM,Novelists FR,fear,fear,0,2025-04-12 22:59:48
+user_45,Leash,Pearl Jam,fear,fear,0,2025-04-28 01:29:48
+user_45,Magic,The Cars,anger,joy,1,2025-04-25 06:53:48
+user_45,Everybody's Talkin',Beautiful South,love,love,0,2025-05-06 22:07:48
+user_45,Your Girl,Mariah Carey,joy,joy,0,2025-05-07 23:54:48
+user_45,Indigo Puff,Sundara Karma,love,love,0,2025-04-12 09:10:48
+user_45,Killers Are Quiet,Slipknot,joy,joy,0,2025-04-16 06:11:48
+user_45,Painfully Obvious,Twin Cabins,love,love,0,2025-04-23 10:59:48
+user_45,Vasquez,Julia Holter,fear,fear,0,2025-04-18 12:46:48
+user_45,Games,Lennon Stella,fear,fear,0,2025-04-28 14:25:48
+user_45,Say Na Na Na,Serhat,love,love,0,2025-05-03 16:18:48
+user_45,Hard Sometimes,Ruel,fear,fear,0,2025-04-20 02:48:48
+user_45,Diamonds 2,Freddie Gibbs,surprise,surprise,0,2025-04-14 05:42:48
+user_45,Self-Obsessed,Da Beatfreakz,love,love,0,2025-05-02 18:59:48
+user_45,Someday,Counting Crows,love,love,0,2025-05-09 03:12:48
+user_45,Blueberry Hill,Cliff Richard,surprise,surprise,0,2025-04-27 10:18:48
+user_45,Coma Baby,Nicole Dollanganger,anger,anger,0,2025-04-26 02:17:48
+user_45,ICON 2 Freestyle Gruppe H,Black061,love,love,0,2025-04-20 12:31:48
+user_45,Hard Times,Kiss,anger,anger,0,2025-04-21 17:29:48
+user_45,Dragonball Durag,Thundercat,joy,joy,0,2025-05-07 06:48:48
+user_45,Aint No Coming Down,Juicy J,fear,fear,0,2025-05-05 04:39:48
+user_45,Cross My Heart,Skepta,surprise,surprise,0,2025-04-21 22:05:48

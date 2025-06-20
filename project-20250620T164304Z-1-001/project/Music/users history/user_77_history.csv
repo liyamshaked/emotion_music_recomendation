@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_77,Lonely Goatherd,Julie Andrews,fear,fear,0,2025-04-27 22:25:04
+user_77,Real Groove Studio 2054 Remix,Kylie Minogue & Dua Lipa,fear,fear,0,2025-04-14 17:04:04
+user_77,Second Time Around,Lady Gaga,surprise,surprise,0,2025-04-10 05:54:04
+user_77,Birds of a Feather We Rock Together,Vulfpeck,joy,joy,0,2025-04-30 23:57:04
+user_77,African Queen,Thabsie,joy,joy,0,2025-04-16 03:55:04
+user_77,Bye Bye Blackbird,Ella Fitzgerald,anger,anger,0,2025-04-20 06:09:04
+user_77,Knock on Wood,Amii Stewart,joy,joy,0,2025-05-02 18:09:04
+user_77,Since I Left You Demo,Joy Crookes,surprise,surprise,0,2025-05-05 02:19:04
+user_77,Dig In,Lenny Kravitz,sadness,joy,1,2025-04-15 10:18:04
+user_77,Subterraneans,David Bowie,love,love,0,2025-05-01 19:43:04
+user_77,Little Town,Cliff Richard,joy,joy,0,2025-04-13 14:58:04
+user_77,Movin' On Without You,Utada Hikaru,anger,anger,0,2025-04-24 04:48:04
+user_77,I Think Of You,Perry Como,anger,anger,0,2025-05-02 05:23:04
+user_77,The Faith,Leonard Cohen,surprise,surprise,0,2025-04-11 23:29:04
+user_77,Leave Her,Lucki,joy,joy,0,2025-04-09 22:01:04
+user_77,Perk Callin,Mozzy,joy,joy,0,2025-04-19 03:10:04
+user_77,Distance,Emily King,love,love,0,2025-05-07 05:11:04
+user_77,Left,Wiz Khalifa,sadness,sadness,0,2025-05-02 11:12:04
+user_77,Be Ok,Party Favor & EZI,love,love,0,2025-04-30 17:32:04
+user_77,I Cry At Night,Elton John,anger,anger,0,2025-05-09 17:32:04
+user_77,Be Your Friend,Vigiland,anger,joy,1,2025-04-22 01:15:04
+user_77,Daddy,Mokyo,surprise,surprise,0,2025-04-21 00:20:04
+user_77,Stop Draggin My Heart Around,Stevie Nicks,fear,fear,0,2025-04-30 05:43:04
+user_77,Dub Be Good to Me,Beats International,fear,fear,0,2025-04-28 00:45:04
+user_77,Language,Aftertheparty,sadness,sadness,0,2025-04-29 22:36:04
+user_77,Dark,Invent Animate,anger,anger,0,2025-04-20 01:57:04
+user_77,All Your Love,Eric Clapton,fear,fear,0,2025-04-12 13:41:04
+user_77,Dont Love You No More Im Sorry,Craig David,joy,joy,0,2025-04-27 05:11:04
+user_77,Had To Make You Mine,Cheap Trick,joy,joy,0,2025-04-27 08:26:04
+user_77,2 Way Love Affair,Boosie Badazz,sadness,sadness,0,2025-04-10 11:31:04
+user_77,Slippery People,Talking Heads,surprise,surprise,0,2025-05-08 22:42:04
+user_77,The Second Coming,Juelz Santana,joy,joy,0,2025-04-16 17:10:04
+user_77,Racks 2019,Playboi Carti,sadness,sadness,0,2025-04-12 10:46:04
+user_77,It Get Deeper,42 Dugg,joy,joy,0,2025-04-18 05:59:04
+user_77,Edge Of A Revolution,Nickelback,love,love,0,2025-04-27 01:44:04
+user_77,God's Great Banana Skin,Chris Rea,sadness,joy,1,2025-04-27 21:45:04
+user_77,Im Sorry,Boosie Badazz,sadness,sadness,0,2025-04-10 16:10:04
+user_77,Hair Too Long,The Vamps,joy,joy,0,2025-04-28 12:22:04
+user_77,Take A Chance.,Phony Ppl,joy,joy,0,2025-04-18 22:42:04
+user_77,Reverie,Tinashe,fear,fear,0,2025-04-10 18:11:04
+user_77,Thrown Into The Dark,The Black Queen,fear,fear,0,2025-05-04 21:42:04
+user_77,Real Love,Massari,anger,anger,0,2025-04-21 13:30:04
+user_77,Typical Situation,Dave Matthews Band,joy,joy,0,2025-05-02 08:11:04
+user_77,Life Goes On,E^ST,sadness,joy,1,2025-04-16 10:51:04
+user_77,King Kony,ShooterGang Kony,love,love,0,2025-04-20 04:11:04
+user_77,Dream On,Depeche Mode,joy,joy,0,2025-04-28 07:36:04
+user_77,Count to Nine,The Japanese House,joy,joy,0,2025-04-20 02:33:04
+user_77,The One,"Kanye West, Big Sean, 2 Chainz & Marsha Ambrosius",joy,joy,0,2025-04-20 08:35:04
+user_77,Still Blue,SiR,love,love,0,2025-04-27 21:53:04
+user_77,Nostalgia is a Lie,Goody Grace,surprise,surprise,0,2025-05-06 21:38:04
+user_77,One Drop Of Love,Ray Charles,joy,joy,0,2025-04-19 09:57:04
+user_77,Where Is Your Rider?,The Oh Hellos,anger,anger,0,2025-04-16 06:48:04
+user_77,Bad Tattoo,Franke,love,love,0,2025-04-22 07:28:04
+user_77,Only One for Me,Elevation Youth,anger,joy,1,2025-04-18 06:07:04
+user_77,Motions ft. Paul Perges,Sean Love,anger,joy,1,2025-04-24 15:01:04
+user_77,In Between Days,The Cure,fear,fear,0,2025-04-29 03:54:04
+user_77,Sidewalk,Blac Youngsta,fear,fear,0,2025-05-07 15:01:04
+user_77,Bodysnatchers,Radiohead,anger,anger,0,2025-05-05 19:15:04
+user_77,When We're Old Men,Yellowcard,sadness,sadness,0,2025-05-05 20:10:04
+user_77,Sky Club,Big K.R.I.T.,fear,fear,0,2025-04-24 11:14:04
+user_77,UNAMEITCHALLENGE Thanksgiving Church Remix,DJ Suede The Remix God,sadness,joy,1,2025-04-17 04:46:04
+user_77,Huncho Season,Migos,sadness,sadness,0,2025-04-16 02:28:04
+user_77,Tonight,"Jim Bryant, Marni Nixon, Johnny Green & West Side Story Orchestra",anger,joy,1,2025-04-11 22:28:04
+user_77,Backwater Blues,Bessie Smith,anger,anger,0,2025-04-25 11:36:04
+user_77,Lonely Girl,Weezer,joy,joy,0,2025-04-14 01:52:04
+user_77,Still a Regular Nigga,Ab-Soul,surprise,surprise,0,2025-05-08 23:37:04
+user_77,Starry Eyes,Mtley Cre,anger,joy,1,2025-04-19 04:35:04
+user_77,If They Love Their Kidz,2Pac,anger,anger,0,2025-04-17 00:21:04
+user_77,Ruthless For Life,MC Ren,fear,fear,0,2025-04-30 13:02:04
+user_77,Home ( Bret's Story),Poison,sadness,sadness,0,2025-04-22 03:32:04
+user_77,Sunday's Slave,Nick Cave,love,love,0,2025-05-03 23:04:04
+user_77,Rock And Roll All Nite,Kiss,surprise,surprise,0,2025-04-29 03:31:04
+user_77,Like a Child,Oketo,anger,anger,0,2025-04-14 23:14:04
+user_77,FUCKABITCHFACE,XXXTENTACION,joy,joy,0,2025-05-06 11:42:04
+user_77,Aesthetic? More Like Ass-Pathetic,Panucci's Pizza,sadness,sadness,0,2025-04-25 14:10:04
+user_77,Spoken Word,Chase & Status,sadness,joy,1,2025-04-23 18:23:04
+user_77,XXL Freshmen 2019 Cypher - Part 3,XXL,surprise,surprise,0,2025-04-14 12:36:04
+user_77,The Old Haunt,The Dear Hunter,anger,anger,0,2025-05-05 15:00:04
+user_77,Violent,Dave East,joy,joy,0,2025-05-01 08:17:04
+user_77,Stuck in a Dream,Lil Mosey,anger,anger,0,2025-04-13 13:15:04
+user_77,Got Your Six,Five Finger Death Punch,sadness,sadness,0,2025-04-26 15:56:04
+user_77,Ghost Train,Counting Crows,anger,anger,0,2025-04-30 11:25:04
+user_77,Meadow Creek,Travis Scott,joy,joy,0,2025-05-05 08:59:04
+user_77,Pizza Rap,The Amazing World of Gumball,love,love,0,2025-04-12 10:00:04
+user_77,Marmalade,System of a Down,joy,joy,0,2025-04-13 22:56:04
+user_77,Little Things,Good Charlotte,anger,joy,1,2025-04-14 08:15:04
+user_77,Im High,Famous Dex,fear,fear,0,2025-04-13 19:26:04
+user_77,TWICE - LOVE FOOLISH English Translation,Genius English Translations,sadness,joy,1,2025-04-30 21:59:04
+user_77,To All the Girls,Beastie Boys,sadness,joy,1,2025-04-12 14:05:04
+user_77,If Im Dancing,Britney Spears,sadness,joy,1,2025-05-07 21:45:04
+user_77,Game Of Pain,Montana of 300,anger,anger,0,2025-05-04 18:58:04
+user_77,Old 8x10,Randy Travis,surprise,surprise,0,2025-04-12 23:08:04
+user_77,Runaway,Mishaal,joy,joy,0,2025-04-25 20:01:04
+user_77,In Your Life,G-Eazy,surprise,surprise,0,2025-04-28 06:29:04
+user_77,Sometimes A Great Notion,John Mellencamp,love,love,0,2025-04-14 16:55:04
+user_77,Fermi Paradox,Avenged Sevenfold,joy,joy,0,2025-04-16 03:08:04
+user_77,Photoshop Handsome,Everything Everything,sadness,sadness,0,2025-05-01 21:36:04
+user_77,Hooligan,Big B & The Felons Club,anger,anger,0,2025-04-09 22:28:04
+user_77,1-900-Ms-Minaj,Nicki Minaj,anger,anger,0,2025-04-16 13:06:04
+user_77,Tidal Wave,Chase Atlantic,love,love,0,2025-04-14 01:36:04

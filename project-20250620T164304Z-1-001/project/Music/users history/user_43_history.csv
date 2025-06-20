@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_43,AbOriginal,Frank Waln,sadness,sadness,0,2025-04-28 07:03:48
+user_43,Radio,Alkaline Trio,love,love,0,2025-04-22 16:42:48
+user_43,Sinner Like You,Parson James,surprise,surprise,0,2025-04-13 23:22:48
+user_43,The Breakup,LANY,sadness,sadness,0,2025-04-24 19:46:48
+user_43,Julie Don't Live Here,Electric Light Orchestra,sadness,sadness,0,2025-04-13 02:52:48
+user_43,I Don't Know You Anymore,Quasi,surprise,surprise,0,2025-04-26 09:18:48
+user_43,Ain't No Crime,Billy Joel,joy,joy,0,2025-04-11 23:18:48
+user_43,Kim Cookie Interlude,OutKast,love,love,0,2025-04-25 13:36:48
+user_43,Let Em Know,Souls of Mischief,sadness,sadness,0,2025-05-08 15:43:48
+user_43,Were Not Friends,Jacob Sartorius,fear,fear,0,2025-04-30 12:14:48
+user_43,Harmonics Made A Hit,Casper TNG,anger,anger,0,2025-05-03 12:14:48
+user_43,If You Love Me Let Me Go,Colbie Caillat,joy,joy,0,2025-04-26 07:03:48
+user_43,Freddy My Love,Cidny Bullens,surprise,surprise,0,2025-05-07 06:53:48
+user_43,18 Months,THEY.,anger,joy,1,2025-05-04 16:49:48
+user_43,Whoa Im Woeful,$UICIDEBOY$,anger,anger,0,2025-04-14 23:48:48
+user_43,The Coming,The Roots,anger,anger,0,2025-05-03 10:54:48
+user_43,Mind on My Money,Lil Flip,anger,joy,1,2025-04-10 16:58:48
+user_43,Look At Me,Bread,fear,fear,0,2025-04-19 10:03:48
+user_43,Father And Son,Cat Stevens,sadness,joy,1,2025-05-03 22:01:48
+user_43,Made for You,OneRepublic,love,love,0,2025-04-17 03:45:48
+user_43,Hey Gorgeous,Nick Talos,sadness,joy,1,2025-05-03 04:58:48
+user_43,The Ladder,Prince and the Revolution,love,love,0,2025-04-19 18:26:48
+user_43,Shattered,Sevyn Streeter,love,love,0,2025-04-09 21:33:48
+user_43,Everything I Said,The Cranberries,sadness,sadness,0,2025-05-01 22:41:48
+user_43,Brotherswing,Caravan Palace,anger,joy,1,2025-04-24 16:52:48
+user_43,Back In N.Y.C.,Genesis,surprise,surprise,0,2025-04-24 21:17:48
+user_43,Fragrance,Bas,fear,fear,0,2025-05-01 01:18:48
+user_43,See You at Your Funeral,PUP,joy,joy,0,2025-05-07 05:35:48
+user_43,Feel Inside,Nicki Minaj,sadness,sadness,0,2025-04-28 20:48:48
+user_43,Time Stands Still,Unleash the Archers,fear,fear,0,2025-04-27 22:17:48
+user_43,Remember When,Gucci Mane,sadness,joy,1,2025-04-17 18:05:48
+user_43,The Magician,Andy Shauf,sadness,sadness,0,2025-04-29 10:13:48
+user_43,Make It Right,Air Supply,joy,joy,0,2025-04-25 01:29:48
+user_43,Hola,NO PANTY,love,love,0,2025-04-27 13:40:48
+user_43,LovaGain,Tyga,joy,joy,0,2025-04-27 04:37:48
+user_43,Freestyle Pt. 3,Young Pappy,joy,joy,0,2025-04-18 14:09:48
+user_43,I Knew You,UB40,joy,joy,0,2025-04-23 00:02:48
+user_43,Teeth,The Japanese House,anger,anger,0,2025-04-15 11:10:48
+user_43,Even Cowgirls Get The Blues,Emmylou Harris,anger,anger,0,2025-05-06 13:39:48
+user_43,The Emperor Of Lancashire,George Formby,sadness,joy,1,2025-04-20 18:10:48
+user_43,No Chill,Moneybagg Yo,love,love,0,2025-04-15 17:50:48
+user_43,Open Book,Jos Gonzlez,anger,joy,1,2025-04-17 06:21:48
+user_43,The Flower That Shattered The Stone,Olivia Newton-John,sadness,joy,1,2025-04-10 06:16:48
+user_43,Many Rivers To Cross,Linda Ronstadt,love,love,0,2025-04-12 22:26:48
+user_43,Want Me,cl4pers,surprise,surprise,0,2025-04-18 09:20:48
+user_43,Power,Kanye West,fear,fear,0,2025-04-12 03:36:48
+user_43,Mmangwane,Cassper Nyovest,anger,joy,1,2025-04-24 11:19:48
+user_43,A Country Girl In Paris,John Denver,surprise,surprise,0,2025-04-14 14:24:48
+user_43,Problems,Lil Wayne,love,love,0,2025-05-08 01:40:48
+user_43,Tippy Toe,Utada Hikaru,sadness,joy,1,2025-04-23 09:45:48
+user_43,Dubs,Cuban Doll,surprise,surprise,0,2025-04-30 07:57:48
+user_43,Old Town Road 2,FlyingKitty,fear,fear,0,2025-04-12 09:33:48
+user_43,Alphabet Street,Prince,joy,joy,0,2025-04-29 19:32:48
+user_43,Forrest,The Smith Street Band,surprise,surprise,0,2025-04-14 07:15:48
+user_43,Banned From the Motherland,Dumbfoundead,surprise,surprise,0,2025-04-30 12:04:48
+user_43,Show Me the Way to Go Home,"Emerson, Lake & Palmer",anger,anger,0,2025-04-28 18:48:48
+user_43,In Between Love,Tom Waits,surprise,surprise,0,2025-04-19 13:28:48
+user_43,Fly,David Bowie,love,love,0,2025-04-10 17:05:48
+user_43,VACATE,Jack Harlow,surprise,surprise,0,2025-05-04 06:46:48
+user_43,Done Right Discount Flooring,Joyce Manor,fear,fear,0,2025-04-21 13:49:48
+user_43,Change My Mind,Fatboy Slim,anger,joy,1,2025-04-18 16:36:48
+user_43,Bewitched,Doris Day,surprise,surprise,0,2025-05-06 17:31:48
+user_43,The Rake,The Irish Rovers,sadness,joy,1,2025-04-16 04:42:48
+user_43,America,"Betty Wand, George Chakiris, Johnny Green, West Side Story Chorus & West Side Story Orchestra",joy,joy,0,2025-04-13 17:02:48
+user_43,Get Together,Gang Starr,anger,joy,1,2025-05-09 04:31:48
+user_43,Do Yoga,Rae Sremmurd,joy,joy,0,2025-04-24 00:15:48
+user_43,Waves,Canyon City,anger,anger,0,2025-05-07 19:26:48
+user_43,Could It Be,Lance Skiiiwalker,love,love,0,2025-04-15 22:58:48
+user_43,Love Again,Dexta Daps,sadness,joy,1,2025-05-05 22:42:48
+user_43,Evil Fantasies,Judas Priest,surprise,surprise,0,2025-05-02 00:10:48
+user_43,Full Throttle Tribe,Pain of Salvation,anger,joy,1,2025-04-24 21:33:48
+user_43,Annoying,Speaker Knockerz,surprise,surprise,0,2025-04-11 07:19:48
+user_43,HOLIDAY,Lil Nas X,joy,joy,0,2025-05-05 15:42:48
+user_43,Lord Dont Move the Mountain,Mahalia Jackson,sadness,joy,1,2025-04-20 03:34:48
+user_43,Last Paradise,Yellow Claw,sadness,joy,1,2025-04-26 07:32:48
+user_43,Turn To Stone,Black Sabbath,sadness,sadness,0,2025-05-08 07:06:48
+user_43,Ugly Cherries,PWR BTTM,surprise,surprise,0,2025-04-21 03:57:48
+user_43,Family Friends,Russ,surprise,surprise,0,2025-04-28 21:02:48
+user_43,2 or 3,Tink,anger,joy,1,2025-04-11 08:04:48
+user_43,God Wanna,Everlast,surprise,surprise,0,2025-04-20 09:38:48
+user_43,Drunk,ScHoolboy Q,joy,joy,0,2025-04-16 09:22:48
+user_43,Marble Soda,shawn wasabi,surprise,surprise,0,2025-04-24 06:54:48
+user_43,In The Arms Of Love,Michael Bolton,joy,joy,0,2025-04-13 07:41:48
+user_43,Intro,Future,anger,joy,1,2025-04-10 20:26:48
+user_43,Like a Shadow,Holding Absence,fear,fear,0,2025-04-24 18:36:48
+user_43,Try,Blue Rodeo,fear,fear,0,2025-04-25 07:41:48
+user_43,She Makes Dirty Words Sound Pretty,Pierce The Veil,love,love,0,2025-05-06 16:06:48
+user_43,Till It Hurts,Yellow Claw,fear,fear,0,2025-04-28 23:52:48
+user_43,Under The Gun,Electric Guest,joy,joy,0,2025-04-29 09:17:48
+user_43,Smokey,MIST,anger,anger,0,2025-05-05 17:03:48
+user_43,X,21 Savage & Metro Boomin,anger,anger,0,2025-04-11 10:46:48
+user_43,I'd Just Love To Lay You Down - Conway Twitty,Patsy Cline,sadness,joy,1,2025-04-11 07:27:48
+user_43,Personal,Stars,anger,anger,0,2025-05-07 20:52:48
+user_43,Broken Mirror,Jon Connor,anger,anger,0,2025-04-27 08:17:48
+user_43,New Wavin,Baseman,sadness,joy,1,2025-05-02 03:33:48
+user_43,Wah Gwan,Wordsplayed,sadness,sadness,0,2025-05-01 01:40:48
+user_43,Lemonade Freestyle,Yelawolf,love,love,0,2025-04-12 15:37:48
+user_43,Moral Fiber,RUSSELL!,joy,joy,0,2025-04-20 07:24:48
+user_43,Orange Colored Sky,Lady Gaga,joy,joy,0,2025-04-22 08:52:48
+user_43,Times iz Hard,Big L,surprise,surprise,0,2025-05-09 05:53:48

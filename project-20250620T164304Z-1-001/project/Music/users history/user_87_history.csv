@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_87,Master of the Seas,Peter Dinklage,love,love,0,2025-04-22 05:24:10
+user_87,Santas Gotta Dirty Job,Rich Rowe,anger,anger,0,2025-05-07 09:45:10
+user_87,Both Sides of the Moon,Celeste & Gotts Street Park,sadness,sadness,0,2025-04-21 14:06:10
+user_87,Miami Kid,Pitbull,surprise,surprise,0,2025-04-18 08:27:10
+user_87,Suga Daddy,Inayah,surprise,surprise,0,2025-04-20 18:08:10
+user_87,The Last Time I Saw Richard,Joni Mitchell,sadness,joy,1,2025-04-21 16:19:10
+user_87,Somewhere Somehow,Oddnesse,surprise,surprise,0,2025-04-12 19:51:10
+user_87,Seeing Blind,Niall Horan & Maren Morris,sadness,joy,1,2025-04-10 16:57:10
+user_87,WORST DAY :,DC The Don,love,love,0,2025-04-29 18:40:10
+user_87,I Swear,Rich Homie Quan,surprise,surprise,0,2025-04-16 13:42:10
+user_87,Port of Morrow,The Shins,surprise,surprise,0,2025-04-23 01:44:10
+user_87,Return to Camp Granada,Allan Sherman,fear,fear,0,2025-04-09 21:57:10
+user_87,Monsters In The Parasol,Queens Of The Stone Age,sadness,sadness,0,2025-04-14 09:34:10
+user_87,She Dont Love Me,Boosie Badazz,sadness,sadness,0,2025-04-17 21:01:10
+user_87,Donna,Rubblebucket,sadness,sadness,0,2025-05-01 21:18:10
+user_87,One In A Million,Guns N' Roses,fear,fear,0,2025-04-19 10:52:10
+user_87,30,Kodak Black,joy,joy,0,2025-04-12 10:40:10
+user_87,The Time Is Now,Atreyu,love,love,0,2025-04-13 00:45:10
+user_87,My Sweet Blue-Eyed Darlin',Old 97's,fear,fear,0,2025-04-18 13:54:10
+user_87,I Am Not a Human Being,Lil Wayne,joy,joy,0,2025-04-30 01:58:10
+user_87,We Don't Give A,Fabolous,sadness,sadness,0,2025-05-04 01:50:10
+user_87,Today Is The Day,Yo La Tengo,sadness,sadness,0,2025-04-23 02:21:10
+user_87,I Miss You,I Miss You Lyrics - Adele,surprise,surprise,0,2025-04-27 08:22:10
+user_87,Its On,Korn,love,love,0,2025-05-03 03:58:10
+user_87,Good Old Days,Weird Al Yankovic,sadness,joy,1,2025-05-03 18:18:10
+user_87,Im Bored,Iggy Pop,love,love,0,2025-04-19 23:06:10
+user_87,Gorgeous,Idina Menzel,fear,fear,0,2025-05-09 03:35:10
+user_87,Seven,Sleeping At Last,fear,fear,0,2025-05-02 07:18:10
+user_87,God Made a Woman,Lauren Mascitti,love,love,0,2025-04-10 13:57:10
+user_87,Bombs Away,Chris Brown,love,love,0,2025-04-28 20:43:10
+user_87,The Game Of Life,Scorpions,sadness,sadness,0,2025-04-30 07:36:10
+user_87,One Step Closer Live in Texas,Linkin Park,surprise,surprise,0,2025-04-21 19:04:10
+user_87,ADDYS,Gunna,love,love,0,2025-04-25 09:22:10
+user_87,Even If,Ella Eyre,joy,joy,0,2025-04-09 18:09:10
+user_87,Inchman,Jack Stauber's Micropop,joy,joy,0,2025-05-08 12:20:10
+user_87,Send Me the Pillow You Dream On,Johnny Tillotson,joy,joy,0,2025-05-04 13:46:10
+user_87,Eureka,Lil Wayne,anger,anger,0,2025-05-08 21:38:10
+user_87,Solitary Man,HIM,love,love,0,2025-04-15 03:35:10
+user_87,Us,Regina Spektor,anger,joy,1,2025-05-09 00:23:10
+user_87,Child Of Vision,Supertramp,anger,joy,1,2025-05-08 13:51:10
+user_87,You Don't Mess Around With Jim,Jim Croce,fear,fear,0,2025-04-11 19:12:10
+user_87,Skinny,Valee,love,love,0,2025-04-29 14:38:10
+user_87,Flowers By the Bed,Casey (UK),fear,fear,0,2025-04-27 19:07:10
+user_87,I Need You Tonight,Backstreet Boys,surprise,surprise,0,2025-05-08 18:33:10
+user_87,Alone,Justin Bieber,joy,joy,0,2025-04-11 20:08:10
+user_87,Hold On Hold On,Neko Case,anger,joy,1,2025-04-28 00:26:10
+user_87,I Told The Storm,Greg O'Quin 'n Joyful Noyze,sadness,joy,1,2025-04-14 18:49:10
+user_87,See It To Believe It,J Cole,sadness,sadness,0,2025-05-03 02:46:10
+user_87,Bean Lean,Mario Judah,anger,anger,0,2025-04-22 08:37:10
+user_87,You Yes You,Tune-Yards,anger,joy,1,2025-05-03 13:00:10
+user_87,One and Only,Adele,love,love,0,2025-04-10 16:44:10
+user_87,Temporary,Brian Puspos,anger,anger,0,2025-04-23 03:33:10
+user_87,Make It Easy On Yourself,Rick Astley,surprise,surprise,0,2025-04-09 23:52:10
+user_87,Run Or Hide,Run River North,sadness,sadness,0,2025-04-19 04:28:10
+user_87,Ka-CHING,EXO-CBX,anger,joy,1,2025-04-25 20:36:10
+user_87,Already,Lor Scoota,joy,joy,0,2025-04-13 16:50:10
+user_87,Tiger Tank,Speedy Ortiz,surprise,surprise,0,2025-05-08 01:04:10
+user_87,Crash My Car,COIN,anger,anger,0,2025-04-18 03:40:10
+user_87,Fame Going Crazy,D12,sadness,sadness,0,2025-05-09 10:14:10
+user_87,Telling it Like it Is,Dua Lipa,love,love,0,2025-04-11 00:32:10
+user_87,Baltimore,Tokio Myers,anger,anger,0,2025-04-26 06:32:10
+user_87,Strange Fruit Roll Ups,Starlito,surprise,surprise,0,2025-04-14 22:16:10
+user_87,Zing Went The Strings Of My Heart,Electric Light Orchestra,sadness,joy,1,2025-04-21 03:56:10
+user_87,Mr. Doctor Man,Palaye Royale,sadness,sadness,0,2025-04-19 14:19:10
+user_87,Unto Us a Child Is Born,The new london chorale,love,love,0,2025-05-06 08:52:10
+user_87,Hercules,Lil Wayne,fear,fear,0,2025-04-14 02:13:10
+user_87,My Niggas,Boosie Badazz,joy,joy,0,2025-05-04 05:55:10
+user_87,Humble King,Brenton Brown,joy,joy,0,2025-04-30 14:04:10
+user_87,Pleasantries With Your Lover,Mustard Service,sadness,joy,1,2025-04-13 15:31:10
+user_87,Nothing But The Truth,Modern Talking,anger,anger,0,2025-05-08 07:15:10
+user_87,Loyalty,FMB DZ,love,love,0,2025-05-09 06:34:10
+user_87,Them There Eyes,Chaka Khan,surprise,surprise,0,2025-04-16 12:31:10
+user_87,No Mans Land,AC/DC,fear,fear,0,2025-04-13 04:27:10
+user_87,Gator Skin,EbZ,anger,joy,1,2025-05-01 06:28:10
+user_87,Candy Licker,Marvin Sease,fear,fear,0,2025-05-04 07:49:10
+user_87,Stop It,French Montana,surprise,surprise,0,2025-04-18 06:58:10
+user_87,In the River Live,Jesus Culture,surprise,surprise,0,2025-04-22 16:46:10
+user_87,Jenny Ondioline,Stereolab,love,love,0,2025-04-21 04:34:10
+user_87,Loud Mouth,T.I.,love,love,0,2025-04-29 00:27:10
+user_87,Love You Like Me,William Singe,anger,anger,0,2025-04-10 10:35:10
+user_87,Cukup Siti Nurbaya,Dewa 19,surprise,surprise,0,2025-05-03 13:57:10
+user_87,I Watch You Sleeping,John Denver,anger,joy,1,2025-04-15 07:40:10
+user_87,YELLOW LIGHTS,Amir Ob,surprise,surprise,0,2025-04-18 02:20:10
+user_87,Oh Boy,Buddy Holly,fear,fear,0,2025-04-26 18:32:10
+user_87,HEARTBREAK-14,Trippie Redd,surprise,surprise,0,2025-04-23 04:10:10
+user_87,Who Fresher Than Me,Skippa Da Flippa,fear,fear,0,2025-04-10 10:41:10
+user_87,Whip It,Lil Wayne,joy,joy,0,2025-05-05 22:34:10
+user_87,Hard To Say Goodbye,Beyonc,joy,joy,0,2025-04-22 05:43:10
+user_87,Lori Meyers,NOFX,love,love,0,2025-05-05 16:52:10
+user_87,Tequila Mockingbird,The Buttertones,surprise,surprise,0,2025-05-07 19:28:10
+user_87,I Don't Know Why (I Just Do),Dean Martin,love,love,0,2025-04-17 02:20:10
+user_87,1000 Rounds,Pouya & Ghostemane,fear,fear,0,2025-05-08 16:27:10
+user_87,Burn Your Playhouse Down,Proclaimers,joy,joy,0,2025-04-22 15:18:10
+user_87,Waiting For My Real Life To Begin,Colin Hay,love,love,0,2025-04-13 08:56:10
+user_87,Forever Now,Ne-Yo,joy,joy,0,2025-04-12 16:24:10
+user_87,Life Lessons Learned the Hard Way,A Day To Remember,love,love,0,2025-04-29 23:58:10
+user_87,I Believe in Us,LON,fear,fear,0,2025-04-13 08:21:10
+user_87,Unforgettable,wewantwraiths,love,love,0,2025-05-02 04:00:10
+user_87,WHAT,Playboi Carti & UnoTheActivist,fear,fear,0,2025-05-01 20:45:10
+user_87,Burn It to the Ground,Nickelback,joy,joy,0,2025-05-03 14:45:10

@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_98,Sometime,Conan Gray,anger,joy,1,2025-04-30 06:36:15
+user_98,Every Fuckin Day,LOLAWOLF,surprise,surprise,0,2025-04-26 18:40:15
+user_98,Wedwa,Kid Tini,joy,joy,0,2025-04-14 17:39:15
+user_98,Next to You,The Police,joy,joy,0,2025-04-20 06:49:15
+user_98,Let Me Get In Your Way,Dusty Springfield,joy,joy,0,2025-04-24 13:52:15
+user_98,The Fall,Johnny Polygon,sadness,sadness,0,2025-04-09 20:55:15
+user_98,Trust Live,Hillsong Young & Free,fear,fear,0,2025-05-08 09:04:15
+user_98,Lipstick Vogue,Elvis Costello,joy,joy,0,2025-04-23 17:07:15
+user_98,NY Ned Flander,Odd Future,sadness,sadness,0,2025-05-08 05:32:15
+user_98,Bing Bong Closer Parody,Christine Sydelko,fear,fear,0,2025-05-09 02:16:15
+user_98,My Skin My Logo,Solange,surprise,surprise,0,2025-04-12 17:08:15
+user_98,20 Joints,Berner,fear,fear,0,2025-04-14 06:11:15
+user_98,Truth Cry And Lie,Letto,joy,joy,0,2025-04-19 22:53:15
+user_98,New York,Big L,surprise,surprise,0,2025-05-08 07:51:15
+user_98,Carried Away,Ace Hood,surprise,surprise,0,2025-04-14 23:23:15
+user_98,Shame On The Moon,Bob Seger,anger,joy,1,2025-05-08 10:53:15
+user_98,Far,The Soft Moon,anger,anger,0,2025-04-28 18:08:15
+user_98,Pray for Us,Rick Ross,sadness,joy,1,2025-05-04 14:05:15
+user_98,Locked Up,Tee Grizzley,fear,fear,0,2025-04-17 11:09:15
+user_98,I Wanna Love You,Akon,sadness,sadness,0,2025-04-14 22:46:15
+user_98,Only If You Knew,dutchavelli,sadness,sadness,0,2025-05-01 10:21:15
+user_98,Sweet Blasphemy,Black Veil Brides,anger,anger,0,2025-04-13 18:43:15
+user_98,Roll Call,J. Cole,joy,joy,0,2025-04-22 05:37:15
+user_98,Build A Bridge,Nahko And Medicine For The People,anger,anger,0,2025-05-01 07:40:15
+user_98,Sorry Seems to Be the Hardest Word,Blue,sadness,sadness,0,2025-05-08 00:56:15
+user_98,Too Much Time Together,San Cisco,sadness,joy,1,2025-05-09 17:19:15
+user_98,It's Too Late Now,George Strait,anger,anger,0,2025-04-15 20:54:15
+user_98,Alcatraz,King No-One,anger,joy,1,2025-04-18 14:24:15
+user_98,Hiroshima Mon Amour,Ultravox,love,love,0,2025-04-30 17:04:15
+user_98,Dark Side,Bishop Briggs,surprise,surprise,0,2025-04-11 12:25:15
+user_98,Key to the Streets,YFN Lucci,love,love,0,2025-05-02 12:13:15
+user_98,Monsters,Saara Aalto,joy,joy,0,2025-05-08 05:43:15
+user_98,Walls circus,Tom Petty,fear,fear,0,2025-04-23 09:49:15
+user_98,No Good At All,Lucy Rose,joy,joy,0,2025-04-26 16:00:15
+user_98,Too Good to Be True,Danny Avila & The Vamps,sadness,joy,1,2025-04-28 19:56:15
+user_98,Perfect 10,Unknown Brain,sadness,sadness,0,2025-05-05 10:12:15
+user_98,Treasure,Lukas Rieger,love,love,0,2025-04-23 13:39:15
+user_98,25/8,Smokepurpp,joy,joy,0,2025-04-19 20:34:15
+user_98,Mister,Young Nudy & Pi'erre Bourne,joy,joy,0,2025-04-28 03:04:15
+user_98,Party Doll,Mick Jagger,anger,anger,0,2025-04-23 17:50:15
+user_98,Balenciaga,Cheat Codes,surprise,surprise,0,2025-05-05 11:17:15
+user_98,Rabies,Aesop Rock,anger,anger,0,2025-04-14 12:51:15
+user_98,Strawberry Farms,Tom T. Hall,anger,joy,1,2025-04-09 20:32:15
+user_98,Circle Of Beliefs,Slayer,love,love,0,2025-04-18 23:56:15
+user_98,Haikyu Rap Cypher,Shwabadi,fear,fear,0,2025-05-03 14:58:15
+user_98,Free Man in Paris,Joni Mitchell,fear,fear,0,2025-04-26 17:46:15
+user_98,Ball 4 Eva,Ace Hood,surprise,surprise,0,2025-04-23 16:11:15
+user_98,I Miss You,Chelsea Cutler,fear,fear,0,2025-04-17 19:06:15
+user_98,Thando Lwethu,Bucie,sadness,joy,1,2025-05-01 08:35:15
+user_98,Poisonous Darts,Ghostface Killah,anger,anger,0,2025-05-04 05:51:15
+user_98,Sex Freestyle,Emperor Aguila,joy,joy,0,2025-04-11 23:54:15
+user_98,Fermi Paradox,Avenged Sevenfold,fear,fear,0,2025-04-18 03:44:15
+user_98,Make Up My Mind,Maya Payne,fear,fear,0,2025-04-29 03:21:15
+user_98,Broke -,Jay Rock,sadness,joy,1,2025-05-01 16:36:15
+user_98,Fake Flowers,Boldy James & The Alchemist,fear,fear,0,2025-04-19 22:11:15
+user_98,La Familia,Fredo Santana & Gino Marley,joy,joy,0,2025-04-21 06:41:15
+user_98,Signs of Jealousy,Lil Skies,sadness,joy,1,2025-04-22 09:49:15
+user_98,Take My Breath Away,Mayday Parade,sadness,joy,1,2025-04-13 18:12:15
+user_98,The Truth,Jason Aldean,fear,fear,0,2025-05-08 22:58:15
+user_98,Slow Down,Selena Gomez,fear,fear,0,2025-04-12 11:21:15
+user_98,Enough,Lil Mosey,anger,anger,0,2025-05-09 13:21:15
+user_98,Roger That,Nicki Minaj,sadness,joy,1,2025-04-18 01:53:15
+user_98,Silicone On Sapphire,Clash,joy,joy,0,2025-04-22 14:00:15
+user_98,BTS - Wishing on a Star English Translation,Genius English Translations,fear,fear,0,2025-05-04 22:05:15
+user_98,This Life,Denzel Curry,sadness,sadness,0,2025-05-01 20:19:15
+user_98,Love and War,Tamar Braxton,surprise,surprise,0,2025-05-02 03:15:15
+user_98,Older Gods,Wu-Tang Clan,joy,joy,0,2025-04-26 23:08:15
+user_98,First Light of the Day,Geto Boys,love,love,0,2025-04-10 02:38:15
+user_98,Shore,Fleet Foxes,fear,fear,0,2025-04-12 05:40:15
+user_98,Do You Know? (The Ping Pong Song),Enrique Iglesias,joy,joy,0,2025-04-21 13:43:15
+user_98,Motivation,MUNA,anger,joy,1,2025-04-15 02:08:15
+user_98,He Went To Paris,Jimmy Buffett,fear,fear,0,2025-04-30 14:19:15
+user_98,Listen Up,Oasis,joy,joy,0,2025-05-09 17:14:15
+user_98,Bluebird,Alessia Cara,surprise,surprise,0,2025-04-28 16:14:15
+user_98,Lifeless Dead,Mad Season,fear,fear,0,2025-04-17 12:52:15
+user_98,Blood,Faith No More,love,love,0,2025-04-09 22:37:15
+user_98,Nothings Gonna Change My Love For You,George Benson,sadness,joy,1,2025-05-07 11:58:15
+user_98,Celebrate,Wiz Khalifa,fear,fear,0,2025-05-03 12:09:15
+user_98,World Hold On,Bob Sinclar,anger,joy,1,2025-04-21 14:51:15
+user_98,One Love,Jennifer Lopez,surprise,surprise,0,2025-04-26 11:15:15
+user_98,Two Blunts,The Game,fear,fear,0,2025-04-23 09:55:15
+user_98,Hurricane Ant Clemons Demo,Kanye West,joy,joy,0,2025-04-17 15:37:15
+user_98,All I Want,LCD Soundsystem,joy,joy,0,2025-05-08 17:32:15
+user_98,National Brotherhood Week,Tom Lehrer,anger,joy,1,2025-05-09 03:17:15
+user_98,Tulsa Jesus Freak,Lana Del Rey,surprise,surprise,0,2025-04-23 22:45:15
+user_98,Light Up Remix,Lil Wayne,surprise,surprise,0,2025-04-30 09:51:15
+user_98,Daily Duppy feat. GRM Daily,Abra Cadabra,joy,joy,0,2025-04-23 21:57:15
+user_98,No Drugs,Pinegrove,joy,joy,0,2025-04-26 03:40:15
+user_98,It Seems Like Youre Ready,R. Kelly,joy,joy,0,2025-04-24 13:50:15
+user_98,Dancing In The Minefields,Andrew Peterson,surprise,surprise,0,2025-05-07 16:57:15
+user_98,Late in Love,Souly Had,joy,joy,0,2025-04-16 19:37:15
+user_98,A Million Miles Away,Lenny Kravitz,anger,joy,1,2025-04-29 14:57:15
+user_98,More Than Anything,Sunday Service Choir,fear,fear,0,2025-04-27 01:24:15
+user_98,I'm Alright,Overkill,joy,joy,0,2025-04-24 11:32:15
+user_98,Vicks,Mike G,love,love,0,2025-04-24 12:01:15
+user_98,Stay Another Day,East 17,anger,anger,0,2025-04-23 10:24:15
+user_98,Big Boys Neighborhood Freestyle 2014,Kendrick Lamar,surprise,surprise,0,2025-04-17 22:41:15
+user_98,Burning Of The Heart,Richard Marx,sadness,joy,1,2025-04-23 12:50:15
+user_98,Lessons,R.A. The Rugged Man,love,love,0,2025-04-14 03:10:15
+user_98,I Know I Know I Know,Tegan and Sara,love,love,0,2025-05-03 22:37:15

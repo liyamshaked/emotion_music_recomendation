@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_67,Why?,Devin Townsend,anger,joy,1,2025-04-30 18:19:59
+user_67,Gremmie Out Of Control,Pearl Jam,surprise,surprise,0,2025-05-01 08:10:59
+user_67,Papa,Prince,joy,joy,0,2025-05-06 15:07:59
+user_67,No Rainy Days,Lil Skies,love,love,0,2025-05-01 06:22:59
+user_67,I Dreamed A Dream,Neil Diamond,joy,joy,0,2025-04-11 21:23:59
+user_67,Microphone Murderer,The Notorious B.I.G.,fear,fear,0,2025-05-02 13:20:59
+user_67,Boy,Alex G,love,love,0,2025-04-19 04:21:59
+user_67,Hu Tao,PeachyFranny,surprise,surprise,0,2025-04-23 07:20:59
+user_67,The More I Get The More I Want,Teddy Pendergrass,love,love,0,2025-04-25 07:45:59
+user_67,Heal Yourself,KRS-One,anger,joy,1,2025-05-09 02:01:59
+user_67,Save That Shit Remix,Soulja Boy,fear,fear,0,2025-04-20 05:09:59
+user_67,When It Rains,Paramore,anger,joy,1,2025-04-17 07:33:59
+user_67,FM$ Freak My Shit,New Boyz,love,love,0,2025-04-25 19:55:59
+user_67,2019 My Year 201999,Juice WRLD,joy,joy,0,2025-04-13 11:26:59
+user_67,Shinebox,CrazyEightyEight,fear,fear,0,2025-04-19 07:39:59
+user_67,Me You,George Ezra,anger,joy,1,2025-04-15 05:26:59
+user_67,Mama Kin,Aerosmith,anger,joy,1,2025-04-25 18:49:59
+user_67,Freeze Your Brain,Heathers the Musical Ensemble,love,love,0,2025-04-23 00:37:59
+user_67,WTF,Young Spool,joy,joy,0,2025-04-10 03:22:59
+user_67,Im Good Cuz Enjoy Detox,Dave East,surprise,surprise,0,2025-04-27 17:36:59
+user_67,Design in Malice,Jedi Mind Tricks,love,love,0,2025-04-13 21:11:59
+user_67,Meditate,Big K.R.I.T.,joy,joy,0,2025-04-28 10:20:59
+user_67,Better,Jeremy Passion,love,love,0,2025-04-17 04:47:59
+user_67,Stereo Hearts,Gym Class Heroes,surprise,surprise,0,2025-04-17 03:17:59
+user_67,My Kinda Folk,Luke Combs,sadness,joy,1,2025-04-17 20:15:59
+user_67,COME AGAIN SWEET LOVE DOTH NOW INVITE,John Dowland,sadness,sadness,0,2025-04-29 10:53:59
+user_67,Climbing Uphill,Anna Kendrick,anger,joy,1,2025-05-02 06:22:59
+user_67,A Sort Of Homecoming,U2,surprise,surprise,0,2025-04-15 14:56:59
+user_67,Aye,Davido,surprise,surprise,0,2025-04-16 05:11:59
+user_67,Shabba Ranks Freestyle,Tory Lanez,sadness,sadness,0,2025-04-21 09:01:59
+user_67,Don't Go,Keith Urban,fear,fear,0,2025-04-09 18:06:59
+user_67,The Love Club,Lorde,love,love,0,2025-04-26 04:52:59
+user_67,Ladies Pay,Lou Reed,fear,fear,0,2025-05-01 07:23:59
+user_67,Last Call,Xzibit,joy,joy,0,2025-04-26 19:53:59
+user_67,Beneath with Me,Kaskade & deadmau5,joy,joy,0,2025-04-28 21:26:59
+user_67,Session Cypher,Xavier Wulf,surprise,surprise,0,2025-04-11 17:42:59
+user_67,The Plug Best Friend,Young Dolph,surprise,surprise,0,2025-04-20 10:53:59
+user_67,Beautiful Lie,Yoav,love,love,0,2025-04-23 00:04:59
+user_67,Outside,Kero Kero Bonito,joy,joy,0,2025-04-13 17:24:59
+user_67,Hometown Girl,Josh Turner,surprise,surprise,0,2025-04-26 21:22:59
+user_67,Sunshower,Dr. Buzzard's Original Savannah Band,sadness,joy,1,2025-04-13 15:22:59
+user_67,Basket Case,Bastille,sadness,sadness,0,2025-05-09 10:24:59
+user_67,Work,Demotus,surprise,surprise,0,2025-04-17 06:44:59
+user_67,Parallel Lines,DVBBS & CMC$,joy,joy,0,2025-04-11 23:08:59
+user_67,Right Girl,The Maine,surprise,surprise,0,2025-05-04 08:52:59
+user_67,Tin Lover,The Paper Kites,fear,fear,0,2025-04-16 06:07:59
+user_67,Trapathy,$UICIDEBOY$,joy,joy,0,2025-04-14 16:29:59
+user_67,Funtimes in Babylon,Father John Misty,joy,joy,0,2025-04-15 15:56:59
+user_67,This Is the New Shit,Marilyn Manson,surprise,surprise,0,2025-04-12 01:24:59
+user_67,Happy To Hang Around,Travis,love,love,0,2025-04-15 19:08:59
+user_67,The Unforgiven III,Metallica,surprise,surprise,0,2025-04-17 22:01:59
+user_67,BOOLN,MadeinTYO,surprise,surprise,0,2025-04-17 22:20:59
+user_67,The Wicker Man,Iron Maiden,love,love,0,2025-04-23 00:42:59
+user_67,TWICE - SCIENTIST English Translation,Genius English Translations,fear,fear,0,2025-04-21 05:20:59
+user_67,Come Undone,Duran Duran,joy,joy,0,2025-04-30 04:15:59
+user_67,The Same Boy You've Always Known,The White Stripes,surprise,surprise,0,2025-04-19 19:34:59
+user_67,The Day I Met You,Belly,joy,joy,0,2025-04-17 00:58:59
+user_67,The Professor La Fille Danse,Damien Rice,love,love,0,2025-04-13 08:14:59
+user_67,Breathe,Lauv,fear,fear,0,2025-04-16 21:35:59
+user_67,Stronger,Britney Spears,love,love,0,2025-04-14 16:09:59
+user_67,I Want A Son,Kenny Rogers,love,love,0,2025-04-29 14:34:59
+user_67,All My Life,Mariah Carey,anger,joy,1,2025-05-07 18:50:59
+user_67,For Real,Mallrat,sadness,sadness,0,2025-04-25 04:59:59
+user_67,Pills,Lil Xan,surprise,surprise,0,2025-04-15 00:55:59
+user_67,BxMxC - English Translation,Genius English Translations,anger,joy,1,2025-04-26 21:03:59
+user_67,Ive Seen It All,Bjrk,sadness,joy,1,2025-04-15 09:53:59
+user_67,Lightwork Freestyle,Block 6,fear,fear,0,2025-04-21 12:57:59
+user_67,Super Junior - Sorry Sorry English Translation,Genius English Translations,sadness,sadness,0,2025-05-02 03:23:59
+user_67,Little More Time,Lucky Daye,joy,joy,0,2025-05-01 21:41:59
+user_67,Yours to Hold,Brett Young,sadness,joy,1,2025-04-19 14:14:59
+user_67,Let Love Bleed Red,Sleeping With Sirens,sadness,sadness,0,2025-04-14 17:03:59
+user_67,Words of Devine,Sizzla,sadness,joy,1,2025-05-01 20:52:59
+user_67,Sweeterman,Ramriddlz,love,love,0,2025-04-10 14:34:59
+user_67,Progression,Dizzy Wright,surprise,surprise,0,2025-05-02 09:23:59
+user_67,All Alone In The Dark,The Monkees,anger,joy,1,2025-04-19 03:15:59
+user_67,Simple And Clean,Utada Hikaru,joy,joy,0,2025-04-11 18:51:59
+user_67,Shape Up,State Champs,sadness,sadness,0,2025-04-14 18:15:59
+user_67,For Certain,Money Man,anger,anger,0,2025-04-29 23:13:59
+user_67,You Are The One,Usher,love,love,0,2025-05-09 07:00:59
+user_67,Edgar Allan Poed Up,Smino,joy,joy,0,2025-04-13 12:46:59
+user_67,Impossible Dream,Luther Vandross,surprise,surprise,0,2025-04-30 04:25:59
+user_67,I Feel Like Dancin,All Time Low,fear,fear,0,2025-04-22 19:46:59
+user_67,Luskus Delph,Procol Harum,sadness,joy,1,2025-04-15 16:00:59
+user_67,Back In The Race,Glen Campbell,surprise,surprise,0,2025-04-13 11:23:59
+user_67,Bonnie Blyde,Sada Baby,sadness,joy,1,2025-04-25 19:12:59
+user_67,Make It Home,Polo G,joy,joy,0,2025-05-08 08:30:59
+user_67,Misery Meat,Sodikken,love,love,0,2025-04-18 17:29:59
+user_67,Murda In Da 1st Degree,Tommy Wright III,anger,anger,0,2025-04-23 20:54:59
+user_67,Shock the Monkey,Peter Gabriel,fear,fear,0,2025-04-20 10:24:59
+user_67,Offend in Every Way,The White Stripes,sadness,joy,1,2025-04-24 03:00:59
+user_67,Think Of What You've Done,Dan Fogelberg,love,love,0,2025-05-01 05:55:59
+user_67,State Of Mind,Electric Light Orchestra,love,love,0,2025-04-23 16:17:59
+user_67,Drenched,Qu Wanting,surprise,surprise,0,2025-05-06 17:48:59
+user_67,Jacob Sartorius Roasted Me Again Diss Track,RiceGum,sadness,joy,1,2025-04-20 20:19:59
+user_67,Break It Down,Logic,sadness,sadness,0,2025-04-10 19:59:59
+user_67,Don't Worry,Modern Talking,anger,anger,0,2025-04-12 03:16:59
+user_67,Love Over And Over Again,Switch (R&B band),fear,fear,0,2025-04-25 06:00:59
+user_67,Whistle for the Choir,The Fratellis,joy,joy,0,2025-04-20 02:02:59
+user_67,My All,Mariah Carey,love,love,0,2025-04-19 18:58:59
+user_67,Up on the Sun,Meat Puppets,joy,joy,0,2025-05-03 11:27:59

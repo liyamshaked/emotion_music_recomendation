@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_42,Enchanted,J. Cole,sadness,sadness,0,2025-04-12 18:31:47
+user_42,Sadboy,Naaz,joy,joy,0,2025-04-10 07:24:47
+user_42,Somebody Else,Tech N9ne,joy,joy,0,2025-04-29 01:56:47
+user_42,Dreams,Kendrick Lamar,fear,fear,0,2025-05-08 05:07:47
+user_42,It Wasn't God Who Made Honky Tonk Angels,Patsy Cline,surprise,surprise,0,2025-05-05 08:33:47
+user_42,Pray for Me,Anthony Hamilton,fear,fear,0,2025-04-14 17:35:47
+user_42,Plug on the Phone,YUZI,sadness,joy,1,2025-05-06 01:12:47
+user_42,Restless Heart,Michael W. Smith,joy,joy,0,2025-04-24 09:13:47
+user_42,Australia,Attic Abasement,joy,joy,0,2025-04-21 02:04:47
+user_42,The Tin Man,Kenny Chesney,fear,fear,0,2025-05-04 16:57:47
+user_42,Once Upon A Dream,Lana Del Rey,love,love,0,2025-04-25 16:23:47
+user_42,Love Me Back,RITUAL & Tove Styrke,love,love,0,2025-04-22 21:19:47
+user_42,Jurisdiction Of Love,Devo,fear,fear,0,2025-04-17 09:01:47
+user_42,Weird Science,Oingo Boingo,surprise,surprise,0,2025-04-25 02:25:47
+user_42,Shooting Star,Owl City,surprise,surprise,0,2025-04-15 11:10:47
+user_42,Seven Words,Tech N9ne,love,love,0,2025-04-27 13:27:47
+user_42,I Know,Jazz Cartier,anger,joy,1,2025-04-10 05:36:47
+user_42,Underneath the Stars,The Cure,sadness,joy,1,2025-05-02 17:38:47
+user_42,Egypt The Chains Are On,Dio,surprise,surprise,0,2025-05-07 02:02:47
+user_42,Call Out Laundry,Joyce Manor,joy,joy,0,2025-05-06 00:36:47
+user_42,Doing It,Charli XCX,surprise,surprise,0,2025-04-11 05:04:47
+user_42,The One That Got Away,The Civil Wars,surprise,surprise,0,2025-05-08 17:53:47
+user_42,Born to be Free,X JAPAN,surprise,surprise,0,2025-04-26 02:40:47
+user_42,In Her Lane,Kirko Bangz,anger,anger,0,2025-05-05 21:32:47
+user_42,Fame Going Crazy,D12,fear,fear,0,2025-05-08 22:32:47
+user_42,Maybe The Night,Ben&Ben,fear,fear,0,2025-05-09 08:17:47
+user_42,Intro: Stay Down,The Diplomats,anger,anger,0,2025-04-22 06:28:47
+user_42,FRIENDS,Blaise Moore,sadness,sadness,0,2025-05-04 07:46:47
+user_42,Camarillo Brillo,Frank Zappa,anger,anger,0,2025-04-25 15:42:47
+user_42,Mountain Energy,The Fall,joy,joy,0,2025-05-02 20:03:47
+user_42,Cant Leave Em Alone,Ciara,joy,joy,0,2025-04-25 22:14:47
+user_42,Just Like Honey,The Jesus and Mary Chain,joy,joy,0,2025-04-23 13:25:47
+user_42,I Do But I Don't,Tim McGraw,anger,joy,1,2025-04-12 22:26:47
+user_42,How Long Will Be Too Long,Michael W. Smith,joy,joy,0,2025-04-11 23:13:47
+user_42,Greatest Day,Take That,joy,joy,0,2025-05-09 03:38:47
+user_42,We'll Go To,Tragically Hip,surprise,surprise,0,2025-04-27 06:34:47
+user_42,Falling,Lauren Jauregui,love,love,0,2025-05-03 13:18:47
+user_42,Savage Mode,21 Savage & Metro Boomin,anger,anger,0,2025-04-27 03:18:47
+user_42,TOO DEEP TO TURN BACK,Daniel Caesar,anger,joy,1,2025-04-18 19:27:47
+user_42,Hunnids,Ramirez,sadness,joy,1,2025-04-14 01:55:47
+user_42,Night Train,Jason Aldean,surprise,surprise,0,2025-04-21 05:07:47
+user_42,Suck My Left One,Bikini Kill,surprise,surprise,0,2025-05-03 18:50:47
+user_42,Pleas,Widespread Panic,love,love,0,2025-04-23 09:17:47
+user_42,BangBang Snippet,Chief Keef,fear,fear,0,2025-04-24 17:00:47
+user_42,Zombie,Kodak Black,love,love,0,2025-04-17 01:52:47
+user_42,I Believe,KB,sadness,joy,1,2025-04-22 10:09:47
+user_42,Wasted,Digga D & ArrDee,anger,anger,0,2025-04-13 08:07:47
+user_42,Blood Wolf,Dance Gavin Dance,sadness,joy,1,2025-04-16 17:50:47
+user_42,Insomniac,Memo Boy,love,love,0,2025-04-18 11:13:47
+user_42,Stalker Interlude,Nines,joy,joy,0,2025-04-22 07:06:47
+user_42,4 The Betta,Lucki,anger,joy,1,2025-04-25 10:38:47
+user_42,Havent Spoke,French Montana,love,love,0,2025-04-19 03:51:47
+user_42,I'm Alive,Tom Jones,love,love,0,2025-04-12 13:24:47
+user_42,History Lesson - Part II,Minutemen,sadness,joy,1,2025-04-28 22:54:47
+user_42,Too Insistent,The D,anger,joy,1,2025-05-06 02:16:47
+user_42,No Explanation,Peter Cetera,anger,joy,1,2025-04-20 02:05:47
+user_42,Love Like Honey,Pretty Ricky,sadness,joy,1,2025-05-05 14:21:47
+user_42,To Live Is to Fly Live at the Old Quarter,Townes Van Zandt,surprise,surprise,0,2025-04-22 18:00:47
+user_42,Hit or Miss,BOYO,sadness,sadness,0,2025-05-01 05:48:47
+user_42,Problem Solver,Vinnie Paz,anger,joy,1,2025-05-07 17:02:47
+user_42,Fuel,Metallica,surprise,surprise,0,2025-04-29 11:24:47
+user_42,I Wish I Was A Chair.,Phony Ppl,sadness,joy,1,2025-05-06 14:47:47
+user_42,Henny Reefer,Chillinit,anger,anger,0,2025-04-17 02:43:47
+user_42,Askies Im Sorry,K.O. (Mr Cashtime),anger,joy,1,2025-05-05 15:07:47
+user_42,Hark! The Herald Angels Sing,Bob Dylan,anger,joy,1,2025-04-10 21:44:47
+user_42,10 Bandz,Young M.A,sadness,sadness,0,2025-04-16 08:04:47
+user_42,That Was Lulu,Richard Marx,anger,anger,0,2025-04-24 08:26:47
+user_42,When the Worlds at Stake reprise,Team StarKid,surprise,surprise,0,2025-05-09 06:37:47
+user_42,Blood on the Wall,Joe Budden,joy,joy,0,2025-05-08 18:37:47
+user_42,Baki,Trippie Redd,love,love,0,2025-05-01 06:54:47
+user_42,The House Always Wins,Stray from the Path,sadness,sadness,0,2025-04-10 00:36:47
+user_42,Renegade Master Wildchild,Fatboy Slim,love,love,0,2025-04-10 05:01:47
+user_42,Iconic,Madonna,surprise,surprise,0,2025-04-18 19:51:47
+user_42,Trust Issues Remix,The Weeknd,anger,anger,0,2025-04-25 01:37:47
+user_42,Me and My Bitch,NAV & Metro Boomin,fear,fear,0,2025-05-03 13:54:47
+user_42,Finding Out More,HAEVN,surprise,surprise,0,2025-04-15 05:35:47
+user_42,Best That I Can,Vance Joy,love,love,0,2025-04-12 01:03:47
+user_42,Show Me Your Glory,Jesus Culture,surprise,surprise,0,2025-05-05 09:13:47
+user_42,Ricochet,Faith No More,love,love,0,2025-05-02 22:10:47
+user_42,Movin' On,Blur,joy,joy,0,2025-04-10 13:00:47
+user_42,Keep Praying,Maverick City Music,surprise,surprise,0,2025-04-29 20:56:47
+user_42,Brown Sugar,Rolling Stones,surprise,surprise,0,2025-05-08 07:32:47
+user_42,Put Your Name on It,Mabel,love,love,0,2025-04-20 10:54:47
+user_42,Fever,Bullet for My Valentine,love,love,0,2025-04-10 22:01:47
+user_42,I Feel Everything,Idina Menzel,sadness,sadness,0,2025-05-05 05:13:47
+user_42,Someday,LP,love,love,0,2025-04-17 01:17:47
+user_42,Tongue of God,Pain of Salvation,anger,anger,0,2025-04-16 05:49:47
+user_42,Need Someone,Zara Larsson,anger,joy,1,2025-04-29 04:30:47
+user_42,Lost Weekend,Wanda Jackson,joy,joy,0,2025-04-25 20:07:47
+user_42,Older Than Me,Marillion,anger,anger,0,2025-04-27 07:20:47
+user_42,NiziU - Make you happy English Translation,Genius English Translations,surprise,surprise,0,2025-04-24 14:50:47
+user_42,MisterTenBelow,BONES,sadness,sadness,0,2025-04-20 07:48:47
+user_42,Enormous,Gucci Mane,sadness,sadness,0,2025-05-04 22:04:47
+user_42,Nice 'n' Easy,Natalie Cole,sadness,joy,1,2025-04-30 14:37:47
+user_42,Man to Man,Dorian Electra,sadness,sadness,0,2025-05-08 18:21:47
+user_42,Particular Taste,Shawn Mendes,anger,joy,1,2025-04-10 05:02:47
+user_42,Teachers,Leonard Cohen,joy,joy,0,2025-05-07 03:21:47
+user_42,Empire State of Mind Part II Broken Down,Alicia Keys,anger,joy,1,2025-04-24 14:55:47
+user_42,Chasing Ghosts,The Eden Project,love,love,0,2025-04-30 22:20:47
+user_42,Legacy,In This Moment,surprise,surprise,0,2025-05-03 03:05:47

@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_12,Merchant of War,Jedi Mind Tricks,love,love,0,2025-04-23 14:36:33
+user_12,The Touch,Stan Bush,love,love,0,2025-04-21 21:06:33
+user_12,The NeverEnding Story,Limahl,fear,fear,0,2025-05-02 02:56:33
+user_12,He Ain't Heavy He's My Brother,Glen Campbell,sadness,joy,1,2025-04-28 10:05:33
+user_12,Pretty Face,PUBLIC,anger,joy,1,2025-05-09 04:02:33
+user_12,Mildenhall,The Shins,fear,fear,0,2025-05-06 02:44:33
+user_12,Roys Tune,Fontaines D.C.,anger,joy,1,2025-04-10 07:03:33
+user_12,PARADOX,Thouxanbanfauni,sadness,sadness,0,2025-05-03 18:56:33
+user_12,​off the leash,BabySantana & yvngxchris,love,love,0,2025-05-02 02:12:33
+user_12,I Dreamed A Dream,Les Miserables,joy,joy,0,2025-05-01 22:05:33
+user_12,I Remember You,Chet Baker,sadness,joy,1,2025-04-30 20:44:33
+user_12,G.O.O.D. Friday,Kanye West,joy,joy,0,2025-04-18 17:08:33
+user_12,Contraband,Night Lovell,joy,joy,0,2025-05-01 04:37:33
+user_12,Different,Maggie Lindemann,love,love,0,2025-04-16 03:51:33
+user_12,Gold Love,Maren Morris,love,love,0,2025-04-28 17:35:33
+user_12,Whatever,Our Lady Peace,fear,fear,0,2025-04-15 18:56:33
+user_12,Arise Dear Brother,Archy Marshall,love,love,0,2025-05-02 02:27:33
+user_12,Umm,Pouya & Boobie Lootaveli,anger,anger,0,2025-04-14 04:43:33
+user_12,Still alive - portal,Erutan,love,love,0,2025-04-13 02:31:33
+user_12,Tattoo,Hilary Duff,joy,joy,0,2025-04-23 00:03:33
+user_12,Care Too Much,Witt Lowry,joy,joy,0,2025-04-18 15:58:33
+user_12,BRB,SWMRS,love,love,0,2025-04-13 08:07:33
+user_12,They Dont Care About Us,Michael Jackson,joy,joy,0,2025-04-21 20:02:33
+user_12,Superficial Society,Unwritten Law,sadness,joy,1,2025-04-09 23:49:33
+user_12,Dancing Shoes,Chris Rea,love,love,0,2025-05-07 22:15:33
+user_12,Free,Charlie Puth,fear,fear,0,2025-05-06 15:45:33
+user_12,In The Garden,Loretta Lynn,sadness,joy,1,2025-05-05 23:08:33
+user_12,Parking Lot Skit,Eminem,fear,fear,0,2025-04-29 23:34:33
+user_12,If I Was President,Wyclef Jean,sadness,joy,1,2025-04-17 22:04:33
+user_12,Ahh Shit,Jeremih,sadness,joy,1,2025-05-04 17:45:33
+user_12,Car Wash,Christina Aguilera,joy,joy,0,2025-04-13 11:40:33
+user_12,Born Of Fire,Slayer,fear,fear,0,2025-04-27 05:28:33
+user_12,Broken Window Serenade,Whiskey Myers,surprise,surprise,0,2025-04-19 16:44:33
+user_12,The Signal Fire,Killswitch Engage,fear,fear,0,2025-04-24 07:51:33
+user_12,Paradise,H.E.R.,joy,joy,0,2025-05-03 22:33:33
+user_12,Is Anyone Up,Electric Callboy,joy,joy,0,2025-04-30 10:40:33
+user_12,Women Seem,John Mellencamp,sadness,joy,1,2025-05-08 17:43:33
+user_12,Dont Run,Casanova,anger,anger,0,2025-04-26 18:21:33
+user_12,Hurricane,Thrice,surprise,surprise,0,2025-05-07 06:37:33
+user_12,Heart by Heart,Demi Lovato,joy,joy,0,2025-04-21 23:52:33
+user_12,One Way or Every Nigga With a Budget,Saba,fear,fear,0,2025-04-18 13:40:33
+user_12,Bangarang,Skrillex,surprise,surprise,0,2025-04-14 17:08:33
+user_12,Legend,Clara (DNK),fear,fear,0,2025-04-30 22:37:33
+user_12,Gloom Boys,Waterparks,surprise,surprise,0,2025-04-15 16:25:33
+user_12,I Luh Ya Papi Remix,Jennifer Lopez,love,love,0,2025-04-25 23:54:33
+user_12,Pepper Riddim,Chip,love,love,0,2025-05-06 10:32:33
+user_12,7 Things,Miley Cyrus,sadness,joy,1,2025-05-03 12:38:33
+user_12,Johnny and June,Jelly Roll,joy,joy,0,2025-04-28 19:59:33
+user_12,Pretty Like Drugs,Queen Adreena,surprise,surprise,0,2025-04-14 19:56:33
+user_12,In Other Words I Hate You,Beautiful South,fear,fear,0,2025-04-13 03:27:33
+user_12,Steady As We Go,Dave Matthews Band,surprise,surprise,0,2025-04-19 15:27:33
+user_12,Some Kinda Wonderful,Sky (QC),fear,fear,0,2025-05-03 18:13:33
+user_12,I Shall Be Released,Bob Dylan,surprise,surprise,0,2025-04-11 14:08:33
+user_12,Dont Bogart That Joint,Fraternity of Man,love,love,0,2025-04-12 23:45:33
+user_12,Too Early,The-Dream,anger,anger,0,2025-04-11 19:58:33
+user_12,Blossoms,The Amazing Devil,surprise,surprise,0,2025-04-20 13:54:33
+user_12,Rose Garden,Glen Campbell,joy,joy,0,2025-04-26 13:12:33
+user_12,Overjoyed,Bastille,love,love,0,2025-05-06 00:39:33
+user_12,The Way You Feel,Woodie,love,love,0,2025-05-01 14:36:33
+user_12,Chimp,Juice WRLD,sadness,joy,1,2025-04-15 05:35:33
+user_12,Tuesdays Gone,Metallica,love,love,0,2025-04-15 19:53:33
+user_12,Cowboy Boots,Macklemore & Ryan Lewis,fear,fear,0,2025-04-10 14:17:33
+user_12,Highway Patrolman,Bruce Springsteen,joy,joy,0,2025-04-14 05:16:33
+user_12,Hello,Eminem,fear,fear,0,2025-04-13 21:32:33
+user_12,Prelude / The Sound of Music,Julie Andrews,anger,joy,1,2025-04-14 14:55:33
+user_12,A Thin Line Between Love Hate,H-Town,surprise,surprise,0,2025-04-27 13:59:33
+user_12,Pull Up,Chief Keef,fear,fear,0,2025-04-16 12:11:33
+user_12,Bite to Break Skin,Senses Fail,love,love,0,2025-04-30 09:24:33
+user_12,Meteor Shower,Owl City,sadness,joy,1,2025-04-11 09:31:33
+user_12,I Wanna Be Free,Patti LaBelle,sadness,sadness,0,2025-04-25 01:30:33
+user_12,The Way Some People Die,Yo La Tengo,fear,fear,0,2025-04-18 13:06:33
+user_12,Love Me Better,Love Thy Brother,joy,joy,0,2025-04-17 05:40:33
+user_12,Sorry,Tears For Fears,love,love,0,2025-04-20 15:44:33
+user_12,Deceived,Lil Xan,love,love,0,2025-05-08 02:43:33
+user_12,Ill Mind of Hopsin 8,Hopsin,love,love,0,2025-05-05 19:22:33
+user_12,You Are My Strength,William Murphy,love,love,0,2025-04-13 16:07:33
+user_12,Broken,Ghostemane & Parv0,joy,joy,0,2025-05-01 07:45:33
+user_12,Off to the Races,Lana Del Rey,surprise,surprise,0,2025-04-14 07:48:33
+user_12,Mile Zero,Periphery,joy,joy,0,2025-04-30 19:47:33
+user_12,Your House,Alanis Morissette,sadness,joy,1,2025-04-13 03:48:33
+user_12,Makaveli,Tory Lanez,sadness,joy,1,2025-04-23 01:43:33
+user_12,What Part of Me,Low,surprise,surprise,0,2025-05-08 13:11:33
+user_12,Prayer Loop Song,Supaman,anger,anger,0,2025-04-24 17:53:33
+user_12,Paradise,XOV,anger,joy,1,2025-04-22 17:08:33
+user_12,Box,Lethal Bizzle,love,love,0,2025-04-21 08:30:33
+user_12,Alkaline,Kota the Friend,fear,fear,0,2025-04-18 06:08:33
+user_12,Trail of Lies,Jedi Mind Tricks,fear,fear,0,2025-04-30 09:41:33
+user_12,Lili Marlene,Perry Como,fear,fear,0,2025-05-04 04:12:33
+user_12,All Time Low A$AP Ferg Remix,Jon Bellion,love,love,0,2025-04-16 09:50:33
+user_12,The Chauffeur,Duran Duran,joy,joy,0,2025-04-29 20:51:33
+user_12,Theme Song,Danny Brown,joy,joy,0,2025-04-20 06:04:33
+user_12,I Dont Even Know Your Name,Shawn Mendes,love,love,0,2025-05-06 04:15:33
+user_12,Tangerine Remix,Glass Animals,joy,joy,0,2025-04-20 19:14:33
+user_12,Motherless Child,Ghostface Killah,sadness,sadness,0,2025-05-07 05:06:33
+user_12,Not Enough,Futuristic,love,love,0,2025-04-15 22:41:33
+user_12,Always Loved A Film,Underworld,anger,joy,1,2025-04-27 14:25:33
+user_12,A Man And A Woman,Engelbert Humperdinck,anger,joy,1,2025-04-27 21:40:33
+user_12,Touch Acoustic,Little Mix,joy,joy,0,2025-04-17 04:34:33
+user_12,MVP,Tink,fear,fear,0,2025-04-29 06:33:33
+user_12,The Girl From Ipanema Garota De Ipanema,Astrud Gilberto,joy,joy,0,2025-04-17 17:31:33

@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_30,BOOLN,MadeinTYO,sadness,sadness,0,2025-04-19 12:39:41
+user_30,Stop In the Name of Love,The Supremes,surprise,surprise,0,2025-05-01 04:34:41
+user_30,When the Beat Drops Out,Marlon Roudette,fear,fear,0,2025-04-29 05:27:41
+user_30,How Does a Moment Last Forever Montmartre,Emma Watson,sadness,sadness,0,2025-04-24 08:09:41
+user_30,Im a Flirt Remix,R. Kelly,love,love,0,2025-05-05 14:45:41
+user_30,Hell,Ghost Town,anger,anger,0,2025-05-01 08:15:41
+user_30,Angels With Dirty Faces,Puff Daddy,joy,joy,0,2025-04-14 12:45:41
+user_30,Call Me,Ufo,sadness,joy,1,2025-04-25 14:56:41
+user_30,Same Heart,Keith Urban,joy,joy,0,2025-05-04 01:14:41
+user_30,Stronger,Mt Eden,anger,anger,0,2025-05-01 02:56:41
+user_30,Royalty-Free Christmas Songs Pt. 3,jacksfilms,sadness,joy,1,2025-04-20 04:08:41
+user_30,Who's That Girl?,Eurythmics,fear,fear,0,2025-04-18 17:41:41
+user_30,Definite Goodbye,Bosson,love,love,0,2025-04-20 17:57:41
+user_30,Im Waiting for the Day,The Beach Boys,anger,joy,1,2025-05-06 14:38:41
+user_30,Sober to Death 2018,Car Seat Headrest,anger,joy,1,2025-04-22 09:40:41
+user_30,Money and Sex,Big Sean,sadness,joy,1,2025-04-22 20:27:41
+user_30,American River,Destroy Boys,anger,anger,0,2025-04-12 20:22:41
+user_30,Make It Happen,Mariah Carey,anger,joy,1,2025-04-29 15:52:41
+user_30,Mon Soleil from Emily in Paris soundtrack,Ashley Park,joy,joy,0,2025-05-05 09:17:41
+user_30,Make Way,Aloe Blacc,sadness,joy,1,2025-04-18 13:43:41
+user_30,U Use To Call Me,Erykah Badu,surprise,surprise,0,2025-04-18 23:47:41
+user_30,God Bless America,Irving Berlin,anger,joy,1,2025-04-18 16:51:41
+user_30,Garden Song,Phoebe Bridgers,love,love,0,2025-04-15 13:33:41
+user_30,Niggas Bleed,The Notorious B.I.G.,surprise,surprise,0,2025-04-12 12:25:41
+user_30,Lay Your Head On My Pillow,Tony! Toni! Ton!,love,love,0,2025-04-28 12:23:41
+user_30,Who Am I,Snoop Dogg,love,love,0,2025-05-04 00:48:41
+user_30,Blue Bayou,Engelbert Humperdinck,sadness,sadness,0,2025-04-22 15:47:41
+user_30,Make Up,New Hope Club,anger,joy,1,2025-04-15 06:06:41
+user_30,Undefined,Hi-Rez,love,love,0,2025-04-23 21:12:41
+user_30,Come Around,Kid Cudi,love,love,0,2025-04-19 17:54:41
+user_30,Oh My Papa,Eddie Fisher,joy,joy,0,2025-05-06 04:45:41
+user_30,And I Wonder,Alphaville,surprise,surprise,0,2025-04-28 18:20:41
+user_30,I'll Still Be Loving You,Kylie Minogue,sadness,joy,1,2025-05-03 11:29:41
+user_30,Little Know It All,Iggy Pop,surprise,surprise,0,2025-04-15 16:52:41
+user_30,YUZIGANG,YUZI,fear,fear,0,2025-05-05 21:27:41
+user_30,Not Alone Any More,Roy Orbison,love,love,0,2025-04-19 10:59:41
+user_30,Sunshine Superman,Donovan,surprise,surprise,0,2025-04-27 01:19:41
+user_30,It's Getting Dark In Here,Elton John,fear,fear,0,2025-04-21 22:27:41
+user_30,Its Such a Good Feeling Weekend Edition,Fred Rogers,sadness,joy,1,2025-04-29 17:19:41
+user_30,Die Die My Darling,Misfits,joy,joy,0,2025-04-23 18:26:41
+user_30,Be My Baby,Ariana Grande,joy,joy,0,2025-05-02 04:45:41
+user_30,New Heights,Ellie Goulding,fear,fear,0,2025-04-29 18:54:41
+user_30,Fever,Celine Dion,fear,fear,0,2025-04-20 11:07:41
+user_30,Face To Face,Gary Valenciano,anger,anger,0,2025-05-03 08:07:41
+user_30,Cold Coffee,Ed Sheeran,sadness,sadness,0,2025-04-30 10:05:41
+user_30,Meat Is Murder,The Smiths,anger,joy,1,2025-04-17 18:03:41
+user_30,Lost In Time,Ski Mask the Slump God,sadness,sadness,0,2025-04-29 11:51:41
+user_30,If She Ever Leaves Me,The Highwomen,anger,joy,1,2025-04-29 03:33:41
+user_30,Stress,Richie Campbell,joy,joy,0,2025-04-21 23:08:41
+user_30,Cut Me Off,Cam Meekins,fear,fear,0,2025-04-11 02:16:41
+user_30,Penthouse,Dave East,surprise,surprise,0,2025-04-27 23:56:41
+user_30,Def Squad Delite,Def Squad,anger,anger,0,2025-04-26 03:27:41
+user_30,See Me Now,Kanye West,surprise,surprise,0,2025-04-14 08:25:41
+user_30,Heartbeats,Foxing,love,love,0,2025-04-27 22:20:41
+user_30,Human Nature,Michael Jackson,joy,joy,0,2025-04-14 12:16:41
+user_30,Face The Truth,Ludacris,love,love,0,2025-04-25 07:41:41
+user_30,Miss Me,Drake,sadness,sadness,0,2025-04-22 15:12:41
+user_30,Water Leak,Philthy Rich,love,love,0,2025-04-16 16:30:41
+user_30,In The Sweet By And By,Loretta Lynn,joy,joy,0,2025-05-02 13:22:41
+user_30,Love Yourself,Emicii,surprise,surprise,0,2025-05-03 23:45:41
+user_30,Hunnid,Yo Gotti,love,love,0,2025-05-07 10:27:41
+user_30,We Miss You,Nicki Minaj,joy,joy,0,2025-04-11 19:43:41
+user_30,Cinderella At the Grave,Kim Crosby,anger,joy,1,2025-04-13 13:35:41
+user_30,Outcry,Dream Theater,surprise,surprise,0,2025-04-29 11:20:41
+user_30,The Register,Machine Gun Kelly,surprise,surprise,0,2025-04-16 17:56:41
+user_30,Under The Moon,070 Shake,love,love,0,2025-04-29 16:55:41
+user_30,​bad guy,Billie Eilish & Justin Bieber,anger,anger,0,2025-05-08 02:09:41
+user_30,I'm Tired,Ying Yang Twins,surprise,surprise,0,2025-05-04 19:50:41
+user_30,Bump Bump Bump,B2K,sadness,joy,1,2025-04-24 10:26:41
+user_30,Antidote,NAO,love,love,0,2025-04-24 16:50:41
+user_30,Another Lonely Night,Adam Lambert,fear,fear,0,2025-04-18 09:53:41
+user_30,Forward,Anaal Nathrakh,fear,fear,0,2025-05-02 06:02:41
+user_30,Hillbilly Willy,Dolly Parton,fear,fear,0,2025-05-07 03:47:41
+user_30,Kill Em With Kindness Acoustic,Selena Gomez,anger,anger,0,2025-05-03 13:49:41
+user_30,Love Dont Live Here,Meek Mill,fear,fear,0,2025-05-07 02:35:41
+user_30,Psychedelic Ascension,Mr Traumatik,joy,joy,0,2025-05-06 05:22:41
+user_30,The 11th Hour,Rancid,fear,fear,0,2025-05-09 09:15:41
+user_30,Go Go Power Rangers,Ron Wasserman,fear,fear,0,2025-04-22 16:48:41
+user_30,Love Robert Horry,Mick Jenkins,sadness,joy,1,2025-05-03 13:45:41
+user_30,Sittin Sidewayz,Paul Wall,surprise,surprise,0,2025-04-17 07:56:41
+user_30,A Man I Always Wanted To Meet,George Jones,fear,fear,0,2025-04-15 03:41:41
+user_30,Put Your Lovin' On Me,Uriah Heep,joy,joy,0,2025-04-13 04:34:41
+user_30,Devotion,Tirzah,surprise,surprise,0,2025-05-07 00:37:41
+user_30,Psycho Gods Plan Look Alive Mashup,Alex Aiono,fear,fear,0,2025-05-01 06:22:41
+user_30,Just Like A River Does,Birdy,joy,joy,0,2025-04-24 06:28:41
+user_30,Guidance,Night Lovell,surprise,surprise,0,2025-04-24 09:28:41
+user_30,I'd Have You Anytime,George Harrison,anger,joy,1,2025-04-18 05:52:41
+user_30,Peripeteia,Milky Chance,sadness,sadness,0,2025-04-24 09:48:41
+user_30,Angels Have Mercy,Wishbone Ash,joy,joy,0,2025-04-12 16:40:41
+user_30,Music Man,Reo Speedwagon,love,love,0,2025-05-02 06:07:41
+user_30,Victory Is Yours Live,Bethel Music,surprise,surprise,0,2025-04-17 20:13:41
+user_30,Itll Be Okay,SMLE,love,love,0,2025-05-01 18:42:41
+user_30,The Plug,Fabolous,fear,fear,0,2025-04-28 15:16:41
+user_30,Story by Dave Chappelle,Big Sean,sadness,joy,1,2025-04-29 10:07:41
+user_30,Hots On for Nowhere,Led Zeppelin,love,love,0,2025-05-03 04:45:41
+user_30,Gotta Eat,Lupe Fiasco,anger,joy,1,2025-05-09 17:43:41
+user_30,Camden,Gracie Abrams,fear,fear,0,2025-04-11 09:39:41
+user_30,Copycat,Quarashi,love,love,0,2025-04-25 05:54:41
+user_30,Try to Be Better Again,Rnla & yaeow,sadness,joy,1,2025-04-13 23:33:41
+user_30,Big News II,Clutch,sadness,sadness,0,2025-05-01 06:36:41

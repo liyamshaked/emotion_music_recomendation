@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_36,Philly Dont Dance,TPL,joy,joy,0,2025-05-06 16:30:45
+user_36,Break the Cycle,For Today,sadness,sadness,0,2025-05-01 01:12:45
+user_36,I'm The Pied Piper,Beach Boys,surprise,surprise,0,2025-04-11 23:08:45
+user_36,Feel You,My Morning Jacket,anger,joy,1,2025-04-19 12:58:45
+user_36,Hurricane,"Lin-Manuel Miranda & Original Broadway Cast of ""Hamilton""",fear,fear,0,2025-04-24 03:10:45
+user_36,Just Sing Trolls World Tour,"Justin Timberlake, Anna Kendrick, James Corden, Kelly Clarkson, George Clinton, Mary J. Blige, Anderson .Paak, Rachel Bloom, Kenan Thompson, Anthony Ramos, Red Velvet, Icona Pop & Sam Rockwell",love,love,0,2025-04-28 17:14:45
+user_36,Here Comes Goodbye,Alison Krauss,surprise,surprise,0,2025-05-03 06:38:45
+user_36,Napalm,Da Circle,sadness,joy,1,2025-05-02 10:39:45
+user_36,Surrounded,Dream Theater,love,love,0,2025-04-11 16:40:45
+user_36,After You've Gone (Alternate Version) - With Eddie Condon,Bing Crosby,anger,anger,0,2025-05-05 23:45:45
+user_36,Hit Bout It,Lil Yachty,fear,fear,0,2025-05-06 01:31:45
+user_36,The Greatest Pizza Order Ever,Mac Lethal,love,love,0,2025-05-09 09:56:45
+user_36,Pockets Bigger,Flo Milli,anger,anger,0,2025-05-05 11:23:45
+user_36,MSFTS Anthem 2,Jaden,fear,fear,0,2025-04-28 06:28:45
+user_36,What Am I Gonna Do,Tyrese,anger,joy,1,2025-05-02 07:58:45
+user_36,Be Right There,Diplo & Sleepy Tom,fear,fear,0,2025-04-24 06:19:45
+user_36,Sad Ghost,Issues,fear,fear,0,2025-04-25 05:03:45
+user_36,How I Feel,Flo-Rida,joy,joy,0,2025-04-30 05:47:45
+user_36,Dead Gone,Josh A & iamjakehill,anger,anger,0,2025-04-24 02:47:45
+user_36,NaLingi,Manu Worldstar,love,love,0,2025-04-19 10:58:45
+user_36,Into The Mystery,NEEDTOBREATHE,love,love,0,2025-04-28 04:28:45
+user_36,Oath,Zoocci Coke Dope,fear,fear,0,2025-05-08 21:38:45
+user_36,While There's Still Time,Styx,anger,anger,0,2025-04-10 23:54:45
+user_36,Only You,Natalie Grant,joy,joy,0,2025-04-30 01:23:45
+user_36,Cold Turkey,The Beatles,surprise,surprise,0,2025-04-19 07:01:45
+user_36,The Aviator,Deep Purple,fear,fear,0,2025-05-05 17:28:45
+user_36,Wild Flower,New Birth,joy,joy,0,2025-04-12 18:56:45
+user_36,We Gon Ride,Dreezy,sadness,joy,1,2025-05-05 19:28:45
+user_36,Shotgun,Future,love,love,0,2025-04-16 23:21:45
+user_36,25/8,Smokepurpp,sadness,sadness,0,2025-04-15 14:49:45
+user_36,Fight Or Flight,Face To Face,sadness,joy,1,2025-04-12 12:09:45
+user_36,Saint Huck,Nick Cave,love,love,0,2025-04-21 11:31:45
+user_36,Intro,M83,love,love,0,2025-05-02 07:06:45
+user_36,Sold My Soul,Zakk Wylde,love,love,0,2025-04-21 11:14:45
+user_36,King City,Swim Deep,love,love,0,2025-05-08 06:34:45
+user_36,Blue Island,Bee Gees,anger,anger,0,2025-04-29 15:32:45
+user_36,Indigo,Kississippi,joy,joy,0,2025-05-04 05:59:45
+user_36,More Than I Can Say,Leo Sayer,sadness,sadness,0,2025-04-12 09:24:45
+user_36,Bury Me Alive,Insane Clown Posse,love,love,0,2025-04-12 12:30:45
+user_36,Better Be Good To Me,Tina Turner,love,love,0,2025-04-28 11:26:45
+user_36,DNA vs K-Shine,URLtv,love,love,0,2025-05-06 10:15:45
+user_36,What Goes Around,Nas,love,love,0,2025-05-01 10:22:45
+user_36,High Flyer,Ufo,joy,joy,0,2025-05-06 09:02:45
+user_36,8 Steps to Perfection,Company Flow,love,love,0,2025-05-04 09:22:45
+user_36,Make Luv,Brent Faiyaz,anger,joy,1,2025-04-14 12:10:45
+user_36,Colouring Book,Vybz Kartel,surprise,surprise,0,2025-04-15 15:26:45
+user_36,Divine Madness,Wondha Mountain,joy,joy,0,2025-05-04 14:12:45
+user_36,R.I.P. SCREW,Travis Scott,joy,joy,0,2025-05-05 07:00:45
+user_36,Rain or Shine,Young Fathers,anger,joy,1,2025-04-23 04:31:45
+user_36,Sweetest Devotion,Adele,anger,joy,1,2025-04-17 05:22:45
+user_36,2 AM Call Me,Don Toliver,fear,fear,0,2025-05-02 11:27:45
+user_36,Whoop Dat Ass,Tracie Thoms,joy,joy,0,2025-04-23 16:25:45
+user_36,Castle on a Cloud,Angel Haze,anger,anger,0,2025-04-24 12:49:45
+user_36,"Can't Stop, Won't Stop",Usher,anger,joy,1,2025-05-07 20:25:45
+user_36,Rawhide,Frankie Laine,fear,fear,0,2025-05-08 09:16:45
+user_36,Naked,Matilda,surprise,surprise,0,2025-04-21 05:17:45
+user_36,Living Room Song,The Wonder Years,surprise,surprise,0,2025-04-28 03:14:45
+user_36,Sun and Steel,Iron Maiden,anger,anger,0,2025-04-17 13:52:45
+user_36,I Know Love,Chronixx,anger,joy,1,2025-05-04 08:18:45
+user_36,Egyptian Cotton,Cassper Nyovest,fear,fear,0,2025-04-11 07:27:45
+user_36,Closer to You,Clairo,sadness,sadness,0,2025-04-23 05:43:45
+user_36,Intro Skit,Benny the Butcher,love,love,0,2025-05-05 13:38:45
+user_36,Dem Hoes,"Tyler, The Creator",sadness,joy,1,2025-05-08 15:55:45
+user_36,We Shine,Da Ruckus,sadness,sadness,0,2025-04-15 05:48:45
+user_36,Red Lips,Sky Ferreira,sadness,sadness,0,2025-04-24 00:20:45
+user_36,You Got It,'n Sync,anger,joy,1,2025-04-26 20:26:45
+user_36,Real Mafia,EBK Young Joc,fear,fear,0,2025-05-04 08:15:45
+user_36,None of Them Knew They Were Robots,Mr. Bungle,fear,fear,0,2025-04-19 04:46:45
+user_36,I Wont,H.E.R.,joy,joy,0,2025-04-20 16:46:45
+user_36,9th Wonder Blackitolism,Digable Planets,love,love,0,2025-04-17 18:36:45
+user_36,Back from the Dead,Toosii,sadness,sadness,0,2025-04-29 23:58:45
+user_36,Better,Lil Durk,fear,fear,0,2025-05-05 18:51:45
+user_36,High School,Rich Dunk,anger,anger,0,2025-04-23 07:43:45
+user_36,Ancient People,Nas & Damian Marley,sadness,joy,1,2025-04-10 13:22:45
+user_36,Celebrity Crush,88GLAM,love,love,0,2025-04-12 17:22:45
+user_36,TROLLZ,6ix9ine & Nicki Minaj,fear,fear,0,2025-04-12 17:11:45
+user_36,Down Foe My Thang,Bone Thugs-N-Harmony,love,love,0,2025-05-01 00:57:45
+user_36,Join Me,HIM,joy,joy,0,2025-04-28 11:20:45
+user_36,Intro in A-Minor,Lil' Kim,anger,anger,0,2025-04-16 20:24:45
+user_36,What Its Like,King Von,love,love,0,2025-04-26 08:53:45
+user_36,Henny Flow,Omen,anger,joy,1,2025-05-03 02:56:45
+user_36,Semi-Constructive Criticism,Circa Survive,love,love,0,2025-05-06 14:56:45
+user_36,Addiction,Big K.R.I.T.,fear,fear,0,2025-04-12 18:34:45
+user_36,Yes The River Knows,The Doors,anger,joy,1,2025-04-20 11:47:45
+user_36,Accidentally in Love,Counting Crows,love,love,0,2025-05-07 18:25:45
+user_36,How I Rock Tooka Pack,King Von,sadness,sadness,0,2025-05-06 23:15:45
+user_36,Too Far Gone,Lost Kings,fear,fear,0,2025-05-09 05:03:45
+user_36,All About It,Hoodie Allen,love,love,0,2025-05-07 18:21:45
+user_36,Baleedat,Smoke DZA,fear,fear,0,2025-04-20 03:23:45
+user_36,Too Much,Thraxxx,anger,anger,0,2025-04-13 04:08:45
+user_36,It Had To Be You,Perry Como,joy,joy,0,2025-05-02 20:35:45
+user_36,Potholes in My Lawn,De La Soul,joy,joy,0,2025-04-27 08:26:45
+user_36,Dead Homiez,Ice Cube,anger,anger,0,2025-04-24 22:17:45
+user_36,Real Pimpin,Nicki Minaj,surprise,surprise,0,2025-04-14 11:13:45
+user_36,Into the Sky,SawanoHiroyuki[nZk]:Tielle,sadness,sadness,0,2025-04-24 09:23:45
+user_36,Lord of the Flies,Kxllswxtch & Pouya,surprise,surprise,0,2025-04-26 00:19:45
+user_36,Still Apart,Varsity,sadness,joy,1,2025-05-03 03:52:45
+user_36,Lady Of The Dawn,Madonna,sadness,joy,1,2025-04-20 13:31:45
+user_36,Sea Sick,Fat Nick,sadness,sadness,0,2025-04-12 03:27:45
+user_36,Changes,Faul & Wad Ad vs. PNAU,fear,fear,0,2025-04-18 03:29:45

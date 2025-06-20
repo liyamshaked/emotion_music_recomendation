@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_84,Balaclava,Arctic Monkeys,sadness,joy,1,2025-04-24 10:53:08
+user_84,The Journey to the Heaviside Layer,Original London Cast of Cats,surprise,surprise,0,2025-04-10 07:41:08
+user_84,Drunk Tongue,Wu-Tang Clan,surprise,surprise,0,2025-05-08 06:47:08
+user_84,Moving At the Speed of Life,Living Legends,joy,joy,0,2025-04-19 13:18:08
+user_84,Life of the Party Demo,Kanye West,sadness,joy,1,2025-04-18 00:13:08
+user_84,Salute U,G-Unit,sadness,sadness,0,2025-05-06 21:26:08
+user_84,Man of the Year Original Album Version,Juice WRLD,sadness,joy,1,2025-04-12 01:27:08
+user_84,Seven,Fever Ray,surprise,surprise,0,2025-04-23 20:13:08
+user_84,Rap to my ex,Saray,fear,fear,0,2025-04-13 01:38:08
+user_84,Have Yourself A Merry Christmas,Glee,surprise,surprise,0,2025-04-25 23:16:08
+user_84,Cry Over Me,Meat Loaf,fear,fear,0,2025-04-10 23:21:08
+user_84,For You to Be Here,Tom Rosenthal,fear,fear,0,2025-05-06 10:02:08
+user_84,Half-Way,Reo Speedwagon,anger,anger,0,2025-05-09 17:24:08
+user_84,Cell Boomin,Maxo Kream,joy,joy,0,2025-04-27 23:13:08
+user_84,Very Ape,Nirvana,fear,fear,0,2025-05-06 21:14:08
+user_84,Hercules,Lil Wayne,sadness,sadness,0,2025-04-21 12:46:08
+user_84,B-Boyz,DJ Khaled,joy,joy,0,2025-04-22 08:26:08
+user_84,I Still Love You,Reo Speedwagon,fear,fear,0,2025-04-17 11:20:08
+user_84,S.C.A.V.A.,Hollywood Undead,surprise,surprise,0,2025-04-25 00:20:08
+user_84,The Truth About Love,P!nk,surprise,surprise,0,2025-04-20 04:16:08
+user_84,"Running, Falling",Lucky Dube,anger,anger,0,2025-04-21 02:52:08
+user_84,Taxman Woman,Scorpions,fear,fear,0,2025-04-13 10:20:08
+user_84,Hoes,Ying Yang Twins,anger,anger,0,2025-04-19 11:07:08
+user_84,Open Wide,Calvin Harris,anger,anger,0,2025-05-03 21:35:08
+user_84,Lost Souls,Jeezy,sadness,joy,1,2025-05-05 16:46:08
+user_84,Alone At Last,Neil Sedaka,sadness,sadness,0,2025-05-07 05:13:08
+user_84,Monster,Beth Crowley,surprise,surprise,0,2025-04-29 15:26:08
+user_84,The Runaway Cart,Les Miserables,sadness,sadness,0,2025-04-24 17:01:08
+user_84,Maps,The Front Bottoms,anger,anger,0,2025-04-14 23:46:08
+user_84,23:23,Richie Campbell,fear,fear,0,2025-05-05 08:10:08
+user_84,Polymorphing,Chairlift,fear,fear,0,2025-04-20 20:03:08
+user_84,Slide By,Young Thug,joy,joy,0,2025-04-18 21:32:08
+user_84,Take It Easy Live,Eagles,anger,joy,1,2025-05-08 10:50:08
+user_84,Trouble,DJ Quik,anger,anger,0,2025-04-25 22:14:08
+user_84,Hey Ho Nobody Home,Michael Monroe (USA),joy,joy,0,2025-04-29 00:51:08
+user_84,Water Resort,Chief Keef,joy,joy,0,2025-04-25 10:05:08
+user_84,Candy and a Currant Bun,Pink Floyd,sadness,sadness,0,2025-04-20 17:11:08
+user_84,Days Like This,2016 Broadway Cast of Falsettos,anger,joy,1,2025-04-20 13:22:08
+user_84,New Skin,Beach Weather,sadness,sadness,0,2025-05-05 18:52:08
+user_84,Sober,Tool,anger,anger,0,2025-05-07 10:48:08
+user_84,Taxman,Stevie Ray Vaughan,surprise,surprise,0,2025-04-09 20:25:08
+user_84,Ocean Drive,21 Savage & Metro Boomin,joy,joy,0,2025-05-06 14:03:08
+user_84,Load Management,Baby Smoove,surprise,surprise,0,2025-04-23 15:40:08
+user_84,Hollywood,MARINA,anger,joy,1,2025-04-22 14:00:08
+user_84,Forever,Killing Me Inside,love,love,0,2025-04-21 06:11:08
+user_84,I Hear You Now,Vangelis,love,love,0,2025-04-24 01:20:08
+user_84,Current State of Mind IV,Zoocci Coke Dope,love,love,0,2025-04-10 19:03:08
+user_84,Lies,The Black Keys,fear,fear,0,2025-05-04 16:10:08
+user_84,We Might Die,Dumbfoundead,joy,joy,0,2025-04-21 22:18:08
+user_84,Sooner Than Later,Drake,love,love,0,2025-05-08 04:26:08
+user_84,Coffee God And Cigarettes,Mischief Brew,sadness,sadness,0,2025-05-05 13:10:08
+user_84,Neglect,Mr.Kitty,anger,anger,0,2025-04-25 17:25:08
+user_84,Hands All Over,Maroon 5,sadness,sadness,0,2025-04-27 11:16:08
+user_84,Rainy Day,Ice Nine Kills,fear,fear,0,2025-04-25 02:59:08
+user_84,Same Ol,Mick Jenkins,anger,anger,0,2025-05-02 08:07:08
+user_84,Lisa,I Smell Panties,love,love,0,2025-04-26 02:37:08
+user_84,CROWN,CHIKA,anger,joy,1,2025-04-23 15:12:08
+user_84,When the People Cheer,The Roots,sadness,sadness,0,2025-04-16 09:38:08
+user_84,Consfearacy,Slayer,joy,joy,0,2025-04-16 08:01:08
+user_84,Self Discovery,Lecrae,love,love,0,2025-04-20 16:28:08
+user_84,Morning Glow,Michael Jackson,anger,joy,1,2025-04-20 14:10:08
+user_84,Hunting Season,FEVER 333,fear,fear,0,2025-04-30 15:02:08
+user_84,Come Get It,Jacquees,fear,fear,0,2025-04-17 17:18:08
+user_84,Jungle,Moneybagg Yo,love,love,0,2025-05-01 09:34:08
+user_84,PTSD,Kenny Mason,anger,anger,0,2025-05-02 17:17:08
+user_84,Cargo Planes,Curren$y,surprise,surprise,0,2025-04-14 09:30:08
+user_84,Somebody Remembers The Rose,Whiskeytown,joy,joy,0,2025-05-06 19:05:08
+user_84,Smokin,Reka The Singer,surprise,surprise,0,2025-04-10 05:47:08
+user_84,Daylyt vs Head I.C.E,King of the Dot,anger,joy,1,2025-04-28 20:49:08
+user_84,Bye Storm,Injury Reserve,sadness,sadness,0,2025-05-03 15:50:08
+user_84,Shottin,Swet Shop Boys,love,love,0,2025-05-06 14:25:08
+user_84,Fields,GIVON,surprise,surprise,0,2025-04-28 00:35:08
+user_84,Begin Again,Mahalia,sadness,sadness,0,2025-05-05 16:54:08
+user_84,Slow Love,Gino Vannelli,sadness,joy,1,2025-04-26 17:29:08
+user_84,When Did I Lose It All?,Pale Waves,sadness,sadness,0,2025-04-16 17:27:08
+user_84,Grealish,The Manor,joy,joy,0,2025-05-04 17:48:08
+user_84,Wild for the Night,A$AP Rocky,love,love,0,2025-04-23 05:53:08
+user_84,Lost Files,Wiz Khalifa,anger,anger,0,2025-05-02 16:25:08
+user_84,Crosseyed And Painless,Talking Heads,sadness,joy,1,2025-05-06 22:57:08
+user_84,Still Fuck With You,Moneybagg Yo,fear,fear,0,2025-04-11 15:42:08
+user_84,Be Somebody,Dusty Springfield,surprise,surprise,0,2025-04-11 12:43:08
+user_84,Tie Your Mother Down,Queen,fear,fear,0,2025-04-26 19:50:08
+user_84,How Much Does Your Love Cost?,Thelma Plum,anger,joy,1,2025-05-08 10:18:08
+user_84,The Big Picture,Devo,fear,fear,0,2025-04-14 14:33:08
+user_84,Never,Heart,love,love,0,2025-04-12 04:05:08
+user_84,Writers Block,Just Jack,sadness,sadness,0,2025-04-19 16:34:08
+user_84,Too Much to Ask,Avril Lavigne,sadness,sadness,0,2025-04-19 12:37:08
+user_84,Bw Railroad Blues,Townes Van Zandt,fear,fear,0,2025-04-11 04:03:08
+user_84,Little Savage,Elvis Costello,love,love,0,2025-05-07 11:42:08
+user_84,Painkiller,Three Days Grace,anger,anger,0,2025-04-24 23:32:08
+user_84,Rocking Chair,Cyndi Lauper,surprise,surprise,0,2025-04-26 00:07:08
+user_84,The Resurrection,Lenny Kravitz,fear,fear,0,2025-04-17 08:56:08
+user_84,WeFight/WeLove,Q-Tip,joy,joy,0,2025-04-23 17:11:08
+user_84,Ruthless,The Maras,surprise,surprise,0,2025-04-27 12:43:08
+user_84,Cha-Ching,Unique Salonga,anger,anger,0,2025-04-28 01:51:08
+user_84,Dream It Possible,Delacey,love,love,0,2025-04-24 16:47:08
+user_84,Sleepy Towns and Cemeteries,Nicole Dollanganger,anger,joy,1,2025-04-18 09:49:08
+user_84,Ghost,Sleeping With Sirens,fear,fear,0,2025-04-25 14:18:08
+user_84,If Thats Not Love,The Naked Brothers Band,love,love,0,2025-04-30 05:47:08
+user_84,Love U Better,Victoria Mont,surprise,surprise,0,2025-04-14 18:48:08

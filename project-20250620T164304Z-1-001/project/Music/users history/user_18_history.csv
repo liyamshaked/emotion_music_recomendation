@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_18,Days,Kinks,anger,anger,0,2025-04-09 23:58:36
+user_18,A Bad Note,Outkast,joy,joy,0,2025-04-29 05:29:36
+user_18,Crew Slut,Frank Zappa,fear,fear,0,2025-04-19 09:57:36
+user_18,Joey,Concrete Blonde,joy,joy,0,2025-04-21 04:22:36
+user_18,I Just Don't Know What To Do With Myself,Linda Ronstadt,fear,fear,0,2025-04-11 21:35:36
+user_18,Im in a Mood,Mykki Blanco,love,love,0,2025-05-02 18:55:36
+user_18,I Would Keep Goin,Big Scarr,anger,anger,0,2025-04-29 22:21:36
+user_18,Gatecode,Duwap Kaine,love,love,0,2025-05-09 17:08:36
+user_18,Don't You Forget About Me,Enrique Iglesias,fear,fear,0,2025-04-15 22:34:36
+user_18,Pull The Trigger,Flux Pavilion,anger,anger,0,2025-05-01 20:15:36
+user_18,Enough for You,Maisie Peters,love,love,0,2025-05-09 10:03:36
+user_18,Louder Harder Better,Galantis,love,love,0,2025-04-19 17:08:36
+user_18,She Had the World,Panic! at the Disco,surprise,surprise,0,2025-05-06 01:19:36
+user_18,Key Entity Extraction I: Domino the Destitute,Coheed and Cambria,joy,joy,0,2025-04-11 13:37:36
+user_18,Glitter,Patrick Droney,fear,fear,0,2025-04-18 03:21:36
+user_18,Let Me Go,Logic,anger,joy,1,2025-05-05 18:48:36
+user_18,Please,Sawyer Fredericks,joy,joy,0,2025-04-24 09:04:36
+user_18,Loves It Redux,Ayesha Erotica,anger,joy,1,2025-04-16 07:09:36
+user_18,Take Em to War,Kool G Rap,anger,anger,0,2025-04-10 13:57:36
+user_18,Faded Luke Christopher Remix,Alan Walker,love,love,0,2025-04-26 11:59:36
+user_18,Suicide Big Gulp,Malibu Ken,anger,anger,0,2025-04-29 23:49:36
+user_18,Beyond Redemption,HIM,fear,fear,0,2025-05-02 14:38:36
+user_18,Titanium,Madilyn,sadness,sadness,0,2025-05-02 14:30:36
+user_18,It's Midnight Cinderella,Garth Brooks,sadness,joy,1,2025-04-21 09:27:36
+user_18,Wrong Way,Sublime,sadness,sadness,0,2025-04-21 04:00:36
+user_18,Carry On Phenomenon,Kishi Bashi,anger,joy,1,2025-05-05 10:05:36
+user_18,Sleep Forever,Portugal. The Man,sadness,sadness,0,2025-04-15 12:53:36
+user_18,Celebrity,Slayyyter,sadness,sadness,0,2025-04-22 16:49:36
+user_18,Method Man,Wu-Tang Clan,fear,fear,0,2025-04-27 10:16:36
+user_18,Already One,Neil Young,love,love,0,2025-04-22 22:51:36
+user_18,The Bottom Line Reprise,Newsies Original Broadway Cast,sadness,sadness,0,2025-04-16 12:31:36
+user_18,17,Landon Cube,anger,anger,0,2025-04-22 22:45:36
+user_18,The Man in Me,Bob Dylan,love,love,0,2025-04-13 21:12:36
+user_18,Sowing The Seeds Of Love,Tears For Fears,fear,fear,0,2025-04-27 07:28:36
+user_18,Lies,Linda Ronstadt,surprise,surprise,0,2025-04-21 19:31:36
+user_18,Just a Kid,Mac Miller,love,love,0,2025-04-30 22:39:36
+user_18,Choke,Bury Tomorrow,fear,fear,0,2025-05-06 16:29:36
+user_18,Bus Stop,Hollies,fear,fear,0,2025-05-02 16:27:36
+user_18,Mr Lincoln,Hank Williams Jr.,sadness,sadness,0,2025-04-13 13:10:36
+user_18,Petco,1K Phew,joy,joy,0,2025-04-10 04:47:36
+user_18,Mess It Up,Gracie Abrams,surprise,surprise,0,2025-04-27 07:42:36
+user_18,Look Into My Eyes,Bone Thugs-N-Harmony,fear,fear,0,2025-04-25 11:17:36
+user_18,Bae,The Front Bottoms,sadness,sadness,0,2025-04-15 03:06:36
+user_18,The Cull,Pentakill,joy,joy,0,2025-05-02 22:13:36
+user_18,Say You Really Want Me,Kim Wilde,anger,joy,1,2025-04-21 18:10:36
+user_18,Everything You Did,Steely Dan,sadness,joy,1,2025-04-12 19:10:36
+user_18,Life on Mars,AURORA,love,love,0,2025-04-15 03:20:36
+user_18,Dear Father,Black Sabbath,love,love,0,2025-05-07 06:31:36
+user_18,Drug Lord,Future,surprise,surprise,0,2025-04-18 14:30:36
+user_18,Blossom,Milky Chance,joy,joy,0,2025-04-20 10:49:36
+user_18,Stacked Actors,Foo Fighters,anger,anger,0,2025-04-17 02:55:36
+user_18,Freaky Girl,YNW Melly,fear,fear,0,2025-04-29 04:15:36
+user_18,Have You Met Miss Jones?,Ella Fitzgerald,surprise,surprise,0,2025-04-16 16:30:36
+user_18,Don't Download This Song,Weird Al Yankovic,fear,fear,0,2025-04-19 18:41:36
+user_18,Money Forever,Lil Baby,joy,joy,0,2025-05-08 00:18:36
+user_18,Odd Toddlers,"Tyler, The Creator",love,love,0,2025-04-10 19:24:36
+user_18,Call Me Back Again,Paul McCartney,sadness,joy,1,2025-04-25 15:01:36
+user_18,Dear Michael,Michael Jackson,joy,joy,0,2025-05-08 21:14:36
+user_18,Stoners Night 3,Juicy J,surprise,surprise,0,2025-04-10 00:11:36
+user_18,Wasted Love,Steve Angello,surprise,surprise,0,2025-05-01 00:49:36
+user_18,Hotel Key,Old Dominion,fear,fear,0,2025-05-03 16:00:36
+user_18,Hoody Hoo,TRU,joy,joy,0,2025-04-24 20:12:36
+user_18,Robber,Playboi Carti,joy,joy,0,2025-04-30 01:06:36
+user_18,Jesus of Suburbia,Green Day,anger,anger,0,2025-04-12 17:31:36
+user_18,Your Song,Mayday Parade,love,love,0,2025-04-29 04:27:36
+user_18,Crash,Neovaii,sadness,sadness,0,2025-04-29 00:47:36
+user_18,Vaya con Dios,Les Paul & Mary Ford,anger,anger,0,2025-04-15 09:06:36
+user_18,I Do My Thing,Kid Cudi,fear,fear,0,2025-04-19 20:51:36
+user_18,Long Lost,Florence + the Machine,sadness,sadness,0,2025-04-30 06:22:36
+user_18,My Back Pages,Ramones,joy,joy,0,2025-04-27 02:17:36
+user_18,Dreams Of Our Fathers,Dave Matthews Band,sadness,sadness,0,2025-04-19 06:34:36
+user_18,I Remember L.A.,Celine Dion,fear,fear,0,2025-05-06 13:10:36
+user_18,Common Logic / Midnight Marauder,Logic,joy,joy,0,2025-04-28 12:27:36
+user_18,On My Ones,MoStack,surprise,surprise,0,2025-05-09 08:48:36
+user_18,"Don't Think Twice, It's Alright",Indigo Girls,fear,fear,0,2025-05-09 00:32:36
+user_18,Pursuit of Happiness Nightmare,Kid Cudi,joy,joy,0,2025-04-29 02:25:36
+user_18,Dream,Kali Uchis,love,love,0,2025-05-03 00:23:36
+user_18,Streets Of Pain,Richard Marx,sadness,joy,1,2025-05-01 22:28:36
+user_18,February 1878,mewithoutYou,joy,joy,0,2025-04-10 03:57:36
+user_18,Selene,Imagine Dragons,love,love,0,2025-05-08 07:04:36
+user_18,Speed Of Sound,Coldplay,anger,anger,0,2025-04-22 05:28:36
+user_18,1000 Hours,Green Day,surprise,surprise,0,2025-05-04 13:48:36
+user_18,Last Night I Dreamt That Somebody Loved Me,Morrissey,fear,fear,0,2025-04-30 11:05:36
+user_18,Klanga,Gostan,fear,fear,0,2025-04-23 20:07:36
+user_18,Vultures of Culture,Nahko And Medicine For The People,fear,fear,0,2025-04-30 21:56:36
+user_18,Oh Me Oh My,Jordan Solomon,sadness,joy,1,2025-04-13 02:48:36
+user_18,Protector,Heaven Shall Burn,fear,fear,0,2025-04-23 12:36:36
+user_18,Figures,The Whitest Boy Alive,joy,joy,0,2025-05-03 14:23:36
+user_18,Pictured Life,Scorpions,love,love,0,2025-05-03 14:50:36
+user_18,Come and Behold,Maverick City Music & UPPERROOM,love,love,0,2025-04-11 18:55:36
+user_18,Timmys Prayer,Sampha,anger,joy,1,2025-05-07 06:35:36
+user_18,TAEYEON - INVU English Translation,Genius English Translations,anger,anger,0,2025-05-05 12:13:36
+user_18,Run,Indigo Girls,anger,anger,0,2025-04-18 06:28:36
+user_18,Land Of La La,Stevie Wonder,love,love,0,2025-04-23 05:18:36
+user_18,Lonely Soul,Unkle,sadness,sadness,0,2025-04-19 06:55:36
+user_18,Julia or Holy to the LORD on the Bells of Horses,mewithoutYou,love,love,0,2025-05-04 13:46:36
+user_18,We Sink,Of Monsters and Men,love,love,0,2025-04-09 22:47:36
+user_18,Yellow Flicker Beat,Lorde,joy,joy,0,2025-04-30 07:59:36
+user_18,I...I'm In Love,Yello,sadness,joy,1,2025-04-12 09:27:36
+user_18,Arrived,Jessi (),joy,joy,0,2025-05-05 06:13:36

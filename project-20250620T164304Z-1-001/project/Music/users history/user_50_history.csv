@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_50,Sorry Seems to Be the Hardest Word,Blue,joy,joy,0,2025-05-08 22:57:51
+user_50,Curse October,Kolby Cooper,joy,joy,0,2025-04-16 09:36:51
+user_50,Still Missin',Flo-Rida,joy,joy,0,2025-05-06 08:21:51
+user_50,Sorry For Me,Ricky Montgomery,joy,joy,0,2025-04-30 05:15:51
+user_50,Unpredictable,Olly Murs & Louisa Johnson,surprise,surprise,0,2025-05-07 01:38:51
+user_50,Cyprus Avenue,Van Morrison,love,love,0,2025-04-16 19:18:51
+user_50,I Hope Ur Happy,Astrus*,anger,anger,0,2025-05-01 09:15:51
+user_50,Blow Wind Blow,Eric Clapton,surprise,surprise,0,2025-04-30 00:41:51
+user_50,Think Drive,Seth Ennis,surprise,surprise,0,2025-04-25 06:33:51
+user_50,Daughters of Triton,Daughters of Triton,anger,joy,1,2025-04-16 03:49:51
+user_50,Party,Catie Turner,fear,fear,0,2025-04-21 15:12:51
+user_50,Glory Let There Be Peace,Matt Maher,sadness,sadness,0,2025-04-24 07:46:51
+user_50,Seven Wonders,Fleetwood Mac,joy,joy,0,2025-05-05 19:40:51
+user_50,Moon,"Sufjan Stevens, Bryce Dessner, Nico Muhly, James McAlister",fear,fear,0,2025-04-15 13:05:51
+user_50,Swamp Thing,The Chameleons,surprise,surprise,0,2025-05-03 23:55:51
+user_50,Follow The Son,Hillsong,surprise,surprise,0,2025-04-26 15:01:51
+user_50,No Good Deed,Idina Menzel,anger,anger,0,2025-04-19 08:51:51
+user_50,2019,Bazanji,sadness,sadness,0,2025-04-12 20:43:51
+user_50,Extra Luv,Future,sadness,joy,1,2025-04-21 10:25:51
+user_50,What I Claim,Chief Keef,anger,anger,0,2025-04-15 03:46:51
+user_50,Fallen Angel,King Crimson,anger,anger,0,2025-04-25 17:40:51
+user_50,Set Fire to the Rain,Adele,love,love,0,2025-04-28 21:19:51
+user_50,Let Me Know,Yo Trane,surprise,surprise,0,2025-04-23 20:56:51
+user_50,Tee Shirt,Birdy,joy,joy,0,2025-04-15 02:43:51
+user_50,Raise It Up,Jamia Simone Nash,joy,joy,0,2025-05-06 02:48:51
+user_50,Out Tha Mud,Roddy Ricch,anger,joy,1,2025-05-08 01:13:51
+user_50,Midwest Choppers,Tech N9ne,fear,fear,0,2025-04-18 02:57:51
+user_50,Kyary Pamyu Pamyu - PONPONPON English Translation,Genius English Translations,sadness,joy,1,2025-05-07 19:49:51
+user_50,Hymn 101,Joe Pug,sadness,sadness,0,2025-04-20 05:23:51
+user_50,MagentaLavaLamp,BONES,joy,joy,0,2025-04-20 00:37:51
+user_50,Wheel Of Fortune,Arlo Guthrie,love,love,0,2025-04-15 02:17:51
+user_50,Friday the 13th,Tory Lanez,anger,anger,0,2025-04-17 22:11:51
+user_50,You Must Have Been A Beautiful Baby,Michael Buble,anger,joy,1,2025-05-02 10:49:51
+user_50,The Honest Truth,Typhoon (Band),love,love,0,2025-05-03 09:31:51
+user_50,O.D.H.G.A.B.F.E.,Lamb of God,love,love,0,2025-04-14 22:51:51
+user_50,Haunt You,X Lovers,anger,anger,0,2025-04-23 10:27:51
+user_50,Mercy Killing,Lloyd Cole,fear,fear,0,2025-04-30 11:11:51
+user_50,Tonights The Night,Brandon Mychal Smith & Algee Smith,anger,anger,0,2025-05-03 11:23:51
+user_50,Hold Up Dough Up,Kodie Shane,sadness,sadness,0,2025-04-14 04:19:51
+user_50,Early Bird,Larry June,anger,joy,1,2025-04-23 17:43:51
+user_50,Better,SiR,fear,fear,0,2025-05-05 05:39:51
+user_50,A Trip Through Space to Clear My Mind,Tanerlle,anger,anger,0,2025-04-10 15:39:51
+user_50,Work,Q Money,surprise,surprise,0,2025-04-20 06:12:51
+user_50,Hold the Line,Toto,fear,fear,0,2025-04-14 10:07:51
+user_50,Take a Chance,Flume,love,love,0,2025-05-06 15:30:51
+user_50,Beautiful Girl,INXS,surprise,surprise,0,2025-04-24 08:50:51
+user_50,American Girls,ONE OK ROCK,surprise,surprise,0,2025-05-08 09:44:51
+user_50,Claudette,John Denver,sadness,joy,1,2025-04-18 21:48:51
+user_50,Stranger In My House HQ2 Club Mix,Tamia,fear,fear,0,2025-04-20 23:25:51
+user_50,Hip Hop Remix,Joell Ortiz,fear,fear,0,2025-04-14 21:48:51
+user_50,Window To The World,Rush,sadness,joy,1,2025-04-09 23:11:51
+user_50,Keep It To Myself,Ellise,surprise,surprise,0,2025-05-06 22:43:51
+user_50,Child In Time,Deep Purple,anger,joy,1,2025-04-30 15:19:51
+user_50,Helicopter,Deerhunter,fear,fear,0,2025-04-21 17:49:51
+user_50,Long Time Friends,The Living Tombstone,joy,joy,0,2025-05-02 14:14:51
+user_50,Soldier Of Fortune,Tom T. Hall,joy,joy,0,2025-04-21 05:22:51
+user_50,Velvet Ditch,The Arcs,joy,joy,0,2025-04-18 02:31:51
+user_50,False Kings,Poets of the Fall,love,love,0,2025-04-17 19:45:51
+user_50,Speak,Lloyiso,sadness,sadness,0,2025-05-02 00:44:51
+user_50,Neon Lights,Pim Stones,anger,joy,1,2025-04-30 22:39:51
+user_50,See Dead People,Slaughterhouse,fear,fear,0,2025-04-28 13:03:51
+user_50,Satellite,Josh Groban,surprise,surprise,0,2025-04-30 09:17:51
+user_50,Captain Jack - Clubmix,Captain Jack,love,love,0,2025-04-19 02:39:51
+user_50,Let This Haunt You,Slaves (USA),anger,anger,0,2025-04-27 02:29:51
+user_50,Doin Dirt,Maroon 5,sadness,sadness,0,2025-04-09 20:21:51
+user_50,Little Hands,Mother Mother,joy,joy,0,2025-04-29 18:15:51
+user_50,So Nice So Smart,Kimya Dawson,anger,joy,1,2025-05-01 18:03:51
+user_50,GODFLOWER,Jazz Cartier,anger,anger,0,2025-05-05 09:30:51
+user_50,Hello,G-Eazy,anger,joy,1,2025-04-13 22:45:51
+user_50,New Again,Kanye West,sadness,sadness,0,2025-05-07 08:43:51
+user_50,Close Up,Peaches,surprise,surprise,0,2025-04-22 10:38:51
+user_50,Much More,De La Soul,fear,fear,0,2025-04-20 04:53:51
+user_50,Same Mistake,James Blunt,love,love,0,2025-04-24 03:55:51
+user_50,Destroy Me,grandson,love,love,0,2025-04-21 00:41:51
+user_50,You Are My Song,Regine Velasquez,fear,fear,0,2025-04-16 09:24:51
+user_50,Shes the One,Bad Meets Evil,joy,joy,0,2025-05-06 12:49:51
+user_50,Alive,P.O.D.,fear,fear,0,2025-04-19 15:57:51
+user_50,What About Love,Meat Loaf,fear,fear,0,2025-05-03 11:51:51
+user_50,A Diagnosis,Crazy Ex-Girlfriend Cast,fear,fear,0,2025-05-06 12:19:51
+user_50,Dont Cry for Me Argentina,Madonna,joy,joy,0,2025-04-24 13:35:51
+user_50,Go Crazy,RondoNumbaNine,anger,anger,0,2025-05-09 05:37:51
+user_50,Jackie Down the Line,Fontaines D.C.,surprise,surprise,0,2025-04-23 19:44:51
+user_50,Dizzy Miss Lizzy,The Beatles,joy,joy,0,2025-04-19 00:44:51
+user_50,Crown Of Worms,Megadeth,joy,joy,0,2025-04-14 14:54:51
+user_50,Corinna,Natalie Cole,joy,joy,0,2025-04-25 10:40:51
+user_50,Never See,Gucci Mane,surprise,surprise,0,2025-04-23 10:37:51
+user_50,Withdrawals,Tom MacDonald,love,love,0,2025-04-15 19:14:51
+user_50,Mind Over Time,Interpol,joy,joy,0,2025-04-19 22:02:51
+user_50,I Love To Praise Him,The Mississippi Mass Choir,sadness,joy,1,2025-04-29 16:10:51
+user_50,I Made U Do,Melih Aydogan,surprise,surprise,0,2025-04-22 08:06:51
+user_50,If Its in You,Syd Barrett,anger,joy,1,2025-04-29 12:42:51
+user_50,Paper Doll,Michael Buble,joy,joy,0,2025-05-08 13:43:51
+user_50,Commentary Cancer Disstrack,ImAllexx,anger,anger,0,2025-04-27 04:03:51
+user_50,Looking Out for You,Joy Again,anger,anger,0,2025-04-10 19:19:51
+user_50,My Heart Is Yours Live,Passion,joy,joy,0,2025-04-12 03:30:51
+user_50,Seasons,Olly Murs,sadness,sadness,0,2025-05-06 06:49:51
+user_50,Hello/Goodbye Uncool,Lupe Fiasco,surprise,surprise,0,2025-04-12 14:01:51
+user_50,Night Vision Binoculars,Passenger,love,love,0,2025-04-27 12:45:51
+user_50,Today,Alphaville,love,love,0,2025-05-04 01:05:51
+user_50,Voyeur Girl,Stephen,sadness,sadness,0,2025-04-18 00:35:51

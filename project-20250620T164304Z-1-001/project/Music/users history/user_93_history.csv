@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_93,Monument,MUTEMATH,anger,joy,1,2025-04-23 18:28:12
+user_93,Helter Skelter,U2,surprise,surprise,0,2025-05-06 09:11:12
+user_93,Touchdown Boy,Avril Lavigne,sadness,joy,1,2025-04-16 10:24:12
+user_93,These Scars,Meek Mill,fear,fear,0,2025-04-13 07:06:12
+user_93,Stay Stay Stay Taylors Version,Taylor Swift,surprise,surprise,0,2025-04-25 03:46:12
+user_93,Go,M83,sadness,sadness,0,2025-05-08 02:44:12
+user_93,Yes,Coldplay,love,love,0,2025-04-15 09:33:12
+user_93,Feel Inside,Nicki Minaj,love,love,0,2025-04-13 08:07:12
+user_93,Ontheway,Earl Sweatshirt,surprise,surprise,0,2025-04-24 23:54:12
+user_93,The Other Side of Paradise,Glass Animals,surprise,surprise,0,2025-04-28 11:04:12
+user_93,Glow,Mac Miller,joy,joy,0,2025-05-04 20:16:12
+user_93,Daughter,L Devine,fear,fear,0,2025-04-28 23:29:12
+user_93,Little Bit,Janine,joy,joy,0,2025-05-08 06:37:12
+user_93,Darkside,Lil Wayne,sadness,joy,1,2025-05-04 22:42:12
+user_93,Z Nation,Juice WRLD,anger,anger,0,2025-04-16 16:34:12
+user_93,Forgive Me Friend,Smith & Thell,anger,anger,0,2025-04-15 14:14:12
+user_93,Cold Summers,Earl Sweatshirt,love,love,0,2025-04-29 03:21:12
+user_93,Scatterlings of Africa,Johnny Clegg,fear,fear,0,2025-05-05 03:27:12
+user_93,Away Anywhere,John Frusciante,sadness,joy,1,2025-04-21 14:52:12
+user_93,Tears in the Typing Pool,Broadcast,love,love,0,2025-04-20 23:39:12
+user_93,500 HOURS,Comethazine,fear,fear,0,2025-04-17 11:39:12
+user_93,Medallion,Jenevieve,joy,joy,0,2025-04-19 03:39:12
+user_93,Wasteland,Poison,sadness,sadness,0,2025-04-12 13:03:12
+user_93,Empty,Letdown. (USA),fear,fear,0,2025-04-22 12:42:12
+user_93,Open Your Eyes,Alter Bridge,anger,anger,0,2025-05-03 02:16:12
+user_93,Bamboozled By Love,Frank Zappa,sadness,sadness,0,2025-04-13 21:41:12
+user_93,You Go To My Head,Billie Holiday,fear,fear,0,2025-04-13 06:15:12
+user_93,Molly Gurl,Lil Durk,anger,anger,0,2025-04-15 06:07:12
+user_93,Please Dont Go,Joel Adams,fear,fear,0,2025-05-05 19:16:12
+user_93,Titanium,David Guetta,surprise,surprise,0,2025-04-26 14:26:12
+user_93,Sometimes Angels Can't Fly,Keith Urban,love,love,0,2025-05-01 16:38:12
+user_93,Mice Feel Nice,Guided By Voices,sadness,joy,1,2025-04-27 09:41:12
+user_93,Designer Shit,DOM KENNEDY,sadness,sadness,0,2025-04-18 18:29:12
+user_93,Negotiations,Wale,anger,anger,0,2025-04-24 12:28:12
+user_93,Little Child,The Beatles,anger,joy,1,2025-05-04 07:30:12
+user_93,How To Rob The Mob,A$AP Ferg,sadness,sadness,0,2025-04-16 19:13:12
+user_93,Believe It or Not,Dave East,sadness,sadness,0,2025-04-20 07:22:12
+user_93,You Know You're Right,Nirvana,love,love,0,2025-05-07 16:02:12
+user_93,Back Like That,Ghostface Killah,sadness,sadness,0,2025-04-21 09:48:12
+user_93,Who Do You Love,Whitney Houston,love,love,0,2025-04-22 10:00:12
+user_93,Where That Love's Been Gone,Pogues,love,love,0,2025-05-01 21:48:12
+user_93,All In It,EMC Senatra,love,love,0,2025-04-14 05:09:12
+user_93,Bitch Im From Dade County,DJ Khaled,anger,joy,1,2025-04-21 15:31:12
+user_93,Can I,Drake,surprise,surprise,0,2025-04-15 18:35:12
+user_93,10000 Hours,Dan + Shay & Justin Bieber,surprise,surprise,0,2025-05-06 20:09:12
+user_93,Venting Session,OMB Peezy,joy,joy,0,2025-05-04 09:32:12
+user_93,Easy As Life,Elton John,sadness,joy,1,2025-04-30 13:53:12
+user_93,Doing The Reactionary,Barbra Streisand,anger,joy,1,2025-04-24 04:08:12
+user_93,Bookfiend Clams Casino Version,JJ DOOM,surprise,surprise,0,2025-04-30 10:28:12
+user_93,Away From The Current,Keiko Necesario & Kim Trinidad,love,love,0,2025-04-16 10:43:12
+user_93,Hey Boy Hey Girl,The Chemical Brothers,surprise,surprise,0,2025-04-16 14:08:12
+user_93,Your Fuckin Head Split,Necro,fear,fear,0,2025-04-16 17:46:12
+user_93,Tomorrowland All Fall Down,Leon Else,surprise,surprise,0,2025-04-20 01:28:12
+user_93,Youve Got Everything Now,The Smiths,fear,fear,0,2025-04-19 17:50:12
+user_93,Paper Planes Blaqstarr Remix,M.I.A.,love,love,0,2025-04-10 09:35:12
+user_93,Holdin' Out For Love,Cher,sadness,joy,1,2025-04-10 14:04:12
+user_93,Waiting in the Wings Reprise,Eden Espinosa & Hudson D'Andrea,sadness,joy,1,2025-04-14 20:34:12
+user_93,Candy And A Currant Bun,Pink Floyd,joy,joy,0,2025-04-10 04:10:12
+user_93,Secrets Your Fire,Magdalena Bay,anger,anger,0,2025-05-09 09:04:12
+user_93,Master Hunter,Laura Marling,anger,anger,0,2025-04-17 04:25:12
+user_93,Dreaming,Smallpools,sadness,joy,1,2025-04-23 16:28:12
+user_93,If I Let You Go,Westlife,love,love,0,2025-04-18 21:24:12
+user_93,Salinas Skies,INNA,love,love,0,2025-04-14 15:57:12
+user_93,This Aint a Scene Its an Arms Race 2007 VMA Remix,Fall Out Boy,joy,joy,0,2025-05-01 03:36:12
+user_93,Anne,Lil Wayne,anger,joy,1,2025-04-12 11:27:12
+user_93,Jets To Peru,Senses Fail,fear,fear,0,2025-04-17 03:31:12
+user_93,If All the Raindrops,Barney,sadness,joy,1,2025-05-08 07:21:12
+user_93,I Will Not Let You Go,Chuck Berry,anger,anger,0,2025-05-09 16:31:12
+user_93,Holocaust,Big Star,surprise,surprise,0,2025-04-16 04:59:12
+user_93,Pygmalion,the scary jokes,anger,anger,0,2025-04-29 05:36:12
+user_93,The Wolf,Phildel,sadness,sadness,0,2025-04-20 11:04:12
+user_93,SocialCues,BONES & Lyson,anger,anger,0,2025-05-07 15:56:12
+user_93,All Over,CRUISR,anger,anger,0,2025-04-17 02:13:12
+user_93,Im going to kill myself,VyOk,love,love,0,2025-04-25 08:58:12
+user_93,"Christopher, Mr. Christopher",Styx,fear,fear,0,2025-04-26 20:15:12
+user_93,Stardust,MrHeadA$$Trendy,joy,joy,0,2025-04-27 08:23:12
+user_93,Squid Kid,Nintendo,love,love,0,2025-04-24 06:32:12
+user_93,Gang Gang,Lil Tjay,sadness,sadness,0,2025-04-28 10:33:12
+user_93,Buyin Em,Migos,fear,fear,0,2025-04-13 23:56:12
+user_93,Mt. Olympus,Big K.R.I.T.,joy,joy,0,2025-04-11 22:34:12
+user_93,Township Rebellion,Rage Against the Machine,love,love,0,2025-05-03 00:39:12
+user_93,Why God Why?,Claude-Michel Schnberg,anger,joy,1,2025-04-23 07:06:12
+user_93,Mind Kcuf,Tech N9ne,surprise,surprise,0,2025-04-27 14:43:12
+user_93,Loose Change Remix,Joey Vantes,fear,fear,0,2025-04-27 07:25:12
+user_93,Adore You,Maisie Peters,anger,joy,1,2025-04-14 06:53:12
+user_93,Mya Mills,Lil Pino,love,love,0,2025-04-19 10:59:12
+user_93,Shnack,EBEN,sadness,joy,1,2025-04-26 07:55:12
+user_93,Leanworld,Yung Lean,sadness,sadness,0,2025-04-27 06:40:12
+user_93,Sky is Falling,Nujabes,sadness,joy,1,2025-05-06 17:37:12
+user_93,No Rappers,G-Eazy,joy,joy,0,2025-04-29 05:20:12
+user_93,Everyone Hates His Parents,2016 Broadway Cast of Falsettos,anger,anger,0,2025-05-01 16:10:12
+user_93,No Witness,Midnight Society,surprise,surprise,0,2025-04-29 16:49:12
+user_93,Dummy Boy,Thouxanbanfauni,surprise,surprise,0,2025-04-19 11:59:12
+user_93,The Grey,Bad Omens,sadness,sadness,0,2025-05-05 21:56:12
+user_93,Let Me Find Out Remix,Hustle Gang,anger,anger,0,2025-04-12 04:51:12
+user_93,Hate You More,Lloyd Banks,surprise,surprise,0,2025-04-19 07:31:12
+user_93,To Do List,KYLE,joy,joy,0,2025-04-12 07:10:12
+user_93,Listen to Your Friends,Declan McKenna,sadness,joy,1,2025-05-06 02:32:12
+user_93,Faith in Strangers,Andy Stott,surprise,surprise,0,2025-04-30 09:29:12
+user_93,Dont Walk Away,Jade,anger,joy,1,2025-05-07 00:48:12

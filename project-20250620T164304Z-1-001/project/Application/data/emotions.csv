@@ -1,0 +1,5 @@
+emotion_id,emotion_str,positivity
+1,happy,1.0
+2,sad,-1.0
+3,angry,-0.8
+4,relaxed,0.7

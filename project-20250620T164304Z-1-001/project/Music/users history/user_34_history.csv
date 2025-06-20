@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_34,Uptown Puffs,AshCoolBro,joy,joy,0,2025-04-16 12:03:44
+user_34,Part of Your World The Little Mermaid,Jodi Benson,surprise,surprise,0,2025-04-10 07:19:44
+user_34,Party,Chris Brown,love,love,0,2025-04-18 23:25:44
+user_34,World Of Two,Cake,surprise,surprise,0,2025-05-03 07:57:44
+user_34,Even the Darkness Has Arms,The Barr Brothers,surprise,surprise,0,2025-04-15 15:48:44
+user_34,Grand Finale,"DMX, Ja Rule, Method Man & Nas",fear,fear,0,2025-04-30 17:19:44
+user_34,We Only Come Out at Night,The Smashing Pumpkins,fear,fear,0,2025-05-03 03:54:44
+user_34,Palace,The Antlers,fear,fear,0,2025-05-04 21:12:44
+user_34,BABYMETAL - Oh MAJINAI Romanized,Genius Romanizations,surprise,surprise,0,2025-04-27 12:47:44
+user_34,Last Night,Traveling Wilburys,surprise,surprise,0,2025-05-09 16:25:44
+user_34,Do You Remember,Kayla Brianna,surprise,surprise,0,2025-04-24 16:04:44
+user_34,King of the Beach,Wavves,joy,joy,0,2025-05-04 08:05:44
+user_34,Glory,Liz Phair,joy,joy,0,2025-04-10 16:49:44
+user_34,Cory in the House Theme Song,Kyle Massey,surprise,surprise,0,2025-04-14 14:07:44
+user_34,Ran Away,Hollow Coves,love,love,0,2025-05-01 17:40:44
+user_34,Please Dont Jump Its Christmas,Dallon Weekes,sadness,sadness,0,2025-04-12 03:31:44
+user_34,Touch Up,Mother Mother,fear,fear,0,2025-04-16 03:22:44
+user_34,Pain In My Heart,Otis Redding,sadness,sadness,0,2025-04-10 15:48:44
+user_34,The Beast and Dragon Adored,Spoon,anger,joy,1,2025-04-30 03:31:44
+user_34,You Should Be Here,Cole Swindell,joy,joy,0,2025-05-07 16:44:44
+user_34,Long Way Home,Star Cast,surprise,surprise,0,2025-04-20 03:33:44
+user_34,Id Love You to Want Me,Lobo,surprise,surprise,0,2025-04-29 19:18:44
+user_34,Something Happens,Kurt Carr,anger,joy,1,2025-04-16 07:13:44
+user_34,Id Rather,Luther Vandross,anger,anger,0,2025-04-24 18:47:44
+user_34,Another Nail In My Heart,Squeeze,surprise,surprise,0,2025-04-13 05:12:44
+user_34,Pillars Demon Slayer,None Like Joshua,fear,fear,0,2025-05-04 17:23:44
+user_34,Blue Clear Sky,George Strait,sadness,sadness,0,2025-04-18 22:55:44
+user_34,The Meaning Of Love,Depeche Mode,love,love,0,2025-04-11 10:48:44
+user_34,Dont Even Think About It,S.A.S.,anger,joy,1,2025-04-15 12:36:44
+user_34,Sound Effects And Overdramatics,Used,fear,fear,0,2025-04-16 09:39:44
+user_34,When He Died,Lemon Demon,fear,fear,0,2025-04-25 12:01:44
+user_34,Confide,Juice WRLD,anger,anger,0,2025-05-03 23:13:44
+user_34,Goddess,BANKS,surprise,surprise,0,2025-04-30 03:37:44
+user_34,Wu-Wear: The Garment Renaissance,Wu-Tang Clan,surprise,surprise,0,2025-05-03 02:18:44
+user_34,Are You Home?,Amber Run,surprise,surprise,0,2025-05-01 10:07:44
+user_34,Stutter,Gucci Mane,anger,anger,0,2025-04-17 11:10:44
+user_34,Chattanooga Choo Choo,The Andrews Sisters,joy,joy,0,2025-04-26 21:24:44
+user_34,Do It for Dooterz,Mozzy,love,love,0,2025-04-19 18:35:44
+user_34,I Wish You Love,Natalie Cole,fear,fear,0,2025-05-03 18:49:44
+user_34,Bull Mountain Bridge,Paul Thorn,anger,anger,0,2025-04-30 03:41:44
+user_34,Zoom In,SwizZz,surprise,surprise,0,2025-04-27 09:01:44
+user_34,Mr. Usher On His Way to Town,The Dear Hunter,sadness,sadness,0,2025-05-08 04:54:44
+user_34,Happiness,Elliott Smith,joy,joy,0,2025-04-29 13:10:44
+user_34,I Will Be Stronger,Cline Dion,surprise,surprise,0,2025-05-09 00:18:44
+user_34,This Is The Army Mister Jones,Irving Berlin,joy,joy,0,2025-04-19 12:50:44
+user_34,Bad Girl,Madonna,surprise,surprise,0,2025-05-03 23:46:44
+user_34,The Greatest,Sia,love,love,0,2025-04-29 22:15:44
+user_34,He Went To Paris,Waylon Jennings,joy,joy,0,2025-04-14 14:24:44
+user_34,Deus Vult,JT Music,fear,fear,0,2025-04-30 08:33:44
+user_34,Mr. Oreo,Iyanya,joy,joy,0,2025-04-27 00:49:44
+user_34,Christmas Island,Bob Dylan,sadness,joy,1,2025-04-29 17:34:44
+user_34,Hungry Country Girl,Fleetwood Mac,fear,fear,0,2025-04-18 21:30:44
+user_34,Can't Make It Good (Century Hotel),Our Lady Peace,joy,joy,0,2025-04-30 12:31:44
+user_34,Red Velvet - Dumb Dumb English Translation,Genius English Translations,anger,anger,0,2025-04-28 07:49:44
+user_34,Im Not the Boy I Used to Be,Jye,anger,anger,0,2025-05-07 04:33:44
+user_34,Revelation,Prince,love,love,0,2025-04-18 20:33:44
+user_34,Errbody Wave,Juicy J,joy,joy,0,2025-05-07 23:36:44
+user_34,Yo Side of the Bed,Trey Songz,surprise,surprise,0,2025-04-21 09:12:44
+user_34,They Still Like Me,Lil Wayne,joy,joy,0,2025-04-14 20:40:44
+user_34,Cheerleader,St. Vincent,joy,joy,0,2025-05-08 13:14:44
+user_34,A.I.,Red,love,love,0,2025-04-15 14:49:44
+user_34,Like A Lullaby,OmenXIII & Purpdogg,fear,fear,0,2025-05-06 13:26:44
+user_34,Gray Skies / Holy Branches,Radical Face,sadness,sadness,0,2025-05-07 04:27:44
+user_34,Same Song Dance,Eminem,anger,anger,0,2025-05-05 06:06:44
+user_34,Rain King,Sonic Youth,love,love,0,2025-05-04 14:51:44
+user_34,All We Know,Rittz,fear,fear,0,2025-05-08 15:38:44
+user_34,Fuck This Place,GWAR,sadness,sadness,0,2025-05-05 06:40:44
+user_34,Love Story,Taylor Swift,love,love,0,2025-04-10 05:47:44
+user_34,Please Don't Ask,Genesis,sadness,joy,1,2025-04-23 12:40:44
+user_34,Smile Again,Usher,love,love,0,2025-04-25 19:36:44
+user_34,Knock tha Hustle Remix,Cozz,love,love,0,2025-04-22 06:53:44
+user_34,Two-Headed Boy,Neutral Milk Hotel,sadness,sadness,0,2025-05-08 02:17:44
+user_34,Foolish Love,The Green (band),joy,joy,0,2025-04-30 21:20:44
+user_34,Amazing,George Michael,love,love,0,2025-05-07 03:35:44
+user_34,15th And The 1st,Gucci Mane & Waka Flocka Flame,anger,anger,0,2025-04-20 23:30:44
+user_34,The Rise,W.A.S.P.,sadness,joy,1,2025-04-23 20:24:44
+user_34,Now Later,Chief Keef,love,love,0,2025-04-15 20:52:44
+user_34,Wheels,CAKE,sadness,joy,1,2025-04-19 03:10:44
+user_34,Hustlers,Curren$y,joy,joy,0,2025-04-26 19:21:44
+user_34,Sunny One World: Together At Home,Billie Eilish & FINNEAS,joy,joy,0,2025-05-05 01:48:44
+user_34,How to Be Dead,Snow Patrol,joy,joy,0,2025-04-10 12:41:44
+user_34,Everything Has Changed,Taylor Swift,sadness,sadness,0,2025-05-04 07:28:44
+user_34,The Great Wall Of China,Billy Joel,joy,joy,0,2025-04-22 06:08:44
+user_34,Justin,Korn,anger,anger,0,2025-04-29 02:30:44
+user_34,One and Only,Mac Miller,sadness,joy,1,2025-04-11 14:59:44
+user_34,"Let It Snow, Let It Snow, Let It Snow",George Strait,fear,fear,0,2025-04-22 07:26:44
+user_34,Centerfold,P!nk,fear,fear,0,2025-05-05 10:49:44
+user_34,Somewhere Up There,Passion Pit,anger,joy,1,2025-04-26 13:24:44
+user_34,A Perfect Sonnet,Bright Eyes,anger,anger,0,2025-05-04 21:54:44
+user_34,Go I Can Be Your,Ramengvrl,joy,joy,0,2025-04-16 19:24:44
+user_34,Possibility,Lykke Li,joy,joy,0,2025-05-03 12:42:44
+user_34,Important Notice,Britney Spears,love,love,0,2025-04-11 15:36:44
+user_34,Ballad of a Badman,Tory Lanez,sadness,joy,1,2025-04-28 06:11:44
+user_34,Better Off Alone,Jelly Roll,fear,fear,0,2025-04-21 04:15:44
+user_34,Lions Lambs,Big K.R.I.T.,joy,joy,0,2025-04-18 00:31:44
+user_34,Mission,Rush,joy,joy,0,2025-05-01 02:48:44
+user_34,Aduhh,Cash Kidd,love,love,0,2025-04-12 01:54:44
+user_34,Salt Lake City,Motherfolk,anger,joy,1,2025-05-07 18:01:44
+user_34,Lazy Mornin',Gordon Lightfoot,surprise,surprise,0,2025-04-11 07:01:44
+user_34,I Will Find the Hood,Wrytzy,anger,anger,0,2025-04-20 14:58:44

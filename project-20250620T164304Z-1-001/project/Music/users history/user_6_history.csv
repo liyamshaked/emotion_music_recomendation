@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_6,Face Down,Mustard,fear,fear,0,2025-04-25 02:46:30
+user_6,The Cure,Non-Prophets,anger,anger,0,2025-05-01 16:32:30
+user_6,Machine Gun Kelly Freestyle | LA Leakers Freestyle 013,Machine Gun Kelly,fear,fear,0,2025-04-24 06:08:30
+user_6,The Lights,Luke Christopher,anger,joy,1,2025-05-01 23:47:30
+user_6,Who Would Think That Love?,Now United,surprise,surprise,0,2025-05-01 15:28:30
+user_6,Never Know,KO,love,love,0,2025-05-07 17:05:30
+user_6,Grey Magic,$uicideboy$ & Ramirez,love,love,0,2025-04-13 03:50:30
+user_6,Perfect Susanoo,CHXPO,joy,joy,0,2025-04-29 03:34:30
+user_6,STAYC - YOUNG LUV English Translation,Genius English Translations,fear,fear,0,2025-04-17 10:35:30
+user_6,Here To Stay,General Fiyah,joy,joy,0,2025-04-17 02:17:30
+user_6,Molly,Sleepy Hallow,joy,joy,0,2025-04-19 19:16:30
+user_6,Donald Trump,Young Thug,sadness,sadness,0,2025-04-19 00:00:30
+user_6,Goodies,Ciara,sadness,joy,1,2025-04-19 15:57:30
+user_6,I Got That Dope,Kevin Gates,joy,joy,0,2025-04-23 04:34:30
+user_6,Paper Thin,ILLENIUM & Tom DeLonge,joy,joy,0,2025-04-26 03:50:30
+user_6,The Sun And The Moon And The Stars,Depeche Mode,love,love,0,2025-04-18 14:08:30
+user_6,I Miss My Mum,Cavetown,joy,joy,0,2025-04-22 17:53:30
+user_6,Grand Hotel,Regina Spektor,fear,fear,0,2025-04-22 11:28:30
+user_6,Do It,Beastie Boys,joy,joy,0,2025-04-22 19:34:30
+user_6,Happy with What You Have to Be Happy With,King Crimson,fear,fear,0,2025-04-26 08:00:30
+user_6,A Little Bit Of Sunshine,Chicago,sadness,sadness,0,2025-05-02 17:47:30
+user_6,Shembe Is The Way,Lucky Dube,sadness,joy,1,2025-04-20 06:31:30
+user_6,21St Century Sha La La La Girl,Def Leppard,joy,joy,0,2025-04-20 06:57:30
+user_6,I Want Action,Poison,love,love,0,2025-05-03 05:17:30
+user_6,Do It Again,Tori Amos,sadness,joy,1,2025-04-26 03:30:30
+user_6,Brandy Youre a Fine Girl,Looking Glass,surprise,surprise,0,2025-04-21 01:43:30
+user_6,Rhinestone,Ryan Beatty,anger,joy,1,2025-05-04 04:36:30
+user_6,Pulling Teeth,Green Day,joy,joy,0,2025-04-29 21:06:30
+user_6,Mexican Sofa,Kirsty Maccoll,sadness,joy,1,2025-05-04 11:29:30
+user_6,Isis,Joyner Lucas,love,love,0,2025-04-16 21:08:30
+user_6,XXX,XXXTENTACION,anger,joy,1,2025-04-10 20:13:30
+user_6,Place to Be,Nick Drake,sadness,joy,1,2025-04-21 21:20:30
+user_6,4 Eyes,NoCap,anger,anger,0,2025-04-13 15:09:30
+user_6,Lost in Time and Space,Lord Huron,love,love,0,2025-05-01 16:28:30
+user_6,Forever,Indiana Bible College,sadness,sadness,0,2025-05-04 22:49:30
+user_6,Never One Thing,May Erlewine,sadness,joy,1,2025-05-09 01:53:30
+user_6,Like a Virgin,Bladee,sadness,joy,1,2025-05-09 10:37:30
+user_6,Shepherd,UPPERROOM,fear,fear,0,2025-05-07 13:46:30
+user_6,Bitch I Got Yo Bitch,Ugly God,anger,anger,0,2025-04-09 18:47:30
+user_6,1 Time,Snow Tha Product,sadness,sadness,0,2025-04-29 06:25:30
+user_6,Little Tin God,Don Henley,joy,joy,0,2025-04-30 10:16:30
+user_6,Thats How I Got To Memphis,Tom T. Hall,joy,joy,0,2025-04-25 19:51:30
+user_6,Mind on My Money,YoungBloodZ,fear,fear,0,2025-04-22 01:41:30
+user_6,Whats With You Lately,Car Seat Headrest,joy,joy,0,2025-04-15 01:12:30
+user_6,Myself Remix,Nebu Kiniza,joy,joy,0,2025-04-12 03:04:30
+user_6,Deja Vu,Wengie,anger,joy,1,2025-05-06 14:42:30
+user_6,Johnny Cash,Wage War,sadness,sadness,0,2025-04-22 07:49:30
+user_6,Wicked Garden,Stone Temple Pilots,anger,anger,0,2025-04-19 19:17:30
+user_6,Lost Found,Pia Mia,love,love,0,2025-04-23 03:03:30
+user_6,Lovesick Boys,Conan Gray,love,love,0,2025-04-10 16:46:30
+user_6,For The Maggots,Insane Clown Posse,love,love,0,2025-05-08 16:36:30
+user_6,Golden Mile,Mary Black,sadness,sadness,0,2025-04-16 17:54:30
+user_6,Durty,Lil' Kim,surprise,surprise,0,2025-05-03 21:43:30
+user_6,Impatience,Elvis Costello,love,love,0,2025-04-27 00:04:30
+user_6,Stand up and fight,Turisas,love,love,0,2025-04-21 04:53:30
+user_6,Under the Tide,CHVRCHES,anger,joy,1,2025-05-07 11:02:30
+user_6,New York,Angel Haze,sadness,sadness,0,2025-05-02 16:26:30
+user_6,The Corner,Dermot Kennedy,sadness,sadness,0,2025-05-07 13:47:30
+user_6,Goated,Kasher Quon,joy,joy,0,2025-05-05 07:04:30
+user_6,Respect,Otis Redding,anger,joy,1,2025-04-28 03:09:30
+user_6,Wetty Freestyle,Kevin Gates,sadness,sadness,0,2025-04-18 00:55:30
+user_6,Paradise City,Guns N' Roses,surprise,surprise,0,2025-04-17 22:24:30
+user_6,How Can Something,Lil Wayne,sadness,sadness,0,2025-04-11 16:31:30
+user_6,Heavy Things,Phish,sadness,sadness,0,2025-04-25 11:35:30
+user_6,Must Stop Falling in Love,ONR,joy,joy,0,2025-05-08 07:40:30
+user_6,A Little At A Time,Johnny Cash,fear,fear,0,2025-04-24 15:34:30
+user_6,Changes,Phil Ochs,love,love,0,2025-04-29 00:57:30
+user_6,THERE'S NOTHING AS SWEET AS MY BABY,Hank Williams,love,love,0,2025-04-16 22:39:30
+user_6,NCT U - Baby Dont Stop English Translation,Genius English Translations,surprise,surprise,0,2025-04-11 11:22:30
+user_6,Philadelphia,NoCap & Rylo Rodriguez,joy,joy,0,2025-04-17 06:47:30
+user_6,Sussudio,Phil Collins,love,love,0,2025-04-20 06:09:30
+user_6,Buttons,Sia,surprise,surprise,0,2025-04-30 17:42:30
+user_6,Broken,Ray Davies,sadness,sadness,0,2025-05-06 11:11:30
+user_6,Ole Ola,Rod Stewart,anger,anger,0,2025-04-14 14:27:30
+user_6,Welcome to the Party,Pop Smoke,joy,joy,0,2025-05-04 21:33:30
+user_6,The Power of Love,Jennifer Rush,love,love,0,2025-05-04 17:00:30
+user_6,PILOT,"Tyler, The Creator",anger,anger,0,2025-05-08 20:45:30
+user_6,Heartless,Denzel Curry,sadness,sadness,0,2025-05-07 08:48:30
+user_6,Goodbye Cowgirl,Tom T. Hall,love,love,0,2025-04-11 01:19:30
+user_6,B.B.B.F.F.,Twilight Sparkle,love,love,0,2025-04-28 09:13:30
+user_6,Unless,Atoms for Peace,love,love,0,2025-04-20 07:12:30
+user_6,If I,After 7,joy,joy,0,2025-04-14 13:06:30
+user_6,Rx Luv,und,joy,joy,0,2025-05-03 13:53:30
+user_6,Owna Lane,Teejay,fear,fear,0,2025-04-28 11:56:30
+user_6,Breaking Free,High School Musical Cast,sadness,joy,1,2025-04-25 12:32:30
+user_6,Why Tell Me Why,Anita Meyer,anger,joy,1,2025-05-03 23:11:30
+user_6,Walking The Floor Over You,Ernest Tubb,surprise,surprise,0,2025-04-14 20:14:30
+user_6,Brother Can You Spare a Dime?,Bing Crosby,sadness,joy,1,2025-04-26 11:39:30
+user_6,Tropic Love,Diviners,love,love,0,2025-04-16 12:33:30
+user_6,Mad At Myself,Plies,love,love,0,2025-04-23 16:09:30
+user_6,Violence,Parquet Courts,joy,joy,0,2025-04-26 13:05:30
+user_6,Steamroller,James Taylor,sadness,joy,1,2025-04-12 11:33:30
+user_6,Lost In The Night,Palace,surprise,surprise,0,2025-04-10 21:13:30
+user_6,Touchness,Enigma,sadness,joy,1,2025-04-10 22:32:30
+user_6,Young Rap God Rap God Remix,Token,anger,joy,1,2025-05-02 06:46:30
+user_6,Bow Down / I Been On,Beyonc,surprise,surprise,0,2025-04-26 07:28:30
+user_6,Standing At The Station,Ten Years After,anger,anger,0,2025-04-22 22:40:30
+user_6,No Reason,Leslie Kritzer & Sophia Anne Caruso,sadness,joy,1,2025-05-02 20:51:30
+user_6,Give It Up,Planetshakers,fear,fear,0,2025-04-25 17:49:30
+user_6,Sappy Early Demo,Kurt Cobain,anger,joy,1,2025-05-05 03:23:30

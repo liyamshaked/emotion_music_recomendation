@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_81,Polo G | Funk Flex | Freestyle132,Polo G,surprise,surprise,0,2025-04-12 00:45:07
+user_81,Missing You,Brand New,joy,joy,0,2025-05-03 15:57:07
+user_81,Warriors,Gary Numan,fear,fear,0,2025-04-15 11:25:07
+user_81,Love Yourself,Mary J. Blige,love,love,0,2025-05-07 21:44:07
+user_81,Diamonds and Why Men Buy Them,Pierce The Veil,love,love,0,2025-04-21 19:18:07
+user_81,We Know,"Lin-Manuel Miranda, Daveed Diggs, Leslie Odom Jr. & Okieriete Onaodowan",love,love,0,2025-04-09 23:26:07
+user_81,Under Our Spell,The Dazzlings,sadness,joy,1,2025-04-23 00:54:07
+user_81,How High,Pi'erre Bourne,surprise,surprise,0,2025-04-24 23:51:07
+user_81,Black On Black Ii,Heart,fear,fear,0,2025-05-07 04:04:07
+user_81,Blindside,Ching,surprise,surprise,0,2025-04-26 11:20:07
+user_81,Don't Worry,Leann Rimes,anger,anger,0,2025-04-20 17:48:07
+user_81,Candy Man,Hollies,surprise,surprise,0,2025-05-03 10:01:07
+user_81,Before I Die,Kirk Franklin,love,love,0,2025-05-07 00:02:07
+user_81,Smoke On The Water,Metallica,love,love,0,2025-04-13 10:09:07
+user_81,Diggy Down,INNA,fear,fear,0,2025-04-24 17:22:07
+user_81,Opus 17 (Don't Worry Bout Me),Frankie Valli,love,love,0,2025-05-04 12:54:07
+user_81,Zero Fucks,Omeretta the Great,anger,anger,0,2025-04-11 14:52:07
+user_81,The Fox,Sleater-Kinney,surprise,surprise,0,2025-04-29 22:56:07
+user_81,Synchronicity I,The Police,love,love,0,2025-04-22 08:23:07
+user_81,Better Off,Ann Marie,sadness,joy,1,2025-05-05 09:28:07
+user_81,I'll Tag Along,Gordon Lightfoot,fear,fear,0,2025-04-15 20:33:07
+user_81,A lot,Isaiah Rashad,fear,fear,0,2025-04-17 19:19:07
+user_81,Zone 2 Step,Zone 2,love,love,0,2025-04-13 11:16:07
+user_81,NUFF SAID,RUSSELL!,fear,fear,0,2025-05-05 05:59:07
+user_81,The Cure,Little Mix,anger,anger,0,2025-04-22 05:13:07
+user_81,No Way Back,Foo Fighters,sadness,sadness,0,2025-04-10 12:06:07
+user_81,Nick Nick Nick,Nickelodeon,anger,joy,1,2025-04-30 02:36:07
+user_81,Always A Friend,Bruce Springsteen,joy,joy,0,2025-04-10 23:00:07
+user_81,Breathe,Erasure,joy,joy,0,2025-04-25 21:03:07
+user_81,Tell Me,Spencer Sutherland,surprise,surprise,0,2025-04-25 07:43:07
+user_81,One More Try,Perfume Genius,anger,anger,0,2025-05-05 05:05:07
+user_81,First It Giveth,Queens Of The Stone Age,sadness,sadness,0,2025-04-15 19:34:07
+user_81,In This Moment,Alison Yap,sadness,joy,1,2025-04-17 22:06:07
+user_81,Bad Boy,Cascada,anger,anger,0,2025-05-08 00:52:07
+user_81,Whisper,Burn The Ballroom,sadness,joy,1,2025-04-24 12:43:07
+user_81,U Suck,Sega Bodega,surprise,surprise,0,2025-04-30 01:48:07
+user_81,I did it,Eli Porter,surprise,surprise,0,2025-05-09 04:28:07
+user_81,Red Magic,Lil Wayne,joy,joy,0,2025-04-28 08:41:07
+user_81,Goodbye My Friend,Linda Ronstadt,joy,joy,0,2025-04-14 13:23:07
+user_81,The Only Place,Big Thief,fear,fear,0,2025-04-16 10:41:07
+user_81,772 Love,YNW Melly,love,love,0,2025-05-05 07:07:07
+user_81,Willingly,Vertical Horizon,fear,fear,0,2025-04-26 01:18:07
+user_81,Break Some Off,Korn,surprise,surprise,0,2025-04-11 08:29:07
+user_81,In My Way,MUNA,fear,fear,0,2025-04-22 02:03:07
+user_81,Under a Funeral Moon,Darkthrone,love,love,0,2025-05-08 11:57:07
+user_81,On My Own,Patti LaBelle,surprise,surprise,0,2025-04-21 11:35:07
+user_81,Millennium Freestyle,JPEGMAFIA,sadness,sadness,0,2025-04-12 01:44:07
+user_81,AUTOMATIC,BIA,love,love,0,2025-04-09 21:30:07
+user_81,Lady Like,Ingrid Andress,love,love,0,2025-04-23 08:35:07
+user_81,Thug Life,Lil Wayne,love,love,0,2025-05-03 22:06:07
+user_81,Ignorant Killing My Vibe,Juice WRLD,anger,anger,0,2025-05-01 19:19:07
+user_81,Never Get Enough Of Your Love,Michael Bolton,sadness,joy,1,2025-04-26 18:19:07
+user_81,Christmas Time,Christina Aguilera,fear,fear,0,2025-05-01 01:33:07
+user_81,Critics,Gary Numan,sadness,sadness,0,2025-04-18 20:47:07
+user_81,The Evil Morty rap,None Like Joshua,fear,fear,0,2025-04-24 16:43:07
+user_81,Don't Bust My Chops,Ramones,joy,joy,0,2025-05-01 07:31:07
+user_81,Bitch Lasagna Remix By Party in Backyard,PewDiePie & Party in Backyard,anger,anger,0,2025-05-04 18:04:07
+user_81,It Wont Stop,Sevyn Streeter,joy,joy,0,2025-04-16 12:57:07
+user_81,Overwhelmed,Planetshakers,joy,joy,0,2025-05-02 05:12:07
+user_81,Wild Side Extended Version,Normani,love,love,0,2025-04-15 14:04:07
+user_81,Nightcrawlers,NIKI,joy,joy,0,2025-04-11 07:07:07
+user_81,All Ass,Migos,sadness,sadness,0,2025-04-19 03:10:07
+user_81,Dont Mind If I Do,Futuristic,sadness,sadness,0,2025-04-14 06:29:07
+user_81,Laydown,John Waite,joy,joy,0,2025-04-09 21:14:07
+user_81,Fuck Rice Street,Latto,joy,joy,0,2025-04-17 20:26:07
+user_81,Carousel,Linkin Park,love,love,0,2025-05-08 13:59:07
+user_81,Low Lights,Kanye West,love,love,0,2025-05-09 14:46:07
+user_81,Women Is Losers,Janis Joplin,joy,joy,0,2025-05-06 11:18:07
+user_81,Feel the Love Sam Feldt Edit,Janieck,fear,fear,0,2025-05-02 07:37:07
+user_81,Life's An Ocean,Verve,fear,fear,0,2025-04-22 16:19:07
+user_81,Schemin,Uli K,sadness,sadness,0,2025-04-29 08:14:07
+user_81,God Taught Me,Zauntee,anger,joy,1,2025-04-23 03:38:07
+user_81,Your Name,Ace of Hearts,sadness,sadness,0,2025-05-09 12:55:07
+user_81,Mad World,Demi Lovato,sadness,joy,1,2025-04-18 11:23:07
+user_81,Walk Me Down,Meechy Baby,fear,fear,0,2025-05-09 08:32:07
+user_81,Party,Slaughterhouse,sadness,joy,1,2025-05-06 22:04:07
+user_81,Dream World,The Monkees,fear,fear,0,2025-05-08 23:13:07
+user_81,I've Got A Dream,Moody Blues,sadness,joy,1,2025-04-13 18:13:07
+user_81,My Side of the Fence,Dan + Shay,fear,fear,0,2025-04-18 22:52:07
+user_81,The Beginning,RuPaul,fear,fear,0,2025-04-21 09:26:07
+user_81,Money Made Me Do It,Post Malone,joy,joy,0,2025-04-18 10:24:07
+user_81,Pussy Poppin P-Poppin,Ludacris,sadness,joy,1,2025-04-26 11:41:07
+user_81,Boho Days,Jonathan Larson,surprise,surprise,0,2025-04-18 09:29:07
+user_81,Mad As Fuck,Ramirez,love,love,0,2025-04-22 10:08:07
+user_81,Jodye,A$AP Rocky,fear,fear,0,2025-05-08 07:33:07
+user_81,D.D.,The Weeknd,anger,joy,1,2025-05-08 19:43:07
+user_81,I Tore You Apart in My Head,Balance and Composure,fear,fear,0,2025-05-06 15:32:07
+user_81,Miss You,Gabrielle Aplin,surprise,surprise,0,2025-04-18 13:10:07
+user_81,The Gnome,Pink Floyd,joy,joy,0,2025-05-07 18:25:07
+user_81,You Got It,Bonnie Raitt,joy,joy,0,2025-04-29 15:16:07
+user_81,Koladi-Ola,Yello,love,love,0,2025-04-29 04:21:07
+user_81,Never Meant to Know,Tally Hall,sadness,joy,1,2025-04-16 05:37:07
+user_81,Real Wild Child Wild One,Iggy Pop,fear,fear,0,2025-05-07 14:10:07
+user_81,2:45 AM,Elliott Smith,surprise,surprise,0,2025-04-26 20:59:07
+user_81,High Fashion,Roddy Ricch,sadness,joy,1,2025-05-05 08:48:07
+user_81,Elephant Gun,Beirut,anger,anger,0,2025-04-21 20:24:07
+user_81,Guvnor,JJ DOOM,fear,fear,0,2025-05-01 11:38:07
+user_81,Dreaming While You Sleep,Genesis,fear,fear,0,2025-04-24 13:16:07
+user_81,BEAMIN,Quadeca,sadness,joy,1,2025-05-03 20:18:07
+user_81,Trash,Korn,joy,joy,0,2025-04-23 10:56:07

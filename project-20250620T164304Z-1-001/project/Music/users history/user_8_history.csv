@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_8,TiK ToK,Kesha,fear,fear,0,2025-04-15 19:27:31
+user_8,Two Ghosts,Harry Styles,surprise,surprise,0,2025-04-09 23:10:31
+user_8,On the Bible,Tech N9ne,fear,fear,0,2025-04-10 00:56:31
+user_8,Bed Of Nails,Beautiful South,fear,fear,0,2025-04-26 00:49:31
+user_8,Murder,ROMderful,love,love,0,2025-04-30 09:59:31
+user_8,Something Like A Mama,Underworld,surprise,surprise,0,2025-05-03 19:42:31
+user_8,Were Done,Wiz Khalifa,surprise,surprise,0,2025-04-12 01:22:31
+user_8,Im Still Holding On,Luther Barnes,love,love,0,2025-04-28 20:20:31
+user_8,Wrong Time,M Huncho & Nafe Smallz,anger,anger,0,2025-04-10 09:31:31
+user_8,Pistol P Intro,G Herbo,joy,joy,0,2025-04-25 04:59:31
+user_8,Let Me In,Make Them Suffer,joy,joy,0,2025-04-24 12:12:31
+user_8,Say All I Need,OneRepublic,fear,fear,0,2025-05-07 15:47:31
+user_8,Dienda,Sting,anger,anger,0,2025-04-16 01:53:31
+user_8,Bang Remix,Griselda,fear,fear,0,2025-04-30 00:34:31
+user_8,No Words,Erik Hassle,anger,anger,0,2025-04-24 21:13:31
+user_8,No Hands,Waka Flocka Flame,sadness,joy,1,2025-04-21 11:04:31
+user_8,Juicy,Juice WRLD,joy,joy,0,2025-04-29 11:50:31
+user_8,50 Shades Of Black,Kovacs,joy,joy,0,2025-04-11 20:40:31
+user_8,Definition Of A Hotti,R. Kelly,anger,joy,1,2025-05-01 21:27:31
+user_8,3 Tha Hard Way,Bahamadia,joy,joy,0,2025-05-07 10:19:31
+user_8,FIVE SIX,Pouya,sadness,joy,1,2025-05-06 23:02:31
+user_8,History of Rap 1,Jimmy Fallon,love,love,0,2025-04-13 14:07:31
+user_8,I Know You Got A Man,Flo-Rida,surprise,surprise,0,2025-04-18 00:08:31
+user_8,Just A Little Lovin',Ray Charles,joy,joy,0,2025-04-24 21:16:31
+user_8,Eastside Shit,King Louie,fear,fear,0,2025-05-01 03:16:31
+user_8,Little Bitty Pretty One,Hollies,joy,joy,0,2025-04-22 23:39:31
+user_8,Too Late,Nito NB,joy,joy,0,2025-04-29 08:15:31
+user_8,Long Live Palestine Part 2,Lowkey,fear,fear,0,2025-04-30 09:20:31
+user_8,My Advice 2 You,Gang Starr,fear,fear,0,2025-04-27 12:48:31
+user_8,Lover's Will,Bonnie Raitt,anger,anger,0,2025-05-06 23:27:31
+user_8,Origami,G-Eazy,fear,fear,0,2025-04-29 03:15:31
+user_8,Ego,Elton John,love,love,0,2025-04-17 20:11:31
+user_8,I Wish You Knew,Mariah Carey,joy,joy,0,2025-04-13 23:34:31
+user_8,Flow,BONES,joy,joy,0,2025-04-24 04:49:31
+user_8,Trap,Juicy J,fear,fear,0,2025-04-11 07:24:31
+user_8,Unorthodox,Joey Bada$$,surprise,surprise,0,2025-05-04 13:26:31
+user_8,Fragments,an Unkindness,surprise,surprise,0,2025-04-25 22:10:31
+user_8,Waves That Rolled You Under,Young Summer,joy,joy,0,2025-04-26 23:32:31
+user_8,I Am a River,Foo Fighters,anger,joy,1,2025-04-29 21:27:31
+user_8,Butterfly Fly Away,Miley Cyrus,fear,fear,0,2025-05-02 13:29:31
+user_8,Eye For An Eye,Unkle,love,love,0,2025-04-12 11:37:31
+user_8,Half Asleep,Yeasayer,sadness,sadness,0,2025-04-12 22:11:31
+user_8,Lets Get Faded,Gucci Mane,sadness,sadness,0,2025-05-04 21:02:31
+user_8,Do Better,Stormzy,love,love,0,2025-04-20 19:39:31
+user_8,Tell It All Town,Koe Wetzel,love,love,0,2025-04-11 11:08:31
+user_8,Two,David Lee,joy,joy,0,2025-04-15 08:27:31
+user_8,Next Up - S3-E16,A92,fear,fear,0,2025-04-12 20:20:31
+user_8,I Was Never Your Boyfriend,Tigers Jaw,anger,anger,0,2025-04-30 03:49:31
+user_8,You Are My Enemy,Hopsin,fear,fear,0,2025-04-14 16:40:31
+user_8,We Are The People,Nazareth,joy,joy,0,2025-04-17 00:09:31
+user_8,Blood Of My Blood,Tricky,fear,fear,0,2025-05-01 08:20:31
+user_8,When I Rule the World,LIZ,love,love,0,2025-04-15 06:40:31
+user_8,Nous Vivons Ensemble,Gordon Lightfoot,joy,joy,0,2025-04-17 22:14:31
+user_8,Aim High,John Legend,fear,fear,0,2025-05-07 13:58:31
+user_8,Dominoes,clipping.,anger,anger,0,2025-05-06 07:09:31
+user_8,Alphabetical Order,Young Thug,joy,joy,0,2025-05-05 12:12:31
+user_8,Whats Happnin,Ying Yang Twins,anger,joy,1,2025-05-09 07:13:31
+user_8,More More More,Andrea True Connection,anger,joy,1,2025-04-20 18:41:31
+user_8,Gold Roses,Rick Ross,joy,joy,0,2025-04-24 05:14:31
+user_8,No One Loves Me Neither Do I,Them Crooked Vultures,surprise,surprise,0,2025-04-27 02:37:31
+user_8,5D Fifth Dimension,The Byrds,love,love,0,2025-04-23 21:46:31
+user_8,Bang Bang Youre Dead,Dirty Pretty Things,joy,joy,0,2025-05-07 13:13:31
+user_8,Dream Girl,Marmar Oso,joy,joy,0,2025-04-09 21:12:31
+user_8,An Angel,The Kelly Family,joy,joy,0,2025-04-14 14:52:31
+user_8,Deep In the Night,Snails & Pegboard Nerds,love,love,0,2025-05-03 13:40:31
+user_8,Feel Like I Do,Vin Diesel,joy,joy,0,2025-05-02 22:44:31
+user_8,Head shoulders knee toez,K.I.G.,fear,fear,0,2025-04-16 21:48:31
+user_8,What Can I Do,David Allan Coe,fear,fear,0,2025-04-24 17:20:31
+user_8,Loveover,Hindsight (AUS),anger,anger,0,2025-04-12 10:06:31
+user_8,Liberate,Disturbed,joy,joy,0,2025-04-18 19:23:31
+user_8,Me Against the Music,Britney Spears,fear,fear,0,2025-05-02 23:39:31
+user_8,Marine Tigers,The World is a Beautiful Place & I am No Longer Afraid to Die,surprise,surprise,0,2025-04-21 15:23:31
+user_8,This Is The Life,Rick Ross,love,love,0,2025-04-16 12:49:31
+user_8,Throne,Throne Lyrics - Bring Me The Horizon,anger,anger,0,2025-05-02 19:01:31
+user_8,What A Friend We Have In Jesus,Alan Jackson,fear,fear,0,2025-04-17 04:34:31
+user_8,We Want Change,Hi-Rez,joy,joy,0,2025-04-12 14:43:31
+user_8,Yeet,Saturday Night Live,anger,joy,1,2025-04-20 09:50:31
+user_8,Little Britches,Hank Snow,sadness,sadness,0,2025-05-09 04:35:31
+user_8,Devils Calling,Parkway Drive,anger,anger,0,2025-05-06 13:00:31
+user_8,In Your Eyes,Taska Black,sadness,sadness,0,2025-04-14 20:37:31
+user_8,Imagine Me,Kirk Franklin,surprise,surprise,0,2025-05-03 05:56:31
+user_8,Under Cover of Darkness,The Strokes,love,love,0,2025-05-04 19:04:31
+user_8,Remember the Titans,Joe Budden,joy,joy,0,2025-04-17 09:23:31
+user_8,Tell Somebody,Chris Brown,sadness,joy,1,2025-04-21 07:14:31
+user_8,Open Door,Genesis,fear,fear,0,2025-05-09 10:07:31
+user_8,Superstar,Popcaan,anger,anger,0,2025-04-26 12:53:31
+user_8,Pain,Young M.A,joy,joy,0,2025-04-13 21:50:31
+user_8,Lets Go From Me to U,Juelz Santana,surprise,surprise,0,2025-04-17 11:13:31
+user_8,NCT 127 - Love On The Floor English Translation,Genius English Translations,fear,fear,0,2025-05-09 08:40:31
+user_8,The Two Of Us Are Dying,Killstation,fear,fear,0,2025-05-01 12:37:31
+user_8,Burr,Pablo Skywalkin,sadness,joy,1,2025-04-21 05:31:31
+user_8,3Rd Stone From The Sun,Jimi Hendrix,sadness,joy,1,2025-04-24 19:42:31
+user_8,Even So,Terry MacAlmon,love,love,0,2025-05-08 15:21:31
+user_8,Okinawa,92914,joy,joy,0,2025-04-21 13:40:31
+user_8,Jiving Sister Fanny,Rolling Stones,love,love,0,2025-05-03 09:48:31
+user_8,Girl Of Mine,Elvis Presley,love,love,0,2025-05-08 10:25:31
+user_8,Illegal,Shakira,fear,fear,0,2025-04-19 01:58:31
+user_8,Theyre Hanging Me Tonight,Marty Robbins,sadness,sadness,0,2025-05-09 10:37:31
+user_8,Graveyard,Feist,love,love,0,2025-04-17 06:14:31
+user_8,Once Or Twice,Chicago,anger,joy,1,2025-04-19 09:46:31

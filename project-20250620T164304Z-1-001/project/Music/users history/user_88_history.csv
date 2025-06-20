@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_88,Under the Knife,Rise Against,sadness,joy,1,2025-04-28 15:22:10
+user_88,Nothings Gonna Stop Us Now,Starship,joy,joy,0,2025-04-14 19:19:10
+user_88,Judy and the Dream of Horses,Belle and Sebastian,sadness,sadness,0,2025-04-29 15:53:10
+user_88,Tempo,Lizzo,sadness,joy,1,2025-05-06 04:00:10
+user_88,​morE thaN a nighT,"A-Reece, Jay Jody & BLUE TAPE",sadness,joy,1,2025-04-10 13:16:10
+user_88,Laying Low,Chillinit,love,love,0,2025-05-06 12:07:10
+user_88,Soundcheck,Catfish and the Bottlemen,love,love,0,2025-05-06 14:20:10
+user_88,All My Hope,Hillsong United,fear,fear,0,2025-04-28 05:33:10
+user_88,Pride,Brahny,love,love,0,2025-04-27 04:05:10
+user_88,Raise a Hallelujah,New Wine Worship,love,love,0,2025-04-12 03:21:10
+user_88,Gone Too Soon,Simple Plan,sadness,sadness,0,2025-04-21 20:51:10
+user_88,Ice Cream Paint Job,Dorrough Music,sadness,sadness,0,2025-04-28 22:35:10
+user_88,Stone Cold Killers,W.A.S.P.,love,love,0,2025-04-15 10:18:10
+user_88,This World,Choo Jackson,joy,joy,0,2025-04-11 22:07:10
+user_88,Molly Brown,Vince Gill,anger,anger,0,2025-04-13 14:10:10
+user_88,One More Minute,"""Weird Al"" Yankovic",anger,anger,0,2025-04-24 19:11:10
+user_88,News/Flock,XXXTENTACION,sadness,sadness,0,2025-05-06 07:48:10
+user_88,Where I Belong,Rexx Life Raj,love,love,0,2025-04-20 04:21:10
+user_88,The Boogie Man Song,Yasiin Bey,joy,joy,0,2025-04-26 20:57:10
+user_88,Give Em A Reason,Shabazz PBG,surprise,surprise,0,2025-05-03 00:15:10
+user_88,TAlk tO Me Remix,Tory Lanez & Rich The Kid,love,love,0,2025-04-15 19:22:10
+user_88,Save You,Pearl Jam,love,love,0,2025-04-29 22:27:10
+user_88,Less Than I Do,The Band CAMINO,joy,joy,0,2025-04-30 10:11:10
+user_88,How's Your Bird,Frank Zappa,surprise,surprise,0,2025-04-16 02:32:10
+user_88,Let's Do It,Billie Holiday,sadness,sadness,0,2025-04-25 04:00:10
+user_88,I Love You,East of Underground,fear,fear,0,2025-04-20 15:11:10
+user_88,Another Naive Individual Glorifying Greed Encouraging Racism,Big K.R.I.T.,joy,joy,0,2025-04-28 01:19:10
+user_88,Wolf,Boy Epic,joy,joy,0,2025-04-24 20:20:10
+user_88,Rusty Nails,Moderat,sadness,sadness,0,2025-04-10 03:49:10
+user_88,I Will Never Be The Same Again,Hillsong United,anger,joy,1,2025-04-13 07:56:10
+user_88,Dlow Shuffle Part 2,DLOW,love,love,0,2025-04-22 21:03:10
+user_88,It Was a Good Day,Ice Cube,love,love,0,2025-04-11 02:14:10
+user_88,No English,Juicy J,fear,fear,0,2025-05-04 06:46:10
+user_88,Sad Boy,R3HAB & Jonas Blue,surprise,surprise,0,2025-04-21 14:23:10
+user_88,Party Hard / Cadillac Interlude,Chris Brown,fear,fear,0,2025-05-07 05:18:10
+user_88,Everythings Alright,Sam Wilkinson,love,love,0,2025-05-06 03:11:10
+user_88,Cowardice,Defeater,joy,joy,0,2025-04-30 01:03:10
+user_88,Old Dun Cow,Fiddler's Green,fear,fear,0,2025-04-16 01:57:10
+user_88,DAWG,City Morgue,joy,joy,0,2025-05-01 07:39:10
+user_88,Stone Cold Crazy,Queen,sadness,joy,1,2025-04-25 21:58:10
+user_88,Im Heem,Lil B,sadness,joy,1,2025-04-17 23:48:10
+user_88,Butts Wigglin,Tragically Hip,joy,joy,0,2025-04-23 01:06:10
+user_88,Crazy Beautiful,Hanson,anger,anger,0,2025-04-15 21:49:10
+user_88,Good in Bed,Dua Lipa,fear,fear,0,2025-05-07 10:09:10
+user_88,Danny DeVito,PHresher,anger,joy,1,2025-04-17 08:26:10
+user_88,Start Again,RUSSELL!,love,love,0,2025-04-25 19:13:10
+user_88,Arsonal vs. Tech 9,Lionz Den,love,love,0,2025-04-28 02:32:10
+user_88,Red Taylors Version,Taylor Swift,surprise,surprise,0,2025-05-05 21:51:10
+user_88,Another Star,Stevie Wonder,anger,joy,1,2025-05-08 21:17:10
+user_88,Don't Stop Me Now,Status Quo,surprise,surprise,0,2025-04-14 00:41:10
+user_88,O Father O Satan O Sun,Behemoth,love,love,0,2025-04-14 14:32:10
+user_88,Superheroes,Stormzy,surprise,surprise,0,2025-04-19 05:00:10
+user_88,Sometimes,Bilal,surprise,surprise,0,2025-04-12 19:15:10
+user_88,...ALL,Miguel,joy,joy,0,2025-04-30 05:03:10
+user_88,This One,Jme,anger,joy,1,2025-04-24 15:12:10
+user_88,Diamonds,The Boxer Rebellion,love,love,0,2025-04-24 13:22:10
+user_88,Les Chemins De Ma Maison,Celine Dion,anger,joy,1,2025-04-26 02:48:10
+user_88,Globetrotter,Wale,anger,anger,0,2025-05-08 10:55:10
+user_88,FU2,Oliver Francis,sadness,sadness,0,2025-04-15 06:36:10
+user_88,Phoenix,ALAZKA,fear,fear,0,2025-04-15 10:23:10
+user_88,Here We Come a Caroling,Perry Como,fear,fear,0,2025-04-11 13:45:10
+user_88,Mr. Sandman,Emmylou Harris,joy,joy,0,2025-04-10 15:54:10
+user_88,Them Bones,Alice In Chains,anger,anger,0,2025-05-07 13:40:10
+user_88,Betrayal,Gang Starr,fear,fear,0,2025-04-22 05:21:10
+user_88,The Plagues,Original West End Cast of The Prince of Egypt,love,love,0,2025-04-20 11:11:10
+user_88,Mean to Me,Zona Man,surprise,surprise,0,2025-04-26 10:12:10
+user_88,The Rains of Castamere,Ramin Djawadi & Serj Tankian,surprise,surprise,0,2025-04-10 07:05:10
+user_88,Mean Old World,Eric Clapton,sadness,sadness,0,2025-04-11 14:54:10
+user_88,Petty,Chief Keef & Zaytoven,surprise,surprise,0,2025-04-28 00:24:10
+user_88,Glad To See You,America,sadness,joy,1,2025-04-25 10:02:10
+user_88,6.18.18,Billie Eilish,surprise,surprise,0,2025-05-05 13:49:10
+user_88,Statement,G Herbo,fear,fear,0,2025-04-16 09:21:10
+user_88,Never Run Dry,Housefires,surprise,surprise,0,2025-04-19 10:21:10
+user_88,Another Lifetime,NAO,joy,joy,0,2025-04-12 23:39:10
+user_88,From Russia Infected,Gary Numan,sadness,sadness,0,2025-04-27 06:33:10
+user_88,Day One,Sniper Gang,sadness,sadness,0,2025-05-06 07:59:10
+user_88,If You Really Love Me,Stevie Wonder,love,love,0,2025-05-05 14:08:10
+user_88,Pain Killers,Toosii,surprise,surprise,0,2025-05-02 04:16:10
+user_88,CCNE4 Free Goša Free Ćomi Free Aketa Free Nemo,"Crni Cerak, RiZZ, Certi & Biba",sadness,joy,1,2025-04-21 18:25:10
+user_88,Tumblr Girls,G-Eazy,joy,joy,0,2025-04-13 08:30:10
+user_88,Im Broken,RUSSELL!,fear,fear,0,2025-05-03 15:25:10
+user_88,Give Me More Time,George Strait,surprise,surprise,0,2025-05-08 22:50:10
+user_88,Alpenglow,Nightwish,love,love,0,2025-05-08 08:42:10
+user_88,Boink Boink,Tory Lanez,anger,anger,0,2025-04-20 13:14:10
+user_88,Break Through The Barrier,Tina Turner,anger,anger,0,2025-05-09 09:32:10
+user_88,Famous,Kerser,sadness,sadness,0,2025-04-25 01:37:10
+user_88,Mercy,Nipsey Hussle,sadness,sadness,0,2025-05-02 07:53:10
+user_88,God Is Love,Lenny Kravitz,sadness,joy,1,2025-05-08 13:58:10
+user_88,Charlene,Anthony Hamilton,sadness,sadness,0,2025-04-15 01:08:10
+user_88,Pico,Kawai Sprite,surprise,surprise,0,2025-04-11 08:36:10
+user_88,Man On The Side,John Mayer,anger,joy,1,2025-04-30 06:45:10
+user_88,That Unwanted Animal,The Amazing Devil,surprise,surprise,0,2025-04-16 05:16:10
+user_88,Rotting in Vain,Korn,fear,fear,0,2025-04-23 08:00:10
+user_88,Forest Whitaker,Bad Books,joy,joy,0,2025-05-04 16:26:10
+user_88,Queen B,Puscifer,joy,joy,0,2025-04-22 21:19:10
+user_88,Whistle While You Twurk ColliPark Mix,Ying Yang Twins,sadness,sadness,0,2025-04-11 03:17:10
+user_88,Close Your Eyes,CunninLynguists,love,love,0,2025-04-18 14:13:10
+user_88,Ive Got a Dream,"Mandy Moore, Brad Garrett, Tangled Ensemble, Zachary Levi & Jeffrey Tambor",fear,fear,0,2025-04-12 12:24:10
+user_88,Freak,Swans,love,love,0,2025-05-04 07:19:10
+user_88,Tender Love,Sha Sha (Zim),love,love,0,2025-04-27 14:20:10

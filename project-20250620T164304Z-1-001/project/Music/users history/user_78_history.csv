@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_78,Bompton Remix,YS,love,love,0,2025-05-09 17:26:05
+user_78,Before The Dawn,Judas Priest,joy,joy,0,2025-04-14 22:21:05
+user_78,Act I: T.I.P.,T.I.,love,love,0,2025-04-14 09:20:05
+user_78,More,SOJA,anger,joy,1,2025-04-20 23:11:05
+user_78,From the Dead,Faith No More,fear,fear,0,2025-05-05 03:33:05
+user_78,Heartbreaker,Pat Benatar,joy,joy,0,2025-05-01 18:20:05
+user_78,Fire,Steve Aoki,love,love,0,2025-04-21 21:04:05
+user_78,Mind Games,John Lennon,joy,joy,0,2025-04-11 04:01:05
+user_78,Bring It On Down,Oasis,sadness,sadness,0,2025-04-15 22:26:05
+user_78,Tachyon,Rav,love,love,0,2025-04-29 13:44:05
+user_78,In My Feelings Remix,City Girls,surprise,surprise,0,2025-05-07 11:43:05
+user_78,The Days,Avicii,anger,anger,0,2025-04-29 16:54:05
+user_78,Chains,City Morgue,love,love,0,2025-04-22 03:25:05
+user_78,Foreign Shit,Waka Flocka Flame,sadness,joy,1,2025-05-07 09:19:05
+user_78,You Me Flume Remix,Disclosure,joy,joy,0,2025-04-30 14:38:05
+user_78,Lotus Flower,Radiohead,sadness,sadness,0,2025-04-14 16:21:05
+user_78,Frailty,Polaris,joy,joy,0,2025-05-01 11:50:05
+user_78,Scars,LANDMVRKS,fear,fear,0,2025-04-27 07:19:05
+user_78,Theyre Here,iamjakehill,sadness,sadness,0,2025-04-28 02:26:05
+user_78,Uptown Funk / Formation,Mark Ronson,anger,joy,1,2025-04-27 20:03:05
+user_78,Last Night,Pitbull,joy,joy,0,2025-04-26 08:34:05
+user_78,Humble African,Culture,fear,fear,0,2025-04-22 06:06:05
+user_78,Perfect,Glee Cast,sadness,joy,1,2025-05-02 17:40:05
+user_78,Pussies,Bart Baker,love,love,0,2025-04-23 09:51:05
+user_78,Neighbour Neighbour,Violent Soho,sadness,sadness,0,2025-04-23 19:28:05
+user_78,Glory,Dizzy Mizz Lizzy,sadness,joy,1,2025-05-07 12:25:05
+user_78,Garments of Praise,Robin Mark,sadness,sadness,0,2025-04-27 06:40:05
+user_78,Cinderella Dracula,Tired Lion,anger,anger,0,2025-05-05 13:14:05
+user_78,Devil On My Shoulder,Quando Rondo,fear,fear,0,2025-04-29 05:13:05
+user_78,More Thoughts,Big Sean,joy,joy,0,2025-05-08 20:05:05
+user_78,Streets Of Baltimore,Coldplay,surprise,surprise,0,2025-05-04 20:58:05
+user_78,Unanswered,Defeater,anger,anger,0,2025-04-17 16:53:05
+user_78,I Hope This Comes Back to Haunt You,Neck Deep,love,love,0,2025-04-18 09:00:05
+user_78,Mama,That Girl Lay Lay,love,love,0,2025-04-20 07:58:05
+user_78,My Heart is a Weapon,Lostboycrow,fear,fear,0,2025-04-10 08:36:05
+user_78,Whos Next,Ken Car$on,joy,joy,0,2025-05-06 08:00:05
+user_78,Other Shit,A Boogie wit da Hoodie & Don Q,sadness,sadness,0,2025-05-04 13:04:05
+user_78,Eagle When She Flies,Dolly Parton,surprise,surprise,0,2025-04-19 04:05:05
+user_78,Last Minute,Molly Brazy,fear,fear,0,2025-04-14 23:31:05
+user_78,Right Here,Justin Bieber,love,love,0,2025-05-05 09:06:05
+user_78,Raw Deal,Judas Priest,anger,joy,1,2025-04-23 06:40:05
+user_78,GOMD,Kevin Gates,surprise,surprise,0,2025-05-03 11:27:05
+user_78,Too Hot,Hot Boys,anger,joy,1,2025-04-18 22:26:05
+user_78,Put it On Me Radio Remix,Ja Rule,surprise,surprise,0,2025-04-11 11:19:05
+user_78,Mad The Swine,Queen,surprise,surprise,0,2025-04-14 06:20:05
+user_78,Over The River And Through The Woods,Christina Aguilera,sadness,sadness,0,2025-05-04 21:40:05
+user_78,Supra,Kin$oul,sadness,joy,1,2025-05-04 18:43:05
+user_78,Shoot Out the Roof,Lil Yachty,anger,joy,1,2025-04-29 15:47:05
+user_78,Spanish Eyes,Engelbert Humperdinck,fear,fear,0,2025-04-18 04:48:05
+user_78,The Rose,Kelly Family,love,love,0,2025-04-25 18:20:05
+user_78,Done Right Discount Flooring,Joyce Manor,anger,anger,0,2025-04-12 00:26:05
+user_78,Killing the Joke,Miles Kane,surprise,surprise,0,2025-04-20 10:15:05
+user_78,Soul Reaper,Tommy Lee Sparta,surprise,surprise,0,2025-05-05 14:01:05
+user_78,Broken parts,Clide,fear,fear,0,2025-04-12 18:44:05
+user_78,Ben Franklins Song,The Decemberists,anger,joy,1,2025-04-30 21:47:05
+user_78,Attachments,Pressa,love,love,0,2025-04-26 12:49:05
+user_78,All of This,blink-182,anger,joy,1,2025-04-21 06:21:05
+user_78,I Thought I Farted But I Shit,Jeremiah Perez,fear,fear,0,2025-05-07 20:59:05
+user_78,Shroud,Tech N9ne,sadness,sadness,0,2025-05-08 06:15:05
+user_78,Couch Standing,Nieman J & Eric Bellinger,love,love,0,2025-04-16 10:36:05
+user_78,Live For Today,Toto,love,love,0,2025-05-07 07:20:05
+user_78,Red Light,Rod Wave,joy,joy,0,2025-04-15 01:26:05
+user_78,Global Warming,John Grant,love,love,0,2025-04-27 21:33:05
+user_78,Mean,Taylor Swift,fear,fear,0,2025-05-07 17:31:05
+user_78,Me Time,Erika Costell,anger,joy,1,2025-04-10 18:07:05
+user_78,Freight Train Boogie,John Denver,fear,fear,0,2025-04-26 17:38:05
+user_78,Fly Me to the Moon,Julien Bam,anger,joy,1,2025-04-15 07:04:05
+user_78,Far Away,Kindred The Family Soul,sadness,sadness,0,2025-04-26 20:12:05
+user_78,Above the Rim,DaBaby & Money Man,sadness,joy,1,2025-04-12 05:30:05
+user_78,Birthday Cake,Dylan Conrique,love,love,0,2025-04-30 03:32:05
+user_78,TWICE - HELLO Romanized,Genius Romanizations,surprise,surprise,0,2025-04-26 19:40:05
+user_78,Deep in the Night Interlude,Tinashe,fear,fear,0,2025-05-03 01:09:05
+user_78,With A Smile,Eraserheads,joy,joy,0,2025-04-15 00:05:05
+user_78,Every Girl I Ever Loved,Noah Schnacky,anger,joy,1,2025-04-24 20:39:05
+user_78,Black Ops III,Dan Bull,anger,joy,1,2025-05-05 10:25:05
+user_78,Rambo,Ski Mask the Slump God,anger,joy,1,2025-04-27 23:12:05
+user_78,State of Mind,Dizzy Wright,anger,anger,0,2025-05-02 10:08:05
+user_78,911,Lady Gaga,surprise,surprise,0,2025-05-09 07:57:05
+user_78,Games Two Can Play,Beach Boys,sadness,joy,1,2025-05-03 23:00:05
+user_78,Aint Got No,Nina Simone,joy,joy,0,2025-05-05 09:56:05
+user_78,Need Some Bad,Slick Rick,fear,fear,0,2025-04-22 17:12:05
+user_78,I Just Dont Think Ill Ever Get Over You,Colin Hay,anger,anger,0,2025-04-26 02:59:05
+user_78,Ga$ Money,Xavy Rusan,surprise,surprise,0,2025-04-22 02:27:05
+user_78,18K,lilbootycall,sadness,sadness,0,2025-05-01 10:27:05
+user_78,Better Love,Foxes,joy,joy,0,2025-04-14 19:20:05
+user_78,Sleep at Night,The Chicks,fear,fear,0,2025-04-15 08:10:05
+user_78,Prologue: Jellicle Songs for Jellicle Cats,Original London Cast of Cats,sadness,sadness,0,2025-05-05 20:29:05
+user_78,Hangovers with You,Big B & The Felons Club,sadness,sadness,0,2025-04-30 06:04:05
+user_78,Hometown,Point Of Grace,love,love,0,2025-04-18 00:31:05
+user_78,Transparent,Quicksand,sadness,sadness,0,2025-04-13 09:46:05
+user_78,Attention,VICTOR INTERNET,joy,joy,0,2025-04-25 09:52:05
+user_78,Hair,Little Mix,anger,joy,1,2025-04-12 01:46:05
+user_78,Money Honey,Eddie Cochran,fear,fear,0,2025-04-24 07:34:05
+user_78,Efflictim,WZRD,anger,anger,0,2025-04-22 02:02:05
+user_78,Anywhere,Interpol,anger,joy,1,2025-04-14 16:19:05
+user_78,She Get It From Her Mama,Bertell,anger,joy,1,2025-04-13 01:50:05
+user_78,How Many Friends,Who,anger,joy,1,2025-04-23 04:33:05
+user_78,The After Life,R.A. The Rugged Man,joy,joy,0,2025-04-14 05:29:05
+user_78,Paparazzi,Lady Gaga,fear,fear,0,2025-04-10 19:56:05
+user_78,Where the Light Gets In,Primal Scream,love,love,0,2025-04-12 13:05:05

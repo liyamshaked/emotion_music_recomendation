@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_63,Issues Remix,AK,surprise,surprise,0,2025-04-24 16:01:57
+user_63,Hi Roller,Lil Uzi Vert,sadness,joy,1,2025-04-19 18:17:57
+user_63,Born To Love Me,Kenny Rogers,love,love,0,2025-04-17 22:16:57
+user_63,It's Growing,The Temptations,love,love,0,2025-04-18 19:59:57
+user_63,What Is Love?,Frances,love,love,0,2025-04-10 17:16:57
+user_63,Lead Me Lord,Gary Valenciano,fear,fear,0,2025-04-27 03:45:57
+user_63,Sometimes,Erasure,joy,joy,0,2025-05-06 03:39:57
+user_63,Never Be the Same Remix,Camila Cabello,sadness,sadness,0,2025-04-23 08:44:57
+user_63,What A Life,Air Supply,fear,fear,0,2025-04-28 06:07:57
+user_63,Flashlight,Syd,anger,joy,1,2025-04-25 14:06:57
+user_63,Rough Landing Holly,Yellowcard,love,love,0,2025-05-08 11:39:57
+user_63,Bad Mood,What's Eating Gilbert,anger,anger,0,2025-04-25 05:53:57
+user_63,Faithful Extended Version,Drake,sadness,joy,1,2025-04-15 20:15:57
+user_63,Kronol,Ghostemane,joy,joy,0,2025-04-14 07:55:57
+user_63,Don't Give Up,Bruno Mars,surprise,surprise,0,2025-04-30 03:14:57
+user_63,East Coast Hiding,Dounia,surprise,surprise,0,2025-04-21 22:06:57
+user_63,Magic Johnson,Red Hot Chili Peppers,fear,fear,0,2025-04-11 15:18:57
+user_63,Mystery,Tom Odell,joy,joy,0,2025-04-17 07:44:57
+user_63,Big Eyes,Cheap Trick,joy,joy,0,2025-05-08 23:18:57
+user_63,Im Going To Do It,Giles Corey,surprise,surprise,0,2025-04-23 19:09:57
+user_63,Me,OSHUN,anger,anger,0,2025-04-19 19:48:57
+user_63,I Believe,Jonas Brothers,fear,fear,0,2025-04-22 19:08:57
+user_63,I Look To You,R. Kelly,fear,fear,0,2025-04-26 03:58:57
+user_63,Want Me Around,Knuckle Puck,anger,anger,0,2025-04-26 12:14:57
+user_63,Cute in a Suit Skit,Hopsin,joy,joy,0,2025-04-17 23:40:57
+user_63,False Signal,Melii,sadness,joy,1,2025-04-26 22:31:57
+user_63,3rd Quarter Freestyle,Fetty Wap,anger,joy,1,2025-04-18 16:58:57
+user_63,Envy,116,fear,fear,0,2025-05-07 03:33:57
+user_63,Concrete,Crystal Castles,anger,anger,0,2025-04-18 02:06:57
+user_63,Tina's Wish,Tina Turner,joy,joy,0,2025-04-11 20:25:57
+user_63,Happy Christmas (War Is Over),Neil Diamond,anger,joy,1,2025-04-18 06:03:57
+user_63,I Love You Truly,Perry Como,fear,fear,0,2025-04-29 20:22:57
+user_63,Escobar,Brandz X Tizzy,anger,joy,1,2025-05-02 02:31:57
+user_63,Rutti,Slowdive,fear,fear,0,2025-05-02 15:42:57
+user_63,Bruxelles,Warhaus,anger,anger,0,2025-05-02 12:47:57
+user_63,Absolute Zero Real,Faith No More,anger,anger,0,2025-04-13 11:00:57
+user_63,Cold Case Love,Rihanna,sadness,sadness,0,2025-04-15 10:45:57
+user_63,Too Good at Goodbyes,Bars and Melody,love,love,0,2025-04-21 16:43:57
+user_63,Knee Deep at ATP,Los Campesinos!,surprise,surprise,0,2025-04-26 19:24:57
+user_63,Heist,Ben Folds,love,love,0,2025-04-16 11:29:57
+user_63,Public Assembly Unreleased Song,Capital STEEZ,anger,joy,1,2025-04-26 04:28:57
+user_63,Self-Destruct,Spite,anger,anger,0,2025-04-29 06:20:57
+user_63,Feeding a Fire,Hayley Kiyoko,surprise,surprise,0,2025-04-28 16:36:57
+user_63,The Baddest,Big Sean,surprise,surprise,0,2025-05-09 15:38:57
+user_63,Your Fuckin Head Split,Necro,anger,anger,0,2025-04-27 10:18:57
+user_63,Pluto,Bjrk,love,love,0,2025-04-19 08:10:57
+user_63,I Have A Crush On You,Justin Timberlake,love,love,0,2025-05-05 08:14:57
+user_63,If You Say So,Lea Michele,anger,anger,0,2025-05-09 03:07:57
+user_63,In the Ayer,Flo Rida,surprise,surprise,0,2025-04-16 14:00:57
+user_63,Ho Is Short For Honey,88-Keys,fear,fear,0,2025-04-20 08:03:57
+user_63,Metal Guru,T. Rex,anger,joy,1,2025-04-19 20:12:57
+user_63,A Night Like This,Caro Emerald,love,love,0,2025-04-24 02:00:57
+user_63,Song for Zula,Phosphorescent,joy,joy,0,2025-04-27 06:12:57
+user_63,Black Flame,Xandria,love,love,0,2025-04-26 10:47:57
+user_63,Another Baby OTW,NLE Choppa,joy,joy,0,2025-04-19 02:22:57
+user_63,Fine China,Chris Brown,love,love,0,2025-05-04 03:42:57
+user_63,Winter Wonderland,Selena Gomez,love,love,0,2025-04-28 10:21:57
+user_63,Resurrection by Erection,Powerwolf,anger,joy,1,2025-04-19 13:30:57
+user_63,Me Myself iPhone,Cassidy,anger,anger,0,2025-04-18 12:31:57
+user_63,Glass Coughs,Foxing,sadness,sadness,0,2025-04-27 14:19:57
+user_63,How U Luv Dat,Young Dolph,surprise,surprise,0,2025-04-11 23:55:57
+user_63,Thief of Hearts,Madonna,love,love,0,2025-05-09 16:32:57
+user_63,Build Your Kingdom Here,Rend Collective,anger,joy,1,2025-05-07 20:20:57
+user_63,Losing Myself,Sik World,fear,fear,0,2025-04-25 20:02:57
+user_63,Closed Doors,J Hus,surprise,surprise,0,2025-05-03 19:45:57
+user_63,Where's Yours At?,Pharrell Williams,anger,joy,1,2025-04-23 18:55:57
+user_63,Stand Alone,Morgan Wallen,love,love,0,2025-04-22 23:35:57
+user_63,Sarcophagus,$uicideboy$ & Ramirez,surprise,surprise,0,2025-04-13 02:53:57
+user_63,Quiet Eyes,Axel Flvent,fear,fear,0,2025-04-20 22:13:57
+user_63,On The Ning Nang Nong,Play School,fear,fear,0,2025-04-28 07:48:57
+user_63,Holdin On,Flume,sadness,joy,1,2025-04-16 02:45:57
+user_63,She Lit a Fire,Lord Huron,joy,joy,0,2025-04-18 00:08:57
+user_63,Xans,PopLord,fear,fear,0,2025-04-16 21:31:57
+user_63,Why You Hate the Game,The Game,surprise,surprise,0,2025-04-11 21:33:57
+user_63,Gradle,Widespread Panic,surprise,surprise,0,2025-05-09 00:37:57
+user_63,Yam,Sharkboy,surprise,surprise,0,2025-04-21 11:08:57
+user_63,The Bull,Kip Moore,anger,joy,1,2025-04-15 06:42:57
+user_63,All Tomorrows Parties,The Velvet Underground,surprise,surprise,0,2025-05-04 11:50:57
+user_63,STUNT,Ski Mask the Slump God,sadness,sadness,0,2025-04-15 21:57:57
+user_63,Bitch Im Madonna,Madonna,love,love,0,2025-04-28 04:30:57
+user_63,Blue Eyes Crying In The Rain,Elvis Presley,love,love,0,2025-04-22 00:32:57
+user_63,Nightmare,PVRIS,anger,anger,0,2025-04-15 21:15:57
+user_63,Grazing In The Grass,The Friends of Distinction,fear,fear,0,2025-04-23 07:09:57
+user_63,Feelings,Ryan Caraveo,sadness,sadness,0,2025-04-15 19:03:57
+user_63,Bird Call,J.R. Writer,joy,joy,0,2025-04-28 00:21:57
+user_63,How I Know,Toro y Moi,sadness,joy,1,2025-05-04 09:19:57
+user_63,Goosebumps,Bastille,surprise,surprise,0,2025-04-22 21:20:57
+user_63,In Blur,Deafheaven,anger,anger,0,2025-04-19 10:54:57
+user_63,Confessions Interlude,Usher,anger,anger,0,2025-04-13 10:54:57
+user_63,Is It Boy,Mac DeMarco,surprise,surprise,0,2025-05-02 11:21:57
+user_63,Different State of Mind,Kid Bloom,anger,joy,1,2025-04-18 19:10:57
+user_63,Hands Up,Merk & Kremont,surprise,surprise,0,2025-04-16 16:44:57
+user_63,Helena,Misfits,love,love,0,2025-04-28 03:47:57
+user_63,Walking The Back Streets,Etta James,love,love,0,2025-04-11 12:57:57
+user_63,5 Steps,Jacquees,anger,joy,1,2025-04-11 11:43:57
+user_63,It's Not True,Horrible Histories,fear,fear,0,2025-04-19 21:17:57
+user_63,Party Like I Party,Wyclef Jean,love,love,0,2025-04-22 16:18:57
+user_63,Housebroken,The Hotelier,joy,joy,0,2025-04-25 00:56:57
+user_63,Black Sabbath,Black Sabbath,joy,joy,0,2025-04-15 22:58:57
+user_63,Astronaut,Quasimoto,joy,joy,0,2025-04-13 19:24:57

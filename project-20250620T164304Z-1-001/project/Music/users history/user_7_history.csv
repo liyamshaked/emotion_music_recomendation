@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_7,Flip,Glass Animals,fear,fear,0,2025-04-22 15:29:31
+user_7,The Trick,AJR,anger,joy,1,2025-04-18 15:58:31
+user_7,Phoenix Feathers,The Underachievers,surprise,surprise,0,2025-04-10 11:45:31
+user_7,Hot Wax,King Gizzard & The Lizard Wizard,joy,joy,0,2025-04-17 04:33:31
+user_7,Ridin,D Savage,surprise,surprise,0,2025-04-23 03:20:31
+user_7,Hookywooky,Lou Reed,surprise,surprise,0,2025-04-11 16:29:31
+user_7,Killing Yourself to Live,Black Sabbath,anger,anger,0,2025-05-03 12:01:31
+user_7,Belong in the Sun,To?,fear,fear,0,2025-04-20 09:57:31
+user_7,Alone,Carly Simon,love,love,0,2025-05-03 06:17:31
+user_7,Talking Shit,Maxo Kream,anger,anger,0,2025-04-26 20:15:31
+user_7,Low,und,fear,fear,0,2025-04-13 18:09:31
+user_7,Sweet Susannah,Kris Kristofferson,sadness,joy,1,2025-05-08 07:22:31
+user_7,Riley Reid,yxngxr1,love,love,0,2025-04-25 01:11:31
+user_7,Diary of a Dope Fiend,Marilyn Manson,fear,fear,0,2025-05-05 00:18:31
+user_7,Bad Medicine,Bon Jovi,joy,joy,0,2025-04-22 16:20:31
+user_7,Kings Of Evil,Venom,love,love,0,2025-05-05 15:34:31
+user_7,I Dont Dwank,Die Antwoord,anger,joy,1,2025-04-24 03:07:31
+user_7,God Is My Everything,Chicago Mass Choir,surprise,surprise,0,2025-04-25 01:44:31
+user_7,Dare You to Move,Switchfoot,anger,joy,1,2025-04-13 12:11:31
+user_7,Games,Bakermat,fear,fear,0,2025-04-14 23:37:31
+user_7,Dump Truck,E-40 & Too $hort,anger,joy,1,2025-05-07 06:14:31
+user_7,Broke As Fuck,Cordae,sadness,sadness,0,2025-04-10 00:02:31
+user_7,No Better Feelin,CL,sadness,joy,1,2025-04-29 03:12:31
+user_7,Suite Sister Mary,Queensryche,sadness,joy,1,2025-04-16 22:36:31
+user_7,SWAMP DRAINED,Lil Darkie,joy,joy,0,2025-05-09 10:39:31
+user_7,Rediscovery,Chicago,anger,joy,1,2025-04-29 13:15:31
+user_7,My Love Lost,Starlito,joy,joy,0,2025-05-02 02:52:31
+user_7,I Think I Should,Steve Lacy,sadness,joy,1,2025-04-26 05:28:31
+user_7,So Sick,Justin Bieber,love,love,0,2025-04-19 20:32:31
+user_7,Big Yellow Taxi,Counting Crows,sadness,joy,1,2025-04-28 09:33:31
+user_7,Real At The Time,Bob Seger,sadness,sadness,0,2025-04-26 13:12:31
+user_7,Oreomilkshake,Yung Lean,fear,fear,0,2025-05-07 18:27:31
+user_7,You Said Youd Grow Old with Me,Michael Schulte,joy,joy,0,2025-04-18 23:30:31
+user_7,Bitch Please II,Eminem,fear,fear,0,2025-05-03 22:47:31
+user_7,Nobody,Lil Yachty & Juice Wrld,joy,joy,0,2025-04-16 10:12:31
+user_7,Arrow,Grapell,fear,fear,0,2025-04-14 09:28:31
+user_7,I'll Change,Indigo Girls,surprise,surprise,0,2025-04-11 10:03:31
+user_7,The Bogeyman,Yngwie Malmsteen,love,love,0,2025-04-18 02:27:31
+user_7,My First Impression Of You,Billie Holiday,surprise,surprise,0,2025-04-11 20:00:31
+user_7,Dahmer and the Limbs,Nicole Dollanganger,love,love,0,2025-04-28 07:49:31
+user_7,The Only Thing,Sufjan Stevens,surprise,surprise,0,2025-05-06 05:30:31
+user_7,Nothing But Time,Jackson Browne,fear,fear,0,2025-04-30 19:17:31
+user_7,Sober,Elita,anger,anger,0,2025-04-23 15:00:31
+user_7,Heart and Soul,T'Pau,surprise,surprise,0,2025-04-14 17:02:31
+user_7,Die For Something Beautiful,Palaye Royale,sadness,sadness,0,2025-04-25 03:34:31
+user_7,Paranoid,Megadeth,anger,anger,0,2025-04-27 22:40:31
+user_7,Make a Bag,Megan Thee Stallion,joy,joy,0,2025-04-16 07:53:31
+user_7,If I Didnt Care,The Ink Spots,surprise,surprise,0,2025-05-07 20:29:31
+user_7,FUCK OFF,Lil lucifer,surprise,surprise,0,2025-04-17 15:14:31
+user_7,Dr0nched In Sw0t,KAMAARA,joy,joy,0,2025-04-24 14:44:31
+user_7,Vape Nation 2.0,Mom Jeans.,sadness,sadness,0,2025-04-23 00:55:31
+user_7,Still Aint Sick of Fucking You,Wheeler Walker Jr.,sadness,joy,1,2025-04-12 14:35:31
+user_7,Looking Back Someday,ItaloBrothers,love,love,0,2025-05-05 15:50:31
+user_7,Alices Tango You Will Be Mine,Chi-chi (Singer),anger,joy,1,2025-04-12 09:23:31
+user_7,Antisocial,Anthrax,joy,joy,0,2025-04-19 05:38:31
+user_7,Still Good,DNCE,love,love,0,2025-05-02 02:23:31
+user_7,The Bottom Line,Janis Joplin,surprise,surprise,0,2025-04-14 11:25:31
+user_7,LSD,Ghastly,joy,joy,0,2025-05-09 04:45:31
+user_7,Chemical Angel,Watsky,fear,fear,0,2025-04-20 09:51:31
+user_7,Youre Welcome,Snow Tha Product,love,love,0,2025-05-06 10:46:31
+user_7,Time Out Interlude,Rina Sawayama,sadness,joy,1,2025-04-15 00:12:31
+user_7,Excuse Me,Kevin Gates,joy,joy,0,2025-04-29 13:51:31
+user_7,XXL Freshman Freestyle: Joey Bada$$,Joey Bada$$,anger,anger,0,2025-04-26 21:30:31
+user_7,The Days,Avicii,fear,fear,0,2025-04-28 03:31:31
+user_7,Two Suns In The Sunset,Pink Floyd,fear,fear,0,2025-04-20 05:33:31
+user_7,Vainko,Brodha V,love,love,0,2025-04-15 06:07:31
+user_7,At The Top,OTF Nunu,sadness,sadness,0,2025-04-29 19:58:31
+user_7,Light Your Ass on Fire,Busta Rhymes,sadness,joy,1,2025-04-13 15:32:31
+user_7,Like Youve Been There Before,Jameson Rodgers,fear,fear,0,2025-04-16 19:36:31
+user_7,Scorpio Rising,Oasis,joy,joy,0,2025-04-23 06:46:31
+user_7,Cleanin Out My Closet,Eminem,love,love,0,2025-04-15 09:31:31
+user_7,Temperature,Devvon Terrell,surprise,surprise,0,2025-04-19 22:47:31
+user_7,How Will I Make It?,Big L,love,love,0,2025-04-20 08:08:31
+user_7,All I Care About,Chief Keef,love,love,0,2025-04-30 13:19:31
+user_7,Mindfvck,GHITA,surprise,surprise,0,2025-05-01 17:16:31
+user_7,The House,Stars and Rabbit,fear,fear,0,2025-04-12 15:44:31
+user_7,I Go to Sleep,Anika,sadness,joy,1,2025-04-16 17:55:31
+user_7,Purple Lamborghini,Skrillex & Rick Ross,sadness,sadness,0,2025-04-24 22:11:31
+user_7,Food Innuendo Guy,Adam Sandler,love,love,0,2025-05-01 04:36:31
+user_7,The Blue The Green,Lonely The Brave,surprise,surprise,0,2025-04-13 08:59:31
+user_7,Late Bloomer,Unlike Pluto,fear,fear,0,2025-04-29 11:37:31
+user_7,Last Words,Nas,anger,joy,1,2025-04-30 05:47:31
+user_7,I Prefer You,Etta James,fear,fear,0,2025-04-28 16:56:31
+user_7,Kratez,A$AP Twelvyy,anger,anger,0,2025-04-09 18:50:31
+user_7,Humble Kind,Lori McKenna,joy,joy,0,2025-05-08 22:03:31
+user_7,Another Sun,Tracy Chapman,surprise,surprise,0,2025-04-23 12:22:31
+user_7,Lovely Thing Suite: Theories,Watsky,love,love,0,2025-04-11 11:44:31
+user_7,Drama,Roy Woods,joy,joy,0,2025-04-16 10:13:31
+user_7,Shadows,Roosevelt,joy,joy,0,2025-04-21 04:24:31
+user_7,The Keeper,Chris Cornell,love,love,0,2025-04-18 10:19:31
+user_7,Hit The Road And Go,Johnny Cash,love,love,0,2025-04-29 12:59:31
+user_7,The Partys Crashing Us,of Montreal,sadness,joy,1,2025-04-30 17:02:31
+user_7,Confusion The Waitress,Underworld,surprise,surprise,0,2025-05-06 04:13:31
+user_7,SHE SAID / SHE SAID,Titus Andronicus,surprise,surprise,0,2025-04-26 20:18:31
+user_7,Already Gone,Sleeping At Last,sadness,joy,1,2025-04-22 07:49:31
+user_7,Universal Girl,goodboy noah,surprise,surprise,0,2025-04-28 00:54:31
+user_7,Teenage Icon,The Vaccines,fear,fear,0,2025-04-24 18:01:31
+user_7,Dont Leave Me This Way,Thelma Houston,joy,joy,0,2025-05-08 03:07:31
+user_7,Oh One True Love,Toby Fox,joy,joy,0,2025-04-11 12:31:31
+user_7,"Sweet, Sweet Song Of Salvation",Selah,surprise,surprise,0,2025-05-01 02:05:31

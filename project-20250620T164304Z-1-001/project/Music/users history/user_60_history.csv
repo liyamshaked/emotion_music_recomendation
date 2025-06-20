@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_60,Song of Solomon,Martin Smith,fear,fear,0,2025-05-03 11:56:56
+user_60,Homegrown,Zac Brown Band,surprise,surprise,0,2025-04-18 18:29:56
+user_60,The Ghost Psalm,Zao,love,love,0,2025-05-07 03:54:56
+user_60,Only Thing Thats Gone,Morgan Wallen,sadness,sadness,0,2025-05-08 08:46:56
+user_60,Baby,Jadakiss,sadness,sadness,0,2025-05-04 19:35:56
+user_60,3 Kings,Slim Thug,fear,fear,0,2025-04-12 22:52:56
+user_60,Toxic,Yael Naim,surprise,surprise,0,2025-05-06 14:31:56
+user_60,Frosty The Snowman,Gloria Gaynor,sadness,joy,1,2025-04-13 09:13:56
+user_60,VICTON - What I Said English Translation,Genius English Translations,sadness,joy,1,2025-05-04 23:47:56
+user_60,Gettin' Over,David Guetta,love,love,0,2025-04-12 00:14:56
+user_60,Youre Perfect,Charly Black,anger,joy,1,2025-05-07 05:59:56
+user_60,Throw Down The Roses,Kate Pierson,love,love,0,2025-05-08 00:05:56
+user_60,If I Had Possession Over Judgement Day,Eric Clapton,fear,fear,0,2025-05-07 19:21:56
+user_60,Night Maps,Waterparks,sadness,sadness,0,2025-04-15 06:51:56
+user_60,Little Saint Nick 1991 Remix,The Beach Boys,fear,fear,0,2025-04-13 17:46:56
+user_60,Cheeky Kids,Marlin's Dreaming,surprise,surprise,0,2025-04-23 10:18:56
+user_60,Done Somebody Wrong,Allman Brothers Band,surprise,surprise,0,2025-04-23 23:07:56
+user_60,Games,Nazareth,anger,anger,0,2025-04-18 01:38:56
+user_60,Get Back,Glee,love,love,0,2025-04-10 03:13:56
+user_60,Got This Money,Childish Gambino,love,love,0,2025-04-28 03:38:56
+user_60,Trust Nobody,$tupid Young,anger,anger,0,2025-04-13 20:19:56
+user_60,Serious,Young Thug,sadness,joy,1,2025-04-20 00:41:56
+user_60,Rock Wit'cha,Usher,surprise,surprise,0,2025-04-19 07:25:56
+user_60,Da Game Been Good to Me,UGK,fear,fear,0,2025-04-16 08:54:56
+user_60,P$$Y Fairy OTW V-Mix,VEDO,love,love,0,2025-04-29 23:55:56
+user_60,Rock A Bye Bye,Extreme,anger,anger,0,2025-05-04 20:38:56
+user_60,Stare,Ty Dolla $ign,sadness,joy,1,2025-04-23 14:58:56
+user_60,Ill Be There,Sheff G,love,love,0,2025-04-30 12:47:56
+user_60,Take It Off,ANTH,fear,fear,0,2025-04-10 03:45:56
+user_60,Acting Weird,Kodak Black,fear,fear,0,2025-04-26 12:27:56
+user_60,2 Coccs,Blueface,fear,fear,0,2025-04-26 09:54:56
+user_60,T.o gold,Honey C,fear,fear,0,2025-04-17 09:40:56
+user_60,Laid So Low,Tears For Fears,sadness,sadness,0,2025-05-04 16:24:56
+user_60,Motherland,Natalie Merchant,surprise,surprise,0,2025-04-20 00:24:56
+user_60,The Time Has Come,UB40,joy,joy,0,2025-04-27 06:14:56
+user_60,The Jackal,Ronny Jordan,fear,fear,0,2025-04-22 15:07:56
+user_60,Def Jam,Trinidad James,joy,joy,0,2025-05-09 10:28:56
+user_60,Cellophane,Sia,joy,joy,0,2025-04-20 04:06:56
+user_60,Amazing Story,Kevin Gates,fear,fear,0,2025-04-11 18:33:56
+user_60,Im a Good Person Explicit,Crazy Ex-Girlfriend Cast,joy,joy,0,2025-05-01 19:08:56
+user_60,DoNotDisturb,BONES,sadness,sadness,0,2025-04-29 00:24:56
+user_60,Dead Dragon,Xavier Wulf,fear,fear,0,2025-04-29 18:41:56
+user_60,I'm Your Angel,R. Kelly,fear,fear,0,2025-04-19 06:40:56
+user_60,Taxi Driver,Gym Class Heroes,sadness,joy,1,2025-04-27 14:30:56
+user_60,Hey Pocky A-Way,The Meters,surprise,surprise,0,2025-04-23 22:35:56
+user_60,Gamble,Rich Homie Quan,joy,joy,0,2025-05-01 10:59:56
+user_60,Soul Child,Zak Abel,joy,joy,0,2025-04-21 19:38:56
+user_60,Chicken Wing,Ke$hawn,anger,anger,0,2025-05-03 08:26:56
+user_60,Treat Em Right,Chubb Rock,joy,joy,0,2025-04-12 00:17:56
+user_60,Temporary Fix,Temporary Fix Lyrics - One Direction,surprise,surprise,0,2025-04-22 07:05:56
+user_60,AINT GON STOP ME,"reggie, Monte Booker & Kenny Beats",fear,fear,0,2025-05-07 05:11:56
+user_60,Lil Minute,Quando Rondo,joy,joy,0,2025-05-09 12:33:56
+user_60,Tortuga,Xavier Wulf,sadness,sadness,0,2025-05-08 21:08:56
+user_60,Drug Addiction,YoungBoy Never Broke Again,surprise,surprise,0,2025-04-20 10:11:56
+user_60,So Tell Me Why,Poison,surprise,surprise,0,2025-04-10 08:09:56
+user_60,I Love You,Avril Lavigne,love,love,0,2025-05-02 21:12:56
+user_60,Captain Jack,Captain Jack,sadness,sadness,0,2025-04-24 04:37:56
+user_60,Pagan Poetry,Bjrk,joy,joy,0,2025-04-27 23:57:56
+user_60,This Ships Going Down,Aurelio Voltaire,surprise,surprise,0,2025-04-12 14:11:56
+user_60,Surgical Strike,Queensryche,joy,joy,0,2025-04-30 13:06:56
+user_60,"Man Smart, Woman Smarter",Carpenters,fear,fear,0,2025-04-27 02:15:56
+user_60,Bombay Gin Dance,Juicy J & Lex Luger,joy,joy,0,2025-05-04 04:30:56
+user_60,The L.I.B.R.A. Introduction,T.I.,love,love,0,2025-04-22 09:14:56
+user_60,Kirby,Aesop Rock,anger,joy,1,2025-04-19 14:34:56
+user_60,Heaven Help My Heart,Chess in Concert,fear,fear,0,2025-04-12 19:44:56
+user_60,Call Me Over,Noah Carter,surprise,surprise,0,2025-04-13 21:49:56
+user_60,Wildside,T.I.,love,love,0,2025-04-24 08:43:56
+user_60,Never Will I Ever,Lil Playah,love,love,0,2025-04-15 09:36:56
+user_60,Messed Up,Aaliyah,fear,fear,0,2025-05-08 10:18:56
+user_60,The Death of Music,Devin Townsend,joy,joy,0,2025-05-09 01:42:56
+user_60,The Birth of SYRE,Jaden,sadness,sadness,0,2025-04-21 16:52:56
+user_60,A Day In The Life,The Beatles,surprise,surprise,0,2025-04-25 22:18:56
+user_60,Running to You,SLANDER & Spag Heddy,surprise,surprise,0,2025-05-05 16:02:56
+user_60,Rio Rio,Ester Dean,love,love,0,2025-04-27 00:08:56
+user_60,What Youre Doing,The Beatles,love,love,0,2025-04-20 03:14:56
+user_60,Stillmatic The Intro,Nas,anger,joy,1,2025-04-27 06:49:56
+user_60,CHUNG HA - Bicycle English Translation,Genius English Translations,fear,fear,0,2025-04-17 08:20:56
+user_60,Back to Sleep,Lil Wayne,surprise,surprise,0,2025-04-17 08:55:56
+user_60,Redman Meets Reggie Noble,Redman,joy,joy,0,2025-04-12 18:57:56
+user_60,Evil Twins Freestyle,Ski Mask the Slump God & Juice WRLD,surprise,surprise,0,2025-04-14 21:11:56
+user_60,Facts,Moneybagg Yo & Yo Gotti,joy,joy,0,2025-05-08 13:43:56
+user_60,Cheapskates,Clash,sadness,joy,1,2025-04-13 13:52:56
+user_60,ANNIHILATED LOVE,STARSET,surprise,surprise,0,2025-04-25 14:31:56
+user_60,Speedin Bullet 2 Heaven Acoustic Demo,Kid Cudi,anger,anger,0,2025-05-08 15:49:56
+user_60,Rainbow,Bladee & Mechatok,sadness,joy,1,2025-04-11 03:34:56
+user_60,Mistadobalina,Del The Funky Homosapien,love,love,0,2025-05-06 21:14:56
+user_60,Yoko Remix,Big K.R.I.T.,anger,anger,0,2025-04-29 05:43:56
+user_60,Wednesday Night Melody,Bleached,fear,fear,0,2025-05-04 19:18:56
+user_60,BUKKAKE,Ski Mask the Slump God,anger,joy,1,2025-04-16 03:53:56
+user_60,In The Doorway,Misfits,sadness,joy,1,2025-04-10 09:00:56
+user_60,The Haunting Somewhere in Time,Kamelot,fear,fear,0,2025-04-29 20:00:56
+user_60,U KNOW ME,COBRAH,joy,joy,0,2025-04-30 17:53:56
+user_60,Deathwish,Comethazine,anger,anger,0,2025-04-27 14:25:56
+user_60,Nothing Less Than Love,Bryan White,sadness,sadness,0,2025-05-06 21:58:56
+user_60,For Sure,Carly Rae Jepsen,sadness,joy,1,2025-05-01 04:18:56
+user_60,Mean Ole Lion,Diana Ross,surprise,surprise,0,2025-04-14 11:45:56
+user_60,Groovin',UB40,sadness,joy,1,2025-04-25 08:40:56
+user_60,My Yoppa,Quando Rondo,love,love,0,2025-05-04 22:25:56
+user_60,The Bandit,Kings of Leon,love,love,0,2025-04-23 14:04:56
+user_60,Left Outside Alone,Anastacia,anger,anger,0,2025-04-16 19:01:56

@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_44,Long Run,Smino,sadness,joy,1,2025-04-19 23:29:48
+user_44,Patient,Bryson Tiller,anger,anger,0,2025-04-23 11:27:48
+user_44,Save The Night,John Legend,anger,joy,1,2025-04-27 15:36:48
+user_44,Crawl,Kings of Leon,surprise,surprise,0,2025-05-01 13:31:48
+user_44,War of Wrath,Blind Guardian,sadness,sadness,0,2025-04-17 15:23:48
+user_44,Sister,Mac DeMarco,surprise,surprise,0,2025-04-23 23:08:48
+user_44,The Virus,The Halluci Nation,anger,anger,0,2025-04-21 17:33:48
+user_44,Diamonds 2,Freddie Gibbs,anger,anger,0,2025-04-30 20:10:48
+user_44,CA$E 19,Jasiah,sadness,sadness,0,2025-04-19 05:14:48
+user_44,Charge Me Up,Jennifer Lopez,anger,anger,0,2025-05-06 05:26:48
+user_44,I GUESS IM IN LOVE,Clinton Kane,joy,joy,0,2025-05-02 20:29:48
+user_44,Lekkerboy,Sticky Fingers,fear,fear,0,2025-04-25 22:53:48
+user_44,Of Course I'm Alright,Alabama,fear,fear,0,2025-04-14 16:28:48
+user_44,Gold,D-Block Europe,anger,anger,0,2025-04-20 17:40:48
+user_44,April,Caravan Palace,sadness,joy,1,2025-05-07 04:06:48
+user_44,Everybody Has A Dream,Billy Joel,sadness,sadness,0,2025-04-12 16:10:48
+user_44,Fake It,Bastille,surprise,surprise,0,2025-04-23 07:01:48
+user_44,Go Be the Voice,Beartooth,surprise,surprise,0,2025-04-21 04:41:48
+user_44,The Road To Hell (Part 2),Chris Rea,surprise,surprise,0,2025-04-16 09:15:48
+user_44,Ben,Michael Jackson,sadness,sadness,0,2025-04-20 02:33:48
+user_44,How Do You Do It,The Beatles,fear,fear,0,2025-05-07 04:21:48
+user_44,You Can Have the Hoes,Eric Bellinger,love,love,0,2025-04-10 06:54:48
+user_44,Two Men Down,James Blake,love,love,0,2025-05-08 07:09:48
+user_44,When I Look at You,Miley Cyrus,love,love,0,2025-04-15 11:58:48
+user_44,Do or Die,Flux Pavilion,joy,joy,0,2025-04-10 04:37:48
+user_44,Cry of the Martyrs,Algiers,love,love,0,2025-04-22 13:23:48
+user_44,The Devil Went Down to Hip Hop,Crypt (Rap),love,love,0,2025-04-11 16:40:48
+user_44,Parasite,Kiss,love,love,0,2025-04-29 12:39:48
+user_44,Real Life,Imagine Dragons,surprise,surprise,0,2025-05-02 05:05:48
+user_44,Both Sides Now,Joni Mitchell,surprise,surprise,0,2025-04-25 10:41:48
+user_44,Sycamore Tree,The Hunna,sadness,joy,1,2025-04-14 18:46:48
+user_44,Girl Like Me,Jazmine Sullivan,anger,anger,0,2025-04-30 18:12:48
+user_44,Alone Together,Fall Out Boy,anger,joy,1,2025-04-11 14:52:48
+user_44,Nostalgia,M,anger,joy,1,2025-05-07 07:59:48
+user_44,Happy Birthday,Mac Miller,surprise,surprise,0,2025-04-22 12:58:48
+user_44,Sad,Pearl Jam,anger,anger,0,2025-04-13 15:06:48
+user_44,Unfinished Sympathy,Massive Attack,love,love,0,2025-04-27 06:43:48
+user_44,If Youre Ready Come Go with Me,The Staple Singers,sadness,joy,1,2025-05-06 03:20:48
+user_44,I Got To Find My Baby,The Beatles,fear,fear,0,2025-04-13 12:00:48
+user_44,Lifestyle,Fireboy DML,joy,joy,0,2025-04-28 20:40:48
+user_44,Merman,Tori Amos,anger,joy,1,2025-05-07 06:54:48
+user_44,Celebration Song,Unwritten Law,surprise,surprise,0,2025-04-25 13:54:48
+user_44,Cope,Manchester Orchestra,fear,fear,0,2025-05-05 14:48:48
+user_44,Ridin with the Devil,CoaastGxd,surprise,surprise,0,2025-04-17 02:43:48
+user_44,Last Drill,Mozzy & June,sadness,sadness,0,2025-04-13 17:21:48
+user_44,10/10,Wretch 32,love,love,0,2025-04-21 15:47:48
+user_44,Vanilla Pines,Tow'rs,surprise,surprise,0,2025-04-25 17:30:48
+user_44,No Surprise,Daughtry,surprise,surprise,0,2025-05-03 03:02:48
+user_44,System Blower,Death Grips,anger,anger,0,2025-05-01 10:41:48
+user_44,Messiah Complex I: Ivory Tower,Haken,joy,joy,0,2025-04-13 10:14:48
+user_44,Eleven OClock,Crazy Ex-Girlfriend Cast,fear,fear,0,2025-04-22 06:13:48
+user_44,His Time Ran Out,Beautiful South,anger,anger,0,2025-04-19 14:44:48
+user_44,My Back Pages,George Harrison,surprise,surprise,0,2025-04-26 11:24:48
+user_44,Colors,Haschak Sisters,sadness,sadness,0,2025-05-02 04:42:48
+user_44,The Last Supper,Jesus Christ Superstar Original Studio Cast,joy,joy,0,2025-04-28 05:30:48
+user_44,Forty Shades Of Green,Johnny Cash,joy,joy,0,2025-05-01 22:22:48
+user_44,I Have a Dream,Westlife,fear,fear,0,2025-04-22 03:30:48
+user_44,TB Saga,Tyler Joseph,surprise,surprise,0,2025-05-01 20:26:48
+user_44,To You I Give,Crippled Black Phoenix,fear,fear,0,2025-05-06 23:24:48
+user_44,Lullaby,Fall Out Boy,love,love,0,2025-04-16 01:41:48
+user_44,Off Deez,JID & J. Cole,surprise,surprise,0,2025-04-22 03:35:48
+user_44,Its Johnnys Birthday,George Harrison,fear,fear,0,2025-05-09 05:26:48
+user_44,Hoes Aint Loyal,Poodieville,joy,joy,0,2025-05-06 17:25:48
+user_44,Barcodes,cupcakKe,fear,fear,0,2025-04-19 14:15:48
+user_44,Logical Progression,Uriah Heep,sadness,sadness,0,2025-04-17 01:32:48
+user_44,Twilight Zone,Lupe Fiasco,anger,anger,0,2025-05-07 22:13:48
+user_44,Worst,Awsten Knight,anger,anger,0,2025-04-10 09:14:48
+user_44,Thats On Me,Yella Beezy,surprise,surprise,0,2025-04-11 21:07:48
+user_44,Taste Make It Shake Remix,Aitch,love,love,0,2025-05-04 04:16:48
+user_44,Ghost Of The Navigator,Iron Maiden,anger,anger,0,2025-04-12 07:52:48
+user_44,Dicks Hate the Police,The Dicks,fear,fear,0,2025-05-02 14:40:48
+user_44,Rylan,The National,love,love,0,2025-04-20 04:40:48
+user_44,Long Distance,Bruno Mars,surprise,surprise,0,2025-04-09 20:27:48
+user_44,Hilly Hilly Hilly Clinton Copy,Dax,fear,fear,0,2025-04-11 08:35:48
+user_44,Last Flowers,Radiohead,fear,fear,0,2025-04-16 08:47:48
+user_44,Fallen Angel,King Crimson,joy,joy,0,2025-04-22 21:34:48
+user_44,Little People,The Procussions,joy,joy,0,2025-04-15 14:33:48
+user_44,Come a Little Closer,Brandy,sadness,sadness,0,2025-05-01 10:50:48
+user_44,So Cold,Breaking Benjamin,love,love,0,2025-05-07 21:52:48
+user_44,Crumble,Kevin Abstract,sadness,sadness,0,2025-04-11 19:02:48
+user_44,James,Maggie Rogers,surprise,surprise,0,2025-05-07 05:38:48
+user_44,Knew This,Lil Yachty,anger,anger,0,2025-04-29 00:52:48
+user_44,Woman Woman,Glen Campbell,love,love,0,2025-05-05 19:44:48
+user_44,HARD TIMES,Yung Pinch,surprise,surprise,0,2025-05-04 14:55:48
+user_44,Lord Lord Lord,Kanye West,surprise,surprise,0,2025-04-10 18:20:48
+user_44,Runnin With,Lucki,joy,joy,0,2025-05-07 02:57:48
+user_44,Swing Low,Kelly Family,sadness,joy,1,2025-04-10 02:12:48
+user_44,Ishu,Faith Nketsi,anger,joy,1,2025-04-29 10:59:48
+user_44,Relaxed Lizard,Soft Hair,love,love,0,2025-04-18 17:25:48
+user_44,Control,Janet Jackson,fear,fear,0,2025-04-24 04:02:48
+user_44,Commencement at the Obedience Academy,Aesop Rock,surprise,surprise,0,2025-04-12 00:58:48
+user_44,Move,Jennifer Hudson,love,love,0,2025-04-29 02:25:48
+user_44,NightmareZ,Duvy,love,love,0,2025-05-06 10:39:48
+user_44,Something On,Tragically Hip,love,love,0,2025-04-13 04:43:48
+user_44,R.I.P. Bon,The Amity Affliction,love,love,0,2025-04-18 04:43:48
+user_44,Play No Games,Big Sean,sadness,joy,1,2025-04-12 22:22:48
+user_44,Grandpa,Judds,fear,fear,0,2025-04-22 03:34:48
+user_44,Big Michael,Stormzy,joy,joy,0,2025-04-28 04:39:48
+user_44,Make It Better,Anderson .Paak,love,love,0,2025-04-29 23:30:48
+user_44,Everytime,Gims,anger,joy,1,2025-04-30 11:54:48

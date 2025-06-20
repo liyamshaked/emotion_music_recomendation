@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_1,Im a Man,Bo Diddley,surprise,surprise,0,2025-04-12 10:01:27
+user_1,Da Nex Niguz,Onyx,fear,fear,0,2025-04-22 20:53:27
+user_1,The Haunting Somewhere in Time,Kamelot,fear,fear,0,2025-04-26 18:14:27
+user_1,It Started With a Kiss,Hot Chocolate,surprise,surprise,0,2025-04-13 13:56:27
+user_1,My Only Shawty,Demi Lovato,joy,joy,0,2025-04-18 00:13:27
+user_1,First Day Out,Chief Keef,surprise,surprise,0,2025-05-09 01:20:27
+user_1,Knees,Injury Reserve,surprise,surprise,0,2025-04-14 18:37:27
+user_1,Stranger,Skegss,anger,joy,1,2025-04-27 10:16:27
+user_1,Lonely Man of Winter,Sufjan Stevens,surprise,surprise,0,2025-05-08 23:48:27
+user_1,Choose Your Friend,Lucky Dube,love,love,0,2025-04-17 08:51:27
+user_1,OG Heartthrob,Majid Jordan,joy,joy,0,2025-04-16 15:21:27
+user_1,The Joyful Kilmarnock Blues,Proclaimers,fear,fear,0,2025-04-29 10:01:27
+user_1,Sea of Love,Cat Power,anger,joy,1,2025-04-14 16:22:27
+user_1,Good Dayz,TH4 W3ST,sadness,joy,1,2025-04-11 05:39:27
+user_1,CIA Murdered Me,Sick Symphoniez (Sick Jacken & Street Platoon),love,love,0,2025-04-13 10:21:27
+user_1,Paradise Lost,Symphony X,anger,anger,0,2025-04-10 02:40:27
+user_1,Reefer Party,Wiz Khalifa,fear,fear,0,2025-04-14 09:46:27
+user_1,I Can Not,Dave East,fear,fear,0,2025-04-14 19:56:27
+user_1,Thatz My Name,Sly Boogy,fear,fear,0,2025-04-22 15:13:27
+user_1,Buy a Fire Extinguisher Before You Need a Fire Extinguisher,Hot Mulligan,love,love,0,2025-04-24 10:18:27
+user_1,Friends,Big Gigantic,fear,fear,0,2025-04-15 10:55:27
+user_1,Ebony,The Weeknd,joy,joy,0,2025-05-09 04:15:27
+user_1,Her Hippo,Dry Cleaning,love,love,0,2025-04-19 23:50:27
+user_1,Fever,The Black Keys,joy,joy,0,2025-04-26 15:02:27
+user_1,East Of The Sun (West Of The Moon),Ella Fitzgerald,anger,joy,1,2025-04-24 12:56:27
+user_1,It Kills Me to Have to Be Alive,The Smith Street Band,anger,joy,1,2025-05-08 11:56:27
+user_1,Stop Kony,Soulja Boy,surprise,surprise,0,2025-04-19 00:40:27
+user_1,Wanna Be Us,Lil Yachty,joy,joy,0,2025-04-23 20:15:27
+user_1,Pure Imagination,Gene Wilder,joy,joy,0,2025-04-14 14:01:27
+user_1,Silence in the Age of Apes,Avatar,surprise,surprise,0,2025-04-22 20:47:27
+user_1,FreeShippingPromoCode,BONES,love,love,0,2025-04-29 23:28:27
+user_1,Half On A Baby,Vybz Kartel,surprise,surprise,0,2025-04-14 12:23:27
+user_1,Soft Fuzzy Man,Lemon Demon,love,love,0,2025-05-02 21:51:27
+user_1,Drawn to the Bitter,DHeusta,joy,joy,0,2025-04-25 08:04:27
+user_1,Trying to Be Cool,Phoenix,joy,joy,0,2025-04-27 13:30:27
+user_1,Hells Kitchen Angel,MAX,joy,joy,0,2025-05-04 22:49:27
+user_1,Love Money,Meek Mill,surprise,surprise,0,2025-04-16 13:05:27
+user_1,E.T. Extraterrestrial,OutKast,love,love,0,2025-04-11 10:21:27
+user_1,Repeating Days,R5,sadness,sadness,0,2025-04-24 19:33:27
+user_1,What Would You Do,INXS,sadness,joy,1,2025-04-21 01:31:27
+user_1,Blue,Far Caspian,joy,joy,0,2025-05-09 16:36:27
+user_1,Didn't He Ramble,Louis Armstrong,joy,joy,0,2025-04-30 10:23:27
+user_1,Synchronicity I,The Police,fear,fear,0,2025-04-30 14:48:27
+user_1,Telling Stories,Tracy Chapman,surprise,surprise,0,2025-04-11 22:22:27
+user_1,I Cant Feel My Face,Lil Wayne,sadness,joy,1,2025-04-26 00:27:27
+user_1,To Play Some Music,Journey,sadness,joy,1,2025-05-06 00:05:27
+user_1,Snuff Out The Light Yzmas Song,Eartha Kitt,fear,fear,0,2025-04-16 05:31:27
+user_1,Sponsor,Teairra Mar,anger,joy,1,2025-05-01 01:03:27
+user_1,Pregnant,SahBabii,fear,fear,0,2025-05-06 10:44:27
+user_1,Hollywood Tonight,Michael Jackson,sadness,joy,1,2025-05-09 08:39:27
+user_1,The Life,Fifth Harmony,surprise,surprise,0,2025-04-20 04:33:27
+user_1,Russ Freestyles on Flex | Freestyle 059,Russ,surprise,surprise,0,2025-04-13 15:57:27
+user_1,Song For Noa,Bosson,sadness,joy,1,2025-04-27 19:33:27
+user_1,2000 Watts,Michael Jackson,sadness,joy,1,2025-04-24 17:41:27
+user_1,Give Me A Minute,Lizzy McAlpine,love,love,0,2025-04-27 22:04:27
+user_1,All Type of Shit,Chief Keef,sadness,sadness,0,2025-04-28 21:38:27
+user_1,Tom Thumb,Bitter Ruin,surprise,surprise,0,2025-04-16 21:54:27
+user_1,Believe In The Supernatural,Air Supply,fear,fear,0,2025-05-08 18:47:27
+user_1,What It Feels Like,Feed Me,joy,joy,0,2025-04-13 06:28:27
+user_1,Abraham Martin and John,Dion,fear,fear,0,2025-05-01 17:02:27
+user_1,White Dress,Lana Del Rey,love,love,0,2025-04-30 13:52:27
+user_1,Goin Down,Ol' Dirty Bastard,surprise,surprise,0,2025-04-14 13:46:27
+user_1,No Strings Attached,'n Sync,anger,anger,0,2025-04-10 04:52:27
+user_1,Bummer,BONES,sadness,sadness,0,2025-04-30 11:02:27
+user_1,Horses,"PnB Rock, Kodak Black & A Boogie wit da Hoodie",joy,joy,0,2025-05-09 06:03:27
+user_1,All Thats Left,Manila Killa,love,love,0,2025-04-20 09:57:27
+user_1,Eyes,Quadeca,anger,anger,0,2025-04-14 05:49:27
+user_1,The Kids Arent Alright,The Offspring,surprise,surprise,0,2025-04-22 08:12:27
+user_1,I Aint Gonna Stand for It,Stevie Wonder,sadness,joy,1,2025-04-13 07:35:27
+user_1,Girl in the Mirror,Britney Spears,fear,fear,0,2025-04-12 16:47:27
+user_1,One Man's Meat,Deep Purple,sadness,sadness,0,2025-04-29 09:06:27
+user_1,Nokuthula,Cassper Nyovest,anger,anger,0,2025-04-23 15:18:27
+user_1,Demon Speeding,Rob Zombie,love,love,0,2025-04-27 06:03:27
+user_1,Aristocrats,Raleigh Ritchie,love,love,0,2025-04-30 22:11:27
+user_1,Mama Mia,Lil Wayne,fear,fear,0,2025-04-11 01:58:27
+user_1,Hagkan,Regine Velasquez,surprise,surprise,0,2025-05-03 10:11:27
+user_1,Ministry of the Torture Couch,Busdriver,love,love,0,2025-05-02 05:37:27
+user_1,Introduction,Faris Shafi,love,love,0,2025-04-15 16:34:27
+user_1,XXL Freshman Freestyle: KYLE,XXL,love,love,0,2025-05-01 02:46:27
+user_1,Lady Sunday,R. Kelly,love,love,0,2025-05-03 13:12:27
+user_1,Riot Maker/Enjoy,Tech N9ne,sadness,sadness,0,2025-04-21 12:31:27
+user_1,Used to Love You,Yuna,love,love,0,2025-04-25 15:38:27
+user_1,Marvins Room Remix,Lil Romeo,surprise,surprise,0,2025-04-23 00:36:27
+user_1,I Love the USA,Weezer,anger,joy,1,2025-04-19 07:43:27
+user_1,Happily Ever After,Ecco2k,fear,fear,0,2025-04-26 11:51:27
+user_1,Wolf in Sheeps Clothing,Set It Off,love,love,0,2025-04-27 23:35:27
+user_1,Demolition Man,Sting,fear,fear,0,2025-04-24 10:24:27
+user_1,Banana Klip,Bali Baby,sadness,sadness,0,2025-04-13 03:16:27
+user_1,Boink Boink,Tory Lanez,surprise,surprise,0,2025-04-29 15:00:27
+user_1,New Faces in the Dark,Loathe,surprise,surprise,0,2025-04-20 23:09:27
+user_1,Hold It Against Me,Britney Spears,surprise,surprise,0,2025-05-07 04:03:27
+user_1,Come and Get Me,JAY-Z,joy,joy,0,2025-04-25 12:06:27
+user_1,F.U.,Avril Lavigne,sadness,sadness,0,2025-05-01 15:51:27
+user_1,Its You,BRNS,fear,fear,0,2025-05-06 20:32:27
+user_1,She's Too Good For Me,Warren Zevon,love,love,0,2025-04-21 10:54:27
+user_1,By Heart,Conway Twitty,sadness,joy,1,2025-05-06 05:07:27
+user_1,Hold Back the Night,The Protomen,anger,anger,0,2025-04-20 15:32:27
+user_1,Country Girl,Olivia Newton-John,love,love,0,2025-04-30 20:38:27
+user_1,I Luv This Shit,August Alsina,surprise,surprise,0,2025-04-26 13:10:27
+user_1,Cherry Bullet - QA English Translation,Genius English Translations,sadness,joy,1,2025-04-17 22:09:27

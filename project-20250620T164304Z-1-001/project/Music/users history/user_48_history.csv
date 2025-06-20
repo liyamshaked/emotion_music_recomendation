@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_48,No One Will Save You,Aviators,sadness,sadness,0,2025-05-06 11:10:50
+user_48,Bigger,Sugarland,anger,anger,0,2025-04-23 13:13:50
+user_48,Taboo,Christabelle,surprise,surprise,0,2025-04-23 22:34:50
+user_48,Tryin' To Get The Feeling Again,David Pomeranz,joy,joy,0,2025-04-20 19:56:50
+user_48,El Camino,Ween,joy,joy,0,2025-04-14 02:44:50
+user_48,Stop Me from Falling,Kylie Minogue,joy,joy,0,2025-04-12 13:35:50
+user_48,Serenade,Read Southall Band,love,love,0,2025-05-02 08:13:50
+user_48,Higher Place,Journey,fear,fear,0,2025-04-22 21:13:50
+user_48,See Me So,2Baba,joy,joy,0,2025-05-04 17:33:50
+user_48,A Kiss,The Driver Era,joy,joy,0,2025-04-17 23:32:50
+user_48,HelloHiHey,Lifesavas,anger,joy,1,2025-05-02 16:06:50
+user_48,Lets Get Down,Bow Wow,anger,joy,1,2025-04-24 21:52:50
+user_48,Woke Up This Morning,Alabama 3,anger,joy,1,2025-04-25 07:31:50
+user_48,Caribou Lou,Tech N9ne,love,love,0,2025-04-20 08:46:50
+user_48,Love in Black and White,Mars Argo,anger,joy,1,2025-04-23 15:49:50
+user_48,Latola,South Park Mexican,surprise,surprise,0,2025-05-05 17:53:50
+user_48,Not For The Life Of Me,Sutton Foster,love,love,0,2025-05-01 03:41:50
+user_48,Virgil,Quality Control & Quavo,love,love,0,2025-04-24 17:25:50
+user_48,High School Lover,Cayucas,joy,joy,0,2025-04-11 02:46:50
+user_48,Till the End,Daron Malakian and Scars On Broadway,love,love,0,2025-04-12 16:09:50
+user_48,Meet the Crew,The Lonely Island,surprise,surprise,0,2025-04-23 00:32:50
+user_48,Whatever You Want,Status Quo,fear,fear,0,2025-04-28 02:46:50
+user_48,Yamas Messengers,Gojira,joy,joy,0,2025-04-15 19:16:50
+user_48,One Slip,Pink Floyd,sadness,sadness,0,2025-04-21 21:39:50
+user_48,American Slang,The Gaslight Anthem,surprise,surprise,0,2025-04-15 18:06:50
+user_48,It's Out Of My Hands,Randy Travis,sadness,sadness,0,2025-04-16 23:39:50
+user_48,Did I Lose You,Olly Murs,sadness,joy,1,2025-04-24 00:09:50
+user_48,Love Makes Things Happen,Pebbles,fear,fear,0,2025-04-19 19:38:50
+user_48,P.U.T.A. / Stacey Is The Bride,Erick the Architect,surprise,surprise,0,2025-04-23 15:06:50
+user_48,Levi Stubbs Tears,Billy Bragg,joy,joy,0,2025-04-26 10:42:50
+user_48,Don't Turn Around,Ace Of Base,anger,joy,1,2025-05-03 01:07:50
+user_48,Pillhead,The Plot In You,anger,anger,0,2025-05-06 18:45:50
+user_48,Bad Bunny - 120 English Translation,Genius English Translations,fear,fear,0,2025-04-29 11:09:50
+user_48,Thorn Within,Metallica,sadness,sadness,0,2025-04-26 00:26:50
+user_48,Friends,Chase Atlantic,sadness,sadness,0,2025-04-19 01:34:50
+user_48,Hate,Cat Power,love,love,0,2025-04-30 19:10:50
+user_48,Chasing These Bands,Don Q,love,love,0,2025-05-02 05:46:50
+user_48,Bad Attitude,Meat Loaf,sadness,sadness,0,2025-04-17 19:28:50
+user_48,If I Had a Rocket Launcher,Bruce Cockburn,love,love,0,2025-04-13 10:32:50
+user_48,Flash Pose,Pabllo Vittar & Charli XCX,fear,fear,0,2025-05-07 08:40:50
+user_48,I Feel Dead,OmenXIII,surprise,surprise,0,2025-05-09 17:30:50
+user_48,Can't Help Falling In Love,Andy Williams,sadness,joy,1,2025-04-25 00:06:50
+user_48,No Fun,Sex Pistols,fear,fear,0,2025-04-15 17:51:50
+user_48,By Any Means,Wale,anger,joy,1,2025-04-28 09:20:50
+user_48,Let's Do Something,Vince Gill,anger,anger,0,2025-04-13 13:25:50
+user_48,Down by the River,Neil Young & Crazy Horse,surprise,surprise,0,2025-04-24 08:20:50
+user_48,Make Luv,Brent Faiyaz,sadness,joy,1,2025-05-01 07:01:50
+user_48,Ghetto Love,Lud Foe,sadness,sadness,0,2025-04-14 12:32:50
+user_48,Trill Mode,Travis Scott,fear,fear,0,2025-04-25 06:16:50
+user_48,Believer,KIDZ BOP Kids,anger,anger,0,2025-04-27 20:34:50
+user_48,Systematic,DJ Shadow,fear,fear,0,2025-04-13 05:08:50
+user_48,Basic Needs,Jonathan Davis,joy,joy,0,2025-05-04 08:13:50
+user_48,Jellyfish,Oliver Francis,fear,fear,0,2025-04-25 03:56:50
+user_48,Fantasy (Bad Boy Fantasy),Mariah Carey,anger,joy,1,2025-05-01 19:34:50
+user_48,WKNDCRUISIN,Teza Sumendra,joy,joy,0,2025-04-11 00:54:50
+user_48,This River is Wild,The Killers,sadness,joy,1,2025-05-08 16:14:50
+user_48,Stormy Weather,Leo Sayer,love,love,0,2025-05-08 18:13:50
+user_48,442,Curren$y,anger,joy,1,2025-04-26 09:39:50
+user_48,Illuminati,Prodigy of Mobb Deep,love,love,0,2025-05-07 19:51:50
+user_48,Willow Tree,Spillage Village,anger,joy,1,2025-05-08 03:26:50
+user_48,That's When I'll Stop Loving You,'n Sync,love,love,0,2025-04-21 08:59:50
+user_48,The Sound Of The Sinners,Clash,joy,joy,0,2025-04-25 07:12:50
+user_48,Astronaut Kid,YoungBoy Never Broke Again,fear,fear,0,2025-04-10 21:29:50
+user_48,What I Gotta Do,Starlito & Don Trip,sadness,joy,1,2025-04-18 06:02:50
+user_48,Deck Of Cards,Tex Ritter,joy,joy,0,2025-04-28 00:25:50
+user_48,Boyfriend,Paigey Cakey,joy,joy,0,2025-04-27 23:08:50
+user_48,High,Young Rising Sons,sadness,sadness,0,2025-04-12 20:08:50
+user_48,Spirit Animal,Kerli,surprise,surprise,0,2025-05-04 12:07:50
+user_48,Sheena Is A Punk Rocker,Ramones,surprise,surprise,0,2025-04-22 01:39:50
+user_48,I Dont Wanna Be an Asshole Anymore,The Menzingers,surprise,surprise,0,2025-05-03 16:17:50
+user_48,Lasting Lover,Lewis Capaldi,joy,joy,0,2025-04-11 17:34:50
+user_48,Trust,Lucy Dacus,anger,joy,1,2025-05-01 15:39:50
+user_48,I Would For You,Lauren Duski,love,love,0,2025-04-10 05:41:50
+user_48,Greed Is A Disease,Unseen,sadness,sadness,0,2025-04-23 13:30:50
+user_48,THat Part Black Hippy Remix,ScHoolboy Q,love,love,0,2025-04-30 02:48:50
+user_48,Humidity Built The Snowman,John Prine,fear,fear,0,2025-04-15 07:41:50
+user_48,My Soul to Take,Murdock,fear,fear,0,2025-05-08 16:09:50
+user_48,Best Youll Ever Have,Inanna Sarkis,sadness,joy,1,2025-05-01 04:42:50
+user_48,Dead Rats,Against Me!,anger,anger,0,2025-05-07 18:36:50
+user_48,Ritual,Ghost,surprise,surprise,0,2025-04-11 15:36:50
+user_48,All The King's Horses,The Monkees,sadness,sadness,0,2025-04-11 13:02:50
+user_48,Backyard Boy,Claire Rosinkranz,joy,joy,0,2025-04-18 15:55:50
+user_48,3%,Hobo Johnson,joy,joy,0,2025-04-21 02:44:50
+user_48,Survival Of The Fittest,Dillon Cooper,surprise,surprise,0,2025-04-18 16:16:50
+user_48,Everything About You,One Direction,fear,fear,0,2025-04-21 07:01:50
+user_48,Second Hand News,Fleetwood Mac,love,love,0,2025-04-28 14:14:50
+user_48,No14 English Translation,tha Supreme,fear,fear,0,2025-04-14 15:19:50
+user_48,I Still Miss Someone,Johnny Cash,love,love,0,2025-05-07 04:52:50
+user_48,Slip Inside This House,The 13th Floor Elevators,joy,joy,0,2025-04-10 10:18:50
+user_48,Waterfall,With Confidence,anger,anger,0,2025-04-24 13:05:50
+user_48,Warm Honey,WILLOW,love,love,0,2025-04-10 11:06:50
+user_48,Neon Brother,Nothing But Thieves,surprise,surprise,0,2025-05-08 05:02:50
+user_48,Real World,Richard Marx,fear,fear,0,2025-04-19 20:19:50
+user_48,Here We Go Again,George Strait,joy,joy,0,2025-05-06 16:19:50
+user_48,Motion Picture,Future,anger,joy,1,2025-04-17 23:51:50
+user_48,Ding Dong Merrily on High,Traditional,fear,fear,0,2025-04-15 17:02:50
+user_48,Domestic Bliss,Glass Animals,surprise,surprise,0,2025-04-23 01:53:50
+user_48,Elevator,The Black Keys,sadness,sadness,0,2025-04-30 04:36:50
+user_48,King of Rock,Run,fear,fear,0,2025-04-28 14:49:50
+user_48,Excitable Boy,Warren Zevon,fear,fear,0,2025-04-13 17:46:50

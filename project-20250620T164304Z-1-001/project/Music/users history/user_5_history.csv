@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_5,Valentine's Day,James Taylor,love,love,0,2025-04-10 12:24:29
+user_5,Long-Legged Linda,Status Quo,sadness,joy,1,2025-04-25 07:12:29
+user_5,Get Groovy,SimxSantana,fear,fear,0,2025-04-26 19:03:29
+user_5,Truck Driver,Sun Kil Moon,fear,fear,0,2025-04-19 16:49:29
+user_5,I Knew You Were Waiting For Me,George Michael,anger,joy,1,2025-05-02 07:12:29
+user_5,So Wat Cha Sayin,EPMD,anger,joy,1,2025-05-01 19:57:29
+user_5,She Likes Me,Jadakiss,joy,joy,0,2025-04-13 10:04:29
+user_5,Hardaway Remix,DJ Envy & Derez De'Shon,love,love,0,2025-04-18 17:52:29
+user_5,Invisible,Hannah Diamond,anger,anger,0,2025-04-29 00:30:29
+user_5,Check Yes or No,George Strait,anger,joy,1,2025-05-06 10:04:29
+user_5,Drop,Joe Flizzow,sadness,joy,1,2025-04-17 03:13:29
+user_5,Grow Up,slowthai,sadness,sadness,0,2025-04-28 21:14:29
+user_5,Maple Leaves,Jens Lekman,fear,fear,0,2025-05-07 12:21:29
+user_5,Sweet Lovin,Sigala,fear,fear,0,2025-04-14 02:01:29
+user_5,Isnt It a Pity,Galaxie 500,sadness,sadness,0,2025-05-05 11:22:29
+user_5,Luv Me,Cold Hart,love,love,0,2025-04-26 09:45:29
+user_5,Drive For Us,Q Da Fool,sadness,joy,1,2025-04-27 02:33:29
+user_5,Burial,Seinabo Sey,anger,joy,1,2025-04-15 15:39:29
+user_5,Petal,Every Time I Die,joy,joy,0,2025-04-27 15:57:29
+user_5,Team Of Destiny,Kenny Chesney,joy,joy,0,2025-04-20 23:34:29
+user_5,My Gift To You,Alexander O'Neal,anger,anger,0,2025-04-25 00:30:29
+user_5,Friendship,Cole Porter,anger,joy,1,2025-05-03 23:00:29
+user_5,This Is A Low,Blur,sadness,sadness,0,2025-04-27 09:42:29
+user_5,Treasure Chest Party Quest,Alestorm,surprise,surprise,0,2025-05-03 07:37:29
+user_5,If You Wanna,The Vaccines,fear,fear,0,2025-04-29 06:55:29
+user_5,Bend Ova Like That Like That,SpaceGhostPurrp,sadness,sadness,0,2025-04-27 10:06:29
+user_5,Stay Awhile,Journey,surprise,surprise,0,2025-04-10 13:43:29
+user_5,Driller sht,Unknown T,sadness,joy,1,2025-04-27 13:10:29
+user_5,24,Money Man,fear,fear,0,2025-05-09 14:45:29
+user_5,Upon the Water,Swallow the Sun,love,love,0,2025-05-03 21:44:29
+user_5,Down To The Wire,Neil Young,love,love,0,2025-05-03 00:16:29
+user_5,Hasta Luego,JID,joy,joy,0,2025-04-16 15:41:29
+user_5,Clique Remix,T.I.,fear,fear,0,2025-05-03 01:47:29
+user_5,Song of the Roustabouts,Disney Chorus,sadness,joy,1,2025-04-29 18:25:29
+user_5,Hate Me,Jillian Jacqueline,joy,joy,0,2025-04-18 07:31:29
+user_5,Hollywood,Lewis Capaldi,love,love,0,2025-04-24 07:19:29
+user_5,Destroyed,Lil Duke,anger,joy,1,2025-04-21 00:51:29
+user_5,Dreaming,Blondie,joy,joy,0,2025-04-30 22:13:29
+user_5,See No Evil,Rem,joy,joy,0,2025-04-11 19:08:29
+user_5,What I Like,Kevin Gates,anger,joy,1,2025-05-06 10:17:29
+user_5,Primitive Painters,Felt (UK Band),fear,fear,0,2025-04-21 20:48:29
+user_5,So Far Away,Avenged Sevenfold,anger,anger,0,2025-04-17 14:25:29
+user_5,Pray For Plagues,Bring Me The Horizon,sadness,sadness,0,2025-04-11 19:52:29
+user_5,Integrity,Jme,love,love,0,2025-05-03 16:16:29
+user_5,Diamonds,French Montana,joy,joy,0,2025-04-23 20:32:29
+user_5,Is Anybody Here?,King Diamond,fear,fear,0,2025-05-03 23:37:29
+user_5,I Cant Be Myself,Justin Bieber,fear,fear,0,2025-04-24 23:13:29
+user_5,Dreams,Lil' Kim,surprise,surprise,0,2025-04-12 07:44:29
+user_5,Somebody Knows,Kenny Loggins,fear,fear,0,2025-05-06 17:04:29
+user_5,Thug Holiday,Trick Daddy,love,love,0,2025-04-21 02:09:29
+user_5,Wicked Garden,Stone Temple Pilots,sadness,sadness,0,2025-04-13 05:15:29
+user_5,Oblivions Peak,Knocked Loose,love,love,0,2025-04-14 18:44:29
+user_5,When I Was Young,The Animals,sadness,sadness,0,2025-04-15 02:58:29
+user_5,Breakdown,Dirty Loops,fear,fear,0,2025-05-05 03:41:29
+user_5,When He Sees Me,Sara Bareilles,sadness,sadness,0,2025-05-09 05:28:29
+user_5,Every Gyal,Chip,anger,joy,1,2025-05-03 22:17:29
+user_5,It Might As Well Be Spring,Nina Simone,sadness,sadness,0,2025-04-16 21:57:29
+user_5,We Suck Young Blood,Radiohead,sadness,sadness,0,2025-04-13 08:52:29
+user_5,Boss DJ,Sublime,love,love,0,2025-04-25 14:50:29
+user_5,I Didn't Ask And She Didn't Say,Tim McGraw,anger,anger,0,2025-05-04 09:27:29
+user_5,Nocturnal Creatures,Bastille,love,love,0,2025-05-08 20:26:29
+user_5,Pick It Up,Jeremy Zucker,joy,joy,0,2025-04-28 02:19:29
+user_5,Ridin Solo,Jason Derulo,anger,joy,1,2025-04-24 14:36:29
+user_5,Mile High,James Blake,anger,joy,1,2025-05-02 05:51:29
+user_5,Inside,Inside Out,joy,joy,0,2025-04-12 05:28:29
+user_5,Woman Don't You Cry For Me,George Harrison,joy,joy,0,2025-04-10 03:16:29
+user_5,Highland Cathedral,The Royal Scots Dragoon Guards (Carabiniers and Greys),sadness,joy,1,2025-04-26 20:39:29
+user_5,Anytime You Need A Friend,Mariah Carey,anger,anger,0,2025-05-05 00:03:29
+user_5,Forever Live,Kari Jobe,fear,fear,0,2025-04-30 16:12:29
+user_5,Do Like Lovers Do,Xscape,anger,joy,1,2025-04-29 14:47:29
+user_5,Noah,Jinjer,joy,joy,0,2025-05-09 00:03:29
+user_5,Fascination,Alphabeat,anger,anger,0,2025-04-20 03:48:29
+user_5,Bad Dreams,Joni Mitchell,love,love,0,2025-04-18 04:00:29
+user_5,Great I Am,New Life Worship,joy,joy,0,2025-04-18 03:06:29
+user_5,Hard to Be,David Bazan,love,love,0,2025-04-18 06:14:29
+user_5,Ms Jane,Kid Ink,anger,anger,0,2025-05-07 23:02:29
+user_5,Does Fort Worth Ever Cross Your Mind,George Strait,joy,joy,0,2025-04-16 18:12:29
+user_5,I'll See You In My Dreams,Louis Armstrong,fear,fear,0,2025-04-21 00:07:29
+user_5,Front Row,Alanis Morissette,joy,joy,0,2025-05-04 21:38:29
+user_5,Epilogue,Les Misrables Cast,joy,joy,0,2025-05-08 16:36:29
+user_5,Mr. Jones,NOFX,joy,joy,0,2025-05-06 03:46:29
+user_5,MotownPhilly,Boyz II Men,anger,joy,1,2025-04-22 05:35:29
+user_5,Bassically,Tei Shi,love,love,0,2025-04-26 21:32:29
+user_5,Real Ones,Caskey,joy,joy,0,2025-05-02 22:48:29
+user_5,A Daydream Away,All Time Low,surprise,surprise,0,2025-05-03 12:13:29
+user_5,Everything Now,Arcade Fire,surprise,surprise,0,2025-04-15 08:45:29
+user_5,Going Through It,Cryptic Wisdom,anger,joy,1,2025-04-19 23:02:29
+user_5,Bless The Broken Road,Selah,anger,anger,0,2025-04-30 08:23:29
+user_5,Pain And Pleasure,Judas Priest,love,love,0,2025-05-02 07:43:29
+user_5,See You Soon,Lyricold,sadness,sadness,0,2025-05-05 13:37:29
+user_5,Toxic,Childish Gambino,love,love,0,2025-04-16 22:26:29
+user_5,Godspeed,Alter Bridge,joy,joy,0,2025-05-02 09:04:29
+user_5,Wicked Garden,Stone Temple Pilots,fear,fear,0,2025-05-04 13:36:29
+user_5,Trouble With Goodbye,Leann Rimes,surprise,surprise,0,2025-05-01 08:31:29
+user_5,He Was a Friend of Mine,Bob Dylan,surprise,surprise,0,2025-04-16 19:00:29
+user_5,Fat Fuck,I Declare War,love,love,0,2025-04-23 17:40:29
+user_5,99 Problems,Ice-T,fear,fear,0,2025-04-11 17:36:29
+user_5,Dont Walk Away,John Legend & Koffee,joy,joy,0,2025-04-17 10:58:29
+user_5,Clark Kent,Pivot Gang,sadness,joy,1,2025-04-14 11:31:29
+user_5,Blood Pigs,Otep,joy,joy,0,2025-04-30 14:51:29

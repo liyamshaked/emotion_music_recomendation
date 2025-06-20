@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_100,Stuck Up,Music With Edgar,fear,fear,0,2025-05-06 05:15:16
+user_100,Swordfish,Da$H,sadness,sadness,0,2025-05-06 19:20:16
+user_100,Eclipse,Brand of Sacrifice,joy,joy,0,2025-04-19 09:21:16
+user_100,Suicide Messiah,Black Label Society,surprise,surprise,0,2025-05-07 03:43:16
+user_100,Stay Down,Big Sean,surprise,surprise,0,2025-05-07 19:09:16
+user_100,Boots,Kesha,surprise,surprise,0,2025-04-25 09:42:16
+user_100,Fragile,(Tatsuro Yamashita),fear,fear,0,2025-04-24 03:19:16
+user_100,All Thats Left Is Love,Angels & Airwaves,anger,anger,0,2025-05-08 12:37:16
+user_100,Shoeshine Man,Tom T. Hall,anger,joy,1,2025-04-20 16:49:16
+user_100,Life Goes On,Bee Gees,fear,fear,0,2025-04-22 23:04:16
+user_100,Parody Catharsis,Dance Gavin Dance,fear,fear,0,2025-05-09 15:45:16
+user_100,There is still pain left,Sophie Hunger,sadness,sadness,0,2025-04-23 05:15:16
+user_100,Muscle Of Love,Alice Cooper,love,love,0,2025-05-02 13:24:16
+user_100,All Good,Dipha Barus,anger,joy,1,2025-04-28 00:08:16
+user_100,PHONKY TOWN,ROAD TO DESTINY & KOSCHEY,anger,anger,0,2025-05-07 12:47:16
+user_100,New LA,SiR,fear,fear,0,2025-05-02 17:55:16
+user_100,Shadow of the Swastika,Tyr,love,love,0,2025-04-23 15:00:16
+user_100,Rain Nicky Jam Remix,The Script,joy,joy,0,2025-04-29 13:35:16
+user_100,Doing Good,Milky Chance,anger,joy,1,2025-04-19 10:42:16
+user_100,Daddy Issues Remix,The Neighbourhood,fear,fear,0,2025-04-21 06:38:16
+user_100,Died in My Sleep,Demon Hunter,surprise,surprise,0,2025-04-25 08:55:16
+user_100,Drip,Ann Marie,anger,anger,0,2025-05-01 08:46:16
+user_100,Really Wanna Know,SwizZz,fear,fear,0,2025-05-01 15:55:16
+user_100,Do You Know What It Means To Miss New Orleans,Louis Armstrong,love,love,0,2025-05-04 19:48:16
+user_100,I Hate You,Jadakiss & Nino Man,sadness,joy,1,2025-04-26 00:39:16
+user_100,Everlasting Moon,Jimmy Buffett,joy,joy,0,2025-04-25 17:49:16
+user_100,Creation,Sabrina Claudio,love,love,0,2025-04-29 04:22:16
+user_100,My Maria,Brooks & Dunn,love,love,0,2025-04-19 14:30:16
+user_100,WW2,Unknown T,sadness,sadness,0,2025-05-07 11:28:16
+user_100,Get Ur Freak On,Missy Elliott,sadness,joy,1,2025-04-18 13:17:16
+user_100,One Time,The Roots,love,love,0,2025-05-07 21:23:16
+user_100,My Favorite,Tech N9ne,fear,fear,0,2025-05-04 03:18:16
+user_100,Russian Roulette,Chief Keef,love,love,0,2025-04-16 09:01:16
+user_100,Givenchy Remix,Z Money,love,love,0,2025-05-03 18:21:16
+user_100,Dirty Sexy Money,David Guetta & Afrojack,sadness,joy,1,2025-04-11 12:41:16
+user_100,Fake a Smile,Sticky Fingers,fear,fear,0,2025-04-26 07:13:16
+user_100,The Artful Dodger,Mick Jenkins,fear,fear,0,2025-04-15 09:01:16
+user_100,Free,Quiet Riot,anger,anger,0,2025-05-06 03:58:16
+user_100,Red Velvet - So Good English Translation,Genius English Translations,sadness,sadness,0,2025-04-14 07:15:16
+user_100,About You Now,Miranda Cosgrove,love,love,0,2025-05-01 20:42:16
+user_100,Treasure,Mary Heather Hickman,sadness,joy,1,2025-05-07 08:37:16
+user_100,Breuddwyd Glyndwr (The Dream Of Glyndower,Aled Jones,surprise,surprise,0,2025-04-16 10:34:16
+user_100,Top Of The World,Joe Budden,joy,joy,0,2025-04-12 14:52:16
+user_100,On That Bird in the Cage,Have Heart,sadness,sadness,0,2025-05-01 05:04:16
+user_100,Cure For Love,Bonnie Raitt,anger,anger,0,2025-04-17 18:20:16
+user_100,The Haunting Presence,Giles Corey,love,love,0,2025-04-11 23:50:16
+user_100,Good for What,Little Simz,sadness,sadness,0,2025-05-09 09:59:16
+user_100,Blu,BENEE,anger,anger,0,2025-04-26 17:41:16
+user_100,Raise Your Glass,P!nk,fear,fear,0,2025-04-13 20:57:16
+user_100,Bridegroom,Amy Grant,love,love,0,2025-04-09 18:35:16
+user_100,​smoke break//,KennyHoopla & Travis Barker,sadness,joy,1,2025-04-09 19:00:16
+user_100,Something You Should Know,Mac Dre,joy,joy,0,2025-04-27 11:57:16
+user_100,2000 Seasons,Reflection Eternal,joy,joy,0,2025-04-23 03:14:16
+user_100,Black Hole Sun,Patrick Cc: & Jonah Zed,joy,joy,0,2025-05-01 11:22:16
+user_100,DQ,Charly Bliss,love,love,0,2025-04-12 23:52:16
+user_100,King of the Mountain,Midnight Oil,fear,fear,0,2025-05-07 17:50:16
+user_100,Trip,Yung Lean,surprise,surprise,0,2025-05-09 15:47:16
+user_100,VS Susie,Man on the Internet,sadness,sadness,0,2025-04-30 03:31:16
+user_100,No Life Singed Her,Pavement,anger,anger,0,2025-04-14 17:36:16
+user_100,Tempo,Smino,love,love,0,2025-04-30 14:35:16
+user_100,Nowhere,June Marieezy,anger,joy,1,2025-05-07 03:41:16
+user_100,The Storm Before the Calm,Anathema,joy,joy,0,2025-04-10 19:20:16
+user_100,33 Shots,Kur,sadness,joy,1,2025-05-05 13:53:16
+user_100,One Two One Two,Ultramagnetic MC's,surprise,surprise,0,2025-04-25 16:17:16
+user_100,Everyone Hurts,Kirk Franklin,love,love,0,2025-04-25 20:17:16
+user_100,Kontrol,AKA,joy,joy,0,2025-04-20 04:22:16
+user_100,Last Chance,Kylie Minogue,sadness,joy,1,2025-04-11 23:08:16
+user_100,London Homesick Blues,Jerry Jeff Walker,love,love,0,2025-04-27 00:12:16
+user_100,Carry the Weight,Adept,joy,joy,0,2025-04-28 09:36:16
+user_100,SK1N,Huntar,love,love,0,2025-05-01 15:05:16
+user_100,The Windmills of Your Mind,Dusty Springfield,love,love,0,2025-04-20 04:47:16
+user_100,Girl,Jamie xx,surprise,surprise,0,2025-05-06 16:42:16
+user_100,Lion,iamjakehill,sadness,joy,1,2025-05-06 09:58:16
+user_100,Manifest,Russ,love,love,0,2025-05-05 12:17:16
+user_100,New Bitch,Iggy Azalea,sadness,sadness,0,2025-04-09 19:47:16
+user_100,SPMO,Nascar Aloe,sadness,sadness,0,2025-05-05 06:46:16
+user_100,STFU,Chris Webby,joy,joy,0,2025-04-22 07:40:16
+user_100,Turn Down For What,DJ Snake & Lil Jon,anger,anger,0,2025-05-03 06:20:16
+user_100,The Caves Of Altamira,Steely Dan,fear,fear,0,2025-04-22 00:54:16
+user_100,Zip-a-Dee-Doo-Dah From Song of the South,James Baskett,sadness,joy,1,2025-04-27 13:03:16
+user_100,The Race Remix,Polo G,love,love,0,2025-04-24 07:03:16
+user_100,Old Maui,The Dreadnoughts,joy,joy,0,2025-04-22 06:54:16
+user_100,Turn Up The Night,Enrique Iglesias,love,love,0,2025-04-11 00:12:16
+user_100,Profound,Skizzy Mars,joy,joy,0,2025-05-04 07:10:16
+user_100,Fo,Curren$y,fear,fear,0,2025-04-12 08:08:16
+user_100,Talkin Shit,Daron Malakian and Scars On Broadway,joy,joy,0,2025-04-20 11:48:16
+user_100,Grist for the Malady Mill,mewithoutYou,love,love,0,2025-04-27 14:06:16
+user_100,Anthem of the Lonely,Nine Lashes,sadness,sadness,0,2025-05-07 16:39:16
+user_100,Brand New Day,Swollen Members,sadness,joy,1,2025-04-14 21:26:16
+user_100,Ludaversal Intro,Ludacris,joy,joy,0,2025-04-25 04:24:16
+user_100,Golden Heart,Kirsty Maccoll,surprise,surprise,0,2025-04-10 19:52:16
+user_100,Help Me,Rah-C,love,love,0,2025-04-27 06:55:16
+user_100,Luxurious Remix,Gwen Stefani,love,love,0,2025-04-18 16:55:16
+user_100,Hymnals,Grizfolk,love,love,0,2025-05-09 02:29:16
+user_100,Coke Henny Pt. 1,Pink Sweat$,anger,joy,1,2025-05-08 13:18:16
+user_100,Dumbfoundead vs. Tantrum,Grind Time Now,anger,anger,0,2025-04-11 12:17:16
+user_100,I'm Not Giving Up,Gloria Estefan,sadness,sadness,0,2025-04-10 12:19:16
+user_100,Ghoulish,Lil Wayne,fear,fear,0,2025-04-22 08:45:16
+user_100,Dream,The Pied Pipers,love,love,0,2025-05-02 21:31:16
+user_100,The Importance of Cocaine,Dance Gavin Dance,sadness,joy,1,2025-05-04 16:33:16

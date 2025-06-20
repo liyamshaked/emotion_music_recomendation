@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_73,QC Addiction,Migos,anger,anger,0,2025-04-30 15:33:02
+user_73,BUSS HER UP,Baby Keem,joy,joy,0,2025-04-24 19:44:02
+user_73,The Auctioneer,Gordon Lightfoot,joy,joy,0,2025-05-06 04:34:02
+user_73,Shake My Sillies Out,Raffi,joy,joy,0,2025-04-15 15:22:02
+user_73,ASIAN KUNG-FU GENERATION - Re:Re: English Translation,Genius English Translations,anger,anger,0,2025-04-17 07:15:02
+user_73,Masturbata,Adam Sandler,surprise,surprise,0,2025-05-01 03:07:02
+user_73,Me in Honey,R.E.M.,joy,joy,0,2025-04-19 03:57:02
+user_73,Vet Lungs,Chief Keef,fear,fear,0,2025-05-05 17:54:02
+user_73,A Change Is Gonna Come,Sam Cooke,fear,fear,0,2025-04-10 13:27:02
+user_73,Hello,Conor Maynard,anger,anger,0,2025-04-22 16:54:02
+user_73,Chances Are,Vonda Shepard,anger,joy,1,2025-05-03 16:45:02
+user_73,Monday Monday,Wilson Phillips,love,love,0,2025-05-05 00:02:02
+user_73,Tree Carvings,Chaze Sharp,fear,fear,0,2025-05-09 10:03:02
+user_73,The End Is Where We Begin,Our Lady Peace,surprise,surprise,0,2025-04-23 12:57:02
+user_73,Only You,Louis Armstrong,anger,joy,1,2025-04-10 03:38:02
+user_73,Tip of the tongue,The donnis trio,fear,fear,0,2025-04-17 04:01:02
+user_73,The Last Song From Zion,Zao,anger,anger,0,2025-05-06 23:43:02
+user_73,Mad About Bars,Central Cee,sadness,joy,1,2025-04-29 15:44:02
+user_73,Things That Break,Miranda Lambert,fear,fear,0,2025-04-14 18:00:02
+user_73,Lessons,Millyz,fear,fear,0,2025-04-24 10:06:02
+user_73,Route 66,John Mayer,love,love,0,2025-05-03 19:03:02
+user_73,My Arena,Sia,surprise,surprise,0,2025-04-15 06:22:02
+user_73,MOLLY BABY MAMA,Foogiano,joy,joy,0,2025-04-13 07:01:02
+user_73,Hotel Room Service,Pitbull,joy,joy,0,2025-04-30 18:48:02
+user_73,Wolves,Allday,sadness,sadness,0,2025-04-26 03:14:02
+user_73,Man Of Our Times,Genesis,fear,fear,0,2025-04-21 13:36:02
+user_73,Real Shit,Quando Rondo,love,love,0,2025-04-17 00:17:02
+user_73,Less Teeth More Tits,Lunachicks,anger,joy,1,2025-04-23 09:58:02
+user_73,The Kick,XV,sadness,joy,1,2025-04-26 05:12:02
+user_73,"Good Luck, Bad Luck",Howard Jones,fear,fear,0,2025-04-12 00:45:02
+user_73,Still I Rise,Yolanda Adams,anger,anger,0,2025-04-20 21:41:02
+user_73,Polka Dots And Moonbeams,John Denver,joy,joy,0,2025-04-11 17:07:02
+user_73,Rattlesnakes,Lloyd Cole And The Commotions,surprise,surprise,0,2025-04-22 17:12:02
+user_73,Little Wonder,Architects,fear,fear,0,2025-05-05 15:28:02
+user_73,Muscle Cars,E-40,sadness,joy,1,2025-04-29 06:41:02
+user_73,Plea from a Cat Named Virtute,The Weakerthans,surprise,surprise,0,2025-04-10 07:31:02
+user_73,Hello DC,DC The Don,anger,anger,0,2025-05-02 02:47:02
+user_73,Pain Show,NoCap,sadness,sadness,0,2025-04-26 03:38:02
+user_73,Incarnate Devil,DIIV,fear,fear,0,2025-05-08 21:38:02
+user_73,Squidwards Nose,KG Smokey,fear,fear,0,2025-04-25 06:41:02
+user_73,I've Done It Again,Marianne Faithfull,fear,fear,0,2025-04-17 18:17:02
+user_73,Legs,ZZ Top,sadness,joy,1,2025-04-16 13:25:02
+user_73,Here We'll Stay,ABBA,love,love,0,2025-04-14 13:19:02
+user_73,Im Alive,Maher Zain,surprise,surprise,0,2025-04-23 06:57:02
+user_73,Love Story,Disco Lines,surprise,surprise,0,2025-04-23 14:21:02
+user_73,Mini Van Dan Remix,A$ton Matthews,fear,fear,0,2025-05-03 15:11:02
+user_73,Dystopia,Megadeth,sadness,sadness,0,2025-04-10 06:18:02
+user_73,Take You,Justin Bieber,anger,joy,1,2025-04-28 17:29:02
+user_73,Stay This Way,Kylie Minogue,sadness,joy,1,2025-04-27 06:53:02
+user_73,Million$,Chief Keef,anger,anger,0,2025-04-17 17:28:02
+user_73,Yee-Yee,Homegrown Family,joy,joy,0,2025-04-27 05:53:02
+user_73,Billy,Waylon Jennings,anger,joy,1,2025-04-21 01:41:02
+user_73,My Pain My Struggle,Fredo Santana,sadness,sadness,0,2025-05-01 23:37:02
+user_73,Ricky Ricardo,KAPTN,sadness,joy,1,2025-04-23 20:29:02
+user_73,Deeper,Hillsong,anger,joy,1,2025-04-11 13:16:02
+user_73,We Both Reached For The Gun,Christine Baranski,anger,anger,0,2025-05-04 13:53:02
+user_73,Good Grief Don Diablo Remix,Bastille,joy,joy,0,2025-04-26 04:09:02
+user_73,Aww Skeet Skeet,Lil Jon & The East Side Boyz,surprise,surprise,0,2025-04-25 07:57:02
+user_73,Dont Rush Naika Remix,Young T & Bugsey,love,love,0,2025-04-09 19:14:02
+user_73,Dancin',Perry Como,joy,joy,0,2025-05-08 02:24:02
+user_73,Honey Im Home,Shania Twain,surprise,surprise,0,2025-04-22 23:05:02
+user_73,Sewn,The Feeling,surprise,surprise,0,2025-04-23 20:42:02
+user_73,Ordinary People,John Legend,sadness,sadness,0,2025-05-05 03:15:02
+user_73,You Rock My World Track Masters Mix,Michael Jackson,love,love,0,2025-05-04 04:12:02
+user_73,Hands All Over,Maroon 5,anger,anger,0,2025-04-12 11:24:02
+user_73,Know Your Enemy,Rage Against the Machine,fear,fear,0,2025-04-28 07:10:02
+user_73,Good,Iggy Azalea,love,love,0,2025-05-01 15:19:02
+user_73,Deacon Blues,Steely Dan,love,love,0,2025-04-21 18:32:02
+user_73,Be Kind,Marshmello & Halsey,fear,fear,0,2025-04-17 18:52:02
+user_73,Love Other Drugs,The Comfort,anger,anger,0,2025-04-21 06:21:02
+user_73,Are You Gonna Go My Way,Lenny Kravitz,love,love,0,2025-04-16 03:57:02
+user_73,Seven Days,Mary J. Blige,joy,joy,0,2025-05-04 13:14:02
+user_73,Angel,Yonder Mountain String Band,love,love,0,2025-04-12 06:22:02
+user_73,The Come Up pt. 1,Jonwayne,sadness,sadness,0,2025-05-08 22:04:02
+user_73,Side Effects,Ty Dolla $ign,fear,fear,0,2025-05-07 22:39:02
+user_73,F-ZERO Medley,Takenobu Mitsuyoshi,anger,anger,0,2025-05-06 15:50:02
+user_73,Dream Small,Josh Wilson,love,love,0,2025-04-19 02:12:02
+user_73,Strong Enough,The Aces,anger,joy,1,2025-05-01 14:46:02
+user_73,Trouble Is,Backstreet Boys,surprise,surprise,0,2025-04-22 03:50:02
+user_73,Hopeless Case,ROAM,surprise,surprise,0,2025-04-27 18:35:02
+user_73,Sunshine,Alice In Chains,anger,joy,1,2025-05-08 14:10:02
+user_73,Modern Times Rock'n'Roll,Queen,joy,joy,0,2025-04-10 21:20:02
+user_73,Dream Of Me,Engelbert Humperdinck,sadness,sadness,0,2025-04-15 16:49:02
+user_73,Need a Break,Kodak Black,love,love,0,2025-05-02 05:30:02
+user_73,South Of The Border,Patsy Cline,surprise,surprise,0,2025-04-24 10:28:02
+user_73,Idk,Ez Mil,surprise,surprise,0,2025-04-10 11:11:02
+user_73,I Love You Always Forever,Betty Who,fear,fear,0,2025-05-01 14:15:02
+user_73,Letter To You,Ryan Trey,joy,joy,0,2025-05-07 06:12:02
+user_73,From The Other Side,King Diamond,sadness,sadness,0,2025-05-03 04:32:02
+user_73,Senza una donna English version,Zucchero,anger,anger,0,2025-04-18 15:56:02
+user_73,Ill Be Fine,A-Wax,sadness,sadness,0,2025-04-30 19:52:02
+user_73,Things Ive Been Through,Jadakiss,anger,joy,1,2025-04-24 03:33:02
+user_73,Pain Game,D-Block Europe,surprise,surprise,0,2025-04-28 14:52:02
+user_73,New Bugatti,Rick Ross,fear,fear,0,2025-04-19 20:43:02
+user_73,Volcano,Maisie Peters,anger,joy,1,2025-04-14 17:52:02
+user_73,"Lord, Send Me An Angel",The White Stripes,sadness,joy,1,2025-05-02 07:13:02
+user_73,Need You Know,Adele,sadness,sadness,0,2025-04-12 22:54:02
+user_73,Glorify Him,Indiana Bible College,anger,joy,1,2025-04-14 08:53:02
+user_73,If its True,"Reeve Carney, Andr De Shields, Afra Hines, Timothy Hughes, John Krause, Kimberly Marable & Ahmad Simmons",surprise,surprise,0,2025-04-15 20:15:02
+user_73,My Name Is Pain,Overkill,sadness,joy,1,2025-05-04 11:43:02

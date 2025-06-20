@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_21,Dracula,Bea Miller,joy,joy,0,2025-05-05 15:46:37
+user_21,Dont Stop What Youre Doing,Diddy,surprise,surprise,0,2025-04-11 16:36:37
+user_21,Best Guitar Picker,George Jones,sadness,joy,1,2025-05-01 12:08:37
+user_21,Petals,Hole,anger,anger,0,2025-05-05 18:49:37
+user_21,Shiros Story,Rapman,love,love,0,2025-04-30 05:01:37
+user_21,Trail Of Tears,W.A.S.P.,surprise,surprise,0,2025-05-03 09:42:37
+user_21,Fresh Boyfriend Remix,Kawai Sprite,anger,joy,1,2025-05-02 12:47:37
+user_21,Id Rather Have Jesus,George Beverly Shea,sadness,joy,1,2025-04-09 20:00:37
+user_21,Bless You Child,Bette Midler,anger,joy,1,2025-04-13 21:35:37
+user_21,In the Car Freestyle,Machine Gun Kelly,sadness,sadness,0,2025-04-17 21:15:37
+user_21,Its About a 6 Hour Drive,$UICIDEBOY$ & Black Smurf,love,love,0,2025-04-13 20:42:37
+user_21,Sundream,RFS DU SOL,anger,joy,1,2025-04-14 10:17:37
+user_21,Sally Brown,Bad Manners,anger,anger,0,2025-05-08 11:10:37
+user_21,Liar,Helloween,anger,joy,1,2025-04-11 06:00:37
+user_21,Manana,Jimmy Buffett,anger,joy,1,2025-04-11 01:40:37
+user_21,Be The Man,Celine Dion,love,love,0,2025-05-02 23:45:37
+user_21,Christmas Truce,Sabaton,sadness,sadness,0,2025-04-19 22:29:37
+user_21,Bring You Down,Flume,love,love,0,2025-05-07 12:21:37
+user_21,She Hangs Brightly,Mazzy Star,fear,fear,0,2025-04-21 10:15:37
+user_21,BTS - Go Go Japanese Ver. Romanized,Genius Romanizations,joy,joy,0,2025-04-24 02:11:37
+user_21,Unbound The Wild Ride,Avenged Sevenfold,anger,joy,1,2025-04-13 00:52:37
+user_21,Grand Theft Autumn/Where is Your Boy,Fall Out Boy,joy,joy,0,2025-04-10 04:58:37
+user_21,Georgia On My Mind,Van Morrison,surprise,surprise,0,2025-04-13 22:53:37
+user_21,It's Only A Paper Moon,Nat King Cole,anger,anger,0,2025-04-18 16:56:37
+user_21,Fuck a chain,Dr@k01387,sadness,sadness,0,2025-04-28 22:19:37
+user_21,If Only You Knew,Ollie,anger,joy,1,2025-05-05 10:42:37
+user_21,Graveyard,The Devil Makes Three,joy,joy,0,2025-05-05 19:26:37
+user_21,Illuminati Intro,Blac Youngsta,love,love,0,2025-04-15 13:49:37
+user_21,The Old Days,Upchurch,anger,anger,0,2025-04-24 23:55:37
+user_21,Never Going Back,Hoodie Allen,fear,fear,0,2025-04-26 06:54:37
+user_21,Pump It Up,Endor,surprise,surprise,0,2025-04-14 13:15:37
+user_21,Restless,Evanescence,anger,joy,1,2025-04-15 01:45:37
+user_21,Everybodys Gotta Live,Love,love,love,0,2025-04-28 22:23:37
+user_21,One and Only,Koe Wetzel,anger,anger,0,2025-04-26 11:55:37
+user_21,Marianne,Coldplay,joy,joy,0,2025-05-08 23:39:37
+user_21,Hoe Train,Curren$y,surprise,surprise,0,2025-04-26 02:48:37
+user_21,The Wonderful Cross,Matt Redman,love,love,0,2025-04-28 10:14:37
+user_21,OD,Futuristic,love,love,0,2025-04-14 22:12:37
+user_21,Symphony 2000,EPMD,surprise,surprise,0,2025-05-06 19:45:37
+user_21,Cocksucker Blues,Rolling Stones,surprise,surprise,0,2025-04-10 07:23:37
+user_21,Bloodline,Heath Sanders,anger,anger,0,2025-05-09 09:47:37
+user_21,Hit Em Up Freestyle,BBC Radio,fear,fear,0,2025-05-04 16:47:37
+user_21,Desperate Man,Eric Church,sadness,sadness,0,2025-05-05 18:36:37
+user_21,Grim Peaks,Lil Revive,joy,joy,0,2025-04-26 16:13:37
+user_21,Bloodline,Heath Sanders,surprise,surprise,0,2025-04-17 21:05:37
+user_21,Gwaan,Dexta Daps,sadness,sadness,0,2025-04-27 16:43:37
+user_21,SUPER SOAKA,SosMula,surprise,surprise,0,2025-05-02 04:08:37
+user_21,Footstompin'music,Grand Funk Railroad,joy,joy,0,2025-04-10 17:06:37
+user_21,Where Is The Justice?,"Frank Wildhorn, Jack Murphy and Ivan Menchell",sadness,joy,1,2025-04-17 23:17:37
+user_21,Mickey's Monkey,Hollies,anger,joy,1,2025-04-14 05:37:37
+user_21,Wasatch Front,Dame D.O.L.L.A.,anger,anger,0,2025-04-23 23:33:37
+user_21,Hello Brother,Louis Armstrong,sadness,joy,1,2025-05-06 05:51:37
+user_21,Sweet Bird Of Youth,Nat King Cole,joy,joy,0,2025-04-16 21:35:37
+user_21,For The Love,Curtismith,surprise,surprise,0,2025-04-26 07:34:37
+user_21,Goodnight Moon - Demo,Go Radio,surprise,surprise,0,2025-05-01 02:39:37
+user_21,This is Our Time,WILD,sadness,joy,1,2025-04-24 23:37:37
+user_21,Huzzah,Mr. Muthafuckin eXquire,surprise,surprise,0,2025-04-25 12:49:37
+user_21,Glorious Ruins,Hillsong Worship,surprise,surprise,0,2025-05-06 16:56:37
+user_21,Pay Me Back,Rare Americans,anger,anger,0,2025-04-27 01:11:37
+user_21,Dont Rain On My Parade Santana Version,Glee Cast,anger,joy,1,2025-04-19 14:53:37
+user_21,My My Kind Of A Girl,Ramones,surprise,surprise,0,2025-05-02 09:36:37
+user_21,Portofino,Engelbert Humperdinck,anger,anger,0,2025-05-07 19:52:37
+user_21,Cold Like War,We Came as Romans,joy,joy,0,2025-04-19 12:55:37
+user_21,Come On Joe,George Strait,fear,fear,0,2025-04-17 01:02:37
+user_21,LIE TO ME,EARTHGANG,fear,fear,0,2025-04-22 10:30:37
+user_21,Tom Jerry,Ocean Wisdom,joy,joy,0,2025-04-13 09:06:37
+user_21,Fingertips,Tom Gregory,joy,joy,0,2025-04-12 18:40:37
+user_21,Habitual Love,Okay Kaya,sadness,joy,1,2025-04-16 16:34:37
+user_21,Fuck You Mean Night Vision Ep. 1,Future,love,love,0,2025-04-20 09:58:37
+user_21,I Know You See It,Yung Joc,love,love,0,2025-05-06 04:55:37
+user_21,Joy,PARTYNEXTDOOR,fear,fear,0,2025-04-13 12:55:37
+user_21,Milk,Sweet Trip,surprise,surprise,0,2025-04-24 20:18:37
+user_21,Treat You Better,YoungBoy Never Broke Again,surprise,surprise,0,2025-04-20 06:45:37
+user_21,I Love You,Heart,joy,joy,0,2025-04-29 09:09:37
+user_21,The Riddle,Gigi D'Agostino,anger,joy,1,2025-04-29 04:59:37
+user_21,Them Heavy People,Kate Bush,surprise,surprise,0,2025-04-27 15:07:37
+user_21,Goldfinger,Shirley Bassey,sadness,sadness,0,2025-04-19 09:20:37
+user_21,Icon Reggaeton Remix,Jaden,sadness,sadness,0,2025-04-27 09:03:37
+user_21,Doghouse,Neil Young,love,love,0,2025-04-10 17:55:37
+user_21,Cover Girl feat. Bebe Zahara Benet,RuPaul,anger,joy,1,2025-04-28 17:56:37
+user_21,Somewhere Along The Way,Natalie Cole,sadness,joy,1,2025-04-16 16:10:37
+user_21,I Promise You,Backstreet Boys,joy,joy,0,2025-04-26 15:00:37
+user_21,Santa Killas,Insane Clown Posse,anger,joy,1,2025-04-27 19:00:37
+user_21,Hurt Me Harder,Zolita,sadness,sadness,0,2025-04-10 21:37:37
+user_21,Eden,Hillsong Worship,love,love,0,2025-04-23 22:41:37
+user_21,Entering Your Heart,Roxette,fear,fear,0,2025-05-04 19:57:37
+user_21,What's So Good About Goodbye?,The Temptations,fear,fear,0,2025-05-01 10:44:37
+user_21,Sweetness,Jimmy Eat World,love,love,0,2025-04-16 10:52:37
+user_21,Incomplete The Puzzle Song,Thomas Sanders,joy,joy,0,2025-05-08 23:37:37
+user_21,Where You Are,Rascal Flatts,surprise,surprise,0,2025-04-12 09:22:37
+user_21,Mama Told Me,Big Boi,anger,joy,1,2025-05-01 19:43:37
+user_21,Wrong Nigga,A Boogie wit da Hoodie,fear,fear,0,2025-04-14 20:18:37
+user_21,Grubstake,Hail Mary Mallon,joy,joy,0,2025-05-03 04:59:37
+user_21,How I Feel,T.I.,fear,fear,0,2025-04-16 03:27:37
+user_21,Like 1999,Valley,sadness,joy,1,2025-05-02 13:14:37
+user_21,Happy Children,P. Lion,love,love,0,2025-04-23 00:13:37
+user_21,When I See You,Lil' Snupe,anger,joy,1,2025-04-15 19:21:37
+user_21,Moon Over Bourbon Street,Sting,sadness,joy,1,2025-04-20 14:08:37
+user_21,Lock All the Doors,Noel Gallagher's High Flying Birds,anger,joy,1,2025-04-18 01:48:37
+user_21,Im Sleepin In,King Gizzard & The Lizard Wizard,surprise,surprise,0,2025-04-19 03:59:37

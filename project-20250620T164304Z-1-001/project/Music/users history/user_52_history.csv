@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_52,My Anxiety,Cal Scruby,sadness,sadness,0,2025-04-29 22:02:52
+user_52,Iz U Down,Kid Ink,joy,joy,0,2025-04-15 00:28:52
+user_52,2011 BET Hip Hop Awards - Chris Brown Friends Cypher,BET,love,love,0,2025-04-21 17:31:52
+user_52,Corners,Dalton Domino,anger,anger,0,2025-04-28 03:21:52
+user_52,Static Age,Misfits,anger,joy,1,2025-05-02 14:53:52
+user_52,Free Draco,NoCap,fear,fear,0,2025-04-18 12:23:52
+user_52,Mona Lisa,Monte Booker,sadness,joy,1,2025-04-12 04:15:52
+user_52,Kansas Remembers Me Now,Orville Peck,sadness,sadness,0,2025-04-29 17:18:52
+user_52,Shoulda Coulda,RJmrLA,sadness,joy,1,2025-05-02 16:35:52
+user_52,Stone Cold,Elli Ingram,love,love,0,2025-04-26 17:16:52
+user_52,Fifty in Five,Hilltop Hoods,joy,joy,0,2025-04-27 19:17:52
+user_52,Off the Yak,Young M.A,sadness,joy,1,2025-04-13 09:05:52
+user_52,Importing,BONES,sadness,joy,1,2025-04-13 03:30:52
+user_52,Young,The Chainsmokers,fear,fear,0,2025-04-14 10:28:52
+user_52,Passing Through,Leonard Cohen,sadness,sadness,0,2025-04-17 07:15:52
+user_52,10 Bands,Drake,joy,joy,0,2025-04-23 22:19:52
+user_52,Need U 100%,Duke Dumont,joy,joy,0,2025-05-06 12:15:52
+user_52,Invasion The Realest,Eminem,anger,anger,0,2025-04-26 19:37:52
+user_52,I Dont Think About You,Kelly Clarkson,anger,joy,1,2025-05-08 16:46:52
+user_52,Soft and Wet,Prince,love,love,0,2025-04-19 08:15:52
+user_52,Several Species of Small Furry Animals Gathered Together in a Cave and Grooving With a Pict,Pink Floyd,joy,joy,0,2025-05-06 03:02:52
+user_52,Prologue: Into the Woods,Original Broadway Cast of Into the Woods,joy,joy,0,2025-05-01 00:46:52
+user_52,There Are Too Many of Us,Blur,love,love,0,2025-04-13 03:43:52
+user_52,Cant Deny Me,Pearl Jam,fear,fear,0,2025-04-20 21:31:52
+user_52,Talk To Me,Quarterflash,anger,anger,0,2025-04-13 00:17:52
+user_52,Mexican Sofa,Kirsty Maccoll,sadness,joy,1,2025-04-21 12:35:52
+user_52,Poetic Justice,Drake,sadness,joy,1,2025-05-07 07:27:52
+user_52,Annie,Rejjie Snow,anger,anger,0,2025-04-11 05:33:52
+user_52,Straight Edge Revenge,Project X (Band),fear,fear,0,2025-05-09 05:22:52
+user_52,Love Hater,Outkast,surprise,surprise,0,2025-04-28 04:56:52
+user_52,No Weakness,Octavian,sadness,sadness,0,2025-04-21 19:16:52
+user_52,Blinded in Chains,Avenged Sevenfold,anger,anger,0,2025-04-17 08:25:52
+user_52,Once a Day,Mac Miller,surprise,surprise,0,2025-05-03 00:36:52
+user_52,Cheering for Me Now,John Kander & Lin-Manuel Miranda,surprise,surprise,0,2025-04-30 10:06:52
+user_52,Cold Hard Heart,Bon Jovi,joy,joy,0,2025-04-29 22:28:52
+user_52,Rhinestone Cowboy,Loretta Lynn,joy,joy,0,2025-04-11 01:58:52
+user_52,"Oh Lord, You're Beautiful",Keith Green,love,love,0,2025-04-20 13:59:52
+user_52,Wake Up Call,Rittz,fear,fear,0,2025-04-17 07:40:52
+user_52,Spinning Around,Kylie Minogue,joy,joy,0,2025-04-26 06:49:52
+user_52,Starlight,Taylor Swift,surprise,surprise,0,2025-04-23 11:53:52
+user_52,Oh the Thinks You Can Think,Stephen Flaherty,sadness,sadness,0,2025-04-17 17:04:52
+user_52,Rollin With The Flow,Charlie Rich,surprise,surprise,0,2025-04-11 22:39:52
+user_52,Lets Go to Bed,The Cure,fear,fear,0,2025-05-03 04:55:52
+user_52,Now!,Scorpions,fear,fear,0,2025-05-02 09:54:52
+user_52,Charmaine,Frank Sinatra,anger,anger,0,2025-04-28 12:28:52
+user_52,Kiss No Frog,Lucky Dube,fear,fear,0,2025-04-29 06:51:52
+user_52,Rarri,A-Reece,love,love,0,2025-04-18 23:16:52
+user_52,Replay,Lady Gaga,sadness,sadness,0,2025-04-25 09:43:52
+user_52,Like An Arrow,Lucy Rose,love,love,0,2025-04-18 15:50:52
+user_52,Yellow Cloud,Trixie Mattel,joy,joy,0,2025-05-04 18:36:52
+user_52,Word of Mouth,Shakey Graves,anger,anger,0,2025-05-01 12:44:52
+user_52,Scratch My Back,Otis Redding,love,love,0,2025-04-24 22:54:52
+user_52,Lost In Hollywood,Rainbow,joy,joy,0,2025-05-02 20:15:52
+user_52,Follow Me,Rella,joy,joy,0,2025-05-05 01:32:52
+user_52,Gon Die,Merkules,anger,anger,0,2025-05-07 05:35:52
+user_52,What You Deserve,No Resolve,joy,joy,0,2025-05-02 16:05:52
+user_52,Losing Myself,Queensryche,anger,anger,0,2025-04-18 17:17:52
+user_52,I Need A Dollar,Chris Webby,surprise,surprise,0,2025-04-17 01:12:52
+user_52,Cashmere,Tkay Maidza,love,love,0,2025-04-29 20:51:52
+user_52,Kicker Of Elves,Guided By Voices,surprise,surprise,0,2025-04-17 09:11:52
+user_52,The New Year,Death Cab for Cutie,love,love,0,2025-05-05 04:52:52
+user_52,The Plug,Fabolous,fear,fear,0,2025-05-08 09:40:52
+user_52,Back In A US Made Car,Bob Rivers,joy,joy,0,2025-05-01 17:20:52
+user_52,Paradise,Frank Carter & The Rattlesnakes,joy,joy,0,2025-04-27 08:24:52
+user_52,I Know Im Losing You,The Temptations,anger,anger,0,2025-05-03 18:06:52
+user_52,Gemini,Princess Nokia,surprise,surprise,0,2025-04-11 05:48:52
+user_52,Waterbed,The Chainsmokers,surprise,surprise,0,2025-04-26 20:37:52
+user_52,Never Be Friends,The Game,love,love,0,2025-04-28 08:16:52
+user_52,Suitcase,Matthew Koma,fear,fear,0,2025-04-10 15:11:52
+user_52,If the Noose Fits,Ekoh,sadness,sadness,0,2025-05-07 05:28:52
+user_52,Ride It Out,Makeout,fear,fear,0,2025-04-24 03:13:52
+user_52,My Tequila,Rudy Mancuso,anger,joy,1,2025-04-13 00:33:52
+user_52,Youre Gonna Need Me,Dionne Warwick,fear,fear,0,2025-04-19 19:16:52
+user_52,Waltz in E-major Op. 15 Moon Waltz,Cojum Dip,love,love,0,2025-05-06 08:03:52
+user_52,Bide Your Time,Courteeners,anger,anger,0,2025-04-11 08:20:52
+user_52,7:24,Volbeat,anger,joy,1,2025-04-26 23:16:52
+user_52,The Immaculate Conception,Jedi Mind Tricks,surprise,surprise,0,2025-04-30 22:35:52
+user_52,Other Side of the Radio,Mike Ryan,surprise,surprise,0,2025-04-23 07:50:52
+user_52,Self-Immolate,King Gizzard & The Lizard Wizard,sadness,sadness,0,2025-04-19 12:40:52
+user_52,Mad About Bars,Ghetts,fear,fear,0,2025-05-04 14:53:52
+user_52,Lordvessel,Tanuki,fear,fear,0,2025-04-27 02:30:52
+user_52,Essence of Us,Emilie Adams,surprise,surprise,0,2025-04-10 21:45:52
+user_52,Cant Tell You No,Muscadine Bloodline,joy,joy,0,2025-05-08 00:38:52
+user_52,New Sky,SiR,joy,joy,0,2025-04-30 03:50:52
+user_52,Walk Up to Your House,Three 6 Mafia,sadness,joy,1,2025-04-10 10:57:52
+user_52,CXNCERN.,Scarlxrd,surprise,surprise,0,2025-04-15 18:33:52
+user_52,Hey Daddy,Korn,surprise,surprise,0,2025-04-21 15:41:52
+user_52,Another Way,Juice WRLD,anger,joy,1,2025-05-02 04:26:52
+user_52,1 Night,Tee Grizzley,joy,joy,0,2025-05-04 15:14:52
+user_52,Movie Time,Playboi Carti,sadness,sadness,0,2025-05-06 15:36:52
+user_52,Icy Colors Change,Azealia Banks,surprise,surprise,0,2025-04-22 13:49:52
+user_52,Road Rage Freestyle,Josh Tate (Little T),love,love,0,2025-04-15 09:33:52
+user_52,I Wish My Taylor Swift,The Knocks,anger,joy,1,2025-05-01 05:52:52
+user_52,La Da Dee,Cody Simpson,surprise,surprise,0,2025-04-27 19:57:52
+user_52,Move Closer,Tom Jones,sadness,joy,1,2025-05-03 08:09:52
+user_52,Come On 1st Take,The Notorious B.I.G.,sadness,joy,1,2025-04-24 03:08:52
+user_52,Check,Young M.A,surprise,surprise,0,2025-04-12 05:16:52
+user_52,Ocean Soul,Nightwish,anger,anger,0,2025-04-29 10:27:52
+user_52,R.I.P. Peep,Playboi Carti,anger,anger,0,2025-05-03 20:10:52
+user_52,Right Here,Jhen Aiko,love,love,0,2025-04-26 14:57:52

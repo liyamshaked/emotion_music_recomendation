@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_65,Louder Voice,Fit for a King,joy,joy,0,2025-04-21 11:46:58
+user_65,Welcome To The Fishbowl,Kenny Chesney,sadness,sadness,0,2025-04-29 23:29:58
+user_65,Think,Isley Brothers,sadness,joy,1,2025-04-24 02:09:58
+user_65,The Mollusk,Ween,surprise,surprise,0,2025-04-24 19:19:58
+user_65,When the Revolution Comes,The Last Poets,sadness,joy,1,2025-05-01 12:39:58
+user_65,Ngayong Wala Ka Na,Kyla,joy,joy,0,2025-04-18 04:28:58
+user_65,Twist,Nathan Sykes,surprise,surprise,0,2025-04-30 06:42:58
+user_65,Bring Me That Shit,Lanze,sadness,sadness,0,2025-04-10 16:57:58
+user_65,In The Dark,Tracy Chapman,anger,joy,1,2025-05-04 23:23:58
+user_65,Porn Remix,Greasy Chicken,fear,fear,0,2025-04-12 11:53:58
+user_65,Bank Closed,Chief Keef,sadness,sadness,0,2025-04-16 02:51:58
+user_65,Capricorn A Brand New Name,Thirty Seconds to Mars,fear,fear,0,2025-05-09 03:09:58
+user_65,​the bitch is mine,Ariana Grande & Njomza,fear,fear,0,2025-04-20 03:46:58
+user_65,Born To Touch Your Feelings,Scorpions,surprise,surprise,0,2025-05-05 23:04:58
+user_65,Can't Nobody Love You,Judds,sadness,joy,1,2025-04-17 22:21:58
+user_65,Unbreakable,Michael Jackson,love,love,0,2025-05-04 04:23:58
+user_65,V. I. P.,Ugly Kid Joe,fear,fear,0,2025-04-17 09:29:58
+user_65,Midnight,America,anger,anger,0,2025-04-27 05:09:58
+user_65,Hallucinations,Ace Hood,joy,joy,0,2025-04-30 17:13:58
+user_65,Cave,Muse,anger,anger,0,2025-04-24 11:51:58
+user_65,King Los Freestyle | L.A. Leakers Freestyle 095,King Los,joy,joy,0,2025-05-05 21:35:58
+user_65,I Didn't Know What Time It Was,Billie Holiday,love,love,0,2025-04-10 21:27:58
+user_65,Exless,Kate Stephenson,anger,anger,0,2025-05-05 08:18:58
+user_65,All is Soft Inside,AURORA,surprise,surprise,0,2025-04-28 14:31:58
+user_65,Erryday,Tyga,joy,joy,0,2025-04-12 19:46:58
+user_65,Halloween Night,Halloween,fear,fear,0,2025-05-02 16:32:58
+user_65,Squeezed Up,Drebo,sadness,sadness,0,2025-04-17 01:09:58
+user_65,Day Tripper,The Beatles,anger,joy,1,2025-05-06 06:13:58
+user_65,Cereal Killer,Quincy Punx,sadness,sadness,0,2025-04-14 01:41:58
+user_65,Early Spring Till,Nathaniel Rateliff,fear,fear,0,2025-05-06 23:48:58
+user_65,Piggies,Oingo Boingo,fear,fear,0,2025-04-19 16:09:58
+user_65,I Love You Lord,Petra,joy,joy,0,2025-04-28 07:03:58
+user_65,Monday Monday,Wilson Phillips,joy,joy,0,2025-04-13 10:57:58
+user_65,Candy Coated Suicide,Night Club,surprise,surprise,0,2025-04-11 04:51:58
+user_65,Unfuckwitable,Fabolous,anger,anger,0,2025-04-20 07:36:58
+user_65,All I Want Is You,Glen Campbell,surprise,surprise,0,2025-04-30 00:29:58
+user_65,Who Shot Ya?,The Notorious B.I.G.,love,love,0,2025-04-20 02:24:58
+user_65,YOLO,The Lonely Island,surprise,surprise,0,2025-04-12 00:37:58
+user_65,Executive Decision,The Firm,joy,joy,0,2025-04-16 19:11:58
+user_65,Flexin and Finessin,Speaker Knockerz,love,love,0,2025-05-07 14:57:58
+user_65,DMV Intro,Hoodrich Pablo Juan,sadness,sadness,0,2025-05-02 23:49:58
+user_65,Fear nothing,2Pac,joy,joy,0,2025-04-15 14:08:58
+user_65,Basic,Sigrid,surprise,surprise,0,2025-04-19 01:12:58
+user_65,All of This Jorja Smith X Guilty Beatz,Jorja Smith,surprise,surprise,0,2025-05-03 17:29:58
+user_65,Quit Demo,Ariana Grande,joy,joy,0,2025-04-23 23:31:58
+user_65,Kiss My Ass Goodbye,7 Year Bitch,fear,fear,0,2025-04-21 15:59:58
+user_65,Macaulay Culkin,JPEGMAFIA,sadness,joy,1,2025-04-11 03:21:58
+user_65,Future Nostalgia,Dua Lipa,joy,joy,0,2025-04-25 07:58:58
+user_65,All Is On My Side,Sam Fender,surprise,surprise,0,2025-04-30 23:59:58
+user_65,Boosie Love,Boosie Badazz,love,love,0,2025-04-23 15:13:58
+user_65,Venting,Blac Youngsta,anger,anger,0,2025-05-04 01:43:58
+user_65,Answer,Gucci Mane,love,love,0,2025-04-17 20:43:58
+user_65,If Youre Happy and You Know It,The Children,sadness,joy,1,2025-04-30 20:01:58
+user_65,Intro KOD,J. Cole,sadness,sadness,0,2025-04-30 17:48:58
+user_65,Idiot Wind,Bob Dylan,joy,joy,0,2025-05-03 08:44:58
+user_65,As Good As A Lonely Girl Can Be,Conway Twitty,surprise,surprise,0,2025-05-05 18:02:58
+user_65,Mann Mein Kisi Ki Preet Basa Le,Lata Mangeshkar,sadness,joy,1,2025-04-26 18:58:58
+user_65,Oceanic Feeling,Lorde,love,love,0,2025-04-20 14:34:58
+user_65,Kissing on my tattos remix,Ashley bautista,love,love,0,2025-05-01 17:23:58
+user_65,The Faded Line,Lamb of God,love,love,0,2025-05-08 16:37:58
+user_65,Pain Game,D-Block Europe,sadness,sadness,0,2025-04-18 20:36:58
+user_65,Go Go Go Go,89ers,joy,joy,0,2025-04-27 22:16:58
+user_65,Speedin Bullet 2 Heaven,Kid Cudi,joy,joy,0,2025-04-17 17:51:58
+user_65,I Wont Break,Julia Samoylova,sadness,sadness,0,2025-04-17 16:28:58
+user_65,London Boys,David Bowie,surprise,surprise,0,2025-04-12 20:58:58
+user_65,Fine Romance,Bing Crosby,love,love,0,2025-05-03 04:52:58
+user_65,1994,Alec Benjamin,surprise,surprise,0,2025-04-23 18:49:58
+user_65,Im a Mother,Perfume Genius,love,love,0,2025-05-02 16:13:58
+user_65,Open Your Heart,Birdy,love,love,0,2025-04-26 02:23:58
+user_65,Been Around the World,August Alsina,joy,joy,0,2025-04-26 17:24:58
+user_65,1 2 3,Indigo Girls,surprise,surprise,0,2025-05-02 23:25:58
+user_65,6 in the Morning,D12,surprise,surprise,0,2025-05-04 05:49:58
+user_65,I Can See Clearly Now,Jimmy Cliff,sadness,joy,1,2025-04-29 16:32:58
+user_65,In the Heat of the Night,Sandra,anger,anger,0,2025-04-21 20:22:58
+user_65,Jenny from the Block,Jennifer Lopez,sadness,joy,1,2025-04-27 23:00:58
+user_65,Salome,U2,sadness,sadness,0,2025-04-25 04:23:58
+user_65,A Little Too Much,Shawn Mendes,sadness,sadness,0,2025-05-01 02:39:58
+user_65,Dreams,John Legend,love,love,0,2025-04-19 09:34:58
+user_65,Brotherhood of the Snake,Testament,joy,joy,0,2025-04-28 17:54:58
+user_65,Gravedigger,Dave Matthews Band,anger,anger,0,2025-04-13 19:49:58
+user_65,Im Trippin,Snap Dogg,anger,anger,0,2025-04-12 15:05:58
+user_65,Blinding Lights Chromatics Remix,The Weeknd,love,love,0,2025-04-22 21:59:58
+user_65,Love Is The Seventh Wave,Sting,fear,fear,0,2025-05-03 01:31:58
+user_65,Cuz My Gear,Chief Keef & RiFF RAFF,joy,joy,0,2025-04-17 10:06:58
+user_65,Witchcraft,Frank Sinatra,sadness,sadness,0,2025-04-30 07:14:58
+user_65,If I Should Lose You,Nina Simone,anger,anger,0,2025-04-23 12:47:58
+user_65,Zero,Crown The Empire,love,love,0,2025-04-29 13:11:58
+user_65,That's My Desire,Frankie Laine,fear,fear,0,2025-04-28 03:13:58
+user_65,B Electric,Jaden,anger,anger,0,2025-04-24 01:37:58
+user_65,Hocus Pocus,DJ Kay Slay & Blueface,love,love,0,2025-04-20 04:11:58
+user_65,Vibrate,OutKast,sadness,sadness,0,2025-04-23 19:45:58
+user_65,Closer,FKA twigs,love,love,0,2025-04-22 14:26:58
+user_65,Sit Down John,William Daniels,surprise,surprise,0,2025-04-22 19:51:58
+user_65,The Pledge Remix,Ja Rule,joy,joy,0,2025-05-07 06:18:58
+user_65,Hunned Bandz,Tanukichan,sadness,sadness,0,2025-05-01 12:59:58
+user_65,Lil Peep the Full Collection Fan Made Discography,FISPACE,surprise,surprise,0,2025-04-23 22:19:58
+user_65,All Your Love,K'La,joy,joy,0,2025-05-07 11:11:58
+user_65,Let 'em In,Paul McCartney,sadness,joy,1,2025-04-13 15:05:58
+user_65,Fuego,Phish,surprise,surprise,0,2025-04-15 17:50:58
+user_65,Stoned In Love,Tom Jones,sadness,sadness,0,2025-04-19 13:46:58

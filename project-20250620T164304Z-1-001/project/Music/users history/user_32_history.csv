@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_32,Spirit Crusher,Death,surprise,surprise,0,2025-05-05 21:08:43
+user_32,Dear Mr. Fantasy,Traffic,fear,fear,0,2025-04-15 06:29:43
+user_32,Give Thanks,Henry Smith,fear,fear,0,2025-04-17 08:23:43
+user_32,Buzzcity Talking,XTC,surprise,surprise,0,2025-04-18 04:47:43
+user_32,Parallels,Yes,fear,fear,0,2025-04-22 00:24:43
+user_32,LALISA,LISA,sadness,sadness,0,2025-04-10 07:18:43
+user_32,Jesse,Carly Simon,anger,anger,0,2025-05-03 11:36:43
+user_32,Sierra,Maddie & Tae,fear,fear,0,2025-05-02 01:56:43
+user_32,Say Youll Never Go,Erik Santos,surprise,surprise,0,2025-04-12 13:47:43
+user_32,Highway 29,Bruce Springsteen,fear,fear,0,2025-04-11 05:31:43
+user_32,Addicted,The Night Caf,sadness,sadness,0,2025-04-25 00:00:43
+user_32,Neva Go Back,Big K.R.I.T.,anger,joy,1,2025-04-30 13:27:43
+user_32,Crab,Alex G,fear,fear,0,2025-04-30 07:45:43
+user_32,Soul To Squeeze,Red Hot Chili Peppers,love,love,0,2025-04-12 21:45:43
+user_32,Surabaya Johnny,Bette Midler,surprise,surprise,0,2025-04-16 01:19:43
+user_32,Sugar,Robin Schulz,fear,fear,0,2025-05-02 22:15:43
+user_32,Help!,Glee,fear,fear,0,2025-04-29 13:47:43
+user_32,Fades Em All,Jamal,joy,joy,0,2025-04-19 00:21:43
+user_32,Knock Your Block Off,Jme,joy,joy,0,2025-05-01 22:21:43
+user_32,I Long for Rest,AngelMaker,love,love,0,2025-05-03 08:45:43
+user_32,Damaged Goods,Gang of Four,love,love,0,2025-04-13 00:25:43
+user_32,Gravity,Lecrae,love,love,0,2025-04-26 12:20:43
+user_32,God Is a Freak,Peach PRC,anger,anger,0,2025-04-28 19:28:43
+user_32,Hollow,Cochise,anger,joy,1,2025-05-05 08:06:43
+user_32,Kamsahamnida Live,planetboom,surprise,surprise,0,2025-05-03 10:57:43
+user_32,Lethal Presence,Night Lovell,surprise,surprise,0,2025-04-12 05:42:43
+user_32,On Top,Flume,surprise,surprise,0,2025-04-12 16:15:43
+user_32,I Wont Send Roses,Robert Preston,love,love,0,2025-04-16 09:48:43
+user_32,Only With You,Roy Orbison,sadness,joy,1,2025-05-07 10:56:43
+user_32,Weakness,Don Q,anger,joy,1,2025-04-24 03:45:43
+user_32,Kick In The Door,XXXTENTACION & Coolie Pak,fear,fear,0,2025-05-04 10:52:43
+user_32,Listen to the Man,George Ezra,joy,joy,0,2025-04-30 12:06:43
+user_32,Saturday Night's Alright,Who,surprise,surprise,0,2025-04-24 08:44:43
+user_32,The Mission,Bakar,surprise,surprise,0,2025-04-29 13:34:43
+user_32,Glory of Love,Peter Cetera,anger,anger,0,2025-05-03 03:09:43
+user_32,More Than Friends,Jason Mraz,love,love,0,2025-04-18 16:02:43
+user_32,Toothbrush,DNCE,joy,joy,0,2025-04-13 06:02:43
+user_32,Night Train To Lorca,Pogues,anger,anger,0,2025-04-19 11:58:43
+user_32,Arise Dear Brother,Archy Marshall,surprise,surprise,0,2025-05-03 08:09:43
+user_32,1242am,9TAILS,love,love,0,2025-05-03 06:41:43
+user_32,Straight Through The Heart,Uriah Heep,anger,anger,0,2025-04-20 02:04:43
+user_32,Oh What A Night,Wyclef Jean,fear,fear,0,2025-05-02 12:32:43
+user_32,1017 Mafia,Young Thug,surprise,surprise,0,2025-04-12 07:19:43
+user_32,All That's Mine,Depeche Mode,love,love,0,2025-04-09 19:35:43
+user_32,Sirens,Melanie Martinez,love,love,0,2025-04-27 17:27:43
+user_32,Its Alright Now,Bombay Bicycle Club,love,love,0,2025-04-18 17:54:43
+user_32,First Defeat,Noah Gundersen,surprise,surprise,0,2025-05-02 08:44:43
+user_32,Easy E Got AIDS from Freddie Mercury,AxCx,surprise,surprise,0,2025-05-09 09:11:43
+user_32,One Year Of Live,Queen,sadness,sadness,0,2025-04-15 21:40:43
+user_32,Vibes,Tove Lo,surprise,surprise,0,2025-05-03 05:32:43
+user_32,What The Hell Have I?,Alice In Chains,fear,fear,0,2025-04-24 16:44:43
+user_32,People Gotta Move,Gino Vannelli,surprise,surprise,0,2025-05-03 06:17:43
+user_32,Questions,Chris Brown,fear,fear,0,2025-04-28 02:13:43
+user_32,Antichrist Television Blues,Arcade Fire,sadness,sadness,0,2025-04-15 05:33:43
+user_32,Tails,With Confidence,love,love,0,2025-04-25 03:28:43
+user_32,Is That The Thanks I Get,Rod Stewart,love,love,0,2025-05-01 13:06:43
+user_32,Dick Lips,Zero Cosby,sadness,sadness,0,2025-04-10 23:10:43
+user_32,Walk Away,Frenna,love,love,0,2025-04-28 12:43:43
+user_32,Skills in Pills,Lindemann,surprise,surprise,0,2025-04-25 06:24:43
+user_32,Break My Stride,Matthew Wilder,love,love,0,2025-04-26 16:53:43
+user_32,Horizons Into Battlegrounds,Woodkid,joy,joy,0,2025-05-06 21:02:43
+user_32,Dun Rich,Popcaan,sadness,joy,1,2025-04-16 17:05:43
+user_32,Violet,Deafheaven,sadness,sadness,0,2025-04-10 15:34:43
+user_32,Welcome to Jamrock,Damian Marley,fear,fear,0,2025-04-23 19:59:43
+user_32,One for My Baby And One More for the Road,Frank Sinatra,love,love,0,2025-05-08 10:46:43
+user_32,Be Like Me,Lil Pump,joy,joy,0,2025-05-07 06:41:43
+user_32,I Cant Get Started,Ella Fitzgerald,joy,joy,0,2025-04-30 23:26:43
+user_32,Wrong Direction,Hailee Steinfeld,love,love,0,2025-04-16 17:15:43
+user_32,The Broad Majestic Shannon,The Pogues,sadness,sadness,0,2025-04-24 03:11:43
+user_32,Do I Ever Cross Your Mind,Tom Jones,sadness,joy,1,2025-04-16 21:33:43
+user_32,The Lakes of Pontchartrain,Paul Brady,joy,joy,0,2025-04-14 01:09:43
+user_32,Remember Me? 2019,Abra Cadabra,fear,fear,0,2025-05-08 18:30:43
+user_32,Troublemaker,Flo-Rida,fear,fear,0,2025-05-04 10:07:43
+user_32,Queen of Hearts,Ezra Furman,love,love,0,2025-04-19 21:20:43
+user_32,Execution,ANOHNI,surprise,surprise,0,2025-05-09 08:38:43
+user_32,Fresh,Lil Wayne,surprise,surprise,0,2025-04-17 00:52:43
+user_32,Tearing It Down,Hanson,surprise,surprise,0,2025-04-15 12:51:43
+user_32,Lamour Toujours Ill Fly With You,Gigi D'Agostino,fear,fear,0,2025-05-03 01:29:43
+user_32,Rollin' Man,Fleetwood Mac,love,love,0,2025-04-28 19:03:43
+user_32,Daily Duppy,Aitch,sadness,sadness,0,2025-05-09 01:23:43
+user_32,Big Hoes,YN Jay,surprise,surprise,0,2025-04-17 08:28:43
+user_32,All Of My Life,Diana Ross,love,love,0,2025-05-04 12:48:43
+user_32,Zoned,Jaden,fear,fear,0,2025-05-02 23:33:43
+user_32,He Could Show Me,Barbra Streisand,fear,fear,0,2025-05-02 01:20:43
+user_32,Stan,6LACK,fear,fear,0,2025-04-26 07:26:43
+user_32,Parallel Universe,Red Hot Chili Peppers,surprise,surprise,0,2025-04-19 12:36:43
+user_32,Where I Belong Intro,Tori Kelly,anger,anger,0,2025-04-26 23:48:43
+user_32,Cunt Make It Up,Sleaford Mods,love,love,0,2025-04-11 03:10:43
+user_32,Official,Yatta,anger,anger,0,2025-05-08 01:17:43
+user_32,In tha Morning,YG,anger,joy,1,2025-04-11 02:18:43
+user_32,Squidwards Nose,KG Smokey,sadness,sadness,0,2025-04-10 14:13:43
+user_32,Gypsy Disco,Emmure,fear,fear,0,2025-05-07 06:23:43
+user_32,Bottle Rockets,Face To Face,fear,fear,0,2025-04-10 04:21:43
+user_32,Slow Down,Fabolous,sadness,sadness,0,2025-04-17 00:03:43
+user_32,All I Know So Far,P!nk,love,love,0,2025-04-11 02:38:43
+user_32,Coolie boy,Mystic Romeo Nermal,anger,joy,1,2025-04-22 21:12:43
+user_32,Miracle,Bon Jovi,surprise,surprise,0,2025-04-22 15:21:43
+user_32,Poison,Xavier Omr,joy,joy,0,2025-04-29 19:35:43
+user_32,Places to Go,50 Cent,sadness,joy,1,2025-04-24 10:04:43
+user_32,Forever,Supertramp,sadness,joy,1,2025-05-08 06:26:43

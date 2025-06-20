@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_96,I Dont Mind,ZAYN,fear,fear,0,2025-04-15 20:12:14
+user_96,Words,Tom Jones,love,love,0,2025-04-10 20:17:14
+user_96,Thinking About You,Hardwell,joy,joy,0,2025-04-16 09:40:14
+user_96,Down Out,Big K.R.I.T.,sadness,joy,1,2025-04-20 21:20:14
+user_96,Perfect Situation,Weezer,fear,fear,0,2025-04-21 23:55:14
+user_96,In Blood,Parkway Drive,fear,fear,0,2025-04-14 09:12:14
+user_96,Ordinary Joe,Nujabes,fear,fear,0,2025-05-03 04:04:14
+user_96,Gimme Yours,AZ,joy,joy,0,2025-04-19 10:04:14
+user_96,Last Train to Trancentral,The KLF,joy,joy,0,2025-04-16 01:44:14
+user_96,I Dont Wanna Be Your Lover,Jayliana,fear,fear,0,2025-04-15 23:18:14
+user_96,22nd Winter,Tyler Childers,surprise,surprise,0,2025-04-11 07:05:14
+user_96,Road to Nowhere,Ozzy Osbourne,love,love,0,2025-04-17 00:14:14
+user_96,Money,Mia Vaile,surprise,surprise,0,2025-04-14 00:46:14
+user_96,Drifter,Falling in Reverse,love,love,0,2025-05-08 12:49:14
+user_96,What in the World,David Bowie,fear,fear,0,2025-04-22 00:27:14
+user_96,Shotta,Young Nudy & Pi'erre Bourne,anger,anger,0,2025-04-16 16:56:14
+user_96,Reverse,svrite,fear,fear,0,2025-04-24 08:09:14
+user_96,Figure Eight,Schoolhouse Rock,sadness,joy,1,2025-05-05 00:39:14
+user_96,Al Dente,Jack Stauber's Micropop,surprise,surprise,0,2025-05-02 00:23:14
+user_96,Shadow Of Doubt,Bonnie Raitt,love,love,0,2025-04-20 17:58:14
+user_96,FADE AWAY,XAM (@xamhki),fear,fear,0,2025-04-14 11:20:14
+user_96,Lordship,Bladee,surprise,surprise,0,2025-05-07 19:36:14
+user_96,Meeting In My Bedroom,Silk,sadness,sadness,0,2025-04-30 09:34:14
+user_96,Underwater,MIKA,fear,fear,0,2025-05-04 10:18:14
+user_96,Frequently,UMI,surprise,surprise,0,2025-04-13 00:18:14
+user_96,Rock Yo Hips,Crime Mob,joy,joy,0,2025-04-15 12:40:14
+user_96,Every Pore,Tamino,surprise,surprise,0,2025-04-25 08:30:14
+user_96,The Chaconne,Dessa,surprise,surprise,0,2025-05-07 13:46:14
+user_96,King Of All The World,Old 97's,love,love,0,2025-04-28 18:33:14
+user_96,Youre A Mean One Mr. Grinch,The Venetia Fair,surprise,surprise,0,2025-04-11 19:19:14
+user_96,So Nice So Smart,Kimya Dawson,surprise,surprise,0,2025-05-02 05:07:14
+user_96,Together,Selah Sue,love,love,0,2025-04-20 08:22:14
+user_96,High Price Of Hate,Toto,fear,fear,0,2025-04-21 21:14:14
+user_96,Golden Moments,James Taylor,sadness,joy,1,2025-04-29 11:23:14
+user_96,No Business Like Love Business,Leo Sayer,fear,fear,0,2025-04-14 23:46:14
+user_96,Ready,Joey Bada$$,surprise,surprise,0,2025-04-21 10:06:14
+user_96,Telepathic,STARSET,surprise,surprise,0,2025-04-27 05:54:14
+user_96,Till the End of Time,Mariah Carey,surprise,surprise,0,2025-05-07 22:55:14
+user_96,This Celluloid Dream,AFI,love,love,0,2025-04-23 13:33:14
+user_96,Snow,BONES,anger,anger,0,2025-04-10 01:39:14
+user_96,Paper Planes Afrikan Boy Rye Rye Remix,M.I.A.,anger,joy,1,2025-04-23 08:32:14
+user_96,Trap Queen Remix,Montana of 300,anger,anger,0,2025-04-17 19:08:14
+user_96,Hood Intentions,YoungBoy Never Broke Again,anger,anger,0,2025-04-21 03:29:14
+user_96,Slow Dance,AJ Mitchell,fear,fear,0,2025-04-11 06:01:14
+user_96,Killem All,KING 810,surprise,surprise,0,2025-04-19 21:01:14
+user_96,On The Wings Of A Dream,John Denver,sadness,sadness,0,2025-04-14 15:35:14
+user_96,Off The Strength,Russ,fear,fear,0,2025-05-07 06:21:14
+user_96,Still A Go Lose,Tanya Stephens,sadness,sadness,0,2025-04-22 03:07:14
+user_96,Hard To Say,Dan Fogelberg,fear,fear,0,2025-04-12 05:34:14
+user_96,Knocking On My Door,Modern Talking,anger,anger,0,2025-05-06 00:53:14
+user_96,VENGEANCE | VENGEANCE,Denzel Curry,surprise,surprise,0,2025-04-25 12:20:14
+user_96,Make It Rain,Ed Sheeran,fear,fear,0,2025-04-14 21:04:14
+user_96,My Manic and I,Laura Marling,anger,anger,0,2025-04-11 19:06:14
+user_96,My Baby Just Cares For Me,George Michael,love,love,0,2025-05-09 08:20:14
+user_96,CrayCray,Young Dolph,surprise,surprise,0,2025-04-28 16:10:14
+user_96,Fear Is Not My Guide,Demon Hunter,fear,fear,0,2025-04-25 14:54:14
+user_96,Lost Files,Wiz Khalifa,love,love,0,2025-04-15 23:00:14
+user_96,Watch Out: A Navi Song,Random Encounters,anger,anger,0,2025-05-08 18:31:14
+user_96,Stay High,Juice WRLD,love,love,0,2025-04-27 19:04:14
+user_96,Dont Let Me Be Misunderstood,The Animals,fear,fear,0,2025-04-25 00:55:14
+user_96,Flower,Soundgarden,surprise,surprise,0,2025-05-06 11:17:14
+user_96,Slow Down,The Academy Is...,love,love,0,2025-04-24 17:34:14
+user_96,Ayo Remix,Iamsu!,surprise,surprise,0,2025-04-13 12:23:14
+user_96,Castles Made of Sand,The Jimi Hendrix Experience,anger,anger,0,2025-04-21 13:41:14
+user_96,The Things We Believe In,Orden Ogan,love,love,0,2025-04-20 18:04:14
+user_96,Crying Time,Dean Martin,joy,joy,0,2025-05-04 03:17:14
+user_96,Tomorrow,Eddy B & Tim Gunter,anger,anger,0,2025-04-13 23:41:14
+user_96,Bang That,Disclosure,anger,joy,1,2025-05-02 03:41:14
+user_96,Evergreen,Roy Orbison,sadness,joy,1,2025-04-28 11:02:14
+user_96,Life We Live,Jah Cure,surprise,surprise,0,2025-04-16 04:01:14
+user_96,Dont Look Down,Martin Garrix,joy,joy,0,2025-04-16 15:18:14
+user_96,I Lost Myself,Munn,joy,joy,0,2025-04-30 06:48:14
+user_96,First Day Out,Chief Keef,surprise,surprise,0,2025-05-08 15:47:14
+user_96,LIQUID,BROCKHAMPTON,sadness,sadness,0,2025-04-23 07:21:14
+user_96,Becky,McCafferty,anger,anger,0,2025-04-20 16:49:14
+user_96,Her Name is Alice,Shinedown,sadness,sadness,0,2025-05-06 06:09:14
+user_96,Phoenix,League of Legends,sadness,joy,1,2025-04-11 00:52:14
+user_96,Dyers Eve,Metallica,fear,fear,0,2025-04-19 12:53:14
+user_96,Orange Horizons,Jack Kennedy,sadness,sadness,0,2025-04-23 22:49:14
+user_96,Perfect World,Peter Cetera,anger,anger,0,2025-04-12 13:14:14
+user_96,Minute Maid,Martinigotthacid,sadness,sadness,0,2025-05-04 04:39:14
+user_96,Treeshiana,J.I the Prince of N.Y,anger,joy,1,2025-04-26 19:40:14
+user_96,Ancients,Gary Numan,fear,fear,0,2025-04-22 06:29:14
+user_96,You Dont Have to Go,The War on Drugs,fear,fear,0,2025-05-01 21:32:14
+user_96,Rubbin Off The Paint Remix,Bhad Bhabie,anger,joy,1,2025-04-24 20:46:14
+user_96,The Judges Daughter,Green Day,joy,joy,0,2025-04-29 11:47:14
+user_96,Nimrodel/The Procession/The White Rider,Camel,surprise,surprise,0,2025-04-12 09:24:14
+user_96,Julie Don't Live Here,Electric Light Orchestra,joy,joy,0,2025-04-11 12:19:14
+user_96,When The Stone Begins To Turn,Jackson Browne,surprise,surprise,0,2025-04-29 22:54:14
+user_96,Take It From Here,Justin Timberlake,fear,fear,0,2025-04-11 18:46:14
+user_96,Me U Hennessy,DeJ Loaf,love,love,0,2025-04-12 20:06:14
+user_96,Freedom,Jimi Hendrix,anger,anger,0,2025-04-29 20:32:14
+user_96,Our Love,Donna Summer,anger,anger,0,2025-04-26 07:03:14
+user_96,Out Of The Blue,Roxy Music,fear,fear,0,2025-04-19 08:52:14
+user_96,Mac Arthur Park,Donna Summer,sadness,joy,1,2025-05-08 08:20:14
+user_96,Nobodys Safe,Juelz Santana,sadness,joy,1,2025-05-06 17:17:14
+user_96,Keep On Keepin On,MC Lyte,sadness,sadness,0,2025-04-30 14:16:14
+user_96,Pablow the Blowfish,Miley Cyrus,anger,anger,0,2025-04-26 14:07:14
+user_96,Do You Want To Play House,Nazareth,love,love,0,2025-05-05 04:57:14
+user_96,About The Money,T.I.,fear,fear,0,2025-04-29 09:00:14

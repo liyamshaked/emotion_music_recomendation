@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_56,Simple Song,Miley Cyrus,sadness,sadness,0,2025-04-19 01:07:54
+user_56,Are You All Good?,breathe.,joy,joy,0,2025-04-13 15:20:54
+user_56,Thats Us/Wild Combination,Arthur Russell,fear,fear,0,2025-04-18 22:19:54
+user_56,Spirit Of Freedom,Uriah Heep,anger,joy,1,2025-04-18 18:10:54
+user_56,Choli ke peeche,Bally Sagoo,anger,joy,1,2025-04-13 01:50:54
+user_56,Hey Runner,The Arcadian Wild,joy,joy,0,2025-04-24 20:26:54
+user_56,Round Here Buzz,Eric Church,love,love,0,2025-04-28 09:34:54
+user_56,First Year Blues,Hank Williams,fear,fear,0,2025-05-05 02:52:54
+user_56,What Im Doing Here,Lake Street Dive,surprise,surprise,0,2025-04-13 07:07:54
+user_56,Autumn,Brandon Banks,joy,joy,0,2025-04-28 17:07:54
+user_56,Double Shifts,Charlotte Cardin,fear,fear,0,2025-04-17 10:21:54
+user_56,Foolish Fool,Sublime,surprise,surprise,0,2025-04-30 05:19:54
+user_56,Imagination,Quadeca,anger,joy,1,2025-04-19 04:23:54
+user_56,Seasons of Love,Cast of the Motion Picture 'Rent',joy,joy,0,2025-05-01 02:39:54
+user_56,Starlight,Childish Gambino,love,love,0,2025-04-13 23:59:54
+user_56,The Haunting Somewhere in Time,Kamelot,joy,joy,0,2025-05-02 01:39:54
+user_56,Star of Bethlehem,John Williams,anger,joy,1,2025-04-26 12:49:54
+user_56,Hell 4 a Hustler Original Version,2Pac,anger,anger,0,2025-04-13 04:43:54
+user_56,SPICY,CL,love,love,0,2025-04-29 01:33:54
+user_56,If I Have Not Love,Matt Redman,love,love,0,2025-04-19 06:28:54
+user_56,Back To Front,Kinks,surprise,surprise,0,2025-04-27 02:38:54
+user_56,Take It Slow,Lady Gaga,joy,joy,0,2025-05-07 10:01:54
+user_56,Fantasy Theme,Kevin Krauter,sadness,joy,1,2025-04-25 21:50:54
+user_56,Sixteen Days / Gathering Dust,This Mortal Coil,anger,anger,0,2025-04-29 10:55:54
+user_56,Gone At Last,Paul Simon,love,love,0,2025-05-03 11:22:54
+user_56,Nice Slow,Usher,surprise,surprise,0,2025-04-28 22:38:54
+user_56,Skepta Diss,Devilman,joy,joy,0,2025-04-22 02:44:54
+user_56,BTS - Awake English Translation,Genius English Translations,sadness,joy,1,2025-04-25 11:30:54
+user_56,Anniversary of an Uninteresting Event,Deftones,fear,fear,0,2025-05-04 11:52:54
+user_56,Movin Too Fast,Migos,fear,fear,0,2025-04-23 18:31:54
+user_56,Space,Noa,love,love,0,2025-04-28 21:11:54
+user_56,Action,Lil Wayne,fear,fear,0,2025-04-20 11:40:54
+user_56,No One To Blame,Ramones,surprise,surprise,0,2025-04-12 17:55:54
+user_56,Just Want To Praise You,Indiana Bible College,fear,fear,0,2025-04-10 10:54:54
+user_56,VEX,slowthai,love,love,0,2025-05-07 21:59:54
+user_56,Paranoid,Juice WRLD,love,love,0,2025-04-16 15:30:54
+user_56,The Gentleman Soldier,Pogues,love,love,0,2025-04-16 03:30:54
+user_56,Devils Never Cry,Capcom,fear,fear,0,2025-04-28 01:41:54
+user_56,From Heads Unworthy,Rise Against,surprise,surprise,0,2025-04-15 17:03:54
+user_56,Honey Bad Boy Remix,Mariah Carey,joy,joy,0,2025-04-27 05:56:54
+user_56,Tie Her Down,Senses Fail,sadness,sadness,0,2025-04-13 00:17:54
+user_56,With All Of My Heart,BeBe Winans,anger,anger,0,2025-04-23 05:17:54
+user_56,I Can Make You a Man Reprise,Richard O'Brien,love,love,0,2025-05-09 07:11:54
+user_56,I Want It That Way Remix,Chance the Rapper & Backstreet Boys,anger,joy,1,2025-04-13 19:18:54
+user_56,Cure For Love,Bonnie Raitt,joy,joy,0,2025-04-18 08:51:54
+user_56,Pomp and Pride,Toots & The Maytals,surprise,surprise,0,2025-04-13 08:00:54
+user_56,Santa Monica,Everclear,fear,fear,0,2025-04-30 04:48:54
+user_56,Toxicc,Crimewave,fear,fear,0,2025-05-06 01:39:54
+user_56,Best Part of Me,Ed Sheeran,fear,fear,0,2025-05-02 23:56:54
+user_56,Next To You,Sting,joy,joy,0,2025-04-15 20:11:54
+user_56,Ruling Me,Weezer,sadness,sadness,0,2025-05-01 02:22:54
+user_56,Chic Tweetz,The Desert Sessions,surprise,surprise,0,2025-04-12 22:34:54
+user_56,Off the Yak,Young M.A,love,love,0,2025-05-04 21:29:54
+user_56,DMC 2.0,V9,anger,anger,0,2025-04-21 15:46:54
+user_56,Big Ten Inch Record,Aerosmith,fear,fear,0,2025-04-20 01:54:54
+user_56,Cynical,Extreme,surprise,surprise,0,2025-04-25 11:51:54
+user_56,Not All Who Wander Are Lost,Lana Del Rey,fear,fear,0,2025-04-14 18:49:54
+user_56,Ok Youre Right,50 Cent,surprise,surprise,0,2025-04-19 19:17:54
+user_56,All About Tha Boom,Mikey Rukus,sadness,joy,1,2025-04-13 14:16:54
+user_56,This Is Not Your Life,Train,sadness,sadness,0,2025-05-08 04:57:54
+user_56,Kasimir S. Pulaski Day,Big Black,fear,fear,0,2025-04-11 16:52:54
+user_56,If Love Is Out Of The Question,Celine Dion,surprise,surprise,0,2025-04-30 05:28:54
+user_56,Lovetripper,CUCO,anger,joy,1,2025-04-10 08:52:54
+user_56,Rain King,Counting Crows,joy,joy,0,2025-04-12 11:06:54
+user_56,Helter Skelter,Oasis,sadness,joy,1,2025-04-18 04:19:54
+user_56,Volvo,Kota the Friend,surprise,surprise,0,2025-04-10 09:41:54
+user_56,Holiday Inn Blues,Neil Diamond,sadness,joy,1,2025-04-12 12:38:54
+user_56,Unlikely Lovers,2016 Broadway Cast of Falsettos,love,love,0,2025-04-15 00:49:54
+user_56,Youre My Only Destiny,Bring Me The Horizon,sadness,sadness,0,2025-04-24 06:21:54
+user_56,Body and Soul,Billie Holiday,surprise,surprise,0,2025-04-24 20:14:54
+user_56,Calico Skies,Paul McCartney,fear,fear,0,2025-04-14 11:54:54
+user_56,Your Mama Don't Dance,Poison,sadness,joy,1,2025-04-14 23:45:54
+user_56,Jump in the Fire Demo,Metallica,sadness,joy,1,2025-04-22 20:54:54
+user_56,Merry Christmas and Happy New Year,Martha Wainwright,surprise,surprise,0,2025-05-07 06:37:54
+user_56,Kill Yourself,Timbaland,sadness,sadness,0,2025-04-25 16:02:54
+user_56,Trust Nobody,Ama Lou,surprise,surprise,0,2025-04-14 02:49:54
+user_56,Truest Thoughts,Mavado,surprise,surprise,0,2025-04-24 07:04:54
+user_56,Love,Nancy Adams,love,love,0,2025-04-23 01:32:54
+user_56,Crazy Bitch,Buckcherry,fear,fear,0,2025-04-21 16:00:54
+user_56,Twist of Fate,Olivia Newton-John,surprise,surprise,0,2025-04-24 10:01:54
+user_56,Show Tell,Burna Boy,sadness,sadness,0,2025-04-21 00:08:54
+user_56,Can't Go Back,Fleetwood Mac,fear,fear,0,2025-04-12 23:54:54
+user_56,My Boyfriends Back,The Angels (USA),surprise,surprise,0,2025-04-10 10:09:54
+user_56,Take It To the Heart,Odette,sadness,joy,1,2025-05-04 16:53:54
+user_56,Safe to Say,Aitch,joy,joy,0,2025-04-18 02:00:54
+user_56,Behind Enemy Lines,Demi Lovato,sadness,joy,1,2025-05-09 11:15:54
+user_56,Farewell Angelina,Bob Dylan,sadness,sadness,0,2025-04-27 00:36:54
+user_56,Stuck In Love,(Kim Kyung Hee),surprise,surprise,0,2025-04-29 19:09:54
+user_56,Cold Shoulders,Prateek Kuhad,fear,fear,0,2025-05-02 04:27:54
+user_56,New Bae,VIC MENSA,love,love,0,2025-04-30 15:09:54
+user_56,People Everywhere Still Alive,Khruangbin,joy,joy,0,2025-04-23 21:55:54
+user_56,98 Freestyle,Big L,surprise,surprise,0,2025-04-10 04:42:54
+user_56,Thanksgiving,Benny the Butcher & Harry Fraud,surprise,surprise,0,2025-05-04 01:48:54
+user_56,To Have And To Hold,Don McLean,joy,joy,0,2025-04-23 08:15:54
+user_56,Workout Plan,Kanye West,fear,fear,0,2025-04-19 06:36:54
+user_56,Anymore,Ella Mai,sadness,joy,1,2025-04-15 03:26:54
+user_56,Gone Dead Train,Nazareth,anger,anger,0,2025-05-07 20:51:54
+user_56,My Name Is Liar,Highasakite,surprise,surprise,0,2025-05-03 15:00:54
+user_56,Darlin'i,Vanessa Williams,fear,fear,0,2025-04-09 22:32:54
+user_56,Richest Killers,MTSG,joy,joy,0,2025-05-07 11:44:54

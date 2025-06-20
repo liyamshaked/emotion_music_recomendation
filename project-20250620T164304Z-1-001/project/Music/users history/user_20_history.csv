@@ -1,0 +1,101 @@
+user_id,song_id,artist,mood_before,mood_after,mood_improved,timestamp
+user_20,Gray Duck,Doomtree,joy,joy,0,2025-04-19 13:27:37
+user_20,State Of Grace Acoustic Version Taylors Version,Taylor Swift,joy,joy,0,2025-05-05 04:41:37
+user_20,I Want You To Love Me,Foghat,love,love,0,2025-04-11 02:41:37
+user_20,Offdrugs,Nodis,surprise,surprise,0,2025-04-15 01:32:37
+user_20,Sitting Down Here,Lene Marlin,surprise,surprise,0,2025-05-08 19:52:37
+user_20,Dinner Guest,AJ Tracey,fear,fear,0,2025-04-19 15:24:37
+user_20,Get Back,The Beatles,love,love,0,2025-05-05 18:01:37
+user_20,Traffic Light,Rival,surprise,surprise,0,2025-05-04 02:42:37
+user_20,One Thought Away,Asher Angel,sadness,joy,1,2025-04-22 12:42:37
+user_20,High,Jesper Jenset,joy,joy,0,2025-05-03 17:14:37
+user_20,Hammer to Fall Live Aid,Queen,love,love,0,2025-05-01 19:22:37
+user_20,Wild,Catherine McGrath,sadness,sadness,0,2025-04-21 18:26:37
+user_20,Missing You,Diana Ross,love,love,0,2025-04-27 04:50:37
+user_20,No Way Out,Bullet for My Valentine,sadness,sadness,0,2025-04-28 16:07:37
+user_20,Follow Me,Little Big,sadness,sadness,0,2025-04-16 11:18:37
+user_20,Patiently,Journey,sadness,sadness,0,2025-04-24 02:48:37
+user_20,Love You Like the Movies,Anthem Lights,surprise,surprise,0,2025-04-13 06:24:37
+user_20,Polar Opposites,Modest Mouse,anger,anger,0,2025-04-22 23:11:37
+user_20,Immunity,Complete,fear,fear,0,2025-04-24 02:19:37
+user_20,It's A Man's World,Grateful Dead,surprise,surprise,0,2025-04-30 02:53:37
+user_20,Be Good To Me,G-Unit,anger,joy,1,2025-04-28 07:22:37
+user_20,Lonely Lab Of Broken Hearts,Arrogant Worms,joy,joy,0,2025-04-28 09:33:37
+user_20,Immortals,Fall Out Boy,joy,joy,0,2025-04-14 01:18:37
+user_20,Winterbreak,MUNA,anger,anger,0,2025-04-30 12:56:37
+user_20,Say You Like Me,We the Kings,love,love,0,2025-04-10 12:00:37
+user_20,BG Noise,Cavetown,joy,joy,0,2025-05-04 04:26:37
+user_20,Waves,Young the Giant,joy,joy,0,2025-04-30 18:56:37
+user_20,Rain Love,Peter Cetera,fear,fear,0,2025-05-01 16:22:37
+user_20,Bird Song,Florence + the Machine,fear,fear,0,2025-04-26 04:21:37
+user_20,Come Up,The Game,love,love,0,2025-04-17 02:31:37
+user_20,Ripple Water Shine,Pianos Become the Teeth,surprise,surprise,0,2025-04-25 00:20:37
+user_20,I Don't Wanna Know Why,Kenny Rogers,surprise,surprise,0,2025-04-28 20:35:37
+user_20,Milk Milk Lemonade,Katy Perry,sadness,joy,1,2025-04-16 01:47:37
+user_20,All I Do,Stevie Wonder,sadness,joy,1,2025-04-20 13:11:37
+user_20,Put In Work,Jacquees & Chris Brown,sadness,joy,1,2025-04-13 08:12:37
+user_20,A Mess Happy 4 U,Little Mix,joy,joy,0,2025-04-14 14:14:37
+user_20,Walk All Day With You,Moose Blood,love,love,0,2025-05-02 11:27:37
+user_20,Feeling That Way,Journey,sadness,joy,1,2025-04-21 21:03:37
+user_20,Cabbage Freestyle,Smino,sadness,sadness,0,2025-05-05 20:19:37
+user_20,The Brighter View,To The Wind,sadness,sadness,0,2025-05-04 01:32:37
+user_20,Cannonball,Radio Company,joy,joy,0,2025-04-17 17:23:37
+user_20,No Mercy,Immortal Technique,surprise,surprise,0,2025-05-07 16:30:37
+user_20,$aturn $unrise,$UICIDEBOY$,love,love,0,2025-04-17 23:59:37
+user_20,Flu Hatin Rap,"Rick and Morty, Ryan Elder & Dan Harmon",sadness,sadness,0,2025-04-29 23:35:37
+user_20,Vietnam,$UICIDEBOY$,love,love,0,2025-04-26 11:15:37
+user_20,Give Up the Ghost,Ariana & The Rose,joy,joy,0,2025-04-14 12:41:37
+user_20,Gucci Comin Home,BIA,joy,joy,0,2025-04-10 19:06:37
+user_20,One Night With You,Gino Vannelli,joy,joy,0,2025-04-16 03:42:37
+user_20,I'm A Fool,J Cole,surprise,surprise,0,2025-04-27 23:53:37
+user_20,Promises,Savage Garden,love,love,0,2025-05-08 21:14:37
+user_20,IDK,Woo 2x,joy,joy,0,2025-04-25 12:24:37
+user_20,Zombie Eaters,Faith No More,sadness,joy,1,2025-04-30 20:20:37
+user_20,Cry Of The Wild Goose,Frankie Laine,joy,joy,0,2025-04-20 03:04:37
+user_20,Love Child,"EARTHGANG, J.I.D, 6LACK, Mereba & Jordxn Bryant",surprise,surprise,0,2025-04-22 15:03:37
+user_20,Token Sway in the Morning Freestyle,Sway in the Morning,joy,joy,0,2025-04-27 15:53:37
+user_20,Breadcrumbs,Jacob Lee,joy,joy,0,2025-04-21 07:37:37
+user_20,Im Not a Gentleman,Geto Boys,joy,joy,0,2025-04-24 23:39:37
+user_20,After A Breakup We All Feel This Pain,Gremlin,anger,anger,0,2025-05-07 06:05:37
+user_20,Little Wanderer,Death Cab for Cutie,surprise,surprise,0,2025-04-21 00:33:37
+user_20,The Fall,Imagine Dragons,surprise,surprise,0,2025-04-21 05:43:37
+user_20,Gloria in Excelsis,Gregorian,joy,joy,0,2025-04-17 02:57:37
+user_20,Mystery,Jesse Jo Stark,fear,fear,0,2025-04-16 09:09:37
+user_20,If I Stay,Olly Murs,joy,joy,0,2025-04-15 01:36:37
+user_20,Rasputin,Boney M.,love,love,0,2025-05-08 22:55:37
+user_20,Away In A Manger,Michael W. Smith,joy,joy,0,2025-04-24 12:10:37
+user_20,Murder Rate,Blueface,sadness,sadness,0,2025-04-12 12:35:37
+user_20,Craving,Zach Said,sadness,sadness,0,2025-04-13 03:02:37
+user_20,I Wish I Was Dead,Kno,sadness,sadness,0,2025-04-20 05:54:37
+user_20,Bet Against Me,Watsky,joy,joy,0,2025-05-09 08:21:37
+user_20,Rock 'n Roll Widow,Wishbone Ash,anger,anger,0,2025-04-13 10:07:37
+user_20,25 million,Roddy Ricch,love,love,0,2025-05-03 20:16:37
+user_20,Woman Trouble,Ten Years After,anger,anger,0,2025-04-23 21:20:37
+user_20,Fuel Line,Neil Young,anger,joy,1,2025-05-02 18:05:37
+user_20,My Heart Can't Tell You No,Rod Stewart,joy,joy,0,2025-05-01 04:50:37
+user_20,Walk Man,Tiny Meat Gang,surprise,surprise,0,2025-05-03 08:50:37
+user_20,War Inside My Head,Dream Theater,love,love,0,2025-04-17 02:45:37
+user_20,Work,Offset,joy,joy,0,2025-04-13 16:31:37
+user_20,In My Arms,Erasure,fear,fear,0,2025-04-20 03:55:37
+user_20,Masters of Our Fate,Raekwon,love,love,0,2025-04-30 00:10:37
+user_20,Dear Lord,Thin Lizzy,joy,joy,0,2025-04-13 05:32:37
+user_20,Sweet Little Sheila,Modern Talking,anger,joy,1,2025-05-02 04:25:37
+user_20,Binibini Last Day On Earth,Zack Tabudlo,surprise,surprise,0,2025-04-24 01:19:37
+user_20,Another Tricky Day,Who,joy,joy,0,2025-04-21 17:34:37
+user_20,Trophy Boy,"Avril Lavigne, Ashley Tisdale & G.E.M.",love,love,0,2025-05-08 06:30:37
+user_20,TIMES OF CHANGE,Baker,love,love,0,2025-04-15 17:38:37
+user_20,Oh,Dave Matthews,surprise,surprise,0,2025-04-29 00:57:37
+user_20,Smile,Hocus Pocus,surprise,surprise,0,2025-04-20 15:21:37
+user_20,Crush 'em,Megadeth,sadness,joy,1,2025-04-24 05:33:37
+user_20,"People, People",Dave Matthews Band,fear,fear,0,2025-05-02 23:09:37
+user_20,Familiar Patterns,PUP,anger,anger,0,2025-05-08 06:09:37
+user_20,Blur,Britney Spears,surprise,surprise,0,2025-04-30 17:42:37
+user_20,Better With You in It,MAJOR.,surprise,surprise,0,2025-04-25 22:12:37
+user_20,PG Click,DOM KENNEDY,anger,anger,0,2025-04-24 15:29:37
+user_20,See You Again,Wiz Khalifa,joy,joy,0,2025-04-17 12:14:37
+user_20,JDNT,Glass Animals,anger,anger,0,2025-04-28 03:27:37
+user_20,Seven Series Triplets,Action Bronson,love,love,0,2025-05-01 08:24:37
+user_20,Play Catch Up,Chris Brown,anger,anger,0,2025-05-02 11:34:37
+user_20,L.U.V.,Charlie Puth,love,love,0,2025-04-21 03:19:37
+user_20,I Do,Jacquees,love,love,0,2025-05-05 02:08:37
+user_20,One Step At A Time,Jennifer Lopez,anger,joy,1,2025-05-08 19:43:37
